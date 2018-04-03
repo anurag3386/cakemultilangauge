@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://xyz-pc/svn/astrowow.com"
+   revision="2"
+   last-author="aparmar"
+   url="https://xyz-pc/svn/astrowow.com/astrowow/helper/oauth/google-api/auth"
+   committed-rev="2"
+   kind="dir"
+   committed-date="2013-05-02T09:18:15.217000Z"/>
+<entry
+   name="Google_AssertionCredentials.php"
+   checksum="343218512fe5826d87ce6505472f4a30"
+   last-author="aparmar"
+   text-time="2013-04-10T05:55:22.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2013-05-02T09:18:15.217000Z"
+   prop-time="2013-05-02T07:58:10.000000Z"/>
+<entry
+   name="Google_Auth.php"
+   checksum="15873dc9c390eadbd5da2c0297062d7c"
+   last-author="aparmar"
+   text-time="2013-04-10T05:55:22.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2013-05-02T09:18:15.217000Z"
+   prop-time="2013-05-02T08:01:40.000000Z"/>
+<entry
+   name="Google_AuthNone.php"
+   checksum="093b237c59e2e085a97e664c0ce88ebe"
+   last-author="aparmar"
+   text-time="2013-04-10T05:55:22.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2013-05-02T09:18:15.217000Z"
+   prop-time="2013-05-02T08:01:49.000000Z"/>
+<entry
+   name="Google_LoginTicket.php"
+   checksum="4397ba773564c0c73f32ae118c24b5d2"
+   last-author="aparmar"
+   text-time="2013-04-10T05:55:22.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2013-05-02T09:18:15.217000Z"
+   prop-time="2013-05-02T07:59:26.000000Z"/>
+<entry
+   name="Google_OAuth2.php"
+   checksum="c33660c586f15520ad155ddd46804102"
+   last-author="aparmar"
+   text-time="2013-04-10T05:55:22.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2013-05-02T09:18:15.217000Z"
+   prop-time="2013-05-02T08:06:28.000000Z"/>
+<entry
+   name="Google_P12Signer.php"
+   checksum="e33e570503ed42cf7d25dd6c32d67263"
+   last-author="aparmar"
+   text-time="2013-04-10T05:55:22.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2013-05-02T09:18:15.217000Z"
+   prop-time="2013-05-02T08:07:29.000000Z"/>
+<entry
+   name="Google_PemVerifier.php"
+   checksum="e9fb745bc98981953a270e0374e77e58"
+   last-author="aparmar"
+   text-time="2013-04-10T05:55:22.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2013-05-02T09:18:15.217000Z"
+   prop-time="2013-05-02T08:01:54.000000Z"/>
+<entry
+   name="Google_Signer.php"
+   checksum="b89eb963b836860aa622c2111915e5ac"
+   last-author="aparmar"
+   text-time="2013-04-10T05:55:22.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2013-05-02T09:18:15.217000Z"
+   prop-time="2013-05-02T08:06:44.000000Z"/>
+<entry
+   name="Google_Verifier.php"
+   checksum="08c9de305f4824c6d94d7c40bfe7be58"
+   last-author="aparmar"
+   text-time="2013-04-10T05:55:22.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2013-05-02T09:18:15.217000Z"
+   prop-time="2013-05-02T08:04:47.000000Z"/>
+</wc-entries>

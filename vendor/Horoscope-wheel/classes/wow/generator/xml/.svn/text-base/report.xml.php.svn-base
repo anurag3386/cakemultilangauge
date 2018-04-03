@@ -1,0 +1,402 @@
+<?php
+  /**
+   * @package Generators
+   * @subpackage XML
+   * @author Andy Gray <andy.gray@astro-consulting.co.uk>
+   * @copyright Copyright (c) 2005-2008, Andy Gray
+   */
+
+define('C_XML_PATH','/home/29078/data/log/xmlreport.xml');
+
+class XMLGenerator {
+
+  /**
+   * @param none
+   * @return PDF_Report
+   */		
+  function XMLGenerator( $paper_size='a4' ) {
+    global $logger;
+    $logger->debug("XMLGenerator::XMLGenerator - entering");
+    $logger->debug("XMLGenerator::XMLGenerator - leaving");
+  }
+
+  /**
+   * generateReportHeader
+   * 
+   * generateReportHeader
+   * 
+   * @param none
+   * @return void
+   */
+  function ReportHeader() {
+    global $logger;
+    $logger->debug("XMLGenerator::generateReportHeader");
+  }
+	
+  /**
+   * generateChapterHeader
+   * 
+   * generateChapterHeader
+   * 
+   * @param Integer chapter
+   * @return void
+   */
+  function ChapterHeader( $chapter ) {
+    global $logger;
+    $logger->debug("XMLGenerator::generateChapterHeader, chapter = $chapter");
+  }
+	
+  /**
+   * generateSectionHeader
+   * 
+   * generateSectionHeader
+   * 
+   * @param String subject
+   * @param String connector
+   * @param String object
+   * @param Boolean retrograde
+   * @return void
+   */
+  function SectionHeader( $sIndex, $cIndex, $oIndex, $retrograde, $dynamic_context, $type  ) {
+
+    global $logger;
+    global $top_object1;
+    global $top_connector;
+    global $top_object2;
+
+    $logger->debug("XMLGenerator::generateSectionHeader, ".
+		   "sIndex = $sIndex, cIndex = $cIndex, oIndex = $oIndex, rx = $retrograde, ".
+		   "dynamic_context = $dynamic_context");
+
+    // convert from an index into a String
+    $subject	= $top_object1		[$this->language][ $sIndex ];
+    $connector	= $top_connector	[$this->language][ $cIndex ];
+    $object	= $top_object2		[$this->language][ $oIndex ];
+		
+    /*
+     * All section headers are bookmarked in the table of contents so that
+     * I can cross reference where duplication exists. In all cases the
+     * bookmark should be in ascending planetary order with the exception
+     * of the ascendant which is not cross referenced
+     * 
+     * Dev Note - this needs to take into account the encoding used for
+     * transiting aspects
+     */
+
+    /*
+     * New developer note
+     * - what is the context
+     * --> static (TODO)
+     * ----> can we fit the section header + 1st line here? No, then float
+     * --> dynamic (TODO)
+     * ----> can we fit the section header, subheader, graph and 1st line? No, then float
+     * - need to work out where we are here
+     * --> associate the page number with the section header
+     * ==> $xref[$sIndex][$cIndex][$oIndex]['pno'] = $this->pdf->PageNo()
+     */
+    $logger->debug("XMLGenerator::generateSectionHeader - consider widow/orphan processing");
+	
+    /*
+     * If the subject is the N.Node then we need to pay attention
+     * to the S.Node here.
+     */
+    if( $sIndex == "1010" ) {
+      $logger->debug("XMLGenerator::generateSectionHeader - sIndex is the Node ($sIndex)");
+      /*
+       * select S.Node
+       */
+      $subject2 = $top_object1 [$this->language][ $sIndex+1 ];
+      /*
+       * invert the aspect as the S.Node aspect is relative
+       */
+      switch($cIndex) {
+      case '000':	$cIndex = '180'; break;
+      case '030':	$cIndex = '150'; break;
+      case '045':	$cIndex = '135'; break;
+      case '060':	$cIndex = '120'; break;
+      case '090':	$cIndex = '090'; break;
+      case '120':	$cIndex = '060'; break;
+      case '135':	$cIndex = '045'; break;
+      case '150':	$cIndex = '030'; break;
+      case '180':	$cIndex = '000'; break;
+      case '200':
+	// manage the object
+	switch( substr($oIndex,0,2 ) ) {
+	case '01': /* In Sign */
+	  switch(substr($oIndex,2,2 )) {
+	  case '00': $oIndex = "0106"; break;
+	  case '01': $oIndex = "0107"; break;
+	  case '02': $oIndex = "0108"; break;
+	  case '03': $oIndex = "0109"; break;
+	  case '04': $oIndex = "0110"; break;
+	  case '05': $oIndex = "0111"; break;
+	  case '06': $oIndex = "0100"; break;
+	  case '07': $oIndex = "0101"; break;
+	  case '08': $oIndex = "0102"; break;
+	  case '09': $oIndex = "0103"; break;
+	  case '10': $oIndex = "0104"; break;
+	  case '11': $oIndex = "0105"; break;
+	  }
+	  break;
+	case '00': /* In House */
+	  switch(substr($oIndex,2,2 )) {
+	  case '00': $oIndex = "0006"; break;
+	  case '01': $oIndex = "0007"; break;
+	  case '02': $oIndex = "0008"; break;
+	  case '03': $oIndex = "0009"; break;
+	  case '04': $oIndex = "0010"; break;
+	  case '05': $oIndex = "0011"; break;
+	  case '06': $oIndex = "0000"; break;
+	  case '07': $oIndex = "0001"; break;
+	  case '08': $oIndex = "0002"; break;
+	  case '09': $oIndex = "0003"; break;
+	  case '10': $oIndex = "0004"; break;
+	  case '11': $oIndex = "0005"; break;
+	  }
+	  break;
+	}
+	break;
+      }
+
+      $connector2	= $top_connector [$this->language][ $cIndex ];
+      $object2 = $top_object2 [$this->language][ $oIndex ];
+      if( $type == "y3" || ($type == "pc3" && $dynamic_context == "dynamic" ) ) {
+	$text = "$subject transiting $connector $object, $subject2 $connector2 $object2";
+      } else {
+	$text = "$subject $connector $object, $subject2 $connector2 $object2";
+      }
+      /*
+       * end of S.Node relative aspect 
+       */
+    } else {
+      /*
+       * for all bar S.Node
+       */
+      if( $sIndex != "1011" ) {
+	/*
+	 * TODO: the pc3 report picks up the transiting clause in the natal section
+	 */
+	if( $type == "y3" || ($type == "pc3" && $dynamic_context == "dynamic" )) {
+	  $text = "$subject transiting $connector $object";
+	} else {
+	  $text = "$subject $connector $object";
+	  /*
+	   * for planet in sign only, add retrograde suffix if applicable
+	   */
+	  if( substr($oIndex,0,2) == "01" && $retrograde != '' ) {
+	    $text .= ' Retrograde';
+	  }
+	}
+      } else {
+	//$text = "S.Node is Deprecated";
+	$this->preamble_content = "";
+	$this->preamble_shown = false;
+	return;
+      }
+    }
+
+    /* manage cross reference table */
+    if( $dynamic_context == "static" /* personal, career, pc reports */ ) {
+      $logger->debug("XMLGenerator::generateSectionHeader - XREF mark - " . sprintf("%04d-%03d-%04d", $sIndex, $cIndex, $oIndex));
+      if( $cIndex == "200" /* In */ ) {
+	/*
+	 * ONLY look for planet IN sign or planet IN house for now
+	 */
+	if( empty( $this->pagemark[ sprintf("%04d-%03d-%04d", $sIndex, $cIndex, $oIndex) ] ) ) {
+	  /*
+	   * not registered so record page number
+	   */
+	  $this->pagemark[ sprintf("%04d-%03d-%04d", $sIndex, $cIndex, $oIndex) ] = $this->pdf->PageNo();
+	  $logger->debug("XMLGenerator::generateSectionHeader - XREF mark - this was empty, now set to " . 
+			 $this->pagemark[ sprintf("%04d-%03d-%04d", $sIndex, $cIndex, $oIndex) ]);
+	} else {
+	  /*
+	   * already here no nothing to do
+	   */
+	  $logger->debug("XMLGenerator::generateSectionHeader - XREF mark - this is already set to " . 
+			 $this->pagemark[ sprintf("%04d-%03d-%04d", $sIndex, $cIndex, $oIndex) ]);
+	  $logger->debug("XMLGenerator::generateSectionHeader - XREF mark - setting toc_xref"); 
+	  $this->toc_xref = true;
+	}
+      }
+    } else /* y3 or pc3 reports */ {
+      $logger->debug("XMLGenerator::generateSectionHeader - XREF mark (pc3) - " . sprintf("%04d-%03d-%04d", $sIndex, $cIndex, $oIndex));
+      if( $cIndex == "200" /* In */ ) {
+	/*
+	 * ONLY look for planet IN sign or planet IN house for now
+	 */
+	if( empty( $this->pagemark[ sprintf("%04d-%03d-%04d", $sIndex, $cIndex, $oIndex) ] ) ) {
+	  /*
+	   * not registered so record page number
+	   */
+	  $this->pagemark[ sprintf("%04d-%03d-%04d", $sIndex, $cIndex, $oIndex) ] = $this->pdf->PageNo();
+	  $logger->debug("XMLGenerator::generateSectionHeader - XREF mark [pc3] - this was empty, now set to " . 
+			 $this->pagemark[ sprintf("%04d-%03d-%04d", $sIndex, $cIndex, $oIndex) ]);
+	} else {
+	  /*
+	   * already here no nothing to do
+	   */
+	  $logger->debug("XMLGenerator::generateSectionHeader - XREF mark [pc3] - this is already set to " . 
+			 $this->pagemark[ sprintf("%04d-%03d-%04d", $sIndex, $cIndex, $oIndex) ]);
+	}
+      } else {
+	$this->pagemark_t[ sprintf("%04d-%03d-%04d", $sIndex, $cIndex, $oIndex) ] = $this->pdf->PageNo();
+      }
+    }
+		
+    $this->pdf->MultiCell
+      (
+       $this->pdf->column_width,
+       $this->section_heading_line_height,
+       $text,
+       /* top/bottom border */	$this->section_heading_border,
+       /* align left */		$this->section_heading_align,
+       /* transparent fill */	(($this->section_heading_fill === true) ? 1 : 0)
+       );
+    $logger->debug("XMLGenerator::generateSectionHeader - post MultiCell page = ".$this->pdf->PageNo());
+    $this->pdf->Ln(2);
+
+    $this->preamble_content = "";
+    $this->preamble_shown = false;
+  }
+
+  function SectionSubHead( $start_date, $end_date ) {
+    global $logger;
+    $logger->debug("XMLGenerator::generateSectionSubHead, startdate = $start_date, enddate = $end_date");
+    error_log("<transit>".
+	      "<start>$start_date</start>".
+	      "<end>$end_date</end>".
+	      "</transit>\n",
+	      3,C_XML_PATH);
+  }
+
+  function RetrogradePreamble( $content ) {
+    global $logger;
+    $logger->debug("XMLGenerator::generateRetrogradePreamble");
+    $this->preamble_content .= trim($content);
+  }
+    
+  function AspectStrengthPreamble( $content ) {
+    global $logger;
+    $logger->debug("XMLGenerator::generateAspectStrengthPreamble");
+    $this->preamble_content .= " " . trim($content);
+  }
+    
+  function AspectTypePreamble( $content ) {
+    global $logger;
+    $logger->debug("XMLGenerator::generateAspectTypePreamble");
+    $this->preamble_content .= " " . trim($content);
+  }
+    
+  /**
+   * Generate Section Content
+   * 
+   * Generate the main body of the section content. If this is a planetary
+   * aspect then I add a paragraph containing retrograde text, if applicable,
+   * the aspect strength and the aspect type. For the ascendant, planets and
+   * nodes by sign, house and aspect I include the main section content body.
+   * 
+   * @access private
+   * @param string context
+   * @param string attitude
+   * @param string description
+   * @return void
+   */
+  function SectionContent( $context, $attitude, $description, $preamble_only = false ) {
+    global $logger;
+    $logger->debug("XMLGenerator::generateSectionContent");
+    if( $this->preamble_content != "" && $this->preamble_shown === false ) {
+      $this->Paragraph( trim($this->preamble_content) );
+      $this->preamble_shown = true;
+    }
+    if( $preamble_only === false ) {
+      $this->Attitude( $context . " - " . $attitude );
+      $this->Description( $description );
+    }
+  }
+    
+  function ReportTrailer() {
+    global $logger;
+    $logger->debug("XMLGenerator::generateReportTrailer");
+  }
+
+  function Paragraph( $text ) {
+    global $logger;
+    $logger->debug("XMLGenerator::Paragraph, text = (omitted)");
+    $this->Description($text);
+  }
+
+  function Attitude( $content ) {
+    global $logger;
+    $logger->debug("XMLGenerator::Attitude");
+    error_log("<attitude>$content</attitude>\n",3,C_XML_PATH);
+  }
+
+  function Description( $content ) {
+    global $logger;
+    $logger->debug("XMLGenerator::Description");
+    error_log("<description>$content</description>\n",3,C_XML_PATH);
+  }
+	
+  /**
+   * CrossReference
+   * 
+   * CrossReference
+   * 
+   * @param String content
+   * @return void
+   */
+  function CrossReference( $sIndex, $cIndex, $oIndex, $dynamic_context ) {
+
+    global $logger;
+    global $top_object1;
+    global $top_connector;
+    global $top_object2;
+
+    $logger->debug("XMLGenerator::CrossReference, ".
+		   "XREF set - sIndex = $sIndex, cIndex = $cIndex, oIndex = $oIndex, ".
+		   "dynamic_context = $dynamic_context");
+
+    // convert from an index into a String
+    $subject	= $top_object1		[$this->language][ $sIndex ];
+    $connector	= $top_connector	[$this->language][ $cIndex ];
+    $object	= $top_object2		[$this->language][ $oIndex ];
+
+    if( $this->toc_xref === true ) {
+      $logger->debug("XMLGenerator::CrossReference, XREF set - page number found");
+      $pno = $this->pagemark[ sprintf("%04d-%03d-%04d", $sIndex, $cIndex, $oIndex) ];
+    } else {
+      $logger->debug("XMLGenerator::CrossReference, XREF set - no page number found");
+    }
+
+    $logger->debug("XMLGenerator::CrossReference, pno = $pno");
+
+    /* Tactical - move to language files !!! */
+    $config['en']['xref'] = 'Please read page ';
+    $config['de']['xref'] = 'Bitte liest Seite ';
+    $config['se']['xref'] = 'Behaga lasa sida '; /* hoop required !!! */
+
+    if( $cIndex == '200' ) {
+      $content = $config[ strtolower($this->language) ]['xref'] . $pno . " : $subject $connector $object";
+    } else {
+      if( $sIndex > $oIndex ) {
+	$content = $config[ strtolower($this->language) ]['xref'] . $pno . " : $object $connector $subject";
+      } else {
+	$content = $config[ strtolower($this->language) ]['xref'] . $pno . " : $subject $connector $object";
+      }
+    }
+		
+    $this->Description($content);
+  }
+
+  /**
+   * GetTOC
+   *
+   * Returns the table of contents
+   */
+  function getTOC() {
+    return $this->toc;
+  }
+  };
+
+?>

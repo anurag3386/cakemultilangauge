@@ -1,0 +1,82 @@
+[04/25/2016 6:29 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=180.00, invoice=444498, protection_eligibility=Ineligible, payer_id=V44HQQC9UPFFA, tax=0.00, payment_date=16:28:58 Apr 25, 2016 PDT, payment_status=Completed, charset=windows-1252, first_name=Lisa, mc_fee=7.32, notify_version=3.8, custom=0, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=Au6nZRNQ4BBmF.zgyawuTFg-vU3fAmMdwLNFb7Wp9UOMIAy.g0DgJ7Wa, payer_email=lisa@healinglotus.net, txn_id=6UW66238K1073744U, payment_type=instant, payer_business_name=Healing Lotus Clinic, last_name=Wong, receiver_email=ard@world-of-wisdom.com, payment_fee=7.32, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=First-time consultation, mc_currency=USD, item_number=CONSULT-444498, residence_country=US, handling_amount=0.00, transaction_subject=, payment_gross=180.00, shipping=0.00, ipn_track_id=ccf5d677277f9, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: fb3f88faa03d
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-1.paypal.com
+Date: Mon, 25 Apr 2016 23:29:09 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=0eaAy8X2T2rWW4ZsHWVovB_Ahdi-WfVR-v3It8zoyON6R8JlwvxjEJ7XsDguaFUeoUt8XnhHdr_loDwFgTs9h9vHkG7SkD2nzfHQV_JyrQURmduj9fa_zaFNFgF-K3kV6xKydHsoOJ-SxxR7EOxkpMIeUhdqfWtjYTFcUfS0l2fMe5IIzpplhCwMvTZZuODsWDvVjM9c8zuk2hAO7eaQSuxK3F_jLfbjroENTuwnE9AVyqJlqTNWtBZCH3Zc0KkTYLneJ2uEV6R96g8-c7z4gTxD21jwnSfHBl5lpsVAnUJf6f8n0kxxrSRoFlM44WfHRs6qj23OoClFSBmgDhRoNpvuaZREACVL7YjAU1km0YoTq17E-WRllzw_1XLHRZBykgmDUoaoFE1qT-OfOVRvFcrbsurTy_PNqE-aKJCq0p8XjZ7wVxkQNcB4z1u; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 23-Apr-2026 23:29:09 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 25-Apr-2018 23:29:09 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1168645719%26HTTP_X_PP_AZ_LOCATOR%3D; Expires=Mon, 25 Apr 2016 23:59:09 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.190.8.151.1461626949040858; path=/; expires=Wed, 18-Apr-46 23:29:09 GMT
+Set-Cookie: AKDC=phx-origin-www-1.paypal.com; expires=Mon, 25-Apr-2016 23:59:09 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[07/02/2016 10:51 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=120.00, invoice=453121, protection_eligibility=Ineligible, payer_id=77WVEGBUY436U, payment_date=08:51:42 Jul 02, 2016 PDT, payment_status=Completed, charset=windows-1252, first_name=Subhash, mc_fee=4.88, notify_version=3.8, custom=0, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AKCSjTfp4QkOnuznw4UPaCrHqMybAxdAW-Amp6p6ECRKRUg4vNf7eFji, payer_email=Neospace@me.com, txn_id=0FN53067PF378832T, payment_type=instant, last_name=Desai, receiver_email=ard@world-of-wisdom.com, payment_fee=, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Follow up, mc_currency=GBP, item_number=CONSULT-453121, residence_country=GB, receipt_id=3184-1471-9201-5650, handling_amount=0.00, transaction_subject=, payment_gross=, shipping=0.00, ipn_track_id=1a0f9bba895b9, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: 4f5eda148b0ff
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+Date: Sat, 02 Jul 2016 15:51:57 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=pZkD_58mG0ljOjRz7lz0Zpd1yFq_1mrLW8hazVqRuGA6qAPSP0eoBeRbGE0Io_N3IEKjxe_GGL_z0rOS4fDfKsWbX6_peL0pVaDnrWsGmq_GvV-Z0NumOdJSWAsywOFQby6HSA9r7x9MXNunJKlQftB_hhe0UxUI3zASW8pKWKfA-2Ncbp460I-h9G5aOrIQnAlhYQ3_HuOBMCJ_UTH8evzWUDvyfTS5GwK1lHsKN82mEVEJ_vnZ0xau6mO4hR1UEHEd1QGOroAa1VBUl2Pok_6NfUCg9Xw3ihy7slOz_3P9bK1C17qaMGUvaXcPx3pUtyp2DPUgQjTkTiC-gG5vgQvLU7-Um1P90gUuKvPSBS-shN_wntde7q5oUQYkalFQoianm1XOaytcPW7zxzg3QY-dy3c09usapEeCcGxDmxKB2MTfCwLRvFa8Z5C; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 30-Jun-2026 15:51:56 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 02-Jul-2018 15:51:56 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D484669271%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Sat, 02 Jul 2016 16:21:56 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Sat, 02-Jul-2016 16:21:57 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[07/15/2016 6:27 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=-40.00, invoice=453121, protection_eligibility=Ineligible, payer_id=77WVEGBUY436U, payment_date=04:26:50 Jul 15, 2016 PDT, payment_status=Refunded, charset=windows-1252, first_name=Subhash, mc_fee=-1.56, notify_version=3.8, reason_code=refund, custom=0, business=ard@world-of-wisdom.com, verify_sign=A8guVbPpJyKgG6OZ0CqmZmiSL8.uAgl-dgnXeckq27IZyg0tzxYpplnW, payer_email=Neospace@me.com, parent_txn_id=0FN53067PF378832T, txn_id=4SF42344A86552925, payment_type=instant, last_name=Desai, receiver_email=ard@world-of-wisdom.com, payment_fee=, shipping_discount=0.00, insurance_amount=0.00, receiver_id=VM4HV6HR8W4Z4, item_name=Follow up, discount=0.00, mc_currency=GBP, item_number=CONSULT-453121, residence_country=GB, receipt_id=3184-1471-9201-5650, handling_amount=0.00, shipping_method=Default, transaction_subject=, payment_gross=, shipping=0.00, ipn_track_id=38b92dcbbea56, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: fac30df93f8b9
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-2.paypal.com
+Date: Fri, 15 Jul 2016 11:27:02 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=w-U-2YdTf3M490Qn8KIkWGHIufn_kWi8eixmD3dgeYVZ1B1RgTIgn7aib_jJWpN5Cxq_NN80W1LWqo7VuSJH6OGUiCqdvvC_EptPayciyHU1iYMDZ1vFC4oNY2Sr8W4Imvb5QntuahB655AZAXilA0fDxS0YTpWFI268Qeja0qpi6ecEfhx6qemcapn8NXX_6PaTlzHA3blJBPqJG_GI2FECK_8BVdz6iNz87BOJGYDwt-UAfvneBc2cIdaTDwbmkFFfz3lAwINzg4dUiESpiKrg1CzsJ_zdsOAuWf6toJcYfbFb_LSxHAnTbdj9L1VQB3asScE4hqZpO1FCLUTIrlNtVee3q1J1ayOyp53oksJHlJrHfVbD2lCg1e4hrWC3JSe58_aY2WB45ni8IDC1VApDmXuYO2NUTJ-Gfuf94ErDPMga6VfEAtgVzjG; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 13-Jul-2026 11:27:01 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 15-Jul-2018 11:27:01 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2244511831%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Fri, 15 Jul 2016 11:57:01 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.190.9.196.1468582021260080; path=/; expires=Sun, 08-Jul-46 11:27:01 GMT
+Set-Cookie: AKDC=phx-origin-www-2.paypal.com; expires=Fri, 15-Jul-2016 11:57:02 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+

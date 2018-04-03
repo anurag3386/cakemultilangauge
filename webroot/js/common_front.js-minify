@@ -1,0 +1,72 @@
+var url=window.location.origin+'/';$(document).ready(function(){RESPONSIVEUI.responsiveTabs();$('.freehoroscope_slider').bxSlider({slideWidth:100,minSlides:2,maxSlides:12,slideMargin:0,moveSlides:1,pager:!1,nextText:'<img src="'+url+'images/right-arrow.png" height="25" width="25"/>',prevText:'<img src="'+url+'images/right-left.png" height="25" width="25"/>',onSliderLoad:function(){$("#siteslides").css("visibility","visible")}});$("#frmRegStepOne").validationEngine({promptPosition:"topRight:-100",showOneMessage:!0,autoHidePrompt:!0,autoHideDelay:1000,scrollOffset:250});$("#frmUserDetail").validationEngine({promptPosition:"topRight:-100",showOneMessage:!0,autoHidePrompt:!0,autoHideDelay:3000,scrollOffset:250});$("#frmUserBirthDetail").validationEngine({promptPosition:"topRight:-100",showOneMessage:!0,autoHidePrompt:!0,autoHideDelay:3000,scrollOffset:250});$("#formCalendarSubscription").validationEngine({promptPosition:"topRight:0",showOneMessage:!0,autoHidePrompt:!0,autoHideDelay:3000,scrollOffset:250});$("#frmChangePwd").validationEngine({promptPosition:"topRight:-100",showOneMessage:!0,autoHidePrompt:!0,autoHideDelay:3000,scrollOffset:250});$("#frmUserPersonalDetail").validationEngine({promptPosition:"topRight:-100",showOneMessage:!0,autoHidePrompt:!0,autoHideDelay:3000,scrollOffset:250});$("#customizeReport").validationEngine({promptPosition:"topRight:-100",showOneMessage:!0,autoHidePrompt:!0,autoHideDelay:3000,scrollOffset:250});$('.current-menu-item').removeClass('current-menu-item');$('.current_page_item').removeClass('current_page_item');var currurl=decodeURIComponent(window.location.pathname);if(currurl.indexOf('/sun-signs/index/')>-1)
+{var val=$('li:has(a[href="/sun-signs/free-horoscope"])').addClass('current-menu-item current_page_item')}
+else if(currurl.indexOf('/users/login')>-1||currurl.indexOf('/dk/brugere/logpå')>-1)
+{var val=$('a[href="'+currurl+'"]').addClass('btn btn-red');var val=$('a[href="/users/sign-up"]').removeClass('btn btn-red');var val=$('a[href="/dk/brugere/tilmeld-dig"]').removeClass('btn btn-red')}
+else{var val=$('li:has(a[href="'+currurl+'"])').addClass('current-menu-item current_page_item')}
+$("#frmLogin").validationEngine({promptPosition:"topRight:-100",showOneMessage:!0,autoHidePrompt:!0,autoHideDelay:1000,scrollOffset:250});$("#frmRegStepTwo").validationEngine({promptPosition:"topRight:-100",showOneMessage:!0,autoHidePrompt:!0,autoHideDelay:1000,scrollOffset:250});$("#resetPassword").validationEngine({promptPosition:"topRight:-100",showOneMessage:!0,autoHidePrompt:!0,autoHideDelay:1000,scrollOffset:250});$("#reset_password_token").validationEngine({promptPosition:"topRight:-100",showOneMessage:!0,autoHidePrompt:!0,autoHideDelay:1000,scrollOffset:250});$("#step-1").validationEngine({promptPosition:"topRight:-100",showOneMessage:!0,scrollOffset:200,autoHidePrompt:!0,autoHideDelay:3000});$("#step-2").validationEngine({showOneMessage:!0,autoHidePrompt:!0,autoHideDelay:3000,scrollOffset:250});$(".skype-radio").click(function(){changeConsultationPrice($(this).val(),$('#category_id').val())})
+$("#category_id").change(function(){changeConsultationPrice($('input[name=currency_id]:checked').val(),$(this).val())})
+$('#signup-datepicker').datepicker({autoclose:!0,startView:2,endDate:'+0d',format:'dd/mm/yyyy - DD',forceParse:!1,autoHidePrompt:!0,autoHideDelay:1000,showOneMessage:!0});$('#datepicker').datepicker({autoclose:!0,startView:2,endDate:'+0d',format:'dd/mm/yyyy - DD',forceParse:!1,autoHidePrompt:!0,autoHideDelay:1000,showOneMessage:!0});$('#report-datepicker').datepicker({autoclose:!0,startView:2,endDate:'+0d',format:'dd/mm/yyyy - DD',forceParse:!1,autoHidePrompt:!0,autoHideDelay:1000,showOneMessage:!0});$('#datepicker-1').datepicker({autoclose:!0,startView:2,endDate:'+0d',format:'yyyy/mm/dd - DD',forceParse:!1,autoHidePrompt:!0,autoHideDelay:1000,showOneMessage:!0});$('#person-1').datepicker({autoclose:!0,startView:2,endDate:'+0d',format:'dd/mm/yyyy - DD',forceParse:!1,autoHidePrompt:!0,autoHideDelay:1000,showOneMessage:!0});$('#person-2').datepicker({autoclose:!0,startView:2,endDate:'+0d',format:'dd/mm/yyyy - DD',forceParse:!1,autoHidePrompt:!0,autoHideDelay:1000,showOneMessage:!0});$('#archive-date-picker').datepicker({autoclose:!0,format:'dd/mm/yyyy',forceParse:!1,autoHidePrompt:!0,autoHideDelay:1000,showOneMessage:!0});$('#language').change(function(){$(".language_id").val($(this).val())})
+$('.btn-color').click(function(){$('.btn-color').removeClass('active-color');$(this).addClass('active-color')})
+$("select").addClass('down');$("select").click(function(){$(this).toggleClass('up')});$(".link").click(function(e){e.preventDefault();var title=$(this).data('rel');var faq_title=title.replace(/_/g,' ');$('.content-container div').fadeOut('slow');$('#'+title).fadeIn('slow');$("#faq-title").text(faq_title.toUpperCase()+" FAQ")})})
+$("#accordion").accordion();function selectCity(id,city_id_div,result_div,city_box,val)
+{$('#'+city_id_div).val(id);$("#"+city_box).val(val);$("#"+result_div).hide()}
+function getCities(country_box,city_box,result_div,city_id_div,url)
+{var country=$('#'+country_box).val();var city=$('#'+city_box).val();$("#"+city_id_div).val('');if(city==''){$("#"+result_div).hide();return!1}
+if(country==''){alert('Please Select Country');$('#'+result_div).focus();$('#'+city_box).val('');return!1}
+if(city.length<2){return!1}
+var lastChar=country_box.slice(-1);if(lastChar==1||lastChar==2)
+{$("#loading-"+lastChar).show()}
+else{$("#loading").show()}
+$.ajax({type:"POST",url:url,cache:!1,async:!0,data:{country:country,city:city,city_id_div:city_id_div,result_div:result_div,city_box:city_box},success:function(data){$("#"+result_div).show();$("#"+result_div).html(data);$("#"+city_box).css("background","#FFF");if(lastChar==1||lastChar==2)
+{$("#loading-"+lastChar).hide()}
+else{$("#loading").hide()}},error:function(error){console.log(error)}})}
+function getPrediction(date,sign,language,scope,div,type)
+{$.ajax({url:url+'get-prediction',cache:!1,type:"POST",dataType:'json',async:!1,data:{date:date,sign:sign,language:language,type:type,scope:scope,},success:function(data){if(data!=null)
+{$("#"+div).html(data.prediction)}
+else{console.log('Error')}}})}
+function getPredictionOnClick(field,previous,next,current_date_field,date_val,img_field,img,date,sign,language,scope)
+{$("#"+field).click(function()
+{switch(scope)
+{case 1:scope_name='daily';break;case 2:scope_name='weekly';break;case 3:scope_name='monthly';break;case 4:scope_name='yearly';break;default:scope_name='daily';break}
+$("#"+field).hide();$("#"+next).attr('class','');$('#'+next).addClass('btn btn-red nextBtn');$('#'+next).show();$("#"+previous).attr('class','');$('#'+previous).addClass('btn btn-red prevBtn');$('#'+previous).show();$('#'+current_date_field).html(date_val);$('#'+img_field).html(img);getPrediction(date,sign,language,scope,img_field,scope_name)})}
+function getArchivePrediction(img,sign,language)
+{$('#getPrediction').click(function(){var scope=$('#scope').val();var date=$('#archive-date-picker').val();var div='archive-prediction';date=date.replace(/\//g,'-');if(date=='')
+{alert('Please Select Date');$('#scope').focus();return!1}
+$('#archive-prediction').html(img);switch(scope){case '1':getPrediction(date,sign,language,1,div,'archive');break;case '2':getPrediction(date,sign,language,2,div,'archive');break;case '3':getPrediction(date,sign,language,3,div,'archive');break;case '4':getPrediction(date,sign,language,4,div,'archive');break;default:console.log('Error Occurred')}})}
+function downloadSoftware(link)
+{var i=5;timer=window.setInterval(function(){$('#counter').html(i)
+if(i>0)
+{i--}
+else{window.location=link;clearInterval(timer)}},1000)}
+function changePrice(product_id,currency_id,product_type_id,category,$locale){$('#product_type_id').val(product_type_id);if(product_type_id==6)
+{$('.type').text(' CD');$('#type').val(' CD');if($locale.toLowerCase()=='en_us')
+{$('.btn-text').val('Buy Software CD')}
+else{$('.btn-text').val('Køb Software CD')}
+type='software-cd';$('#delivery_opt').val('2')}
+else if(product_type_id==7)
+{$('.type').text(' Shareware');$('#type').val(' shareware');if($locale.toLowerCase()=='en_us')
+{$('.btn-text').val('Buy/Register shareware')}
+else{$('.btn-text').val('Køb/Register shareware')}
+$('#delivery_opt').val('1');type='shareware'}
+$.post(url+"products/get-product-price",{product:product_id,currency:currency_id,product_type_id:product_type_id},function(result){priceInfo=result.split("-");$('#original_price').html(priceInfo[1].replace(' ',''))
+$('#total_price, #strPrice').html(priceInfo[0].replace(' ',''));$('#price').val(priceInfo[0])});if(category=='software-bundle')
+{$.post(url+"products/get-software-bundle-products-price",{product:product_id,currency:currency_id,product_type_id:product_type_id},function(result){$.each(JSON.parse(result),function(k,v)
+{if(v.discount_total_price==0)
+{$("#bprice"+v.product_id).html(v.currency.symbol+(v.total_price).toFixed(2))}
+else{$("#bprice"+v.product_id).html(v.currency.symbol+(v.discount_total_price).toFixed(2))}
+$("#blink"+v.product_id).attr('href','/products/'+v.product.seo_url+'/'+type+'/'+v.product_id)})})}}
+function changeConsultationPrice(currencyId,categoryId)
+{locale=$('#locale').val();product=$("input[name='consult_product']:checked").val();id=$('input[type=radio][name=consult_product]:checked').attr('id')
+counter=id.split('_').pop();$.post(url+"orders/get-product-price",{category:categoryId,currency:currencyId,locale:locale},function(result){result=JSON.parse(result);for(i=0;i<result.length;i++)
+{if(result.length>2)
+{$("#consultation").show()}
+else{$("#consultation").hide()}
+if(result[i].ProductPrices.discount_total_price==0)
+{$("#checkout-price-"+i).val(result[i].ProductPrices.total_price);$("#spnSymbol_"+i).html('('+result[i].currency.symbol+result[i].ProductPrices.total_price+')')}
+else{$("#checkout-price-"+i).val(result[i].ProductPrices.discount_total_price);$("#spnSymbol_"+i).html('('+result[i].currency.symbol+result[i].ProductPrices.discount_total_price+')')}
+$(".checkout-currency-code").val(result[i].currency.code);$(".checkout-currency-symbol").val(result[i].currency.symbol);$(".checkout-currency-id").val(result[i].currency.id);$("#consult-title-"+i).html(result[i].name);$("#product_name_"+i).val(result[i].name);$("#product_id_"+i).val(result[i].id)}
+setConsultationData(product,counter)})}
+function setConsultationData(product_id,counter)
+{$("#product_id").val(product_id);$("#checkout-price").val($("#checkout-price-"+counter).val());$("#product_name").val($("#product_name_"+counter).val())}
+function hideExtraFields(field1,field2)
+{$('#'+field1).hide();$('#'+field2).val('')}

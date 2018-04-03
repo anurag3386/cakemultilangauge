@@ -1,0 +1,4 @@
+embed, iframe, object, video {
+    display: none;
+    max-width: 100%;
+}

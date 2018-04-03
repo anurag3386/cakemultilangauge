@@ -1,0 +1,312 @@
+
+#footer-widgets { margin-top: 50%; }
+.div-inner { width: 1002px; float: left;}
+.common-content-left { width: 73%; }
+.floatL { float: left; }
+td { color: #c43a5c; }
+.common-box {
+    background: #FFF url(../images/bg-common-box.gif) repeat-x left top;
+    border: 1px solid #d5b5e8;
+    border-radius: 5px;
+    margin: 0 0 15px 0;
+    float: left;
+    width: 100%;
+    margin-top: 3%;
+    margin-left: 10%;
+}
+.margin0 { margin: 0px !important; }
+.box-shadow { box-shadow: 3px 3px 3px #d1b6e1; }
+.common-box-one {
+    float: left;
+    width: 94%;
+    padding: 15px 20px;
+}
+.common-box h2 {
+    font: 18px/24px Georgia, "Times New Roman", Times, serif;
+    color: #c43a5c;
+    text-shadow: 1px 1px 1px #FFF;
+    background: url(../images/border02.gif) repeat-x left bottom;
+    padding: 0 0 10px 50px;
+    position: relative;
+}
+.common-box h2 img {
+    position: absolute;
+    left: 0px;
+    top: 50%;
+	margin-top: -17px;
+}
+.common-content-left .common-box-content {
+    padding: 15px;
+    width: 95%;
+}
+.common-box-content {
+    float: left;
+    text-align: left;
+}
+.accordian {
+    margin: 0px;
+    padding: 0;
+    border: 1px solid #CCC;
+}
+.accordian a.menuitem:first-child { border: none; }
+.accordian a.menuitem {
+    background: url(../images/bg-tab-a.gif) repeat-x left top;
+    width: 98.60%;
+    display: inline-block;
+    position: relative;
+    padding: 10px 0;
+    padding-left: 10px;
+    text-decoration: none;
+    border-top: 1px solid #CCC;
+    color: #000000;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #FFF;
+}
+.accordian .selected {
+    background: url(../images/bg-tab-h.gif) repeat-x left top !important;
+    text-shadow: 1px 1px 1px #FFF;
+    color: #FFF !important;
+    text-shadow: 1px 1px 1px #7d2fac !important;
+}
+.accordian a.menuitem {
+    background: url(../images/bg-tab-a.gif) repeat-x left top;
+    width: 100%;
+    display: inline-block;
+    position: relative;
+    padding: 10px 0;
+    padding-left: 10px;
+    text-decoration: none;
+    border-top: 1px solid #CCC;
+    color: #000000;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #FFF;
+}
+.accordian a.menuitem .statusicon {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    border: none;
+    border-bottom: 1px solid #CCC;
+}
+.accordian-content { margin-top: 10px; }
+.my-account-user-birth-detail {
+    font-size: 13px;
+    color: #844AA3;
+    font-weight: bold;
+}
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+}
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+td, th {
+    display: table-cell;
+    vertical-align: inherit;
+}
+.clear {
+    clear: both;
+    padding: 5px 0;
+}
+label { color: #c43a5c; }
+select#ddYear { width: 70px !important; }
+.my-account-user-birth-detail select {
+    width: 170px;
+    height: 30px;
+    color: #C43A5C;
+}
+option {
+    font-weight: normal;
+    display: block;
+    white-space: pre;
+    min-height: 1.2em;
+    padding: 0px 2px 1px;
+}
+/*select {
+  -webkit-appearance: none;
+  webkit browsers
+  -moz-appearance: none;
+  Firefox 
+  appearance: none;
+  modern browsers 
+  border-radius: 0;
+}*/
+
+.message.success {
+    color: green;
+    font-size: 17px;
+}
+.datepicker {z-index:999999 !important;}
+input[type="text"], input[type="password"], input[type="tel"], input[type="email"], input.text, input.title, textarea, select { color: #c43a5c; }
+
+
+<!-- change password css -->
+.common-box-three {
+    /* float: left; */
+    padding: 15px 20px;
+    width: 96%;
+}
+.sign-up-text {
+    float: left;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: left;
+    width: 180px;
+}
+
+.left_form #tblRecSignUp input[type="text"], input[type="password"] {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #c4c4c4;
+    border-radius: 3px;
+    box-shadow: 2px 2px 2px #e2e2e2 inset;
+    padding: 5px;
+    transition: all 0.25s ease-in-out 0s;
+    width: 200px !important;
+}
+.sign-up-button[type="submit"] {
+    /*background: #c43a5c url("../images/bg-button07.gif") repeat-x scroll left top;*/
+    background-color: #e4165b !important;
+    border:0;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 5px 15px;
+    text-shadow: 1px 1px 1px #6a00ad;
+    text-transform: uppercase;
+    margin-bottom: 1%;
+}
+.error { color: #c43a5c; }
+
+<!-- Add another person CSS -->
+.my-account-user-birth-detail input[type="text"] { color: #844aa3; height: 25px; width: 170px; }
+
+/** 28 NOV 2016 **/
+#astrowell { position:relative; }
+#astrowell .addNew { position:absolute; bottom:-40px; left:0; width:100%; z-index:99999; text-align: center; background:url(../images/add-new.png) 0 no-repeat;}
+#astrowell .wellHeader { background:#e4165b;}
+.inner_bg #astrowell .wellHeader h3 { font-size:20px; }
+
+
+@media (max-width:767px) {
+#footer-widgets { margin-top: 25%; }	
+}
+
+
+
+
+/** Dashboard **/
+#edit_dob { color : #c43a5c; }
+#edit_dob_calendar { position: absolute; margin-left: -5%;}
+#edit_dob_calendar .datepicker { display: block; left: 0; background-color: #e5e5ed;}
+.message.success { color: green; text-align: center; }
+#myPersonalHorospcopeImage { /*height: 73%;*/ width: 100%; overflow: hidden; }
+/*#myPersonalHorospcopeImage img { margin-top: -20%; margin-left: -45% !important; }*/
+#default_wheel { padding-top: 22%; width: 72%; }
+label {width: 40% !important; display: inline !important;}
+.cell.col1 span {width: 55% !important; float: right; padding-top: 5%; height: 30px;}
+.become-customer { padding-right: 20px; }
+.unsubscribe { float: right; font-size: 17px; }
+/*#default_wheel > img { margin-left: -30%; }*/
+/*#transitDateUL { list-style-type: none; margin: 0; padding: 0; background-color: #c43a5c;}*/
+.transitDate { display: inline; margin-left: 5px; margin-right: 5px; cursor: pointer; vertical-align: middle; border-right: 1px solid; padding-right: 10px; font-size: 20px;}
+.transitDate strong { font-size: 24px; font-weight: 400; }
+.calender-new ul li.active { color: #e4165b; }
+#dashboardOrderTable th { border-right: 1px solid #eee; }
+#dashboardOrderTable td { border-right: 1px solid #eee; }
+#subscription {float: right; color: #ffffff; margin-right: 2%; font-size: 15px; font-weight: bold; }
+#astro_page_user { width: 159px !important; }
+.hidemyDiv {display: none;;}
+.pull-right.reportsPagination ul {display: inline;}
+.pull-right.reportsPagination li {display: inline;}
+.tablinks {cursor: pointer;}
+.ui-datepicker {width: 100%;}
+.calender-new {padding: 0px;}
+/*#activeSubscriptionCalendar table.ui-datepicker-calendar tr {height: 60px;}*/
+.entry-content tr td, body.et-pb-preview #main-content .container tr td {padding: 0px; height: 60px; }
+.ui-widget-content a {height: 100%; }
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active {color: #c43a5c; padding-top: 25%; text-align: center;}
+
+
+/** Edit profile **/
+#txtUserEmail { background-color: #ccc; }
+.pull-right.reportsPagination ul {display: inline;}
+.pull-right.reportsPagination li {display: inline;}
+/*.fullpageloader {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999999;
+    background: url('../img/100.gif') 50% 50% no-repeat rgb(249,249,249);
+}*/
+
+
+
+
+/* For responsive table structure */
+@media only screen and (max-width: 800px) {
+    
+    /* Force table to not be like tables anymore */
+    #no-more-tables table, 
+    #no-more-tables thead, 
+    #no-more-tables tbody, 
+    #no-more-tables th, 
+    #no-more-tables td, 
+    #no-more-tables tr { 
+        display: block; 
+    }
+ 
+    /* Hide table headers (but not display: none;, for accessibility) */
+    #no-more-tables thead tr { 
+        position: absolute;
+        top: -9999px;
+        left: -9999px;
+    }
+ 
+    #no-more-tables tr { border: 1px solid #ccc; }
+ 
+    #no-more-tables td { 
+        /* Behave  like a "row" */
+        border: none;
+        border-bottom: 1px solid #eee; 
+        position: relative;
+        padding-left: 50%; 
+        white-space: normal;
+        text-align:left;
+    }
+ 
+    #no-more-tables td:before { 
+        /* Now like a table header */
+        position: absolute;
+        /* Top/left values mimic padding */
+        top: 6px;
+        left: 6px;
+        width: 45%; 
+        padding-right: 10px; 
+        white-space: nowrap;
+        text-align:left;
+        font-weight: bold;
+    }
+ 
+    /*
+    Label the data
+    */
+    #no-more-tables td:before { content: attr(data-title); }
+	.purchasedReports #no-more-tables td{padding-left: 50% !important;}
+	
+	
+
+}
+/* END */

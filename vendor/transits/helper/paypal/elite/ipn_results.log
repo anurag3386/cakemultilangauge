@@ -1,0 +1,1678 @@
+[07/06/2014 8:27 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=60050, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=18:27:10 Jul 06, 2014 PDT, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=celestialcharts@gmail.com|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AH1pol-O9H-rvd9mM0ld1W1mHNV0AtYyWuvvVzFTJKLFrd4oDKpzQSIc, payer_email=celestialcharts@gmail.com, txn_id=36V28003HU396554T, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-60050, residence_country=CA, handling_amount=0.00, transaction_subject=celestialcharts@gmail.com|en, payment_gross=10.00, shipping=0.00, ipn_track_id=45d26f4434c05, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=14400
+Strict-Transport-Security: max-age=14400
+Content-Type: text/html; charset=UTF-8
+DC: slc-a-origin-www-2.paypal.com
+Date: Mon, 07 Jul 2014 01:27:22 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=10AQDC2IoFp9_YBO6HNxWr6kSUNntzi6DNvW9IeaR61pfixRvU5unB1Lq7gPRHoQZsg6WjyfZi94sYSPtwSHVZxxRpj6Bi64tysPCAXDuTQiWzNoZUv7nE4PQeaCl7OQTXNP6ZPZjLcq7bZj8s2qnqM-rKbweRfrYDV94LMFHcAxWiLy3KVzK8RPUalV4KDLul-CpKIfN-ox31xC97b9dldn5LPbyAm1v3jWHkhpeKET5pEzX6iR71Ey2v8iESnN6IeRGDjrrzhAnvs2FbnETfOgWx_0pU1aaFojF1vLrgcCb7ik24BvD-6IIs9Ddsu8bIAWA02pQU6R63deJbsJ1ViS-Ecik9OR31mE-vZe9qBlDuxcJxOeX0Af9fi2M0C5D8bXWS0TDrOuot1Z77gMXFabFWOoQCYr4wkGjDSgy_8ZP7YvB2bTh8ORAlm; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 04-Jul-2024 01:27:22 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 06-Jul-2016 01:27:22 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.134.1404696442504292; path=/; expires=Wed, 29-Jun-44 01:27:22 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D2063055187; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.73.8.64.1404696442494919; path=/; expires=Wed, 29-Jun-44 01:27:22 GMT
+Set-Cookie: AKDC=slc-a-origin-www-2.paypal.com; expires=Mon, 07-Jul-2014 01:57:22 GMT; path=/; secure
+
+VERIFIED
+
+[09/21/2014 5:26 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=63727, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=15:26:14 Sep 21, 2014 PDT, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AHxv8ryWel7sjrobqHJs9xKSih93AId1uMWtYCkc5I76IrzIhuLfS6T7, payer_email=celestialcharts@gmail.com, txn_id=61W11382K1577534U, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-63727, residence_country=CA, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=827078a9ccf10, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+Date: Sun, 21 Sep 2014 22:26:27 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=LjN28YCu6wuwZelh1z_HtQgrDxUV0Tb-brdGfqAugvlIynioIlI611cRfCCXpXmU6163RnsEM0OJOXOmLRxwR59nsYYhdTjGQIzb7fBXF7jXbpNAVHDWVJN1KQJd0HQmrE2JE5Oo1gQGrg41AoVY-ysSCfQPTj82MVj0-FWhJiQcU6_XfYGCej4oi2Pm-AWdpWiOUJyP9M9Ad1aPbkdl1BDBHJBCQpYe3OUZvIicO-lWDk3uIxv18vSzv5z3A_gRqlzx4qR_IUCt6XHz-ZR11VCyLDJ6N3ZX_gcAJeXz2qjOHq2IFSX6_VYjl1ZoXYYi6_2rZQxkTzrV90Y7iGzb-0jvJCqq0FPcl8e8Y0SqpKQIBQ3WfPYfHhjT5elllNovZInQ-9quP_rJh_7McY35buJFlsX6PsNf-zmgOSIe-hjMdq4eBEelBvixR2C; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 18-Sep-2024 22:26:27 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 20-Sep-2016 22:26:27 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.137.1411338386949201; path=/; expires=Tue, 13-Sep-44 22:26:26 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D2454724436; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.74.8.43.1411338386934909; path=/; expires=Tue, 13-Sep-44 22:26:26 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Sun, 21-Sep-2014 22:56:27 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[10/03/2014 7:47 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=64338, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=17:46:58 Oct 03, 2014 PDT, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AxMyfkVAbhbjg1EAlWF3kKWvLp5FAmz4plcYEL.GwrCx8AAutRR5PR7d, payer_email=celestialcharts@gmail.com, txn_id=9K549570PM258810L, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-64338, residence_country=CA, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=4e1cc34fcb3e8, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+DC: slc-a-origin-www-1.paypal.com
+Date: Sat, 04 Oct 2014 00:47:03 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=GBCYTKdo4QdX2j73z8XM-J01HkmGu_KGhtSRJ2lpK38S9e5xHysh32hPT44GM0CjeD-WD9-4t9KjOoxilB1mc5RHOQCp1nnoHz4-woZ0IXltAG5MjQSW8Mcd6_LI7YL5eUfq1uguqkNiLVjlCL1ebb5cC6pHrrr5TPnGcybsHXYLhhL8Qzfbe4WebEEqQSWgAQnBqbyQFMNJSDh4Hf9V2HGkhinJPiyCqLa_d8jDrsaHMmI1E3dCaCLP59Np5V2zhQtJ5HvvKWmLSmZ9Gk9w4KO9-VJknR2CPs1ZO2O1VbY9ocl4BxmyLozg6CMYcBLuZBVLgg8uXjA2-pMKhH4HmY0aCTdNOSmHdFJAVZQz29E3hJnDHy8CN3SjmLY_L7lPO_XXK_i5AaO_sQlh5OY4CDyC1Dn5S1xOO7df0fCNlWJZmSX4Mye74r9Km_i; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 01-Oct-2024 00:47:02 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 03-Oct-2016 00:47:02 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.134.1412383622625718; path=/; expires=Mon, 26-Sep-44 00:47:02 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D2252549972; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.73.8.45.1412383622615924; path=/; expires=Mon, 26-Sep-44 00:47:02 GMT
+Set-Cookie: AKDC=slc-a-origin-www-1.paypal.com; expires=Sat, 04-Oct-2014 01:17:03 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[11/08/2014 12:00 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=65455, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=09:59:47 Nov 08, 2014 PST, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=A8SKEyFJtpw0I2pUVRQ9wRhpVLh9AIPsMk90aUkxKH2.La2.sHN1T0PV, payer_email=celestialcharts@gmail.com, txn_id=8DP65824P68584434, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-65455, residence_country=CA, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=c94cf85157b0e, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+DC: slc-origin-www.paypal.com
+Date: Sat, 08 Nov 2014 18:00:19 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=YgHs8D4CWBPVcsxKWYQwHx1HtWrj6toN-nDCRl8-E2Xz3oMWJK1cf7i6sLwqHf31PkI9tDTj89ayOtiCkH9Ng5RJBpkIFqNCZTYIdiNGB1j4IDRdnco1A_EhsPPe1xNGcsBpEdv-9irm2uULNRAF2llbhtfZZgpu9gKY4fGeQgpa4amzqi54OulqWXcYvLw2qHBvOyAU4_n7WJUQc29NePDIcvy49mq73guCB_ndZIKNImpwr4qU-fnlPcZGdzx8aE-IZyAqOKuc3xlA27QjRwjJugnXfuLu2W5XDz_mty-M2WmIA_IyXuGpLr94YcorvA5GsgLO2-3kk5xKsOJs2IkNa_ZPE-doHOO6FZw2Y4UQAXCpu5pefqhva4veHma0i1P5avSZoXC77_X3SP5wB5LHjh3ufzLUfDVTS-G8z_KkM8CekSv_Of7un7K; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 05-Nov-2024 18:00:19 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 07-Nov-2016 18:00:19 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.14.1415469618377818; path=/; expires=Mon, 31-Oct-44 18:00:18 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D844783188; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.0.11.1415469618371541; path=/; expires=Mon, 31-Oct-44 18:00:18 GMT
+Set-Cookie: AKDC=slc-origin-www.paypal.com; expires=Sat, 08-Nov-2014 18:30:19 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[11/11/2014 11:25 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=65529, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=09:25:27 Nov 11, 2014 PST, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=Au1Mgu7eAXYpudwKCguvhQxkYUiyA2pd.O03kTgl.SaK-j5MbjOjhJBX, payer_email=celestialcharts@gmail.com, txn_id=36G56713DX3658909, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-65529, residence_country=CA, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=deafbb9ae9103, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+DC: slc-origin-www.paypal.com
+Date: Tue, 11 Nov 2014 17:25:48 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=vH8juNjUrnfbHXihGfvwdcejMBairqEOlO4amiylAFMcWyOVkBx7jMvJPyB14bJdonocD_0FZgyEaL0FKW-4cH0dngImTeBcbr_e3vJzEEZvtfuTLuA9i5Z3rM1ptVq4wSJy48tREJ7A6w3-EsgqTyhAAH10_K_49SDuM73fKkRrg8CSvCRKjcFSqZMLyaRIuLgxzyD-OJxKat-qMrlk7EH1w3mR24sSGKlw5rw0j6DSXbRaHfI8NDV0U6_rvcl8r5zcOSW1SgVP4UmIo0i-sehOUacv5ltlv9r-I7KTjKuu_T2PqKnA1bbEo0sEF3m0Mm2WNLCjJGvpKA_6qPD2FQlkjbjHzqSsWXjeLUcBudmWjo6O7El2QV3GsizcdBy7SiJBLJjO613ORp1Z2TQsXPlr-3YQGg3n6ihVchdn21dDoqEOdnpdrBQFhUu; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 08-Nov-2024 17:25:48 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 10-Nov-2016 17:25:48 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.14.1415726748042396; path=/; expires=Thu, 03-Nov-44 17:25:48 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D2621858388; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.0.11.1415726748037156; path=/; expires=Thu, 03-Nov-44 17:25:48 GMT
+Set-Cookie: AKDC=slc-origin-www.paypal.com; expires=Tue, 11-Nov-2014 17:55:48 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[11/17/2014 5:10 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+transaction_subject=mcherot@shaw.ca|en, payment_date=03:09:35 Nov 17, 2014 PST, last_name=Cherot, residence_country=CA, item_name=Character and destiny report, payment_gross=-10.00, mc_currency=USD, business=ard@world-of-wisdom.com, payment_type=instant, protection_eligibility=Ineligible, verify_sign=AOhv37Ek6itTAOUbJIggFaAfJtpYAP6vJUbqSgHI.WrCCyhPhx6rEygz, payer_email=celestialcharts@gmail.com, txn_id=50K603303E463814S, receiver_email=ard@world-of-wisdom.com, first_name=Michele, parent_txn_id=8DP65824P68584434, invoice=65455, payer_id=TQEYX5NSS3UMJ, receiver_id=VM4HV6HR8W4Z4, reason_code=refund, item_number=AWRP-65455, handling_amount=0.00, payment_status=Refunded, payment_fee=-0.39, mc_fee=-0.39, shipping=0.00, mc_gross=-10.00, custom=mcherot@shaw.ca|en, charset=windows-1252, notify_version=3.8, ipn_track_id=342ee1e629983, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+DC: slc-a-origin-www-2.paypal.com
+Date: Mon, 17 Nov 2014 11:10:02 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=mV5sMVFNjylVMx8UyZJke0ZaMolXwcnBv-DdZ5mAFiCiAcCTpPDfckhBppd_qicmzftj748ceZxdRrWCmS8q0G9lKQ6TPcni0A6A-3bALLhRkv2M8KiuAx-DIAP1INXlkddVM7RgL6geSQAMBOeqQKe1t08RBlnJIJ-OBKKTQi4z6VQ8ui7Z8t0RYycNr_VCwP0UecKUhBnDNwjrYWHtS317PMfpHXBHTpY5y2RNzoVFiXAiANfWXZnngAjumrINCkG6GbzTwpCMUtg7G5495cbv5-GAB5Xs_G4a-tjaxnSoidIyI9eU3AUPaJ5dhkswWK2Vx4HopvYA1VYoxDZqTsdQsiqDxC5SVbLKEVPl1gUvhaGzMFCzZKx2utq3vd-vI4fxIXeFvOBJcFnPwTcrlP5Bj84jteGIW7pA7ovYd-Iqnw4JUtD5qWGkxj8; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 14-Nov-2024 11:10:02 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 16-Nov-2016 11:10:02 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.134.1416222602017740; path=/; expires=Wed, 09-Nov-44 11:10:02 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D2329373012; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.73.8.53.1416222602006939; path=/; expires=Wed, 09-Nov-44 11:10:02 GMT
+Set-Cookie: AKDC=slc-a-origin-www-2.paypal.com; expires=Mon, 17-Nov-2014 11:40:02 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[11/18/2014 3:59 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+transaction_subject=mcherot@shaw.ca|en, payment_date=01:59:34 Nov 18, 2014 PST, last_name=Cherot, residence_country=CA, item_name=Character and destiny report, payment_gross=-10.00, mc_currency=USD, business=ard@world-of-wisdom.com, payment_type=instant, protection_eligibility=Ineligible, verify_sign=ATOwmFugiV5w7zYaJ0M7DizFlZzMAe0wWs28v0prEwD3qgni2ztPGLKv, payer_email=celestialcharts@gmail.com, txn_id=9F006248N8263245K, receiver_email=ard@world-of-wisdom.com, first_name=Michele, parent_txn_id=36G56713DX3658909, invoice=65529, payer_id=TQEYX5NSS3UMJ, receiver_id=VM4HV6HR8W4Z4, reason_code=refund, item_number=AWRP-65529, handling_amount=0.00, payment_status=Refunded, payment_fee=-0.39, mc_fee=-0.39, shipping=0.00, mc_gross=-10.00, custom=mcherot@shaw.ca|en, charset=windows-1252, notify_version=3.8, ipn_track_id=ad736bd9a22fa, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+DC: slc-origin-www.paypal.com
+Date: Tue, 18 Nov 2014 09:59:41 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=cgcuRjFKvE8xgzt6zSFfC2GolHhpE4oKCsLMMu5jksw3PkAjQrchsm1-gd4GxybjOT8YtoXI2VHTMFOOlWBT2ztt9vTIsCgY23_xQJ2kngZZ_OtHQ2gOsDc6HaTw1yh8i8v4iJxRVsMKUAO2IWEFds-tGT6Y9yTRy9cQXT6mMlnqEjcT2iu4HJJSIGEg54OFgjnoNTdsXnDhoyXY3tl6QUUiZqLy9YIjyJOmth_tokKrJRV40z4PzCLaAjeBmP0My3QsiNURDuJm81IutpYM3-qvl6gLBFVoPXFLF3dro4numV-b6XJEI_s82nVtura3kFhRarF5FPGyhMswjQb3kjsN2p-Nn6iUmcJTtGGwgiP1XXGwj97lONis2aFKyGJYmsqy9RT9DomVy3rkJc_W92ZsHFvZ7Wt6jMk-LYfuhUGhW4D6jLnKORSBUcO; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 15-Nov-2024 09:59:41 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 17-Nov-2016 09:59:41 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.14.1416304781237443; path=/; expires=Thu, 10-Nov-44 09:59:41 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D2367187796; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.0.11.1416304781231588; path=/; expires=Thu, 10-Nov-44 09:59:41 GMT
+Set-Cookie: AKDC=slc-origin-www.paypal.com; expires=Tue, 18-Nov-2014 10:29:41 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[11/24/2014 1:44 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=65833, protection_eligibility=Ineligible, payer_id=V747D3DK76G76, tax=0.00, payment_date=11:43:59 Nov 24, 2014 PST, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AAjgpFMc22TbxGEPhBkTdDCfIdQ2Axb8RdG01DxePvBhujCnDHycniK6, payer_email=mcherot@communityskillscentre.com, txn_id=75B68516CY6482257, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-65833, residence_country=CA, receipt_id=1026-5507-6406-1521, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=a54dbc71e8cce, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+Date: Mon, 24 Nov 2014 19:44:14 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=GVeN3ZQThEex5vtvQWJ9K806_7dWFkWjjPapKgZUCofP7smrWFOPJiGle5WS4q5f2HoKIp-tOYmZP6AXbBL-VW-FfonaCaeV6r7usxgdRqezTPb0pfjmE1uhRlj5Z_q23WoAdH8spVqxKrFRvc3oBssQB6ug96QRSSHuz_kjAcJcORlxp9n5PCRo8DvXi4RIzUUjRr8EKiVXeWBVrvULbyTCH_HOLvTmubK2CRoQP5pHV9OFauLH0qtjrMjoLgEhwoz45-GbS-zDq2gYF2bK75Y2w3wsWmLfvI2HnW7Zw8ErPZbN7R-rApBHFrgAt92lBFJJV6I4vKyQ1n2tCUfr6h4qXBvBBG4yym-IotmU_wU8R7y9YlpDg8dk3NRK7ze1W83s6pT4wjXXXwu8j25tNoMn18s3tjuLDbazVFnQpd1sOpOGzU9HQb8d6QK; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 21-Nov-2024 19:44:13 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 23-Nov-2016 19:44:13 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.137.1416858253522565; path=/; expires=Wed, 16-Nov-44 19:44:13 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D2374660948; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.74.8.52.1416858253512216; path=/; expires=Wed, 16-Nov-44 19:44:13 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Mon, 24-Nov-2014 20:14:14 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[11/25/2014 7:20 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=65846, protection_eligibility=Ineligible, payer_id=V747D3DK76G76, tax=0.00, payment_date=17:19:58 Nov 25, 2014 PST, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=A1aC23apJ5bec4G3f0UXbiXtkuJxAE..ayzvjiL.ClrIcy6vQdCyAY-i, payer_email=mcherot@shaw.ca, txn_id=8KL19292VH301335C, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-65846, residence_country=CA, receipt_id=2686-8422-0653-0265, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=6ace53c7578a2, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+Date: Wed, 26 Nov 2014 01:20:16 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=q2WlnqKg3CDvtdRuVA1juvKY7G3nm2IEccCGVPfqNehwyoA_FBUIiFZrDB2yCM4ZtVuvFR_9ILbzk-rA09jWcIVFMmPiy8Gf0N6gPsy6HONc6Ac9cg5kEAKgll9mDKcdCRz0Z_5d_PV0zPeVh1JczcvcsYr-2VGPLhbslDfO4Ue-XGmRs824rhKEKwXGC06wqIG1ZeZaIcNhtiZD1qM7rgolGi1kudBqeWiw3Omib1voOXv8qe_MzdAE_-vr069d2JUyGY7L9a5TzWbqpuGp6CiIoxYQMohqosHAoHDhGHnv2X959f1J4IOOqLqCoBppAa_ipzAxyrwKFQ082T3l_JJrfiKLGAqsF0cXrf4j6YMMsfxdmMSljQaiEeyPop8xbbduzrpuP_HZnKjdLo0kF9uI-wMNWWnRntwurg8cmIQIcWj6TGbI3L88mie; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 23-Nov-2024 01:20:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 25-Nov-2016 01:20:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.137.1416964816081462; path=/; expires=Fri, 18-Nov-44 01:20:16 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D3492443476; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.74.8.43.1416964816071349; path=/; expires=Fri, 18-Nov-44 01:20:16 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Wed, 26-Nov-2014 01:50:16 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[11/25/2014 7:24 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=65847, protection_eligibility=Ineligible, payer_id=V747D3DK76G76, tax=0.00, payment_date=17:23:53 Nov 25, 2014 PST, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AIVAvTvnAoaUdix7IhNvxo8uCr7VA7oG3vQNg.D93giUk5txDurmoX93, payer_email=mcherot@shaw.ca, txn_id=8J853309HX5531644, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-65847, residence_country=CA, receipt_id=0557-9010-0829-8479, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=878b6d91ab042, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+DC: slc-origin-www.paypal.com
+Date: Wed, 26 Nov 2014 01:24:08 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=pAbcjzhz63oU7JQWbCF-h3q0m-jPwnUVvFzpGxyBxmFoh9oibwoHpkI3fPQi-rFEb8RspY6cj_ndCk0-Kdu-RCtlOiFIqRZD9yP0G8vFo5eopX4yo7Hjumw-BkZMpt32H3KN5BgxmCe-tjW9WupopyGCIxIveir8QJOszbcBp2eVo9IYdMFY0dsFl3yq38Eyq_k2ppw8AqPavC1ooiZURVf0N5EBjm0UTYDFMegwSFAjUkseWogoW_4P6jfeNoJ9OAkJpdUWu0a-buYJI7JmRPn2XfcefX2IDzPfZgBTrzu7tDNPgSQw7HeBmdb4-prGcnvyJtdRZIAkK7Rzu1dO66h8QBmfk2uS4EQvpnV50Kdt8l5UAFA1LnPPP6yushPrQ23EX2phYNoA61EzqQKiqU9WYVmP80aOogxPfMbujxqIQPhGRXQkvlY00Se; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 23-Nov-2024 01:24:08 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 25-Nov-2016 01:24:08 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.14.1416965047842509; path=/; expires=Fri, 18-Nov-44 01:24:07 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D3073078612; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.0.11.1416965047836488; path=/; expires=Fri, 18-Nov-44 01:24:07 GMT
+Set-Cookie: AKDC=slc-origin-www.paypal.com; expires=Wed, 26-Nov-2014 01:54:08 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[12/01/2014 6:55 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=65939, protection_eligibility=Ineligible, payer_id=V747D3DK76G76, tax=0.00, payment_date=16:54:45 Dec 01, 2014 PST, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=A4EeACzJ7-k0EumhgeCbJkkgrJkGAqF2DHtug5L06hfmZqmIVpVHxCuD, payer_email=mcherot@shaw.ca, txn_id=5KJ352367H0173827, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-65939, residence_country=CA, receipt_id=2271-7537-9472-7653, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=5e62c23c2bbd7, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+DC: slc-a-origin-www-2.paypal.com
+Date: Tue, 02 Dec 2014 00:55:24 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=KNAqt3PUOXtz-LzD95pSdbLdHFFXjD1H1xiNJ2pm3AAM60hkLZTZVL8PxY_kP-SfKvobwhU6W3b3rIhdIy0Xk1LJz4gxRs6R8V3E_94f2Hshyqrbx0yygYEh3yLw9waPhCTZeVAaE7d50stuU6zKvGTnr6TjYJ6SwxIi9kmnOMEAEi4MfxH4xnbyHbZAmaxLPiDhUvafbyUpRIo1cqpMY5xP0NoAxdgSXSOeZwc8-jsxfRRWfJrmRdFYp_RIpMaI7F7YZ-Mf7GNVoZ9HHg7s2sutVsTcgKKp09KXZJ6BOuPQKgVvGVrs6ANVwOCLM1BpTlco_bzpFuDqeBi33_ne5ci-5s6yAfLlOdfI4CjZKA8Jr-QgvbzZVsMTuxFdwUaBZdmBFwRctqhBPFMw8vJlNcRZr_bWdwVFxDK7fEjJd7KbGcZ57m5I-gQl4EW; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 29-Nov-2024 00:55:24 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 01-Dec-2016 00:55:24 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.134.1417481724436148; path=/; expires=Thu, 24-Nov-44 00:55:24 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D4228742484; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.73.8.52.1417481724424467; path=/; expires=Thu, 24-Nov-44 00:55:24 GMT
+Set-Cookie: AKDC=slc-a-origin-www-2.paypal.com; expires=Tue, 02-Dec-2014 01:25:24 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[12/01/2014 7:01 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=65940, protection_eligibility=Ineligible, payer_id=V747D3DK76G76, tax=0.00, payment_date=17:00:46 Dec 01, 2014 PST, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=A3.50JaBLief33ZY1s5.uNuaFH5RAqadiucZx37kcPW.qm3VscZh2d67, payer_email=mcherot@shaw.ca, txn_id=3X346726UA379143T, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-65940, residence_country=CA, receipt_id=3401-5827-7370-8595, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=42206994e31e6, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+Date: Tue, 02 Dec 2014 01:01:25 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=feBCn1VCPNpEWtX6tS3YsBj7HCrTfVvqfQ6ovW-1si3mmvCpkDzIhQyPOJ1m3Jw0qwJUI4ymHItwAzb18Qrvk2_0QQ92qtHpwZgkmjHgU5N-XL7LpBWRqhbYhQwegIKudZILK5oYRsB7-4QPDRV06a-Y5MOuTQAy-jh3oAkCwaFlwGqMrDsM98Q2CXtH_NYpO10BfvDM-c4zSku6-DeHcha2ii-BQ5oX60i8JMVpk_nJMRwbAsxYybj5Fi45UfSXaKtwMzh0bzitVykiL7M9eynNB-VBC7sg9dxz_esiP-qiE9frxrKuLxYMfX0KcEqGrT2itRCOzXi4gi6krk6J4dQgnUB2ddwkgCh5RyBmQ_Z2gUn_-LpIash67MoxKEvo9sVjLlQkff1NPSyTNE71SAgLNovszWBeeL7v50sIG-l4IhnAuqpiw8JypkG; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 29-Nov-2024 01:01:25 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 01-Dec-2016 01:01:25 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.137.1417482084887117; path=/; expires=Thu, 24-Nov-44 01:01:24 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D1678736724; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.74.8.53.1417482084876340; path=/; expires=Thu, 24-Nov-44 01:01:24 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Tue, 02-Dec-2014 01:31:25 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[12/27/2014 10:59 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=245.00, invoice=24, protection_eligibility=Ineligible, payer_id=NXFRAP6H8K5PS, tax=0.00, payment_date=10:59:11 Dec 27, 2014 PST, payment_status=Completed, charset=windows-1252, first_name=Maria, mc_fee=9.86, notify_version=3.8, custom=10134|en, payer_status=verified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AiN7xUgZLG2UWqr5hSWxl9WoQNWOAmvqytWT8XkAtIDWh4wZEqPRxTLH, payer_email=nymphonix@aol.com, txn_id=1WM068155T221484K, payment_type=instant, last_name=Martin, receiver_email=ard@world-of-wisdom.com, payment_fee=9.86, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Elite Customer subscription, mc_currency=USD, item_number=AWELITE, residence_country=US, handling_amount=0.00, transaction_subject=10134|en, payment_gross=245.00, shipping=0.00, ipn_track_id=73bea1f8481d0, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+DC: slc-a-origin-www-1.paypal.com
+Date: Sat, 27 Dec 2014 18:59:22 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=9OD7tJ_zbbJBNK33Od9Szjd8fI8hrRRG3vtlmR58ihuju9dqdRHAXI7nBnGnLSJLxdEMOBCtRm4t1a0mxLNBEGTtiCQbsfjQ71PdChKbVAB_sAVJ-qLcGHNEKBS3X7_Z2ycQQs9hqWnYzKQwbbc0ZLKMje88oe4cV3euTTyh-93xD1PrcBnm7qmHKGLyzvs7IXx0FgEyyXLRETntnwuOTWvV-KIu-iOINvNSLopF0XBLhmfTBNDlWM88F5aWHBsKYleAFg1fJUdc_6Eb1pDBLzRJkLDLVYWJZNhAb57CLFp96cfcHrrgEDzINmHyMyrPJIb-DncNPADZjrjHxKDtZjAeoZjwSzyD4zO6nWjRPuZdOO4wAwlvZcL_y_P17b9MyNImXQEMHPTj4NMBFlhXTKNq7-QTuY1wqrctZpWInvwKTn4O0THFyC3tWLi; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 24-Dec-2024 18:59:22 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 26-Dec-2016 18:59:22 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.134.1419706761832948; path=/; expires=Mon, 19-Dec-44 18:59:21 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D2298584916; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.73.8.49.1419706761821970; path=/; expires=Mon, 19-Dec-44 18:59:21 GMT
+Set-Cookie: AKDC=slc-a-origin-www-1.paypal.com; expires=Sat, 27-Dec-2014 19:29:22 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[01/11/2015 4:42 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=75002, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=14:42:00 Jan 11, 2015 PST, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AXl15mWr.PGF-aZheGpZoLwRHc3cAyBaBeFOGrfQQKs4sFfIN.5-nj8V, payer_email=celestialcharts@gmail.com, txn_id=35N99619CN304710N, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-75002, residence_country=CA, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=9057bc92ddb29, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+DC: slc-a-origin-www-1.paypal.com
+Date: Sun, 11 Jan 2015 22:42:14 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=aDbrN4NLtTSedKHB7BUemA6VDsN7A_LQeRDIUTuLHe4tflNSSGfJTzf2-9ioi7d-yeZgps6jvD3M67OTy3ANoy-GjprHMXzlodgzQR3SlLP4tqdfe92yWbbA-QCkUcVQ3K4sWeiHEJgSNpBEV6Ta59moTWqG0T2s7EyOZEMOFrk9hcZt0vhyAxtMUR5HlYP9MOWkGH-x4cVR6SaKZGFpR2VTo1BzV9zoBnWdX6ZnutgCxQfPfDNvmvPSRfNrR_gepvuEztjE_bDa8yNbtTAJEKZeTJTrwDSVUpdngtQJv-rGcN4k28LvHPpLt8T1DWEqJN7lasuQ-e1VOfCpGy1P_j8ZLbbyiPaBoKrUoBLES-hFfzHtJ9cDMzxefc0urB_lbhxuyZOmB54qUNlJ9MItlCN7XfHDYmvHAeJbogHHWLcI6mtgI9yz172Oio4; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 08-Jan-2025 22:42:14 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 10-Jan-2017 22:42:14 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.137.1421016134146658; path=/; expires=Tue, 03-Jan-45 22:42:14 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D1190965844; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.73.8.35.1421016134135277; path=/; expires=Tue, 03-Jan-45 22:42:14 GMT
+Set-Cookie: AKDC=slc-a-origin-www-1.paypal.com; expires=Sun, 11-Jan-2015 23:12:14 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[01/13/2015 9:16 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=75325, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=19:16:38 Jan 13, 2015 PST, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AuQRkOunsouxos4XLzJcju.URGjJADApGzqqD5Fs0cuO8nqp1zpNopg7, payer_email=celestialcharts@gmail.com, txn_id=0KL88267US1454456, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-75325, residence_country=CA, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=6c9a6d35815e5, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+DC: slc-origin-www.paypal.com
+Date: Wed, 14 Jan 2015 03:16:52 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=07CEPzhVbQcfia0z-hG-rRRkBeWlP6nWAJbcWym4SXoKbHigeEWr-VwviDQXGa0cuPCl6Z8xpvgB82AqcuJTODv62-jhrtqIeUuxN2J_FiEGeVI6OikM0FOzTm0UvAohU07dkzOMqkyzvcWjosuUd_XHJfu2RIkIkG1CkJC95n1stXByodEc9QWuHUVugk1cFwu1Ok_XWbhpCbU-lErPqafB3wBmmxWnC_jZtZIoEk9qV_4osS3PGkX4K44D07-cCz-fTl84rpW31viv-i6TfPXfFhkK7ygOGCPLHjpTP0mEtW0gbszsjrc8TIQIFlCE2i7M8R-xCSj1ojxSNontVGkZ5i0hlyJI9ntriPwMAzf58HCE_6y5m7hOaIfJC99AcleFpxBxldESff3CxJBvMjhJpQFGIY_7dRQ__MEnjBjbTwhiU8eDlGP0Yx4; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 11-Jan-2025 03:16:52 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 13-Jan-2017 03:16:52 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.14.1421205411848200; path=/; expires=Fri, 06-Jan-45 03:16:51 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D2749347156; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.0.11.1421205411840160; path=/; expires=Fri, 06-Jan-45 03:16:51 GMT
+Set-Cookie: AKDC=slc-origin-www.paypal.com; expires=Wed, 14-Jan-2015 03:46:52 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[01/13/2015 9:51 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=75327, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=19:51:16 Jan 13, 2015 PST, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AKt2um9iXDK4KDM95I7LXEI3r-HRAXFTM3Zv5LoQTW9Za-OjDPCP.ldQ, payer_email=celestialcharts@gmail.com, txn_id=7F541943GN234813W, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-75327, residence_country=CA, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=1751edf6df87c, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+Date: Wed, 14 Jan 2015 03:51:29 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=Tq7kAfYdfcXGQl9Da9DrbD8Ok8hAc84D4YZGt7uEIHN4byEiv8CxqPwLFVu0vXMjVbuDZoNHCmNKyriC0sU1pmtUs69ryhcCKCMKEWaIsv5iwkup7No9KgaOT1Z9pj7jE7SC5x3yxWa-wy1QugvONc8rPSLF2cd34XjtwOJvvoS31ui6Ou12OZlJRw9ysjt0ypgpAQTRL6NwDGayL-d8T_IvOSGsLFVcPIADR2rSYw-5_CFrDc2Zi3MrKtScfA-d6mH9I2sFWzfL6a3GyN5qyW2LsB0VdShm9qgesJRfimUKsCS0sgVTOx9_oS2gLAlbZOMaWUJxaK_LSipfg8oYw9rQU-HgEsHA25JHv9F8jAWFVPINxdgAa3tTb992QpxCSOkxa-msvoupjvOxs28Cn-IhxCqC2MuxguyfbFyrJMt9VpaoYzipXU-WIaq; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 11-Jan-2025 03:51:28 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 13-Jan-2017 03:51:28 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.134.1421207488635101; path=/; expires=Fri, 06-Jan-45 03:51:28 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D3236410708; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.74.8.48.1421207488619877; path=/; expires=Fri, 06-Jan-45 03:51:28 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Wed, 14-Jan-2015 04:21:29 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[01/13/2015 9:53 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=75328, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=19:53:23 Jan 13, 2015 PST, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AZenMl5LsTknAP1wvQY.IJnuNDytAnIn5qdur7ghBmqalPmEOFY9s1qp, payer_email=celestialcharts@gmail.com, txn_id=7A528157LD863711L, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-75328, residence_country=CA, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=391acea928e75, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+DC: slc-a-origin-www-1.paypal.com
+Date: Wed, 14 Jan 2015 03:53:36 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=RfWBbPQD2wNY8YJSVr5tNnphXXQgBc5xnbuXTNPf19M5g2nhlFv0yScH0vbxzihb0hPuYjTtR3Utuokb5MsjuapTAV-O4AytWY5XVuj_oloE7j4gibMLrPmjWyCOyqezyyj_F8iEfhRvbi_kj2qf69gK8J0VwPIxaVHpPnFsbHVEgpRjjZt75djW_FFYasdwkYSUvZMmYyzF8lk4sEajWlwCaTs9bdrOF2Gx5tVUavCYqoiVQ1Bu1W5Omisis5xCcYzuwxOW4jAAqX5Y7TcXtVRCKmcrA5RevZ8bO_D6KCEEtjPFL4lk_6SxzNIQMCh20GGMyg-gzXKYq7W-yihfa9DKHTS5bgNlZJ3Z8RZOfNiWUfe2AoqAmiKE18NxmqVnZ0z4z8CdhInFETwyTL1QLYU1m2gC_lmlfGGHpbCfBJqdZpkW0ErCE2bMtGO; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 11-Jan-2025 03:53:36 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 13-Jan-2017 03:53:36 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.137.1421207616461805; path=/; expires=Fri, 06-Jan-45 03:53:36 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D1088992596; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.73.8.40.1421207616450991; path=/; expires=Fri, 06-Jan-45 03:53:36 GMT
+Set-Cookie: AKDC=slc-a-origin-www-1.paypal.com; expires=Wed, 14-Jan-2015 04:23:36 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[01/16/2015 11:36 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=75755, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=09:36:13 Jan 16, 2015 PST, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AhQQt0JKCjg6JoOeUVlhkINdWBCCAFKmRbt05hPyTVWcU-AplMe4MrNA, payer_email=celestialcharts@gmail.com, txn_id=83R01777V01090311, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-75755, residence_country=CA, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=9e61ff09f02bd, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+DC: slc-origin-www.paypal.com
+Date: Fri, 16 Jan 2015 17:36:24 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=ShRM9ncuuStcLmx6CNFUkew7gDCEBKsGCIp49933w08iAzbsKTy0dvqcpE3grKmieRiHcZKrMINEoDpjkE2nFIRX-B-WGvmJ-4u94wnHl4QP_FpLcur5uAT70NQtop1PJbjA_7ZC1dIXa5lEzwrMtxmGBhbEWvd4wr3ddMgRogASe4IQWQ0bkHxxyNbwNqUT3ANgmmM6bZNu5y_gIHcMIOjF7ex6hBX5FqF2EjHP6EZJzpDeSACySvG7yCxKMalmI7DALNZkG41rUtszUxenSwK7hyh3HuIXDZeokQ3xk-hBOdWAKWb8d8vZz0cO8uqEEZO_vDPuH_S5ZV2wZKSdXu4RVXzf9tRNOJ6MjLJPT1KD4zlwtjLoUiaNv9BkKlPqrSOhXMFRmgiCl8lndKNtSufTLzvy9m8I105YlT5s-RHZzTu7_05R104E-Ty; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 13-Jan-2025 17:36:23 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 15-Jan-2017 17:36:23 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.14.1421429783594516; path=/; expires=Sun, 08-Jan-45 17:36:23 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D390904148; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.0.11.1421429783588054; path=/; expires=Sun, 08-Jan-45 17:36:23 GMT
+Set-Cookie: AKDC=slc-origin-www.paypal.com; expires=Fri, 16-Jan-2015 18:06:24 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[03/03/2015 4:23 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=245.00, invoice=25, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=16:23:26 Mar 03, 2015 PST, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=9.86, notify_version=3.8, custom=7677|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=Ao68DNqlX5gVaPZlGVYk.BmBnaqJACxvB9L6O-wIpUmukwK7n70KH8Lh, payer_email=celestialcharts@gmail.com, txn_id=3PF31954V1567073A, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=9.86, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Elite Customer subscription, mc_currency=USD, item_number=AWELITE, residence_country=CA, handling_amount=0.00, transaction_subject=7677|en, payment_gross=245.00, shipping=0.00, ipn_track_id=5c2290ea6e91, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-origin-www.paypal.com
+Date: Wed, 04 Mar 2015 00:23:38 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=Kjr4Ta7lR0jk-_nDB2Ji9wp46rEXiTMF_Oa2jGH8tnezPB0vE2MuQCPyuZA8Lwqu76QkyZ2p2ZlZQDOR8iEV_G6grB614G-_X07o79dGSHmfDmvBcW9MSFq3vYoIWBcWLjENnOJceH37ozSIMheq6lGtdr9nriVIIpXRTfZgqQM6zoHorewyDmxL6ojRHHPS9eCb9aucluLbTIQvgDZS-NwH5JDXMdt9wuZzSK1Of_sGxvjPIZvezsiCcGxbu3m4Fay9KkfvGkhjaN3k9btZAjnxRlmQA9B7Gp7eHHI9XoivWL08u51n30ztUItKal1B0k5ERGcDzvtmrXIvpcRDsuGBLDB_0pNMin0Cm9YCasAt2vkIU9pfgvFJZDohTcMmGPTLHbUx6s2qzO3HRI3X-qa_bD9rk42b6lpQJzmKWMuwtlYaUxf2Ch4n4J4; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 01-Mar-2025 00:23:38 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 03-Mar-2017 00:23:38 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.148.1425428617732516; path=/; expires=Fri, 24-Feb-45 00:23:37 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2303784532; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.0.11.1425428617725596; path=/; expires=Fri, 24-Feb-45 00:23:37 GMT
+Set-Cookie: AKDC=slc-origin-www.paypal.com; expires=Wed, 04-Mar-2015 00:53:38 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[03/03/2015 6:25 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=82312, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=16:25:44 Mar 03, 2015 PST, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=Af2tJqUdZ7M8HryaTxXM2HY7ERfwAAYoVemwW1V9ADolVl30fXhRIWQQ, payer_email=celestialcharts@gmail.com, txn_id=17683514Y8455244M, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-82312, residence_country=CA, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=77ef4c754d856, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-origin-www.paypal.com
+Date: Wed, 04 Mar 2015 00:25:57 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=AnifwKAHlomVQEk5fNBh_wMmqjPNmCPb2EMliuWH7Q1rbNPWN9REw_Y5GYCUjuBbMGelTBo15VcYeOOYn5VCdnaFKqWg0KW92LAN4Mo21CyWGJHQMvUU1vN7_Bqd06R2jB9INW_mYBxu9Us2nORutNZlyAK4A0fTva2hQxZPccM_SON4GlqSnDmFRkJcVxXcKesp_ikM6rxS7GIYMxsCl81CdbBBBZYN8jChKDrzMEwQ1139F5AFpDyek0DesoY-cgx4SAjoMrdS9Of7i0TgCsRTNfdoAh4eLfbQnefQNs0bd5BxnpTscGK7G5VdmGMqoDD91ZP6FyTtA5_EbB2ute_1tDAmNpPkqFhEKa_BMBTOdFr2K_ZjLpaaYbQgz_k2c7eiaePlsD3KiA-2dZV7Cp6YHMOB1D0RUhKKqisseKo_6mZR5c9jF-fwC48; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 01-Mar-2025 00:25:56 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 03-Mar-2017 00:25:56 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.14.1425428756428695; path=/; expires=Fri, 24-Feb-45 00:25:56 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D340915796; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.0.11.1425428756423691; path=/; expires=Fri, 24-Feb-45 00:25:56 GMT
+Set-Cookie: AKDC=slc-origin-www.paypal.com; expires=Wed, 04-Mar-2015 00:55:57 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[03/03/2015 7:22 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=82313, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=17:21:57 Mar 03, 2015 PST, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AZenMl5LsTknAP1wvQY.IJnuNDytAb1GzaRyrI8F61OEXvGuJvxnfNI9, payer_email=celestialcharts@gmail.com, txn_id=8P881338FH720403G, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-82313, residence_country=CA, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=b8ff32bfa74d2, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-a-origin-www-1.paypal.com
+Date: Wed, 04 Mar 2015 01:22:11 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=TFlY2wis2ERbI7Z05WQSC_N_GLhae9ztw4ShqHW-GMQezMJFJupm4y7wzoGjsJE3jp_MtaWgCoZFIs4fV00ADgOTUieTjXpTGrx2U6E-KFBqy6HaT1XM8lKCQy8zPjIIAMqWNIrdGWWlnHd2Kh-K98leSc5QpKf8qTP-jXYAaKUODRC_7PToSNGpCw2N6vdcUIrrOzk8ijoJXGPkhdgR-MFcbdMza2K3A72119Nq0XX2zamWKougy1n7yvef2sth_alLU-mI51vycP9dJfiJFId0dstn-RxPGwCgNykFY_kmkMKLImZPuhZXzQ4AbVnhF2k8SC8zufv1usSsxdmK08OA7oeiqE9evZb7HYjNtchSC1EwudB1QefODMU8MfURDkhI0W1mZTIGVHF8WhgusLd9FNUvXOKw5TzGPseB5IO8EtMG0mpHj9LvGAS; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 01-Mar-2025 01:22:11 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 03-Mar-2017 01:22:11 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.137.1425432130673142; path=/; expires=Fri, 24-Feb-45 01:22:10 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1113519700; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.73.8.41.1425432130661357; path=/; expires=Fri, 24-Feb-45 01:22:10 GMT
+Set-Cookie: AKDC=slc-a-origin-www-1.paypal.com; expires=Wed, 04-Mar-2015 01:52:11 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[04/04/2015 6:29 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=90152, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=16:29:06 Apr 04, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=ABebmjS2MvS7BCc0wKV-uhYm.eCvAHKxB.HY-5ZyLckE4F4zKpe8jlQ7, payer_email=celestialcharts@gmail.com, txn_id=29D12859SS864642G, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Essential Year Ahead Report, mc_currency=USD, item_number=AWRP-90152, residence_country=CA, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=a72b2f54afefe, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg11-origin-www-2.paypal.com
+Date: Sat, 04 Apr 2015 23:29:21 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=AeDoyQk59NA2ee6xhmlFJ2AxgNn6j1NIOnhb3dl7nTGcybao1fxmswV4Plwu8522Q7HXsoytaXMmtrHTDErJVgKFRqQAAHAUZIhInpf8BD0Aa69hzPIpDnQsGPFC2R9sLmyHBXwkCOUFiKfTBeQ3QQ00uZtRwStKLt0sbYR86dXv9jmkXM1Md79xg3yxHcG7o_eMrPwDphONV12TxU1Oka89ErcSFciakbpBwJNrwDJE9QLd_KDDfIfVJosJy8ks2JllNwqeshwHT8pl9p4_YjOUXhFAffB9hVGN6ulyW4bunasH7z_Gnlh48LQZJt0MEmuPRhb_3fMPJ8irPv6edCQ8SxTY3CEW9VJElkheiDeHl0YAj2eb002MSSpvtIlE70qiQSg0P2W6BKEqdQ5eKzm8rhEw087U_dDeTcgjXUSC_iDOyoBlbqbYC1y; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 01-Apr-2025 23:29:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 03-Apr-2017 23:29:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.14.1428190160511381; path=/; expires=Mon, 27-Mar-45 23:29:20 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3497205845; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.0.11.1428190160504690; path=/; expires=Mon, 27-Mar-45 23:29:20 GMT
+Set-Cookie: AKDC=dcg11-origin-www-2.paypal.com; expires=Sat, 04-Apr-2015 23:59:21 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[06/20/2015 1:16 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=94531, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=11:16:11 Jun 20, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=Arf4y4pZ7RXSfqkCuVoOdBR53a7kA3gawir5O.geXNb7ZKOTYegvmrBV, payer_email=celestialcharts@gmail.com, txn_id=6RV36297ES856002L, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-94531, residence_country=CA, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=ca3120d4eb4af, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Paypal-Debug-Id: b14df47fb5f7
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-a-origin-www-1.paypal.com
+Date: Sat, 20 Jun 2015 18:16:23 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=Eu6RMEOFmCQoVaJRsrgW0kvgb_TwIwOwnN1gjLdsrf0ubFnYGTXebE7dYuPu3AJQaUlG99Bw5aFylhZuo5Mb-h6cO9ZoNoBQO-F6FsUDex5h2fva1m-9dz0_KjSjnxSTl5ffWgCwRty7a0YWlA2xu2GRxmhLpVKR45Nt4MUW75DOYX0Q0OfqDGeuLi97-Y2n_vwZbvYcT5ZtZJ-eRqptpLpAFVRZKxI7IKvPpiiIsFEuhG34ixOLfigZhLDvfbplMLfRF0x5gLsY8ObZM-tNoGiB2-_Q3y9M8NCDWce-gZ0exfVfJTqOfVFyzhAi7azmFVZORiMQlkcnHFLu-2LdvaxK_MILL_uO1sG8rG1sfoGnnsOGvPx22q6K-RpSWlZ4HiWNj1SCemoGazKTmWCN5X7GRCACKUoonYZ2pMgA_zDtloczJUNNsGU00t4; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 17-Jun-2025 18:16:23 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 19-Jun-2017 18:16:23 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.137.1434824183060984; path=/; expires=Mon, 12-Jun-45 18:16:23 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D4155344213; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.73.8.38.1434824183046217; path=/; expires=Mon, 12-Jun-45 18:16:23 GMT
+Set-Cookie: AKDC=slc-a-origin-www-1.paypal.com; expires=Sat, 20-Jun-2015 18:46:23 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[07/24/2015 2:47 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=245.00, invoice=26, protection_eligibility=Ineligible, payer_id=SVDEUVLCE3UPL, tax=0.00, payment_date=14:47:06 Jul 24, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=David, mc_fee=12.31, notify_version=3.8, custom=12445|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AQW5oNa-2oL1d6fRHDILY4xZdzqhAeHBUTcjTRcQ1VzreIkh5eITKJFx, payer_email=davidhoyne@live.com, txn_id=9TS503197L627454X, payment_type=instant, last_name=Hoyne, receiver_email=ard@world-of-wisdom.com, payment_fee=12.31, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Elite Customer subscription, mc_currency=USD, item_number=AWELITE, residence_country=NZ, handling_amount=0.00, transaction_subject=12445|en, payment_gross=245.00, shipping=0.00, ipn_track_id=da70aacd1d9e9, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Paypal-Debug-Id: d0e5a557ca1ff
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+Date: Fri, 24 Jul 2015 21:47:18 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=buRTGm3GU5ZRbPzk1F2935nqiCYrZZC7bzKZ6jxwTMCq2s1kbbdaCdKfUN19oAKIIpC7PI6sBMqoVIvTlGWn9HwZrEE61xjlWO1m8ixnlrKz2SoJTU-WWy9uNWCWkidtfuUSfSmSL8Ne7T9kZJ2oYPmjRxoU0UG9--NDQQ9wTXOSvlPoyTIvxNfiB3QeuAY0FRBQSa6rpP2MvZYbz9jbf8rIVjshyYfGtpq4lNWVZ2FMl8KC98limQm2BIdLIXb4Wp5mW2Hq-CKoGBaYUqvbE2kXiwKy9SzXEtI-sVcUi8OVta16TvUnWRRCqQC8042VebTeXKZxWbNlWsY6OWZi9_IWsJvEd0VnXLMJW38jRgNTiQfJpRxOJ-Fm-PKW4GsSi4IxBV7QPN30UGeySjoK5ZHYgxahZeFvYzH2F6GUYcu6YLeZS4q_EL20At0; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 21-Jul-2025 21:47:18 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 23-Jul-2017 21:47:18 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.134.1437774437840893; path=/; expires=Sun, 16-Jul-45 21:47:17 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1706209877; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.74.8.46.1437774437827607; path=/; expires=Sun, 16-Jul-45 21:47:17 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Fri, 24-Jul-2015 22:17:18 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[07/24/2015 4:55 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=98445, protection_eligibility=Ineligible, payer_id=SVDEUVLCE3UPL, tax=0.00, payment_date=14:55:22 Jul 24, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=David, mc_fee=0.79, notify_version=3.8, custom=davidhoyne@live.com|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=A8PUHgHCdc61EXlSEFZYfxI8Nzw9AGnU5KXgZzcFauucNQjdWuNk4CL-, payer_email=davidhoyne@live.com, txn_id=4PP340709S797722V, payment_type=instant, last_name=Hoyne, receiver_email=ard@world-of-wisdom.com, payment_fee=0.79, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Essential Year Ahead Report, mc_currency=USD, item_number=AWRP-98445, residence_country=NZ, handling_amount=0.00, transaction_subject=davidhoyne@live.com|en, payment_gross=10.00, shipping=0.00, ipn_track_id=e1f6dafa9baf2, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: f69af77015993
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-origin-www.paypal.com
+Date: Fri, 24 Jul 2015 21:55:35 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=-hq4wAswaG3QdQX_FKA38cTZLt73146t2CkyvL0UMqDg9hzqZTuoguNDXcCoW6ivk6tGI4ScmoSChpwyU6oN8IfYJx-MHTblV1DfYfCyUr1sFba1-gBSwLaBo6xHWoBKISOJzRWebmBLgEm6uHKk8JdYSaiBMhIta08b8tg2PQhpH3aJq33WOPmat2Nlu6-4n_1Z8_NGm8Zt5sNnJJ6kFLt0yWX44HgaJS6RPLNxQrGMublgm0SW4CaltTkBRMOSj-BuUkdO4MlTFLhNlAzCBMsxIGF59-Cu8jAPMTh-q-BNsC7zbJVIeFjJMLYHTGl0nYF4DC-UEvHEEn2_CklkEPvO9ZifUVVWqwhAJdd4qmqDDp-PbjkTNFxo15JZqa5IL1wFjiB9_gqauva-5ZIMLvjNHxaskzTG__E6KAcDe9dp3tzAO7Q61pBwSwW; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 21-Jul-2025 21:55:35 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 23-Jul-2017 21:55:35 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.148.1437774935094231; path=/; expires=Sun, 16-Jul-45 21:55:35 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1471459925; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.0.206.1437774935088287; path=/; expires=Sun, 16-Jul-45 21:55:35 GMT
+Set-Cookie: AKDC=slc-origin-www.paypal.com; expires=Fri, 24-Jul-2015 22:25:35 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[07/24/2015 4:57 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=98446, protection_eligibility=Ineligible, payer_id=SVDEUVLCE3UPL, tax=0.00, payment_date=14:57:28 Jul 24, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=David, mc_fee=0.79, notify_version=3.8, custom=davidhoyne@live.com|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AIqOtSQ0Q0D3yO-kXqcOPwvcCEfEA8vi4BOl.z45ybeyN5u3Mj0JP113, payer_email=davidhoyne@live.com, txn_id=1DE35481GN489271E, payment_type=instant, last_name=Hoyne, receiver_email=ard@world-of-wisdom.com, payment_fee=0.79, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Essential Year Ahead Report, mc_currency=USD, item_number=AWRP-98446, residence_country=NZ, handling_amount=0.00, transaction_subject=davidhoyne@live.com|en, payment_gross=10.00, shipping=0.00, ipn_track_id=f2dbaf59810bd, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: 73f2034f14c2d
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-origin-www.paypal.com
+Date: Fri, 24 Jul 2015 21:57:39 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=hbgkPXNAF69bUsVLB7AXOAwqEWdmIn6zRYxeVpEipmUNkw5JFx7ae1A4gWho3P-tqZxkmG5bFiMKRORBc6IaAjifdQegoF9vXjsaUHqnCKrF3L77TgLqG0XQKkeh4_UPuYgbvmI7zCsI5pag5UnC1gGSXftZXQ-sReWQvollABLCPPf_rafHDFUP5MohlVJ-NfIGXGSpd3mR49V8g5X94fCmz02pR-FbQ1nEL_-zbAHPZtzF9lPNJtt6ze51-zDf-I4P-cD27vodZj5ijURroqseCQBTev7yQC4pp6v3ja6ROhJABacBu4Y7c2nTqFde-o7H_VtEGLdVC46LOVfFO8KMtas5HIKqDPs6mX4bK3Wv1y2hkYue2ioB8-RVIbsv7o9YyVNO-ydly4ZT2EVcZL3yMOGYcxWgiCG9_zu2YpQXl-EZKuhmD63jNSO; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 21-Jul-2025 21:57:39 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 23-Jul-2017 21:57:39 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.147.1437775059090235; path=/; expires=Sun, 16-Jul-45 21:57:39 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3551834709; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.0.11.1437775059084835; path=/; expires=Sun, 16-Jul-45 21:57:39 GMT
+Set-Cookie: AKDC=slc-origin-www.paypal.com; expires=Fri, 24-Jul-2015 22:27:39 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[07/24/2015 5:36 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=98462, protection_eligibility=Ineligible, payer_id=SVDEUVLCE3UPL, tax=0.00, payment_date=15:36:24 Jul 24, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=David, mc_fee=0.79, notify_version=3.8, custom=davidhoyne@live.com|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AMDcaba6QIqleTz2GMXRWFvnls3hAXjYeT-PejE0vlWJYr-a3fXUiwus, payer_email=davidhoyne@live.com, txn_id=04K06294PG9689409, payment_type=instant, last_name=Hoyne, receiver_email=ard@world-of-wisdom.com, payment_fee=0.79, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-98462, residence_country=NZ, handling_amount=0.00, transaction_subject=davidhoyne@live.com|en, payment_gross=10.00, shipping=0.00, ipn_track_id=c80429eb6c4fe, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: 8eb8b405efd0f
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg12-origin-www-1.paypal.com
+Date: Fri, 24 Jul 2015 22:36:36 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=L04TroD7L82gFnOo18dqyTVuXkqXVRI5nzWfpH6ZE1xM0D4en4R_CI2knaeokB3cs-ISrOJUh5DYQ1EC4OppUCVHuQpKt-ipWVJX8qqA_SFrIJcT685e2oToef05FuczVFeEiv6jH_tqdJL2TXZw1XVBs9ZMmyc6Ws_MDXgX19YcVpaB1OggsDDEJL-s_HEBNskth10Y_pSgJsi2sKOPWWTpp_dUMxJ8dL5n3CMbbIuBRXpSbEivyeRnOrGoxoWjKRkow2f_w5cwtC-xeo18j_Z6GMTqJHtNixrmMaXCZuYCdWrHfQQNqEb4t1n1J7vgM_d4a2mbhC0CphUu8DgCbaFiNg_ekJBia3oUhngfL7KY7u21-ex9xTyukcWR0WUqWLYsR6wtPOgtssAMkxPcDfTrelZShWfimnQbcqIUMgAKWYlU_OHJ-PvDvOW; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 21-Jul-2025 22:36:36 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 23-Jul-2017 22:36:36 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.17.1.19.1437777395989228; path=/; expires=Sun, 16-Jul-45 22:36:35 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE11.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D4089295445; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.17.0.204.1437777395981978; path=/; expires=Sun, 16-Jul-45 22:36:35 GMT
+Set-Cookie: AKDC=dcg12-origin-www-1.paypal.com; expires=Fri, 24-Jul-2015 23:06:36 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[07/25/2015 12:53 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+transaction_subject=davidhoyne@live.com|en, payment_date=22:53:11 Jul 24, 2015 PDT, last_name=Hoyne, residence_country=NZ, item_name=Character and destiny report, payment_gross=-10.00, mc_currency=USD, business=ard@world-of-wisdom.com, payment_type=instant, protection_eligibility=Ineligible, verify_sign=AisvSAQndJ5Ql5ATOSOYfSHSUvDjAeZcaVUgNIwWnFiLiLBRyI9gktn8, payer_email=davidhoyne@live.com, txn_id=58518353074877408, receiver_email=ard@world-of-wisdom.com, first_name=David, parent_txn_id=04K06294PG9689409, invoice=98462, payer_id=SVDEUVLCE3UPL, receiver_id=VM4HV6HR8W4Z4, reason_code=refund, item_number=AWRP-98462, handling_amount=0.00, payment_status=Refunded, payment_fee=-0.49, mc_fee=-0.49, shipping=0.00, mc_gross=-10.00, custom=davidhoyne@live.com|en, charset=windows-1252, notify_version=3.8, ipn_track_id=9ed0ade281941, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: 6c26f2813be6d
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-origin-www.paypal.com
+Date: Sat, 25 Jul 2015 05:53:24 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=nW4OJ91ZDsXJKXiBo03H7KtMDMFkMxt0BQ5F_Ztloet7XBIMw_PPQQfGr27dps85m4Y61v8_QnAb8eVM4nYi4sbiYpYS2a0PjEJQ18MCY_Gvf7p8XUjkS03wuIeapvl7GlsKcKTHeaNbUs3r_1cJSXGUSCt__6EgeVY2fFW3Z5-VaNOA8xbHZfErt12SYdJnF1HkaR_oBKyGGFpru9ml5uvv5RO-91U5ny1CvbI7T88aQF2n19po6DU2X2egc-kBuJwIxWsH7bfhOJ0J6TPGf3yc6A7bgCd3SP6cM9x5AtsukIjYgQ4yDwp4IxeHxpf0LATMFwfXQVpw7zdZ4xobaUQvAIajmK8zBzEoSWbd7RWG-0PKpph1BDNMsldyWVOv3hlTXucTAx-qAKgn2LClebn1dOLXYcYGtOWg4xgn8r0OTWyqkt0SxD1Z4hm; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 22-Jul-2025 05:53:24 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 24-Jul-2017 05:53:24 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.14.1437803604251546; path=/; expires=Mon, 17-Jul-45 05:53:24 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1411691349; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.1.5.1437803604245097; path=/; expires=Mon, 17-Jul-45 05:53:24 GMT
+Set-Cookie: AKDC=slc-origin-www.paypal.com; expires=Sat, 25-Jul-2015 06:23:24 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[08/23/2015 8:48 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=101374, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=18:48:44 Aug 23, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=A.DdylXDZAeOcQPbztqMY48DyXc2AMS96IswdtE8c-4VdDY2Wes-XEFa, payer_email=celestialcharts@gmail.com, txn_id=9H9316318J1794715, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-101374, residence_country=CA, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=bab8a8e03d4de, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: b30feb3781510
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg12-origin-www-2.paypal.com
+Date: Mon, 24 Aug 2015 01:48:56 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=wuMNxysEpU-3GcMEsxB94wy-I-ctJjAWkxf9ML3HM24bOA6BZTaiU6i9tMzJli0qjsGmD3_MDLHi8TvY8fD-kefALe3Wn7OlECo2z8dlu2ENr5rf0-0-ShtOpvwkMiJFq4pRaTBcQT8zkllyxOgvuh9bonoJ5K_HfThR5YMdlJ7H_7Ior_FT9sUL_F3pxttBwGlleX5KUiytdxnadSQbbZUtowHqP-ZT8ZKFsnDSun5XnyBXmkhwECA-VzLFU8uQNwptejsxrvjOq1KAp9JidK02jzIfZ6jwadyU7tRhNnpx_K6P0t6hJt7Ar6TEtRqGqIKjmYFINDyeEQQqnC6T5leUod7eQnr-ov5LkL_WDk40t_jAgnuqvnQoTBZVam9z45yJKmVSx95tC6Pat2CfMiR2VOJtczqQ5DCJqbt1Dzt8L2A-0mCK1tpnRKy; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 21-Aug-2025 01:48:55 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 23-Aug-2017 01:48:55 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.17.1.16.1440380935538438; path=/; expires=Wed, 16-Aug-45 01:48:55 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE11.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D125360725; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.17.1.10.1440380935529408; path=/; expires=Wed, 16-Aug-45 01:48:55 GMT
+Set-Cookie: AKDC=dcg12-origin-www-2.paypal.com; expires=Mon, 24-Aug-2015 02:18:56 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[08/26/2015 8:23 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=101550, protection_eligibility=Ineligible, payer_id=NXFRAP6H8K5PS, tax=0.00, payment_date=06:14:31 Aug 26, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Maria, mc_fee=0.69, notify_version=3.8, custom=martinmary39@gmail.com|en, payer_status=verified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AF6MmPgyZdB4ZGIA.r19FOHPvTjSA16NoYWd1kB2nv2pwLZE792ZeZz8, payer_email=nymphonix@aol.com, txn_id=9GG00879EY453002W, payment_type=instant, last_name=Martin, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Essential Year Ahead Report, mc_currency=USD, item_number=AWRP-101550, residence_country=US, handling_amount=0.00, transaction_subject=martinmary39@gmail.com|en, payment_gross=10.00, shipping=0.00, ipn_track_id=349e519850094, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: ea19950ef05e3
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-origin-www.paypal.com
+Date: Wed, 26 Aug 2015 13:23:06 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=Pbhz6arpfpmbBjaAME63Iw56Hyi9JK5x1bOMTlv0Rf70CeWFFkP4eIzVgsUTNaAV7EnXb4rMcBMEzrgbKrcA2HdSpF6kFj5HS8nPe8Pp--wooqSR8c3B59cm1WJFI_A1LErL_I1GGsWUH-ud3oFvooIidWUfWgf1KXj_LkCBcgh1Zs15ftXSgGZLneytma5UFTBeOnnTy_bPo7kMht1HfAhAWgCp68viI_qUB0f66wf5Z4nfrLvlivpd3MNaL0Xv_bCIOg4BNoklYhASO_F5ZHZITIIH-DS39BPE_Z8Pe_ASHUmP7FjsuwbB2NBtnIY_OnT6wzV46yhYk4yCogy757zOJvQGHH6vmgIrt38aG2r6HHaxfeDqJLIt8UE5o1d_HB-Zz7uFwPBxg84zEY_o7LE9J1VsA8tlpSgwbGnmlnLg9xs1GwaydhoIgiq; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 23-Aug-2025 13:23:06 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 25-Aug-2017 13:23:06 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.148.1440595385990952; path=/; expires=Fri, 18-Aug-45 13:23:05 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3116227925; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.1.4.1440595385984381; path=/; expires=Fri, 18-Aug-45 13:23:05 GMT
+Set-Cookie: AKDC=slc-origin-www.paypal.com; expires=Wed, 26-Aug-2015 13:53:06 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[08/26/2015 12:33 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=101551, protection_eligibility=Ineligible, payer_id=NXFRAP6H8K5PS, tax=0.00, payment_date=10:33:29 Aug 26, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Maria, mc_fee=0.69, notify_version=3.8, custom=nymphonix@aol.com|en, payer_status=verified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=A9PGriCvlslH93fvA-0n66TRGveuAh4cfBpeokiZcXiKU.jE6s3asnbr, payer_email=nymphonix@aol.com, txn_id=7U057481BK466683D, payment_type=instant, last_name=Martin, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Astrology calendar report, mc_currency=USD, item_number=AWRP-101551, residence_country=US, handling_amount=0.00, transaction_subject=nymphonix@aol.com|en, payment_gross=10.00, shipping=0.00, ipn_track_id=2875b6cce294b, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: beb37ed013f8e
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-origin-www.paypal.com
+Date: Wed, 26 Aug 2015 17:33:41 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=RL-oMLD2WeKNl8WoGiWq_w3dgd2YtyfkxXsrzJwOz0f9-ulq2gIlXp-hoj4S9XsnSxtQre3dEGyw5qlGyafsrdLnW1rO6U2XZIPgpFY0cNjEhFcR5h2C7BOSdtif0XPGlbgCvxHcYniF86SX_GDZJrCDWNHO6xWx9riGxJ5p_WJ3hXEy-Mra5fFfB1HSEAgFFfhIdTsf5b1ghSqtR7uPH2YaRIJ3O9rb9kXgoJXJc8z0AxwdtpHUct6HlgifBo0uGdYwJtND22xeyf-_izRB1_y2VVnLVwvFmrHqfdmp9G-7grIc35b4GUC4_h4V11VZhMAbcmRUU5G1f7KNF7GEJPw1xusxKFfQWbVs8coq0CNM4lTVoufa2_1lT5o4aFWe4yvxTPZAz1Vg8qG_vznGcBN1KEAb5FnkzL-QPdRAU5lUJ8YuvcXE_6TmtjW; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 23-Aug-2025 17:33:41 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 25-Aug-2017 17:33:41 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.147.1440610421087676; path=/; expires=Fri, 18-Aug-45 17:33:41 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1979243861; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.0.206.1440610421081627; path=/; expires=Fri, 18-Aug-45 17:33:41 GMT
+Set-Cookie: AKDC=slc-origin-www.paypal.com; expires=Wed, 26-Aug-2015 18:03:41 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[09/07/2015 8:30 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=102302, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=18:26:11 Sep 07, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AgUGxKs4vGiEqeit6IyHkIjDJVpeAbcoKToFvE5TD2Ux-T5BZeUUOVKm, payer_email=celestialcharts@gmail.com, txn_id=3Y796505FK475804T, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-102302, residence_country=CA, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=75581fcbb5ca0, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: 6cb962e5a0790
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-origin-www.paypal.com
+Date: Tue, 08 Sep 2015 01:30:39 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=-X1bnQflAFuvK2BX629BbhwKG5kue14uSF2MxOwKIIGW7JrUsne6Jy76KMG2m-WzK7P-arkB1N53AJQ46pEmwOtdpi5jGlDbdBYZ1yJt9Y3oDkPMYtP3FDDHZM5qOUMigD1HGYMKW3JtR5XX67mJlh7t5-59ZswkUeFBzRofORfR332N9fW3LAXpRktdP5vXPCJBqiBwBB9HQVv6aDuoRUpqv2cUvs_X4mxQz4O8MTBb5qNNOdFPPynx4NtsSK7M2JMcahRM-bbJg8Ux458kvCBLbFVuRyka89L9Bpk1C8OwmvWfVoA4hIEfJtBq4hVzWvk8guGK4OBEdS8y2GpG28j36j-mwBZN5p35gwBAUb4zLJWpAX7UgPUZO0Xm6uMEAm6s6m1Ha0Mbl8izCOhT_GpruRYCC12jlTcmwKauWqIH9UNMvzv4fOgu9wq; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 05-Sep-2025 01:30:39 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 07-Sep-2017 01:30:39 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.148.1441675838663438; path=/; expires=Thu, 31-Aug-45 01:30:38 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1044049493; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.1.1.1441675838656984; path=/; expires=Thu, 31-Aug-45 01:30:38 GMT
+Set-Cookie: AKDC=slc-origin-www.paypal.com; expires=Tue, 08-Sep-2015 02:00:39 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[09/07/2015 8:30 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=102303, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=18:29:17 Sep 07, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AP37U7gPUL7wW.bhj7gUYHr1YqBVA-o4GwK96EpFBeUpA-WlXxvvR3HJ, payer_email=celestialcharts@gmail.com, txn_id=51151686LX563624W, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-102303, residence_country=CA, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=67cedde8e46b0, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: 46d6a9164d9c6
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-origin-www.paypal.com
+Date: Tue, 08 Sep 2015 01:30:57 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=BbaDTy-VxcXCY8anC3znFdmx600yyHvSmiL88dcCmPhWpycYTKXIYeo4hZWBWZUO_M-pD0GkdR-PJpT8knB41fxRljLNQ64lpOEiL-ztdwTOpeK8O927i4Alo4h62coN8I_u8eagjMxcx_r6Qqs46Kogy4SMdbUvQO3RlxCkb5lqAtvJVQIzr4K3KDIapaZ0EXwiZn2ivkeu_AGhFa2OtqlUfXDuB7vJWrDn2A4CJ7DDzcso6gNb9u8sOqaOjD2yu5IwKFVxJPocppMQthKw3wYN0nbOD-5mXlS_9ULCJ9rxNBHyDOS8vFQHRtcO3C2CNqc2JAajl7vW8BDSNjmhwfrZysXKczKKFl7082VtvOt2V0AnQt4cIVrD99lsvI_MAVAqtTZ3y8K1EQJZRqANBdKGN21hW5RMLJFe8RP8iuz-cam8zGr5FmGY_j0; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 05-Sep-2025 01:30:57 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 07-Sep-2017 01:30:57 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.148.1441675857323546; path=/; expires=Thu, 31-Aug-45 01:30:57 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1362816597; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.0.209.1441675857317707; path=/; expires=Thu, 31-Aug-45 01:30:57 GMT
+Set-Cookie: AKDC=slc-origin-www.paypal.com; expires=Tue, 08-Sep-2015 02:00:57 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[10/13/2015 11:44 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=105006, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=09:43:53 Oct 13, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@communityskillscentre.com|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AcE2uah9fzGQIYibH799J4hdOjH.A6515hS5DWtlAkpGOe.Fgrf1d-v9, payer_email=celestialcharts@gmail.com, txn_id=0YL260894S5230901, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-105006, residence_country=CA, handling_amount=0.00, transaction_subject=mcherot@communityskillscentre.com|en, payment_gross=10.00, shipping=0.00, ipn_track_id=ade96c9aaa8b4, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Paypal-Debug-Id: 9eb78e63cecda
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+Date: Tue, 13 Oct 2015 16:44:08 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=NoJSBZwCPHzizqvx7qDyD0AcqZtTqaW2FdD0SM9FVxgbm9g5F_gysRtXZ5sqJFpJoZhgDjXWGMXJFfq1KOFTtDnVy8yng65mIPmOzVdwCj_o7ceQCsE_9_FHYOrugn26Ndkxehun_bimGFoDwGwoO8fX2ELzW55TCr5LpWlifo7SblDOWArJ2IlqKWjZXSHJdj3RLIkjvbjEffvKe1-WwCpT3vGqGH5PtLutiFYZANyn79QX3OR4q7vL2WPSo3vur8sqiq7KmnuspTl5Pk-yi6xKk8S6HE4m_uGLK5nZTtSXwqSFyrIOs9OuVBHdUvvnZ9Uzls3_yW1Ei5Tb8yu8gcz6MR4a6mDVDTJtDXiLYaoz9oxklssCpW-4nuIi0hGgibcx62KQfv95sav81biLB-ct6lw61peEyDIT3aRpRZLi5JML3CE1cXZd2xm; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 10-Oct-2025 16:44:08 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 12-Oct-2017 16:44:08 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.134.1444754647858658; path=/; expires=Thu, 05-Oct-45 16:44:07 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3610516822; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.74.8.33.1444754647846888; path=/; expires=Thu, 05-Oct-45 16:44:07 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Tue, 13-Oct-2015 17:14:08 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[10/21/2015 11:26 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=105350, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=09:26:25 Oct 21, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=Ajiy6YmBz00sV0oT2S-obuaQ3kehA36QuJD0gtqE7.9i0OpjnA7cMtDQ, payer_email=celestialcharts@gmail.com, txn_id=7VD44387SE327864H, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-105350, residence_country=CA, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=5c8d827034826, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: 9b6950a21985f
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg11-origin-www.paypal.com
+Date: Wed, 21 Oct 2015 16:26:43 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=z1mKSCOaXkHN1t37oF-9GKPbEk1AdPs5-6AXZ9Vxxm-VLMf5frthoG2Du6vwPmeD9v8DKZWllHs0Nk3K1fLZUiKosIclIsgom_QtQERY3wC4eCx9cvD0JMVaoUtLkkKt7SF9A3MyAZX_pPOVeg2PBs0G2Fi4Y37apwYaIHU3IHnrH-F7TlUu2nT4JCSeImonm72wblXn_AJGUTV7fe-l87pHNiZw04Z9oJnQDnMViu8ppfH8Qfg_HlMMbp0GdqkWAjeD2rbhVlBA2cHl7Onltor6eRBPJAq3GN_Gpq9SU0-SvDBxm8tqCl_gnTRV6Lci02I3-m8uPsPhyaPKaxoL8xPz8PpAg3TB4fInQmOuMPqoBAyi-gIxxqyaGdqpFirdEhvugbR5lwQ6V62Z3Wu_LyA2eXuTUB_4LWKN0FNERZFVJQVudEdr1VQRyS0; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 18-Oct-2025 16:26:43 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 20-Oct-2017 16:26:43 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.148.1445444803110292; path=/; expires=Fri, 13-Oct-45 16:26:43 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3283887958; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.0.11.1445444803104364; path=/; expires=Fri, 13-Oct-45 16:26:43 GMT
+Set-Cookie: AKDC=dcg11-origin-www.paypal.com; expires=Wed, 21-Oct-2015 16:56:43 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[10/21/2015 11:31 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=105351, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=09:31:29 Oct 21, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=A8vyPPy7mObxAPq5psJu6mY0fl34Ask4jYcdgvMOyGj3qMkw.XNW.qpM, payer_email=celestialcharts@gmail.com, txn_id=6H248977X37288613, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-105351, residence_country=CA, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=4c3b8d8aaab5a, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Paypal-Debug-Id: a729b23bb7989
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+Date: Wed, 21 Oct 2015 16:31:53 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=kQN7eOf4dFIMH5LrirJsMaPc3SiQ3AeRJDteFhMJHZ7F00kafDZp1UMgoGnGUjrHxeE-XUG69GUWF5SzfBnr2VI0hOw6KkKmyx5bJz6Q1JT8og7AyttqikFD5lDwXGBgv8Syf9hDV9n_4Rj-oPzMQmBfmGpJPBvZc78yoMRQaOSkqBWC0QZM8g2M9zknAkjaz5owT1rICBVooWyClYtnurt6OkdMSDk1aB_TmA-v3eS3GbXPsM1PR7uf3uq0h2SFS5CkltyllHb0m4hifoESXOx85ojSUzGxSIUlc5bAI65DtQ8Emn6D_c7YmkDZ7bV5DdMeGJO7v0ZhZB2nuANgwK_QeoGDFP46HtEJKge2srD9D3zDIFdhRW9PKjQ1Zd3gmtGkMlFTDa_ePd_Z9kkN5B_3h1MWyYsTPGXKCSnIWT4v-zNTtfXCbf5CiIm; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 18-Oct-2025 16:31:53 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 20-Oct-2017 16:31:53 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.137.1445445112763526; path=/; expires=Fri, 13-Oct-45 16:31:52 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D4173145942; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.74.8.60.1445445112751836; path=/; expires=Fri, 13-Oct-45 16:31:52 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Wed, 21-Oct-2015 17:01:53 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[10/21/2015 11:39 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=105353, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=09:39:27 Oct 21, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AB4D1gCIktIekr43tuy.8HapuNzkANxGXqodGWeNxMzlWl4tgri56kzQ, payer_email=celestialcharts@gmail.com, txn_id=2P90178093432902D, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-105353, residence_country=CA, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=5454ce7d91dec, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Paypal-Debug-Id: f694b8b91b883
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+Date: Wed, 21 Oct 2015 16:39:51 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=C2Y2QsuXHlhn1IZ7hfF2q0t1EFE4ThHA2wgz_8_9xtbZToF4uqBivbXtF1jrSwIrAyDXJX-ZWa3YDfBxg1Jh5CGhbVXDt-1j21ArpjczIU8Y6KbYCCDh5Ap1BBgPex4hkOUlvSOYuDHcE55dQqYtQEiaIHetmPp67UL-cFMb_FJ1YNqS-mzhfl2lZTw-FP0u3wA_jty5JWAQZnO9-Zdbjf3w53Z-CL3HRWNONfenVs3285r9nx9E7y9DlWoebVJ2mY_Fj5RIgQM6MtuVyS8j6LzHtRSJ_j5C4FFfpy4S2vMSDh1XVRQvK7jgy7DJI5uZE6Pp6-_7l4D_rZl0YK5hsVcnVndkjcxcTAoDGLcLcorjndV3BEIdOOQtQH4NGeHQ7OnIZTePp7MRIdaSOSpt3kSF2sSZw1a1rzFeqa-A4BEwYkdk27eQ_GLPF1m; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 18-Oct-2025 16:39:51 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 20-Oct-2017 16:39:51 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.137.1445445591132657; path=/; expires=Fri, 13-Oct-45 16:39:51 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3619628886; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.74.8.46.1445445591112586; path=/; expires=Fri, 13-Oct-45 16:39:51 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Wed, 21-Oct-2015 17:09:51 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[10/21/2015 11:43 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=105354, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=09:43:12 Oct 21, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AusF80Rzq7zAPSpvYblqfJvxCBW7A33n90Jdiawe2GqurhPmQ6c7.DV2, payer_email=celestialcharts@gmail.com, txn_id=3KP97037AH519725Y, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-105354, residence_country=CA, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=4fe530fac7c4a, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: 34f85b259f6d0
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg11-origin-www.paypal.com
+Date: Wed, 21 Oct 2015 16:43:42 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=4MdrcyoZVEbAU1kS7D4v4xZrjDqVRyufLBTbPQKQ9reE2hB2b9nIV6lXUtxCzXLfA7OW4YmqJGMLjQQRVC6pClpahQvatO17mJcdDUH2WMvmnslS-7pNMjOr6nbKvUyGi6KnlhTjZl3NbzM-MXUpTVg5OGzdp6Nb2CirOmS8a-U20txdaIk7QsUqQizonOVnh3puPghsayZI45Ts73dRhV_wSDiJ9fkzQouXKnCK-Cd3ECmutCuqlQ1czpNHhHJfCMsgKooUPDmJ4uBY3t4HkUPVX4NU3q_pjBuYv3O60SmhhSOyIAx8h46SoeWZGrZynYII6lCZ0aScmzJ9PFaxcGxlJBz0Iezjks4y45255GWCzNOx6kug5zVX2wbd0ffsSw3d46tpW71UOTwLDyt9Px3D3BGAYRCLhu7yvAf1wl8ymM6GvUHM7UwKqu0; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 18-Oct-2025 16:43:42 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 20-Oct-2017 16:43:42 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.148.1445445821660676; path=/; expires=Fri, 13-Oct-45 16:43:41 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3183486806; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.1.5.1445445821652800; path=/; expires=Fri, 13-Oct-45 16:43:41 GMT
+Set-Cookie: AKDC=dcg11-origin-www.paypal.com; expires=Wed, 21-Oct-2015 17:13:42 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[10/21/2015 11:47 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=105355, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=09:46:50 Oct 21, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AeaVEL-g-eHF.wNo4QO5tCjZ1TpnAUEI0-ky5ORmuxPLd6zdK4t0lMIN, payer_email=celestialcharts@gmail.com, txn_id=05608615ML8015230, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-105355, residence_country=CA, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=90585ad3a7d4e, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: b6ce2e0c94e2
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg11-origin-www.paypal.com
+Date: Wed, 21 Oct 2015 16:47:24 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=oOoXLXfMWOW3JRfnyEbFrNOg_tkBbH154uU66-Rna24bhij9Q1zPMydPqoY5UFLQek7GfIbGkDFh0Vl-11pbm1Y3OoYWhhiZcNGdsxSaQP_ueh508uMTXJKE3HHz0JwIdIcvnE041uwZBFhlrAVQUYPMqqYb0Fq0001lEE0dea8-jnjYswAaoQFCAYMMGgBXp64EF8cG2bNO8mebHx-n0qoIhFAksWcahtnekXYd20PRUN2lnmPWyCvowI_cp8hPw58xgHh58KSMOhRFUx3q_dUUGLaK-tTK1p54pXoy7xrnTSIU1bxu844FwaBDkQWH5K_f5Rk36aA0JUmosz4U6qKXZa9JEa5tGIhahlFOeOCXcSLtePuVdTFp8y_EYktuZRSFK3Dw7miLW6MtzgXmW-QTWQble3UAQHz6u3oD0CehwEGbV88raBi-P6S; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 18-Oct-2025 16:47:24 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 20-Oct-2017 16:47:24 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.14.1445446043830124; path=/; expires=Fri, 13-Oct-45 16:47:23 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2613126998; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.0.209.1445446043824265; path=/; expires=Fri, 13-Oct-45 16:47:23 GMT
+Set-Cookie: AKDC=dcg11-origin-www.paypal.com; expires=Wed, 21-Oct-2015 17:17:24 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[10/21/2015 2:38 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=105371, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=12:38:27 Oct 21, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AfzPPZH.t0ety8o.ciNBEdPv7r-OA5.RFiJ-S2AW1BBxYuZ6d6cVWTrN, payer_email=celestialcharts@gmail.com, txn_id=1E2467596M931490Y, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-105371, residence_country=CA, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=5fa1b0e97804, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: 9732cb4a7de2e
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg11-origin-www.paypal.com
+Date: Wed, 21 Oct 2015 19:38:45 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=_EEc9CIP2DpLgTwnh48tc9V41xLrhe2E2si9i1qdjFaZXL2yVmF_2EYrzFExiEAek8asKxF2sRGP54ZHXI7848O5ru2q7hXBQykeAEcN3y9ts46dSi3iMx6DXVm4zBYtOfc5gvOLvFBhq_NNfDt7ztw8J_qHLcXLwTDghPfgev1vzaNCq5SpELx43Q9w5LAcy-C290CbKo_HjqPvT1TKrYQqTZaKPyZRZARXrtVDIWU-JsjXIyNdrf-8ncMAecTd7v2M4osu-iocznTWkKHXa5STcoKUdmYnn2Oc_g3OEocpYw--60O8b8NhQnB0ztQ-RqCY8EWWVZkApesV8xo6cDJ2ws9Mzw57-gt_-r-_U9PfHTu_as7clXa6dcJWwvYd5bGR_IGNrJ2G_x6c-UTNew-YRH8zOjZ8G2WG3uH8hyy4emfNOO_4TdDjoa0; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 18-Oct-2025 19:38:44 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 20-Oct-2017 19:38:44 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.148.1445456324521583; path=/; expires=Fri, 13-Oct-45 19:38:44 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3303614294; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.1.3.1445456324515424; path=/; expires=Fri, 13-Oct-45 19:38:44 GMT
+Set-Cookie: AKDC=dcg11-origin-www.paypal.com; expires=Wed, 21-Oct-2015 20:08:45 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[10/21/2015 6:02 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=105407, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=16:02:39 Oct 21, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AoE2q6LSmm2jWsBrbfptlf1Y03Z7AQlcuikGF1hzyeX-JZhYdoL9u.zD, payer_email=celestialcharts@gmail.com, txn_id=5C374844SS236870T, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-105407, residence_country=CA, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=ec69b31738075, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Paypal-Debug-Id: a3eb1f47ca1c0
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+Date: Wed, 21 Oct 2015 23:02:58 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=NDHTzMVxa4wwPmsOR366FWvRszky7r-KEl_Gchr_vBmDsN5_tjOsXOU06baZWYhyHYZFpRpxRmZqikZxv36h6P1W9wUnc0OvXoPKMDJmzO7DcxeT6musE9sG9c2yD6dPpu91jLQJpKpHkpCXtS2ItN81jTkqs9dBcKn53IlsHoHr21L034y1tyqDhbxC2z1mimMzaFT-oRdUEdvrXJ7d16GMwZGP456TegqyL9tslFxaBM8cF6VBan2e6yHYoELoty3_AKt6eeXqXjpeLCPzhHK-gRkeLJBfzDltWRR-6hTXYIf0jTySKi8LjuJpCLhgmBOEVoVUxxoUcEjuBqYp23VBaTfWIk5jumg6hE_xPXt8LCnCG1Yx2Ly6RIU-KnrMUaXh78yPFS63E55TP7I-HemtlrohoGx8fgraD8XDKh2yM94Bvrw6uVCkPWm; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 18-Oct-2025 23:02:58 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 20-Oct-2017 23:02:58 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.134.1445468577839867; path=/; expires=Fri, 13-Oct-45 23:02:57 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2702780502; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.74.8.63.1445468577827666; path=/; expires=Fri, 13-Oct-45 23:02:57 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Wed, 21-Oct-2015 23:32:58 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[10/21/2015 6:55 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=105421, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=16:55:22 Oct 21, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AvEbNOF9p5tt7MWJGWvU-2adE7miAQx1v91RskAyyKG--dc0TTmCfkVY, payer_email=celestialcharts@gmail.com, txn_id=261031347E5089503, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-105421, residence_country=CA, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=1359736a86b07, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: 75f0a1e065146
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg11-origin-www.paypal.com
+Date: Wed, 21 Oct 2015 23:55:35 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=UuqC5sCY_Z6VttLIYIRcBB1mWCLGtc3cgrOtC7sGZe8wBj-wuwjpFs16ey3DSg5_wAbG23q3zC0jxG8TKQi59buvB3KmJKHlwqsn8VIWdruhS-XnPKR543bCObyPMBdsti7iHg-NBtfhk5aI65IkjUnhwmPbU-xrnWkTHAbuK8-yR4sxlNkon8uSMyHGQ4VL0YV8gO6JZMrteChvXK5XfKRFx9iYVKDaqRypin7SdOfmtcbcBoJbtA6v0rJ_v-btmIMjI3qHYX19CRmA7GSjbRBpA2jhnZEONdO2ixIYTtCZ5yu0De3fEjP3KCr2JZvwQhpCYFM_TvxJ-suC7r3KP17yI2-uM5I_M2DzA7wzwVfg7CtXxcjwwFxaqzxo8vNiYTotKGvJIWNJnObX93RtKd_iiiawCwnivGJe3ayM0rJNkjdp9dKsYqPm88O; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 18-Oct-2025 23:55:35 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 20-Oct-2017 23:55:35 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.148.1445471735423411; path=/; expires=Fri, 13-Oct-45 23:55:35 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D4146407510; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.0.220.1445471735413840; path=/; expires=Fri, 13-Oct-45 23:55:35 GMT
+Set-Cookie: AKDC=dcg11-origin-www.paypal.com; expires=Thu, 22-Oct-2015 00:25:35 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[10/21/2015 8:10 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=105422, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=18:10:13 Oct 21, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AAjgpFMc22TbxGEPhBkTdDCfIdQ2AzpQncOIrQJDUBT5IXGEqw3xk.kh, payer_email=celestialcharts@gmail.com, txn_id=2MA83771RU797643Y, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=USD, item_number=AWRP-105422, residence_country=CA, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=82ba1c9b653aa, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: d3ddcfc0ee71a
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg12-origin-www-2.paypal.com
+Date: Thu, 22 Oct 2015 01:10:27 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=jdNPpzpDRuEv_9JWoGDtXpPe2MxOwYXmIK6f9S9o-GOGs7wf6OaHzjn2nwP-Q3q6cfJalFkKcXM_Er88v36wVqFwN_U3tKf9vm029DigxOj3g05osQNSCTwdX7jbgyMAyZNn5FNl4nQ9mnTylyeIzCV2VJ7YxTs5CrlUJTPtKIlnPn4wTIqBWQLro5Id04sJ2It9RMQdJ4Q0MbwShuXBMJ3Wtj9VUIGa1-twYhTJ1Vnb5m071FilgrHCrmZiN88rTP8BsnG-dKLfWPabnJOlz99UV1mIz4noiW3kJyyB6Rizc1NPNZ47EnsxcSftPKeU0KVGr08MrLRUOZ_BYiEaPzFSB2OVOSw8FR6I_UHm80RJNOSF1xPqWxuAoFaS0ijU4p4wufGll-FrFIRANYQf_B1W9txvdfnYAy2bOpHzdAssuW2U5X3p4ecSCde; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 19-Oct-2025 01:10:27 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 21-Oct-2017 01:10:27 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.17.1.19.1445476226984512; path=/; expires=Sat, 14-Oct-45 01:10:26 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE11.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2184652886; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.17.1.9.1445476226976434; path=/; expires=Sat, 14-Oct-45 01:10:26 GMT
+Set-Cookie: AKDC=dcg12-origin-www-2.paypal.com; expires=Thu, 22-Oct-2015 01:40:27 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[11/02/2015 11:40 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=200.00, invoice=32, protection_eligibility=Ineligible, payer_id=NHAHVFH7TB45E, tax=0.00, payment_date=11:40:36 Nov 02, 2015 PST, payment_status=Completed, charset=windows-1252, first_name=Angela, mc_fee=8.00, notify_version=3.8, custom=13156|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AKT9YF3SRMaJwCYrIl0ZYYCB3ktdAdugGYcfprZl6fs1c2n5vypxXDgC, payer_email=ahartbayside@hotmail.com, txn_id=6F795792ND818650Y, payment_type=instant, last_name=Harding, receiver_email=ard@world-of-wisdom.com, payment_fee=, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Elite Customer subscription, mc_currency=GBP, item_number=AWELITE, residence_country=GB, receipt_id=5486-4968-0609-8739, handling_amount=0.00, transaction_subject=13156|en, payment_gross=, shipping=0.00, ipn_track_id=610b4e4057d57, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: 1d42065430cce
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg12-origin-www-1.paypal.com
+Date: Mon, 02 Nov 2015 19:40:59 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=ZxP7CYamhBtNsqv4CXz07zjYcf74vRmXBLsZph_MqvrMf3MNjuUT2gMIGZPFeltE4iUrzYTACaeyA2g3M0wnGmOstwVrVKvzvt9maJTIOiHKfS6OWXb4BKlpbSdtNUYqIw8BrcqACLYz2g14w234SlWMhA2b6Kt02axlTfOSqZzeMES0V_-bc3C32AkowoHh3Pe--YaNh17-t5IjHvRNujxGZmfG40HnLlyMHZZ7WPWLCbSdkIhKdoQ-_30ZkpxEnbkN_F-7ZT_Ui1cR-4j0CZs_sCnW-fJoNks9XyirFe0rZ7W7rONtfYyT-bpCIMLMLfkg_q0mCP-_zRGPpWy7BUyb4k0W13zv5DzplED8Hbozcv0YyJOcOf-Uz5nd3uRF1iRYuVbQMtczujZc7M_8wdZj5IbresO39tKMul8t_fq-hLJYYIaL_xv1JaK; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 30-Oct-2025 19:40:59 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 01-Nov-2017 19:40:59 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.17.1.16.1446493259207687; path=/; expires=Wed, 25-Oct-45 19:40:59 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE11.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1270626134; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.17.0.11.1446493259199666; path=/; expires=Wed, 25-Oct-45 19:40:59 GMT
+Set-Cookie: AKDC=dcg12-origin-www-1.paypal.com; expires=Mon, 02-Nov-2015 20:10:59 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[11/10/2015 6:04 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=8.50, invoice=106294, protection_eligibility=Ineligible, payer_id=NHAHVFH7TB45E, tax=0.00, payment_date=04:04:32 Nov 10, 2015 PST, payment_status=Completed, charset=windows-1252, first_name=Angela, mc_fee=0.53, notify_version=3.8, custom=ahartbayside@hotmail.com|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AoUPOh4gEWsBFoe93ZSXri9ud.ViAPFz.0lvO5gk6mgw0BG2le0Xrg6R, payer_email=ahartbayside@hotmail.com, txn_id=72V28536XS7955711, payment_type=instant, last_name=Harding, receiver_email=ard@world-of-wisdom.com, payment_fee=, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=GBP, item_number=AWRP-106294, residence_country=GB, receipt_id=1427-9166-0963-0827, handling_amount=0.00, transaction_subject=ahartbayside@hotmail.com|en, payment_gross=, shipping=0.00, ipn_track_id=bd993ae4846e5, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: 6bed69791cd45
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg11-origin-www.paypal.com
+Date: Tue, 10 Nov 2015 12:04:47 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=cUWGI65GnHWWXUhSNLZq0QGyR-Id4kwezTMFaiLdphBqE1QXfR0dPHoMPTlnCDiSuEFyVdkZrRL0NEZxVMIVhK9mVcfMHD2ZV2yzwwpkVdVJoPAFiBPmdZunBOfkqswMYDi8kh7m5jQhsph-6gClpuy57Qy4lko_L_7J8kynz5VaxDBaKyzRaKlefl9ewW8KeXPOAifpMRuPPvhttBMX4oxxyUpIBUYrCq2FDMp5RNa6wzheDfwo0d5XgA6vHKVejRAej65rNY5XJN4jjNvZhLQk8S6uer_YAsk4ZTtJZW5yR8iHOvB_3Mb2Tj5pWCin7yrNLbpTavMMm4sO44P2KeXuMWV48-GTZoaph8Aujzm6n-_kGJ8XfsRfozZ02hdOb5fOzAIDSIaEt-3IStBl2L3bUR_bjEt4-Zi7_Ugv9TAMgGKPplV2LnvxAqm; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 07-Nov-2025 12:04:47 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 09-Nov-2017 12:04:47 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.14.1447157087126675; path=/; expires=Thu, 02-Nov-45 12:04:47 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1608335702; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.0.206.1447157087117845; path=/; expires=Thu, 02-Nov-45 12:04:47 GMT
+Set-Cookie: AKDC=dcg11-origin-www.paypal.com; expires=Tue, 10-Nov-2015 12:34:47 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[11/11/2015 9:31 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=106504, protection_eligibility=Ineligible, payer_id=MZPDJ3VTU2E9Q, tax=0.00, payment_date=07:31:26 Nov 11, 2015 PST, payment_status=Completed, charset=windows-1252, first_name=Adrian, mc_fee=0.64, notify_version=3.8, custom=ard@world-of-wisdom.com|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AdD.evllf1vyKV3FfB1GVu4-wywWAIpWfy8PIc88dc-8fLcVcYYJ2JfE, payer_email=support@astrowow.com, txn_id=60C3046708836200H, payment_type=instant, last_name=Duncan, receiver_email=ard@world-of-wisdom.com, payment_fee=0.64, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Essential Year Ahead Report, mc_currency=USD, item_number=AWRP-106504, residence_country=DK, receipt_id=4473-5343-3841-2693, handling_amount=0.00, transaction_subject=ard@world-of-wisdom.com|en, payment_gross=10.00, shipping=0.00, ipn_track_id=983a3a3244a56, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: 7297dfc3870aa
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg11-origin-www.paypal.com
+Date: Wed, 11 Nov 2015 15:31:45 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=OqhWrhqS0cYcHCk35VBaRBkr9A-IIGDCOPSGr94nMyHM9oyD6qzkCIduEHnZ1qb3I2tRZMf7pdSEuEbUMdyaKFtg9olCmkpiWOwk95v9pXdAhUlO8Vm3GXLOpLrBwu66C_O3pYOQF0mqVV1l5VQ5-8tT2xJHDlrfspsnsKClOjtdHHQvN0aYAIZSjBaV3oMzSPY31ylZ4R7RLWbnZxDbYC6QDXx7ZsQGjuZrI1EINCtGME_uT5APchPW-wpt0Yn8dT5y5CBsmTjLHBEkyhCvb8KXFS8YINiFKjva8HiEajdWaBoeu5sTnqGuLztdRh9BOYXjonL0eoyJYtGTEVFPLOC4rz88KodQU-qomnJJ9jHls4Lnt6Jh_Q03RT0zR-SQ3_pG3IzVQCXW3LJyZuF09IZb0kcrsC_-6I0KXUbgJNbY4SAOI45NoJO7WRe; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 08-Nov-2025 15:31:44 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 10-Nov-2017 15:31:44 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.147.1447255904560061; path=/; expires=Fri, 03-Nov-45 15:31:44 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1616855894; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.0.220.1447255904552962; path=/; expires=Fri, 03-Nov-45 15:31:44 GMT
+Set-Cookie: AKDC=dcg11-origin-www.paypal.com; expires=Wed, 11-Nov-2015 16:01:45 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[11/11/2015 1:08 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=106521, protection_eligibility=Ineligible, payer_id=NXFRAP6H8K5PS, tax=0.00, payment_date=11:07:47 Nov 11, 2015 PST, payment_status=Completed, charset=windows-1252, first_name=Maria, mc_fee=0.69, notify_version=3.8, custom=nymphonix@aol.com|en, payer_status=verified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=A87jyxo2FwilBdc83LS9xYcDUhX5ABdPH7T9vYvlH58jYDdTkI3yE89y, payer_email=nymphonix@aol.com, txn_id=6MK18501SC384161F, payment_type=instant, last_name=Martin, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Essential Year Ahead Report, mc_currency=USD, item_number=AWRP-106521, residence_country=US, handling_amount=0.00, transaction_subject=nymphonix@aol.com|en, payment_gross=10.00, shipping=0.00, ipn_track_id=dbe63c6b5ba9, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: 9bd852df66003
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg11-origin-www-2.paypal.com
+Date: Wed, 11 Nov 2015 19:08:09 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=7h2LwTloE9C-XbXkvYeeqD_fBA3WaZ35q9rQ5JxUB6-3H_ywHiSyUkrN0CAo1fCYc2eAfb73dUk6hr1RtSMpcljRAu36eF2ELzWYAo90NIux13TtYhyfvNEEChAvM-9jJpAtiQZOisCc3gh0DITZ8IFDlCw6xG7WWpljqc46tbHCoZNjdgsvC1pkIYBLywf5ojUhh4T-f-CEUXvV6B9Oab0pVMaQQcMoqvGU4nXdZjljjPm5VaSt89Pvf73BG291vV7InihGcWRs4phDhKMeGxynAffhp0lF0L-mON2-HMyBjZgfhypMAmbXnNBveW191mf_Az6fTSutRmFytCxQedkZ77ZWhAxRy42iIBycSfsf7SRuQ7WYsp2kh0AyawdbiK1tRoTQRkY80E-uDeTqgGRcDQwyHgldZE99uEOhUEB3mVDDK4ZZoVWMfk8; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 08-Nov-2025 19:08:08 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 10-Nov-2017 19:08:08 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.14.1447268888425846; path=/; expires=Fri, 03-Nov-45 19:08:08 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D412238678; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.1.3.1447268888417584; path=/; expires=Fri, 03-Nov-45 19:08:08 GMT
+Set-Cookie: AKDC=dcg11-origin-www-2.paypal.com; expires=Wed, 11-Nov-2015 19:38:09 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[11/27/2015 9:14 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=8.50, invoice=107524, protection_eligibility=Ineligible, payer_id=UTGAR67EMDGC2, tax=0.00, payment_date=07:09:15 Nov 27, 2015 PST, payment_status=Completed, charset=windows-1252, first_name=Angela, mc_fee=0.53, notify_version=3.8, custom=ahartbayside@hotmail.com|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=Aw8zRfpueKsgvt5zrQjmVRwd7ZQ2AhgqUGnjO85YSieSCpGnyUVy-KPz, payer_email=ahartbayside@hotmail.com, txn_id=48F28450J3979242W, payment_type=instant, last_name=Harding, receiver_email=ard@world-of-wisdom.com, payment_fee=, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Essential Year Ahead Report, mc_currency=GBP, item_number=AWRP-107524, residence_country=GB, receipt_id=3881-1688-1920-7823, handling_amount=0.00, transaction_subject=ahartbayside@hotmail.com|en, payment_gross=, shipping=0.00, ipn_track_id=966a6a0be0730, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Paypal-Debug-Id: 23913fbbe0992
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+Date: Fri, 27 Nov 2015 15:14:00 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=XntiDl7181HQbnX4fI70IogrSXRNEnFpkfWeOcmxuDDklm1VUotOXIx7Qj9uHju-bEicZFHquxSmuQA-6hTZ_rvWsOidCKMz0hJ8EE2qS76eZm8myIMa4I8bp94xWNTDcRITH-BtDyi82CeeawDIWQBiaUty1vkyWU-3CkoAZqxhodEDp3LbR_-OSZPbHRdfARKi64Wb81OSv0cQzy7BIDP3O5cSXAjHVldhBeDCeNblKfKe8NS1ySC3bPSnouJeYfuLOoKlgQJ9OjSXZBGBHKuoe5qAUIaNiEvBsXzyGjRcf72Vz2kitCbs_lAmGAOg9YP8KQVHoiMDUQHe9SN7bsF9Yiil63cxzJ11HB3k4YqaKjqqiBDOEg495y7EBRKIVpd6eOzf5z2-vyuqG9ZgYgC-U6rBuyAdTgQnja7yoY3lsjm_2PUD06FtRgW; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 24-Nov-2025 15:14:00 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 26-Nov-2017 15:14:00 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D930306134; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.74.8.70.1448637239919768; path=/; expires=Sun, 19-Nov-45 15:13:59 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Fri, 27-Nov-2015 15:44:00 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[11/27/2015 9:41 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=8.50, invoice=107525, protection_eligibility=Ineligible, payer_id=UTGAR67EMDGC2, tax=0.00, payment_date=07:41:10 Nov 27, 2015 PST, payment_status=Completed, charset=windows-1252, first_name=Angela, mc_fee=0.53, notify_version=3.8, custom=ahartbayside@hotmail.com|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=Arh.bf6SLGaWNX9ioGSayx0llHcLAKZ1HuSJPi6hOsQBvo7UZwSAZ50f, payer_email=ahartbayside@hotmail.com, txn_id=6AS99045DU053514S, payment_type=instant, last_name=Harding, receiver_email=ard@world-of-wisdom.com, payment_fee=, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Character and destiny report, mc_currency=GBP, item_number=AWRP-107525, residence_country=GB, receipt_id=3220-0861-5269-0779, handling_amount=0.00, transaction_subject=ahartbayside@hotmail.com|en, payment_gross=, shipping=0.00, ipn_track_id=3590da93bcc07, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: bc516b7014192
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg12-origin-www-1.paypal.com
+Date: Fri, 27 Nov 2015 15:41:27 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=gr9xmL7WLMtqHJ442QUSse3NX0O8DTruQ9AtyVvDpguDGhAoJ-vMywqhpVBfblsCpWP1NZ-TK6MhVuSSxF8NVTE-nUo7neyOd0pavefVqsVcTLHCCcdabDQWowGif8YOWnPCCVjIzs2dnHGE-5qbmdHpZ2yOvsS8rDNOjLXMYIPhdOMKfkIKy1TW4QG9OOa2leMncpYzd6qgIA1bcJDQPCVh6_02C6Sdb25G5GV6xp9oh1lqNIcQZ4co_oXz5keB9b3k9PKUymDr1QjRo68dllQZ0Z5pguCi2z3T6C0I13PBhDFp-dyEPcxkuymRgiiHBeTNH1Q_SjP7KnXZ5wBk88le58xWcoUInpwnf3AS_hoXts4jimL-lamBhqHdn7eWuTunJvoSthKbBz3EBn9ytwElSMI62f9gODxS_NRLNeLSH7nCKU4twwjpVhO; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 24-Nov-2025 15:41:27 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 26-Nov-2017 15:41:27 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE11.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2809747542; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.17.0.205.1448638887082138; path=/; expires=Sun, 19-Nov-45 15:41:27 GMT
+Set-Cookie: AKDC=dcg12-origin-www-1.paypal.com; expires=Fri, 27-Nov-2015 16:11:27 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[12/05/2015 4:31 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=8.50, invoice=107883, protection_eligibility=Ineligible, payer_id=UTGAR67EMDGC2, tax=0.00, payment_date=02:31:22 Dec 05, 2015 PST, payment_status=Completed, charset=windows-1252, first_name=Angela, mc_fee=0.53, notify_version=3.8, custom=ahartbayside@hotmail.com|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AIFh-1k-U5zD-1Fply0eqtX1NZHYAd-ZOMbl7FFN-foTgvZ4NBUZET-b, payer_email=ahartbayside@hotmail.com, txn_id=1V237628G56556024, payment_type=instant, last_name=Harding, receiver_email=ard@world-of-wisdom.com, payment_fee=, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Astrology calendar report, mc_currency=GBP, item_number=AWRP-107883, residence_country=GB, receipt_id=3178-8229-8528-3891, handling_amount=0.00, transaction_subject=ahartbayside@hotmail.com|en, payment_gross=, shipping=0.00, ipn_track_id=e72e68044ad84, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: 24e08738499f0
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg11-origin-www-2.paypal.com
+Date: Sat, 05 Dec 2015 10:31:35 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=mZQDDHtNuVGCHDaX1q0VTmFiWETzEy6FVsp0wr7eeWIQ2BgzB3hQ3X-f8BzhVObhDiK4AkIjcRIGoP1ibMxtZGZugwqRkqDH3OYuuthMa5gbXnAaEMKbZpp6SQVwShI5htc9NvbiBCvAV9N18UVZ3PIONcd3CGcCnlwggdok_lqcUdmc0yCV_rnYigsVctN74elVs01y14npzAKaP7JvhPwx0NS0yhesoXLKfOfsjwF7Kzlq521rZ0gCT3I7vTA0fAP5M0xsNVljquEbYOBtH4TVVMqMhWE_augHgStF89PT2LPhh1HPOoZuth-vbvRNDc2NKxQH5UHZumz4mn-DqsQvM-wfllRg8kMsW4Q9n_ijsD_tVHOlh5HGXQjzEeQkwt9J0g-fZuLpYt-VfBCUuL5wXN8N17tN4hQrVdFb5PMb2ya-MahQF-r1IzK; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 02-Dec-2025 10:31:35 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 04-Dec-2017 10:31:35 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D129851990; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.0.209.1449311495301384; path=/; expires=Mon, 27-Nov-45 10:31:35 GMT
+Set-Cookie: AKDC=dcg11-origin-www-2.paypal.com; expires=Sat, 05-Dec-2015 11:01:35 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[12/05/2015 5:05 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=8.50, invoice=107884, protection_eligibility=Ineligible, payer_id=UTGAR67EMDGC2, tax=0.00, payment_date=03:05:39 Dec 05, 2015 PST, payment_status=Completed, charset=windows-1252, first_name=Angela, mc_fee=0.53, notify_version=3.8, custom=ahartbayside@hotmail.com|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AzMNkTxgBvm9UMEVF6xwI2k3UvAsA5VBzBnPUNo5HAm8Hqk4iuGPyfAH, payer_email=ahartbayside@hotmail.com, txn_id=65S07022JT9531836, payment_type=instant, last_name=Harding, receiver_email=ard@world-of-wisdom.com, payment_fee=, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Essential Year Ahead Report, mc_currency=GBP, item_number=AWRP-107884, residence_country=GB, receipt_id=0658-2929-1415-8041, handling_amount=0.00, transaction_subject=ahartbayside@hotmail.com|en, payment_gross=, shipping=0.00, ipn_track_id=8e787341b27c5, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Paypal-Debug-Id: f298d41d601e0
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+Date: Sat, 05 Dec 2015 11:05:53 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=nYHAUaaFHNbcrUGZ7wExgA1vzMgm1hcPiEJzxSz9LDlXKLeBir1aGQSjC3Nwv4vZdE35iweiWbaIuz69V1AmPOXnSxGSiYOSICWGNOfZ9Ec8sU0Riea0x67ielQ2NwQhr6QBhNwwvyeZ6d-XN4sDGXG6goCtbBRn12V8JwAZICSu8dTsz19IJWj_hzj4CypwZPZDl2wdvJE4TqUEsf-AWUzPNsshMlewiHefbOGiaHb6hDBvIGJZqiLegG3R4BMJmlKpSc43zcgb04dkjl7M-6YwpR69ZtTa80s0aVIN9gL9Bbtde-u0EFBn4e0Qj1-32CXdFNQ7t83xJX_khi3b2dVdBk5FHN2dahfD05V8xcSjVwxURfmlLVNAGmJGBiO9MEyMKuZJVjRlbbHjhl6izCHxA7YAtnJCetfwvvUiwCuWHwlBJNc9Zl7ijoi; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 02-Dec-2025 11:05:52 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 04-Dec-2017 11:05:52 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D281371222; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.74.8.65.1449313552393546; path=/; expires=Mon, 27-Nov-45 11:05:52 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Sat, 05-Dec-2015 11:35:53 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[12/05/2015 5:30 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=8.50, invoice=107885, protection_eligibility=Ineligible, payer_id=UTGAR67EMDGC2, tax=0.00, payment_date=03:30:09 Dec 05, 2015 PST, payment_status=Completed, charset=windows-1252, first_name=Angela, mc_fee=0.53, notify_version=3.8, custom=ahartbayside@hotmail.com|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=A--8MSCLabuvN8L.-MHjxC9uypBtAWMP9MkEF2sfcb2I9x129rUhiLs0, payer_email=ahartbayside@hotmail.com, txn_id=4XT630219K785523D, payment_type=instant, last_name=Harding, receiver_email=ard@world-of-wisdom.com, payment_fee=, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Essential Year Ahead Report, mc_currency=GBP, item_number=AWRP-107885, residence_country=GB, receipt_id=2906-8080-7938-4779, handling_amount=0.00, transaction_subject=ahartbayside@hotmail.com|en, payment_gross=, shipping=0.00, ipn_track_id=f0d034a9dda47, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: b171e6862b9d9
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg11-origin-www-2.paypal.com
+Date: Sat, 05 Dec 2015 11:30:22 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=XFDFp4gXaRYr0ynHj9s6s59hLrDz0LC0hKC2gb2Ni16j9G3ApSbcm5DwfWtO4rqmSQ7LIRtQF_5eW3NSxF5BOVK_MAXlfozMa6e0M6wQAPOxxj2TO5LsdvgxbZ_qdW5UAw-cmPygoILSYriowQW5gPqAyR3jhdPSRcypOEQnEUt6Yf_ijmm5GKToCWDtRtMuNLUzJDd-mi8bsK409WaFtZFe_mWK6x1Dj_e_QhuRnBuM2AxIjfUK_US9hIzquRFgfukaRwQarhG8W4zxbvOKS6L_Gw1krm3T2tmWYl8LyT3K90X29pj8d8NGHeK-YFDmJ3dkQ0wAzJT6SkQiqaQxkZlD7VoroW3u8u-Y1HzDlMYCXvWe1W8cqEuMTMkCvsVBnmC7WDG2qIAbB_WNK5-FQ7zvKjuRq9df-c9RpNVblbOg3MaW5frDVK367vi; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 02-Dec-2025 11:30:22 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 04-Dec-2017 11:30:22 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3469369942; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.1.2.1449315022178467; path=/; expires=Mon, 27-Nov-45 11:30:22 GMT
+Set-Cookie: AKDC=dcg11-origin-www-2.paypal.com; expires=Sat, 05-Dec-2015 12:00:22 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[12/10/2015 2:52 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+transaction_subject=ahartbayside@hotmail.com|en, payment_date=00:51:50 Dec 10, 2015 PST, last_name=Harding, receipt_id=2906-8080-7938-4779, residence_country=GB, item_name=Essential Year Ahead Report, payment_gross=, mc_currency=GBP, business=ard@world-of-wisdom.com, payment_type=instant, protection_eligibility=Ineligible, verify_sign=A19LTdRzlGQP6UdbKKthOR8iXy-HAVFa8Q9cF9qZcUr-UxG2TEom22ti, payer_email=ahartbayside@hotmail.com, txn_id=20A479742H956720L, receiver_email=ard@world-of-wisdom.com, first_name=Angela, parent_txn_id=4XT630219K785523D, invoice=107885, payer_id=UTGAR67EMDGC2, receiver_id=VM4HV6HR8W4Z4, reason_code=refund, item_number=AWRP-107885, handling_amount=0.00, payment_status=Refunded, payment_fee=, mc_fee=-0.33, shipping=0.00, mc_gross=-8.50, custom=ahartbayside@hotmail.com|en, charset=windows-1252, notify_version=3.8, ipn_track_id=516a8613438f0, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: 29d478aac4c6
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg12-origin-www-1.paypal.com
+Date: Thu, 10 Dec 2015 08:52:04 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=y0kI-FcDOQWw5YKWxmqoMzpyzeJaN54AB-P__FM1fSVnSDpc-VOsGmXzFEzEci0qMuz4JHtb1g6g9oxWfEhd_uklne8dUlKDlEpz15_bnTg4eniG9nuAMaZ7mqtiHODC2CXeTe2lBXfi9vjFlbHhlD744DzHubhUNRnEoXzFS5t4TEZZ7R7U3nCc_j63soxUcv1lV2Ra_kv1phJTBi8MYfpboajvfVSosnHBPGPUSMI2iDzScLWRvQV8Ixww6dsUeXp4Y92t56cMBLoEjsYK7DUWKwABolYUB85HVdDuIBpGtL2y9cdaug99o9jui8wZ-pdqCQTAHOoykMDoLc4Yu2U1Z8D8O8LhALFY-r0Swn0K5Xuidz1c7M_XNKLYxeJX0pQ4cNJ-ix53eySvvcq44IKp7gvpj9-BjQJdeUNFvNnsZd3QOAfXt9pF5zm; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 07-Dec-2025 08:52:04 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 09-Dec-2017 08:52:04 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE11.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D876439894; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.17.0.202.1449737524049064; path=/; expires=Sat, 02-Dec-45 08:52:04 GMT
+Set-Cookie: AKDC=dcg12-origin-www-1.paypal.com; expires=Thu, 10-Dec-2015 09:22:04 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[12/10/2015 2:52 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+transaction_subject=ahartbayside@hotmail.com|en, payment_date=00:52:36 Dec 10, 2015 PST, last_name=Harding, receipt_id=0658-2929-1415-8041, residence_country=GB, item_name=Essential Year Ahead Report, payment_gross=, mc_currency=GBP, business=ard@world-of-wisdom.com, payment_type=instant, protection_eligibility=Ineligible, verify_sign=A3DFu3oMx-QFtI4pJ810JazJk0X8Aa7.VVmx1ByGhLFwQqNFh36TEqV2, payer_email=ahartbayside@hotmail.com, txn_id=0X39311537370290P, receiver_email=ard@world-of-wisdom.com, first_name=Angela, parent_txn_id=65S07022JT9531836, invoice=107884, payer_id=UTGAR67EMDGC2, receiver_id=VM4HV6HR8W4Z4, reason_code=refund, item_number=AWRP-107884, handling_amount=0.00, payment_status=Refunded, payment_fee=, mc_fee=-0.33, shipping=0.00, mc_gross=-8.50, custom=ahartbayside@hotmail.com|en, charset=windows-1252, notify_version=3.8, ipn_track_id=5233cf6e47917, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: 5fb1d0d93b017
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg12-origin-www-2.paypal.com
+Date: Thu, 10 Dec 2015 08:52:49 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=GcZmddAs10p4uGcDOkyQ0rbVCD_3X7oLJlJn99uFnbGHSXD8cJ5iMKYF6a-_WUMjcQr80AgsDSUTFwwLwiyOcE5voCR80dRY7o6HRQy1SPlAGdekvW223jH33jIrxJC_zKY_NHCOguy0Q2fKYaF-ql7MbRA16UStC3WguEfrzyH-dM2nnImnJloM_oFJ33wMkOlH-6H8ULsdiLYlBX6QDOfhxXsTF-6moWVyDy3d-ATb_awDObfAj9hFlZtUFTfPqB7ZubvXCNd4woUfPd8vAcpTFOxJ7sSUs9ibNNM--_hEkpbLXHZavS3IYql6tbP-WV2NEP7WH49HjQtyWUUDIUVt5oUi3aoif1qIeg5HqQ0HZpSXuw_5HeADLoPITevPju8Oi5C7qyFHN_EceadMclhoWDS2AidH8fxJckcNetqlqhoanLDFG6sKlYO; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 07-Dec-2025 08:52:49 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 09-Dec-2017 08:52:49 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE11.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1631414614; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.17.1.6.1449737569241494; path=/; expires=Sat, 02-Dec-45 08:52:49 GMT
+Set-Cookie: AKDC=dcg12-origin-www-2.paypal.com; expires=Thu, 10-Dec-2015 09:22:49 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[12/10/2015 2:53 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+transaction_subject=ahartbayside@hotmail.com|en, payment_date=00:53:14 Dec 10, 2015 PST, last_name=Harding, receipt_id=3178-8229-8528-3891, residence_country=GB, item_name=Astrology calendar report, payment_gross=, mc_currency=GBP, business=ard@world-of-wisdom.com, payment_type=instant, protection_eligibility=Ineligible, verify_sign=AjqhpemyaYFA4DwS5LmK6qO1y4tiAUyoahZ9DSbvhZRTAr8qgNTUIq-T, payer_email=ahartbayside@hotmail.com, txn_id=0NU3697165714093H, receiver_email=ard@world-of-wisdom.com, first_name=Angela, parent_txn_id=1V237628G56556024, invoice=107883, payer_id=UTGAR67EMDGC2, receiver_id=VM4HV6HR8W4Z4, reason_code=refund, item_number=AWRP-107883, handling_amount=0.00, payment_status=Refunded, payment_fee=, mc_fee=-0.33, shipping=0.00, mc_gross=-8.50, custom=ahartbayside@hotmail.com|en, charset=windows-1252, notify_version=3.8, ipn_track_id=969ea45fd6c1d, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: e9ba342125290
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg11-origin-www-2.paypal.com
+Date: Thu, 10 Dec 2015 08:53:27 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=EknhxyFgSoeVJu1IbIzFkJiftPmRCh-VFRsSbAUxcm6-tLmbadXxE-uuCfsEyq3Hil2TY09BdHNOOSeAjukIDcTxnsYUnlpUtKlipMhRCFTrzOmhmg-WU8yJxBuQuXBkP-nFTicSntQbRs29aSemdTytW_-rY7wvR-8iuPkGUqCPUZ6ef8sy8umHypEo0Bp3FgmVGk5XRECGwSmIXyBwekGLDGEjtLe9XLddF0Pn2lM22-yF06ku4bZROU-x9gK7qRIcGibglOYB8tA_2IWEs88VQeBn-A0Ei3TwknyMXYf-YhC6VO_iICY0GZSnINPuT1NHirMoVhObr_DnbxOIy95z4ot8NzJlGncPex0yO810oBEzyp5psD9X-fNI6XqvpRKXjzSVO04HZBEMVxWomOWiAvXJdS7SR2PkPnJBxJHPiUPxaH-_ze0UteS; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 07-Dec-2025 08:53:27 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 09-Dec-2017 08:53:27 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2268948822; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.1.1.1449737607152036; path=/; expires=Sat, 02-Dec-45 08:53:27 GMT
+Set-Cookie: AKDC=dcg11-origin-www-2.paypal.com; expires=Thu, 10-Dec-2015 09:23:27 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[12/10/2015 2:53 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+transaction_subject=ahartbayside@hotmail.com|en, payment_date=00:53:47 Dec 10, 2015 PST, last_name=Harding, receipt_id=3220-0861-5269-0779, residence_country=GB, item_name=Character and destiny report, payment_gross=, mc_currency=GBP, business=ard@world-of-wisdom.com, payment_type=instant, protection_eligibility=Ineligible, verify_sign=AJVShSTLh32GBAW7MkBsVJB4I2hGAvjNG5vsEiKD5eK4mb95Bh5aSGg7, payer_email=ahartbayside@hotmail.com, txn_id=3K060244700454438, receiver_email=ard@world-of-wisdom.com, first_name=Angela, parent_txn_id=6AS99045DU053514S, invoice=107525, payer_id=UTGAR67EMDGC2, receiver_id=VM4HV6HR8W4Z4, reason_code=refund, item_number=AWRP-107525, handling_amount=0.00, payment_status=Refunded, payment_fee=, mc_fee=-0.33, shipping=0.00, mc_gross=-8.50, custom=ahartbayside@hotmail.com|en, charset=windows-1252, notify_version=3.8, ipn_track_id=ee1b5abf8b53a, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: acb480876082c
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg11-origin-www-2.paypal.com
+Date: Thu, 10 Dec 2015 08:53:57 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=ml6H2WW1VJwL1vxst91Sh3Fve18_m7kqDQFJdneYlXL191zO3ushad8ZJ2y5iqgOTQI9HE_c8SW9WMuWCZb8Av1QJ0WC-3zoD-nMYHXUh8WeOM79jDZpfzQbcy4yT5Ph0Pb0m4IrOPCAVMSYpY7uyL4ef3V_SA0xryBjYZtMTgQpxX93lt-qxqcFHqDclBve6ZAM-S1UrS457fBrCs7uowls_LJTR8bC5kgcQIUDEhv_bFXnN0nef2f3aLt1yarn1ZDfYQs-DWi1qUdJiLyJ3wAuGQDoPvWbfFQ5Sp3hUvKCjRKjirW5-_JKCt0xA1fMUowUooFOylGxC5jFYVWG6O_s9DCFey51sjFxc0yN9j-MmflBawa8po3jcA8_E_MZmhVeT8GK4HcxdfQkaMMmPe7XKBPsdLqTGm7WhgvO3EN7_Rh034h6kkUd4BC; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 07-Dec-2025 08:53:57 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 09-Dec-2017 08:53:57 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2772265302; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.1.5.1449737637395143; path=/; expires=Sat, 02-Dec-45 08:53:57 GMT
+Set-Cookie: AKDC=dcg11-origin-www-2.paypal.com; expires=Thu, 10-Dec-2015 09:23:57 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[12/10/2015 2:54 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+transaction_subject=ahartbayside@hotmail.com|en, payment_date=00:54:19 Dec 10, 2015 PST, last_name=Harding, receipt_id=3881-1688-1920-7823, residence_country=GB, item_name=Essential Year Ahead Report, payment_gross=, mc_currency=GBP, business=ard@world-of-wisdom.com, payment_type=instant, protection_eligibility=Ineligible, verify_sign=AsJz4qAjyEeCiEOUQRYidlMalQpnA76KyJS6.JpM5OflhICCEkdz.57d, payer_email=ahartbayside@hotmail.com, txn_id=6MN38160MM064403M, receiver_email=ard@world-of-wisdom.com, first_name=Angela, parent_txn_id=48F28450J3979242W, invoice=107524, payer_id=UTGAR67EMDGC2, receiver_id=VM4HV6HR8W4Z4, reason_code=refund, item_number=AWRP-107524, handling_amount=0.00, payment_status=Refunded, payment_fee=, mc_fee=-0.33, shipping=0.00, mc_gross=-8.50, custom=ahartbayside@hotmail.com|en, charset=windows-1252, notify_version=3.8, ipn_track_id=4b9e340016b5e, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: 66b9c9067eb67
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg12-origin-www-1.paypal.com
+Date: Thu, 10 Dec 2015 08:54:32 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=j3pWBuDLkSz5sQ-qjvEUSDF-EYraP7DWGHPkBlF7IQrpYKUD5pgE93AbOqxCACEwMhCz80ggOxyTKjtbGvlIK1LrouFU7F2iNUt3fg4RKpNgrnhdXflS1YTd8UD6FICKr_aAxZeggYAqR68wSP6gUSQ9XKE41QvXy4__pDLFkg4AmO06G9jUW8_QZobyz-8u2ecGpRPLesHw2_vx6TuaVwpDVaeZzXSmcSBKMSEELGtYT5wjHgBxf3Q8n1nkTCH-XZaUhCOmEN8xbmPuD9yUX5PR_JmRS0BnvQE7lEU4fQ0oJBoW_xHhcnwloXz2ObTX7zExfda96WzcRyIoevwOHVv0Uvc0Qy1Tmxt-QnEwwjXPUvh4gJSXMhTnW5VPkIDRjscpnjGwM7oUEFL2akcVUAEzSP9jQoYJB8r1MCQo65NRO03M6YLolu-tm5W; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 07-Dec-2025 08:54:32 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 09-Dec-2017 08:54:32 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE11.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3359467862; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.17.1.9.1449737672518839; path=/; expires=Sat, 02-Dec-45 08:54:32 GMT
+Set-Cookie: AKDC=dcg12-origin-www-1.paypal.com; expires=Thu, 10-Dec-2015 09:24:32 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[12/10/2015 2:55 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+transaction_subject=ahartbayside@hotmail.com|en, payment_date=00:54:50 Dec 10, 2015 PST, last_name=Harding, receipt_id=1427-9166-0963-0827, residence_country=GB, item_name=Character and destiny report, payment_gross=, mc_currency=GBP, business=ard@world-of-wisdom.com, payment_type=instant, protection_eligibility=Ineligible, verify_sign=ABrEPiJ9Thtd57STMuL7FmmZ-aC8AD-If6uIR7epqMTWG5N0tZUFq5Ju, payer_email=ahartbayside@hotmail.com, txn_id=2B712118KP220520D, receiver_email=ard@world-of-wisdom.com, first_name=Angela, parent_txn_id=72V28536XS7955711, invoice=106294, payer_id=NHAHVFH7TB45E, receiver_id=VM4HV6HR8W4Z4, reason_code=refund, item_number=AWRP-106294, handling_amount=0.00, payment_status=Refunded, payment_fee=, mc_fee=-0.33, shipping=0.00, mc_gross=-8.50, custom=ahartbayside@hotmail.com|en, charset=windows-1252, notify_version=3.8, ipn_track_id=28d74d6d58361, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: bd837b78c695a
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg12-origin-www-1.paypal.com
+Date: Thu, 10 Dec 2015 08:55:01 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=qO8ZIJc3XFjMjxu8Men2gEZNiFQiHxfOa9UTVQK4qAqQtmir1H9hYuP8Kbh__H-8NFu7XhbkNQV5Let3tfIBqoyS7eit_hZqKeFLys9qrrWBhjHSW0dUFUVxOmQwQVHBeARZjSSUoHS-pWg52g1m9sONly457MYQ5dOvD3HR614i-eojqFI_Kjd-eNzku2_cOp7AJZhUwwUzkUbvECh89RpjsBZSfh2l4pmD6qLeV9WzFp-bMMggJ4GkTTNaV86kXYJGmj8F8JkLjTw3rO_DM4tDgOFjSp93tx-WMrlqMLzKhCrwXrPgVl33hIVRwORL9h6yd_8DSYdvhJGlvd8014fVD3Ms15iMSdSUoWgqwOz7Y2zzAptyDD2WghMHsZuxtiQY8AZGdkCyiGB5Z51PABZima7fUTfKVXujbIPQVSzevHgV4pv5BUdwZj0; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 07-Dec-2025 08:55:01 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 09-Dec-2017 08:55:01 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE11.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3829229910; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.17.1.6.1449737700813214; path=/; expires=Sat, 02-Dec-45 08:55:00 GMT
+Set-Cookie: AKDC=dcg12-origin-www-1.paypal.com; expires=Thu, 10-Dec-2015 09:25:01 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[01/01/2016 2:24 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=110207, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=12:24:13 Jan 01, 2016 PST, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AGdSg2YsncSQ8hPv7DXG6otEOW73AJfq1VSVIYlbhOpqbE48aWFOjq2J, payer_email=celestialcharts@gmail.com, txn_id=2H436544BF069315W, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Essential Year Ahead Report, mc_currency=USD, item_number=AWRP-110207, residence_country=CA, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=48695d421c973, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: 235a96b4a0d73
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg11-origin-www.paypal.com
+Date: Fri, 01 Jan 2016 20:24:27 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=I19C7KOHObQ92BUZIPxIu47QT6NI7jftVcFTFiQEUsbKhJrI3cX19tIaSOdaKkp3F5ZWNB6ff-VrUd1-CsIkYJjFYcra46n4UtRjMI-_xX92vWANkWC12TfdaxtGc4FS1wMRfJN4eFcQgBCeOKK6NWot_JMArkbatYaUsNXqgeet_APGHfK7nqxgpxcLmqLX4rUcjzwQ1jmAxuvfWaxp5sbUNcEyCtku0xiFHMk70t8Hgsxl2LZjrl42Aloh_F8yS-et0nGh4JjjVt-M6uZ3Z8SxeqRlgN1KXaN8bFzxqDGlbO9KMxxGtc5N-F8U_Om4s0AcwjIAuG4MyZWqMpNlSD29Qdzr7aW2RegQMQ632TdwaNO5UZ8kRwelBtKjyldJBJ5eGzZbCnRZTQqqq_04L-mPNMtgKBVRFk7gAluuMSv56tkWaeK8YZM7DR8; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 29-Dec-2025 20:24:26 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 31-Dec-2017 20:24:26 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2061534806; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=dcg11-origin-www.paypal.com; expires=Fri, 01-Jan-2016 20:54:27 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[01/10/2016 6:19 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=110895, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=16:19:40 Jan 10, 2016 PST, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=A6PTjOfiTatr8V8rW-LMQo5HYsGGA-s8RdEAaW6najN17tu.kwT0PObs, payer_email=celestialcharts@gmail.com, txn_id=06833978TX285231J, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Essential Year Ahead Report, mc_currency=USD, item_number=AWRP-110895, residence_country=CA, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=5af53a33b4fb1, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: 403b6d5c8daf
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg12-origin-www-2.paypal.com
+Date: Mon, 11 Jan 2016 00:19:51 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=0TGgQVtLn1WPkjtmZOgW3ds10mhLACu6KdFGoSIjt3PdlwYO9K8jvVQ89mIG54r3lB5YvA8mZEsqFSwCSl-z0Ep-e5CsHK1-Sjm00KvYdYcbvots9rWf3cMH-_vkcE7cw-yWEmuSAcR_IMFvS03sL1qJJHggvqiyGAw1FKUl7U_XpNTsZjyqi9gT00VxZRLVq__3SW-BJpctdsyKhGtGUNtnn_pRHZTBOwRyErT4u5bAfwV0bbM8n6VprpGXQTDZ7AqzvEnWCFe8sxOcpZlBxKA3LS3rwyIMQu9g71rswoCEJctIn0ddsODG2sz1TGvLB-5QZ9yUEkn6bzwg4iXEbMk4Ov5q_cw0Mx6pv3CB91VIYlc7RjD0fpLdpF6MPur8lB-41Jx9fYd8BFb42roVIh4F1F2waovwHuVNIHL-SntF6jUBujkHf7tAV1m; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 08-Jan-2026 00:19:51 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 10-Jan-2018 00:19:51 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE11.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D653627990; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=dcg12-origin-www-2.paypal.com; expires=Mon, 11-Jan-2016 00:49:51 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[01/10/2016 7:30 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=110911, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=17:29:57 Jan 10, 2016 PST, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=A.6agYmggJN8JyvOjdfakihnHyI9ARvewPlp0jnuCJMBVbK6.1zp-hyV, payer_email=celestialcharts@gmail.com, txn_id=0TN24869TG614033F, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Essential Year Ahead Report, mc_currency=USD, item_number=AWRP-110911, residence_country=CA, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=ca5c73499371f, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: ecf047351d9f3
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg11-origin-www.paypal.com
+Date: Mon, 11 Jan 2016 01:30:09 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=4biOhcrlGzg2cWiJAgeBFhbsjrbCzjuBjx54opi7rhZufWZnyQ4ejEXsPjRlOZVzzNZJAgGtKKKmxpRCO5zr7tnlxel9jI2dR3kBlx7uSUMwuQ4hQBNOKKCLwUh_bBYu3NAPMHpLWYEe6Q6Hj_X5tTzXni0Dw_ulBPmpjZvvlws2pVyx2_Xsjbc9fSal3qnMjGZPTfMtVZcS_8hDFq1BMtVvMjqy51HRLJQWf33tvUsgerVC1i1bQzuZKEStqKkBlrueeuub8txUq2FbaJZ7Ny79zwX5BxhoXBcwSNR-eZfEg9aIl-9HYxTP40nJQsSDh6gZM3g3UIm_fI58ijRBRMldetoTK1anCoGXP09Bz_wg0RJ7aNJbD8QLtsVPRwHXF4DU9Qj-LpZVd6hLTJEcBd_RnaRBY8xojXgUxN3caOZzRMNACgE1f-xUGiq; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 08-Jan-2026 01:30:09 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 10-Jan-2018 01:30:09 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2701497174; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=dcg11-origin-www.paypal.com; expires=Mon, 11-Jan-2016 02:00:09 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[01/24/2016 4:09 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, invoice=112517, protection_eligibility=Ineligible, payer_id=TQEYX5NSS3UMJ, tax=0.00, payment_date=14:08:45 Jan 24, 2016 PST, payment_status=Completed, charset=windows-1252, first_name=Michele, mc_fee=0.69, notify_version=3.8, custom=mcherot@shaw.ca|en, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=A3a1nKXGdVr68tqqQ8tFCgXJxlpxAmWtUcg7WI6voikLDwSB84R7s.JH, payer_email=celestialcharts@gmail.com, txn_id=9W4136242A684361R, payment_type=instant, last_name=Cherot, receiver_email=ard@world-of-wisdom.com, payment_fee=0.69, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Essential Year Ahead Report, mc_currency=USD, item_number=AWRP-112517, residence_country=CA, handling_amount=0.00, transaction_subject=mcherot@shaw.ca|en, payment_gross=10.00, shipping=0.00, ipn_track_id=58b9d53dbcfab, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: 75370047db364
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg12-origin-www-2.paypal.com
+Date: Sun, 24 Jan 2016 22:09:02 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=gpjpqEHtaKgKURrJF5LteVBXCIxaNHB3e-8DnaH56gMo8F-iEp17dRrCv4U6fP514LYOfyI57Atj4ATxOCG34htuNbSl2IGLBhEscBqN7-It1MLNWkUgPJ-m9P_yqMy3MDXGupifmuf8qw25sqcoQaTUIBPy-7bjcu8XlvZd8lYsIudvt-cevkX-tR-9IrbntCigBkDo72dklV2WqOPgQk3y6FYyagOJ0n3ifL3jlEcMRd-6dlVwgEFv0mdihwzix4E_2ueYuIjYN8XJQm4SgmhqM8cX7il0xHwxJK4PoLp1vvO-JcnFKgP3EKEm9ftcCwSyBYwGK7jn29821p7_W_24eB6xWEWrm6cxltkDSDSkxz_0uLTFfxqm5j-Y2tlAX36Ep5ZVX0Fu8yHay0iy4dY0IpsBBgv7wx4JObfLBVtQm4Ud5Nma7sIbxKa; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 21-Jan-2026 22:09:02 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 23-Jan-2018 22:09:02 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE11.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2102109526; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=dcg12-origin-www-2.paypal.com; expires=Sun, 24-Jan-2016 22:39:02 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+

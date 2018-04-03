@@ -1,0 +1,165 @@
+<!-- -*- mode: html; -*- -->
+    <style>form#frmHIOrder table.order strong { color: black; font-weight: bold; } </style>
+    <script>
+      function rb_delivery_email() {
+      $('#form-postal-address').css('display','none');
+      }
+      function rb_delivery_post() {
+      $('#form-postal-address').css('display','block');
+      }
+    </script>
+    <div id="orderform">
+      <form id="frmHIOrder"
+	    name="frmHIOrder"
+	    action=""
+	    method="POST">
+	<input type="hidden" name="apiid" value="" />
+	<input type="hidden" name="product" value="<!--PRODUCTTYPE-->" />
+	<input type="hidden" name="language" value="en" />
+	<table border="0" cellpadding="0" cellspacing="0" class="order">
+	  <!-- name -->
+	  <tr>
+	    <td><label for="name"><strong>Name on Report:</strong></label></td>
+	    <td>
+	      <input id="frmHIOrderName" type="text" name="name" maxlength="48" />
+	      <span id="errorname" style="color: red; display: none;">REQUIRED</span>
+	    </td>
+	  </tr>
+	  <!-- gender -->
+	  <tr>
+	    <td><label for="gender"><strong>Gender:</strong></label></td>
+	    <td>
+	      <input type="radio" name="gender" value="0" checked>Female
+	      <input type="radio" name="gender" value="1">Male
+	    </td>
+	  </tr>
+	  <!-- delivery method -->
+	  <tr>
+	    <td><label for="delivery"><strong>Delivery Method:</strong></label></td>
+	    <td><input type="radio" name="delivery" value="0" checked>
+	      Email attachment (PDF)
+	    </td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;</td>
+	    <td>
+	      <input type="radio" name="delivery" value="1">
+	      Printed (by post)
+	    </td>
+	  </tr>
+	  <!-- delivery email address -->
+	  <tr>
+	    <td><label for="email"><strong>Delivery Email Address:</strong></label></td>
+	    <td>
+	      <input id="frmHIOrderEmail" type="text" name="email" maxlength="48" />
+	      <span id="erroremail" style="color: red; display: none;">REQUIRED</span>
+            </td>
+	  </tr>
+	  <!-- delivery email address confirmation -->
+	  <tr>
+	    <td><label for="emailconfirm"><strong>Confirm Email Address:</strong></label></td>
+	    <td>
+	      <input id="frmHIOrderEmailConfirm" type="text" name="emailconfirm" maxlength="48" />
+	      <span id="erroremail" style="color: red; display: none;">REQUIRED</span>
+            </td>
+	  </tr>
+	<!--/table>
+	<table id="form-postal-address" border="0" cellpadding="0" cellspacing="0" class="order" style="display:none"-->
+	  <!-- delivery postal address -->
+	  <tr>
+	    <td><label for="postaladdressline1"><strong>Delivery Postal Address:</strong></label></td>
+	    <td>
+	      <input id="frmHIOrderPostalAddressLine1" type="text" name="postaladdressline1" maxlength="48" />
+            </td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;</td>
+	    <td>
+	      <input id="frmHIOrderPostalAddressLine2" type="text" name="postaladdressline2" maxlength="48" />
+            </td>
+	  </tr>
+	  <tr>
+	    <td><strong>Town/City:</strong></td>
+	    <td>
+	      <input id="frmHIOrderPostalAddressLine3" type="text" name="postaladdressline3" maxlength="48" />
+            </td>
+	  </tr>
+	  <tr>
+	    <td><strong>Postcode:</strong></td>
+	    <td>
+	      <input id="frmHIOrderPostalAddressLine4" type="text" name="postaladdressline4" maxlength="48" />
+            </td>
+	  </tr>
+	<!--/table>
+	<table border="0" cellpadding="0" cellspacing="0" class="order"-->
+	  <!-- date of birth -->
+	  <tr>
+	    <td><strong>Date of Birth:</strong></td>
+	    <td>
+	      <select name="frmHIOrderBirthday">
+		<option value="0" id="placeholder" selected="selected">Day</option>
+		<!--LABEL_DAY_OPTIONS-->
+	      </select>
+	      <select name="frmHIOrderBirthmonth">
+		<option value="0" selected="selected">Month</option>
+		<!--LABEL_MONTH_OPTIONS-->
+	      </select>
+	      <select name="frmHIOrderBirthyear">
+		<option value="0" selected="selected">Year</option>
+		<!--LABEL_YEAR_OPTIONS-->
+	      </select>
+	    </td>
+	  </tr>
+	  <!-- time of birth -->
+	  <tr>
+	    <td><strong>Time of Birth:</strong></td>
+	    <td><select name="frmHIOrderBirthhour">
+		<option value="0" selected="selected">Hour</option>
+		<option value="-1">Unknown time</option>
+	      </select>
+	      <select name="frmHIOrderBirthminute">
+		<option value="0" selected="selected">Minute</option>
+	      </select>
+	    </td>
+	  </tr>
+	  <!-- place of birth -->
+	  <tr>
+	    <td><strong>Country/State of Birth:</strong></td>
+	    <td>
+	      <select id="frmHIOrderBirthcountry" name="birthcountry" size="1" class="RegistrySelect"></select>
+              <span id="errorstate" style="color: red; display: none;">INVALID</span>
+	    </td>
+	  </tr>
+	  <tr>
+	    <td><strong>Place of Birth:</strong></td>
+	    <td>
+	      <input type="text" id="frmHIOrderBirthplace" name="birthplace" class="ac_input" maxlength=64 value="" />
+              <span id="errorplace" style="color: red; display: none;">INVALID</span>
+	    </td>
+	  </tr>
+	  <!-- currency -->
+	  <tr>
+	    <td><label for="currency"><strong>Currency:</strong></label></td>
+	    <td>
+	      <input id="frmHIOrderCurrency" type="radio" name="currency" value="0" checked>$ USD
+	      <input id="frmHIOrderCurrency" type="radio" name="currency" value="1">&pound; GBP
+	      <input id="frmHIOrderCurrency" type="radio" name="currency" value="2">&euro; EURO
+	    </td>
+	  </tr>
+	  <!-- order button -->
+	  <tr>
+	    <td>
+	      <a href="javascript: fnShowConfirmationPanel();">
+		<img src="img/buy_report.png" alt="" width="82" height="17" />
+	      </a>
+	      <!--input type="image" id="frmHIOrderSubmit" src="img/buy_report.png" width="82" height="17" border="0" alt="BUY REPORT"-->
+	    </td>
+	    <td id="form-order-price">
+              <strong>Price: <span id="report-price"></span>
+		<!--24.95 USD &#8226; 34.45 &pound; &#8226; 56.45 &euro;-->
+	      </strong>
+            </td>
+	  </tr>
+	</table>
+      </form>
+    </div>

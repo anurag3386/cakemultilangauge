@@ -1,0 +1,206 @@
+<!-- -*- mode: html; -*- -->
+    <div id="orderform">
+      <form id="frmHIOrder"
+	    name="frmHIOrder"
+	    action="http://www.world-of-wisdom.com/06_affiliates/wowdk/post.php"
+	    method="POST"
+	    >
+	<input id="frmHIOrderAPIId" type="hidden" name="apiid" value="<!--APIID-->" />
+	<input id="frmHIOrderProduct" type="hidden" name="product" value="<!--PRODUCTTYPE-->" />
+	<input id="frmHIOrderLanguage" type="hidden" name="language" value="<!--LANGUAGE-->" />
+	<input id="frmHIOrderCurrency" type="hidden" name="currency" value="3">
+	<table border="0" cellpadding="0" cellspacing="0" class="order">
+	  <!-- name -->
+	  <tr>
+	    <td>
+	      <label for="name">
+		<strong>For- og efternavn p&aring; rapporten:</strong>
+	      </label>
+	    </td>
+	    <td>
+	      <input id="frmHIOrderName" type="text" name="name" maxlength="48" />
+	    </td>
+	  </tr>
+	  <tr class="wow-error-name" style="display:none">
+	    <td>&nbsp;</td>
+	    <td style="color: red;">Indtast for- og efternavnet p&aring; rapporten</td>
+	  </tr>
+	  <!-- gender -->
+	  <tr>
+	    <td><label for="gender"><strong>K&oslash;n:</strong></label></td>
+	    <td>
+	      <input type="radio" name="gender" class="rb" value="0" checked="checked">kvinde
+	      <input type="radio" name="gender" class="rb" value="1">mand
+	    </td>
+	  </tr>
+	  <!-- delivery method -->
+	  <!--DELIVERYMETHOD-->
+	  <!-- delivery email address -->
+	  <tr>
+	    <td><label for="email"><strong>Email adresse:</strong></label></td>
+	    <td>
+	      <input id="frmHIOrderEmail" type="text" name="email" maxlength="48" />
+            </td>
+	  </tr>
+	  <tr class="wow-error-email" style="display:none">
+	    <td>&nbsp;</td>
+	    <td style="color: red;">Indtast email adressen</td>
+	  </tr>
+	  <!-- delivery email address confirmation -->
+	  <tr>
+	    <td><label for="emailconfirm"><strong>Bekr&aelig;ft email adresse:</strong></label></td>
+	    <td>
+	      <input id="frmHIOrderEmailConfirm" type="text" name="emailconfirm" maxlength="48" />
+            </td>
+	  </tr>
+	  </tr>
+	  <tr class="wow-error-emailconfirm" style="display:none">
+	    <td>&nbsp;</td>
+	    <td style="color: red;">Bedes bekr&aelig;fte leveringsadressen</td>
+	  </tr>
+	  <tr class="wow-error-emaildiffer" style="display:none">
+	    <td>&nbsp;</td>
+	    <td style="color: red;">Email adresse skal matche</td>
+	  </tr>
+	  <!-- delivery postal address -->
+	  <tr class="wow-addressline">
+	    <td><label for="postaladdressline1"><strong>Leveringsadresse:</strong></label></td>
+	    <td>
+	      <input id="frmHIOrderPostalAddressLine1" type="text" name="postaladdressline1" maxlength="48" />
+            </td>
+	  </tr>
+	  <tr class="wow-error-delivery-line1" style="display:none">
+	    <td>&nbsp;</td>
+	    <td style="color: red;">Angiv leveringsadresse</td>
+	  </tr>
+	  <tr class="wow-addressline">
+	    <td>&nbsp;</td>
+	    <td>
+	      <input id="frmHIOrderPostalAddressLine2" type="text" name="postaladdressline2" maxlength="48" />
+            </td>
+	  </tr>
+	  <tr class="wow-addressline">
+	    <td><strong>By:</strong></td>
+	    <td>
+	      <input id="frmHIOrderPostalAddressLine3" type="text" name="postaladdressline3" maxlength="48" />
+            </td>
+	  </tr>
+	  <tr class="wow-error-delivery-town" style="display:none">
+	    <td>&nbsp;</td>
+	    <td style="color: red;">Indtast levering by</td>
+	  </tr>
+	  <tr class="wow-addressline">
+	    <td><strong>Postnummer:</strong></td>
+	    <td>
+	      <input id="frmHIOrderPostalAddressLine4" type="text" name="postaladdressline4" maxlength="48" />
+            </td>
+	  </tr>
+	  <tr class="wow-error-delivery-postcode" style="display:none">
+	    <td>&nbsp;</td>
+	    <td style="color: red;">Indtast levering postnummer</td>
+	  </tr>
+	  <tr class="wow-addressline">
+	    <td><strong>Stat / Land:</strong></td>
+	    <td>
+	      <input id="frmHIOrderPostalAddressLine5" type="text" name="postaladdressline5" maxlength="48" />
+            </td>
+	  </tr>
+	  <tr class="wow-error-delivery-country" style="display:none">
+	    <td>&nbsp;</td>
+	    <td style="color: red;">Indtast levering stat / land</td>
+	  </tr>
+	  <!-- date of birth -->
+	  <tr>
+	    <td><strong>F&oslash;dselsdato:</strong></td>
+	    <td>
+	      <select id="frmHIOrderBirthday" name="birthday">
+		<option value="0" id="placeholder" selected="selected">Dag</option>
+		<!--LABEL_DAY_OPTIONS-->
+	      </select>
+	      <select id="frmHIOrderBirthmonth" name="birthmonth">
+		<option value="0" selected="selected">M&aring;ned</option>
+		<!--LABEL_MONTH_OPTIONS-->
+	      </select>
+	      <select id="frmHIOrderBirthyear" name="birthyear">
+		<option value="0" selected="selected">&Aring;r</option>
+		<!--LABEL_YEAR_OPTIONS-->
+	      </select>
+	    </td>
+	  </tr>
+	  <tr class="wow-error-date" style="display:none">
+	    <td>&nbsp;</td>
+	    <td style="color: red;">Kontroller venligst gyldigheden af f&oslash;dselsdato</td>
+	  </tr>
+	  <!-- time of birth -->
+	  <tr>
+	    <td><strong>F&oslash;dselstidspunkt:</strong></td>
+	    <td><select id="frmHIOrderBirthhour" name="birthhour">
+		<option value="-2" selected="selected">Time</option>
+		<option value="-1">Ukendt tid</option>
+		<!--LABEL_HOUR_OPTIONS-->
+	      </select>
+	      <select id="frmHIOrderBirthminute" name="birthminute">
+		<option value="-2" selected="selected">Minut</option>
+		<!--LABEL_MINUTE_OPTIONS-->
+	      </select>
+	      <input type="hidden" id="frmHIOrderKnowntime" name="knowntime" value="0" />
+	    </td>
+	  </tr>
+	  <tr class="wow-error-time" style="display:none">
+	    <td>&nbsp;</td>
+	    <td style="color: red;">Kontroller venligst gyldigheden af f&oslash;dselstidspunkt</td>
+	  </tr>
+	  <!-- place of birth -->
+	  <tr>
+	    <td><strong>Land / Stat:</strong></td>
+	    <td>
+	      <select id="frmHIOrderBirthcountry" name="birthcountry" size="1" class="RegistrySelect"></select>
+	    </td>
+	  </tr>
+	  <tr>
+	    <td><strong>F&oslash;dselssted:</strong></td>
+	    <td>
+	      <input type="text" id="frmHIOrderBirthplace" name="birthplace" maxlength="48" value="" autocomplete="off" />
+	    </td>
+	  </tr>
+	  <tr class="wow-error-place" style="display:none">
+	    <td>&nbsp;</td>
+	    <td style="color: red;">Kontroller venligst gyldigheden af f&oslash;dselssted</td>
+	  </tr>
+	  <!--LABEL_CURRENT_LOCATION-->
+	  <!-- order button -->
+	  <tr>
+	    <td><strong>Pris:</strong></td>
+	    <td id="form-order-price">
+              <strong>
+		<span id="report-price">kr. 195</span>
+	      </strong>
+            </td>
+	  </tr>
+	  <tr>
+	    <td valign="top"><label for="vilkar"><strong>Vilk&aring;r og betingelser:</strong></label></td>
+	    <td>
+	      <input id="vilkar" type="checkbox" name="vilkar" onClick="javascript: agreeTC();"/>
+	      &nbsp;
+	      <a href="javascript: popupwithscroll('vilkar.htm');">
+		<!--Jeg har l&aelig;st forretningsbetingelserne-->
+		L&aelig;s og accepter
+	      </a>
+	  </tr>
+	  <tr class="wow-commit-purchase">
+	    <td>&nbsp;</td>
+	    <td>
+	      <a href="javascript: submitOrder();">
+		<img src="img/bestil_nu.png" alt="Bestil nu" width="82" height="17" />
+	      </a>
+	    </td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;</td>
+	    <td>
+	      <a href="mailto:support@world-of-wisdom.com">Problemer med at bestille? Skriv her.</a>
+	    </td>
+	  </tr>
+	</table>
+      </form>
+    </div>

@@ -1,0 +1,78 @@
+The files included are:
+
+KeyAtlas.txt
+TimeTabs.txt
+makedb.pl
+timedb.pl
+city.html
+lookup.cgi
+county.cgi
+lutime.cgi
+Atlas.howto
+
+When everything is installed and working, you will have an html file and a set of scripts
+that enable your web site to accept a city and state or country and birth date and time, and
+look up the city latitude and longitude, and the time zone and type.  The result is written
+to a birthdata file for use by other programs or scripts.  The files as supplied also ask
+for an e-mail address, and use that to create a customer directory in which the birthdata
+file is placed, and where the programs using the birthdata can place their output.
+
+General directions:
+
+Run the Perl scripts to convert the text files to database files.
+Move the files to the appropriate directories.
+Change the directory definition statements in the lookup scripts.
+Put the scripts in cgi-bin and the city.html file wherever your users are directed.
+
+Specific directions:
+
+You need the Fcntl and DB_File Perl modules installed.
+Run makedb.pl to build a database file called atlas.db from KeyAtlas.txt.
+Run timedb.pl to build a database file called timetabs.db from TimeTabs.txt.
+Move atlas.db to whatever directory you want it to be in.
+Edit lookup.cgi and change the $AtlasDB statement to point to the atlas.db directory.
+Change the action= statements to point to lutime.cgi and county.cgi in your cgi-bin directory.
+Edit county.cgi and change the action= statement to point to lutime.cgi in your cgi-bin directory.
+Move timetabs.db to whatever directory you want it to be in.
+Edit lutime.cgi and change the $TimeDB statement to point to the timetabs.db directory.
+Change the $BaseDir statement in lutime.cgi to point to your base report directory, unless
+you are not using an intermediate birthdata file, in which case you are changing the
+scripts extensively anyway, and presumably know what you are doing.
+Add statements to the end of lutime.cgi to do whatever you are going to do with the birthdata.
+Move or copy lookup.cgi, lutime.cgi, and county.cgi to your cgi-bin directory.
+Move or copy city.html to wherever you want it to be in your html structure.
+
+How it all works:
+
+The city.html file invokes the lookup.cgi script, which finds all cities matching the
+canonical form of the city entered by the user, in the state or country selected.  Note that
+the two letter codes for the states and countries are arbitrary, chosen to get the state/
+country list in alphabetical order, and do not conform to any accepted standards.
+If only one city matches, lookup.cgi generates an html form which asks for the birth date
+and time.  That form then invokes lutime.cgi, which looks up the time zone and type and
+writes the birthdata file.
+If more than one city matches, lookup.cgi generates an html form which asks the user to select
+the correct one.  That form invokes county.cgi, which generates an html form asking for the
+birth data and time, which again invokes lutime.cgi.
+
+Using the data:
+
+The Atlas text file is in the iso-8859-1 character set.
+
+The latitude and longitude are in seconds of arc:
+degrees times 3600 plus minutes times 60 plus seconds.
+Positive values of longitude are West of Greenwich, negative values are East.
+Positive values of latitude are North of the equator, negative values are South.
+
+The time zone is the hours from Greenwich of the zone times 900.
+This allows zones that have fractional hours to be represented as integers.
+For example, US Eastern Time is 4500 (5 times 900).  India time is -4950 (-5.5 times 900).
+Zones west of Greenwich are positive, east of Greenwich are negative.
+
+The time type value is:
+0 Standard Time
+1 Daylight Savings Time (subtract 1 hour for Standard)
+2 War Time (subtract 1 hour for Standard)
+3 Double Summer Time (subtract 2 hours for Standard)
+4 Local Mean Time (hours from Greenwich is longitude in degrees divided by 15)
+

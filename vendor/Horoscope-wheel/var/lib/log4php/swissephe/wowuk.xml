@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Script: /var/lib/log4php/amanuensis/wowuk.xml-->
+<!-- Author: Andy Gray--> 
+<log4php:configuration xmlns:log4php="http://www.vxr.it/log4php/" threshold="all" debug="false">
+
+  <!-- debug logs for the amanuensis -->
+    <appender name="debug_log" class="LoggerAppenderDailyFile">
+        <param name="datePattern" value="Ymd" />    
+        <param name="file" value="/var/www/vhosts/world-of-wisdom.com/httpdocs/var/log/swissephe/swissephe.%s.log" />
+<!--	<param name="file" value="/www/wow-year/var/log/portal/wowuk/swissephe/swissephe.%s.log" />-->
+        <layout class="LoggerLayoutTTCC">
+            <param name="threadPrinting" value="true" />
+            <param name="categoryPrefixing" value="true" />
+            <param name="contextPrinting" value="true" />
+            <param name="microSecondsPrinting" value="true" />
+        </layout>
+    </appender>
+
+  <!--
+   - Email logs will be sent via email for fatal errors only
+   - -->
+    <appender name="email_log" class="LoggerAppenderMailEvent">
+        <param name="from" value="parmaramit1111@gmail.com" />
+        <param name="to" value="parmaramit1111@gmail.com" />
+        <param name="subject" value="World-of-wisdom.com order backlog - Fatal Error" />
+        <layout class="LoggerLayoutTTCC" />
+    </appender>
+
+    <root>
+        <level value="debug" />
+        <appender_ref ref="debug_log" />
+    </root>
+
+  <!--
+   - Email logs will be sent via email for fatal errors only
+   - -->
+  <!--root>
+    <level value="fatal" />
+    <appender_ref ref="email_log" />
+  </root-->
+
+</log4php:configuration>

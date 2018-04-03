@@ -1,0 +1,16 @@
+README for Wow Reports DocBook Automation
+
+Generate DocBook SGML format files to spool area
+Process as PDF reports
+
+Process as XSL formatted files
+- use xsl template for affiliate formatting
+- call order content from spool area
+
+
+Formatting for main sections
+
+	   <formalpara>
+	     <title>$attitude</title>
+	     <para>$description</para>
+	   </formalpara>

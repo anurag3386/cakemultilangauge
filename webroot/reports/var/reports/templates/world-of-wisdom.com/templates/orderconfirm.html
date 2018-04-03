@@ -1,0 +1,34 @@
+<!-- -*- mode: html; -*- -->
+    <style>form#frmHIOrder table.order strong { color: black; font-weight: bold; } </style>
+    <div id="orderconfirm" style="display:none">
+      <!-- confirmation -->
+      <p>
+	Please check that the following details are correct and change any details on the order form as you feel necessary.
+	Your report will be based on these details as provided.
+      </p>
+      <p>
+	If you are happy that all details are correct then please click on the Paypal link below,
+	which will open up a payment request in a separate window.
+	If this does not appear, please check your pop up blocker.
+      </p>
+      <table>
+	<tr>
+	  <td align="left" valign="top">
+	    <div id="tblInvoiceOrderDetails">
+	      Product details go here<br />
+	      Report details go here
+	      ( <a href="javascript: fnShowOrderFormPanel();">edit</a> )
+	    </div>
+	  </td>
+	  <td align="right" valign="bottom"><div id="tblInvoiceProductPricing">Price goes here</div></td>
+	</tr>
+      </table>
+      <p>
+	Your payment will be processed securely by Paypal on behalf of "World of Wisdom".
+      </p>
+      <span id="frmHIOrderPaypalButton" style="margin-left: 10px">
+	<a href="javascript:$('#frmHIOrder').submit();" target="_blank">
+	  <img src="/06_affiliates/sme/img/credit_paypal.jpg" alt="Payment Options" />
+	</a>
+      </span>
+    </div>

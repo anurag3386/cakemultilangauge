@@ -1,0 +1,22 @@
+[31-Jan-2016 03:16:41 America/Chicago] PHP Fatal error:  Class 'LinearScale' not found in /home/astrowow/public_html/bin/test-swisseph/jpgraph-2-3-3/src/jpgraph_log.php on line 19
+[31-Jan-2016 03:16:41 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/astrowow/public_html/bin/test-swisseph/jpgraph-2-3-3/src/jpgraph_pie.php on line 1239
+[31-Jan-2016 03:16:41 America/Chicago] PHP Fatal error:  Class 'Plot' not found in /home/astrowow/public_html/bin/test-swisseph/jpgraph-2-3-3/src/jpgraph_line.php on line 24
+[31-Jan-2016 03:16:41 America/Chicago] PHP Fatal error:  Class 'PiePlot' not found in /home/astrowow/public_html/bin/test-swisseph/jpgraph-2-3-3/src/jpgraph_pie3d.php on line 17
+[31-Jan-2016 03:16:41 America/Chicago] PHP Fatal error:  Class 'Plot' not found in /home/astrowow/public_html/bin/test-swisseph/jpgraph-2-3-3/src/jpgraph_bar.php on line 30
+[31-Jan-2016 03:16:42 America/Chicago] PHP Fatal error:  Class 'LinearScale' not found in /home/astrowow/public_html/bin/test-swisseph/jpgraph-2-3-3/src/jpgraph_date.php on line 49
+[31-Jan-2016 03:16:42 America/Chicago] PHP Fatal error:  Class 'Plot' not found in /home/astrowow/public_html/bin/test-swisseph/jpgraph-2-3-3/src/jpgraph_error.php on line 17
+[31-Jan-2016 03:16:43 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/astrowow/public_html/bin/test-swisseph/jpgraph-2-3-3/src/jpgraph_gantt.php on line 330
+[31-Jan-2016 03:16:43 America/Chicago] PHP Fatal error:  Class 'Plot' not found in /home/astrowow/public_html/bin/test-swisseph/jpgraph-2-3-3/src/jpgraph_stock.php on line 15
+[31-Jan-2016 03:16:43 America/Chicago] PHP Fatal error:  Class 'LinearScale' not found in /home/astrowow/public_html/bin/test-swisseph/jpgraph-2-3-3/src/jpgraph_log.php on line 19
+[31-Jan-2016 03:16:43 America/Chicago] PHP Fatal error:  Class 'Ticks' not found in /home/astrowow/public_html/bin/test-swisseph/jpgraph-2-3-3/src/jpgraph_radar.php on line 18
+[31-Jan-2016 03:16:43 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/astrowow/public_html/bin/test-swisseph/jpgraph-2-3-3/src/jpgraph_canvas.php on line 20
+[31-Jan-2016 03:16:43 America/Chicago] PHP Fatal error:  Class 'Plot' not found in /home/astrowow/public_html/bin/test-swisseph/jpgraph-2-3-3/src/jpgraph_contour.php on line 387
+[31-Jan-2016 03:16:44 America/Chicago] PHP Fatal error:  Class 'Plot' not found in /home/astrowow/public_html/bin/test-swisseph/jpgraph-2-3-3/src/jpgraph_scatter.php on line 65
+[31-Jan-2016 03:16:44 America/Chicago] PHP Warning:  require_once(jpgraph_glayout_vh.inc.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/astrowow/public_html/bin/test-swisseph/jpgraph-2-3-3/src/jpgraph_windrose.php on line 12
+[31-Jan-2016 03:16:44 America/Chicago] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'jpgraph_glayout_vh.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/astrowow/public_html/bin/test-swisseph/jpgraph-2-3-3/src/jpgraph_windrose.php on line 12
+[31-Jan-2016 03:16:45 America/Chicago] PHP Fatal error:  Class 'ImgData' not found in /home/astrowow/public_html/bin/test-swisseph/jpgraph-2-3-3/src/imgdata_bevels.inc.php on line 11
+[31-Jan-2016 03:16:45 America/Chicago] PHP Fatal error:  Class 'ImgData' not found in /home/astrowow/public_html/bin/test-swisseph/jpgraph-2-3-3/src/imgdata_balls.inc.php on line 11
+[31-Jan-2016 03:16:46 America/Chicago] PHP Fatal error:  Class 'ImgData' not found in /home/astrowow/public_html/bin/test-swisseph/jpgraph-2-3-3/src/imgdata_squares.inc.php on line 11
+[31-Jan-2016 03:16:46 America/Chicago] PHP Fatal error:  Class 'ImgData' not found in /home/astrowow/public_html/bin/test-swisseph/jpgraph-2-3-3/src/imgdata_pushpins.inc.php on line 11
+[31-Jan-2016 03:16:46 America/Chicago] PHP Fatal error:  Class 'ImgData' not found in /home/astrowow/public_html/bin/test-swisseph/jpgraph-2-3-3/src/imgdata_diamonds.inc.php on line 11
+[31-Jan-2016 03:16:46 America/Chicago] PHP Fatal error:  Class 'ImgData' not found in /home/astrowow/public_html/bin/test-swisseph/jpgraph-2-3-3/src/imgdata_stars.inc.php on line 12

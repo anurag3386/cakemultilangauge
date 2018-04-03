@@ -1,0 +1,874 @@
+<?php
+/**
+ * Routes configuration
+ *
+ * In this file, you set up routes to your controllers and their actions.
+ * Routes are very important mechanism that allows you to freely connect
+ * different URLs to chosen controllers and their actions (functions).
+ *
+ * CakePHP(tm) : Rapid Development Framework (http://cakephp.org)
+ * Copyright (c) Cake Software Foundation, Inc. (http://cakefoundation.org)
+ *
+ * Licensed under The MIT License
+ * For full copyright and license information, please see the LICENSE.txt
+ * Redistributions of files must retain the above copyright notice.
+ *
+ * @copyright     Copyright (c) Cake Software Foundation, Inc. (http://cakefoundation.org)
+ * @link          http://cakephp.org CakePHP(tm) Project
+ * @license       http://www.opensource.org/licenses/mit-license.php MIT License
+ */
+
+use Cake\Core\Plugin;
+use Cake\Routing\RouteBuilder;
+use Cake\Routing\Router;
+use Cake\Routing\Route\DashedRoute;
+use Cake\I18n\I18n;
+
+/**
+ * The default class to use for all routes
+ *
+ * The following route classes are supplied with CakePHP and are appropriate
+ * to set as the default:
+ *
+ * - Route
+ * - InflectedRoute
+ * - DashedRoute
+ *
+ * If no call is made to `Router::defaultRouteClass()`, the class used is
+ * `Route` (`Cake\Routing\Route\Route`)
+ *
+ * Note that `Route` does not do any inflections on URLs which will result in
+ * inconsistently cased URLs when used with `:plugin`, `:controller` and
+ * `:action` markers.
+ *
+ */
+Router::defaultRouteClass(DashedRoute::class);
+
+
+/*pm!*/
+Router::addUrlFilter(function ($params, $request) {
+  /*pr ($request->params);
+  pr ($params); die;*/
+    if( !isset($request->params['prefix']) || $request->params['prefix'] != 'admin_panel') {
+        if (isset($request->params['language']) && !isset($params['language'])) {
+            $params['language'] = $request->params['language'];
+        } elseif (!isset($params['language'])) {
+            $params['language'] = 'en'; // set your default language here
+        }
+    } 
+    return $params;
+});
+
+Router::scope('/dk/', function (RouteBuilder $routes) {
+
+    //$routes->connect('/konsultation', ['language' => 'dk', 'controller' => 'Orders', 'action' => 'consultation']);
+    
+    $routes->connect('/konsultation', ['language' => 'dk', 'controller' => 'Pages', 'action' => 'menu-pages', 'consultation']);
+    $routes->connect('/brugere/slette-anden-personers/:id', ['language' => 'dk', 'controller' => 'users', 'action' => 'delete-another-person'], ['pass' => ['id']]);
+   
+    $routes->connect('/biografi', ['language' => 'dk', 'controller' => 'Pages', 'action' => 'menu-pages', 'biography']);
+
+    //$routes->connect('/introduktion', ['language' => 'dk', 'controller' => 'Pages', 'action' => 'menu-pages', 'introduction']);
+    $routes->connect('/adrian-ross-duncan', ['language' => 'dk', 'controller' => 'Pages', 'action' => 'menu-pages', 'adrian-ross-duncan']);
+
+    $routes->connect('/interview', ['language' => 'dk', 'controller' => 'Pages', 'action' => 'menu-pages', 'interview']);
+    
+    $routes->connect('/medier', ['language' => 'dk', 'controller' => 'Pages', 'action' => 'media']);
+
+    $routes->connect('/gratis-astropage', ['language' => 'dk', 'controller' => 'Pages', 'action' => 'menu-pages','free-astropage']);
+    $routes->connect('/gratis-horoskop', ['language' => 'dk', 'controller' => 'Pages', 'action' => 'menu-pages','free-horoscope']);
+    $routes->connect('/om-astrologi', ['language' => 'dk', 'controller' => 'Pages', 'action' => 'menu-pages','about-astrology']);
+    $routes->connect('/gratis-astroclock-ios-app', ['language' => 'dk', 'controller' => 'Pages', 'action' => 'menu-pages','free-astroclock-ios-app']);
+    
+    $routes->connect('/brugere/begivenheder', ['language' => 'dk', 'controller' => 'Users', 'action' => 'events']);
+    //$routes->connect('/sol-skilte/gratis-horoskop', array('language' => 'dk', 'controller' => 'sun-signs', 'action' => 'free-horoscope'));
+    $routes->connect('/soltegn/gratis-horoskop', array('language' => 'dk', 'controller' => 'sun-signs', 'action' => 'free-horoscope'));
+    //$routes->connect('/software', array('language' => 'dk', 'controller' => 'Products', 'action' => 'astrology', 'software'));
+    $routes->connect('/astrologi-software', array('language' => 'dk', 'controller' => 'Products', 'action' => 'astrology', 'astrology-software'));
+    
+    $routes->connect('/go-mobile', array('language' => 'dk', 'controller' => 'Pages', 'action' => 'menu-pages', 'go-mobile'));
+    $routes->connect('/om-astrowow', array('language' => 'dk', 'controller' => 'Pages', 'action' => 'menu-pages', 'about-astrowow'));
+    $routes->connect('/astro-wiki', array('language' => 'dk', 'controller' => 'Pages', 'action' => 'menu-pages', 'astro-wiki'));
+    $routes->connect('/fortrolighedspolitik', array('language' => 'dk', 'controller' => 'Pages', 'action' => 'menu-pages', 'privacy-policy'));
+    //$routes->connect('/support-billetter', ['language' => 'dk', 'controller' => 'Pages', 'action' => 'menu-pages','support-tickets']);
+    $routes->connect('/betingelser-for-brug', array('language' => 'dk', 'controller' => 'Pages', 'action' => 'menu-pages', 'terms-of-use'));
+    $routes->connect('/faqs', array('language' => 'dk', 'controller' => 'Pages', 'action' => 'menu-pages', 'faqs'));
+    $routes->connect('/kontakt-os', array('language' => 'dk', 'controller' => 'Pages', 'action' => 'menu-pages', 'contact-us'));
+    $routes->connect('/brugere/logpå', array('language' => 'dk', 'controller' => 'Users', 'action' => 'login'));
+    $routes->connect('/brugere/tilmeld-dig', array('language' => 'dk', 'controller' => 'Users', 'action' => 'sign-up'));
+    $routes->connect('/brugere/rediger-profil/*', array('language' => 'dk', 'controller' => 'Users', 'action' => 'edit-profile'));
+     $routes->connect('/brugere/glemt-kodeord', array('language' => 'dk', 'controller' => 'Users', 'action' => 'forgot-password'));
+
+    //$routes->connect('/brugere/skift-kodeord', array('language' => 'dk', 'controller' => 'Users', 'action' => 'change-password'));
+
+    $routes->connect('/brugere/skift-adgangskode', array('language' => 'dk', 'controller' => 'Users', 'action' => 'change-password'));
+       
+    $routes->connect('/tilmeld', array('language' => 'dk', 'controller' => 'Pages', 'action' => 'menu-pages', 'subscribe'));
+    $routes->connect('/brugere/tilmeld', array('language' => 'dk', 'controller' => 'Users', 'action' => 'subscribe'));
+
+    $routes->connect('/brugere/tilmeld', array('language' => 'dk', 'controller' => 'Users', 'action' => 'subscribe'));
+    
+     $routes->connect('/ordrer/download-gratis-prøveversion', array('language' => 'dk', 'controller' => 'Orders', 'action' => 'download-free-trial'));
+
+     // $routes->connect('/ordrer/download-gratis-prøveversion/26', array('language' => 'dk', 'controller' => 'Orders', 'action' => 'download-free-trial', 26));
+
+     // $routes->connect('/ordrer/download-gratis-prøveversion/28', array('language' => 'dk', 'controller' => 'Orders', 'action' => 'download-free-trial', 28));
+
+   // March 23
+    // $routes->connect('/produkter/tolk-elskere/software-cd/62', 
+    //            ['language' => 'dk', 'controller' => 'Products', 'action' => 'detail','interpreter-lovers','software-cd', 62]
+    // ); 
+
+    // $routes->connect('/produkter/tolk-kalender/software-cd/63', 
+    //            ['language' => 'dk', 'controller' => 'Products', 'action' => 'detail','interpreter-calendar','software-cd', 63]
+    // ); 
+
+    // $routes->connect('/produkter/kalender-elskere/software-cd/64', 
+    //            ['language' => 'dk', 'controller' => 'Products', 'action' => 'detail','calendar-lovers','software-cd', 64]
+    // ); 
+
+    // $routes->connect('/produkter/tolk-kalender-elskere/software-cd/66', 
+    //            ['language' => 'dk', 'controller' => 'Products', 'action' => 'detail','interpreter-calendar-lovers','software-cd', 66]
+    // ); 
+
+// Bundleed Shareware
+
+
+    // $routes->connect('/produkter/tolk-elskere/shareware/62', 
+    //            ['language' => 'dk', 'controller' => 'Products', 'action' => 'detail','interpreter-lovers','shareware', 62]
+    // ); 
+
+    // $routes->connect('/produkter/tolk-kalender/shareware/63', 
+    //            ['language' => 'dk', 'controller' => 'Products', 'action' => 'detail','interpreter-calendar','shareware', 63]
+    // ); 
+
+    // $routes->connect('/produkter/kalender-elskere/shareware/64', 
+    //            ['language' => 'dk', 'controller' => 'Products', 'action' => 'detail','calendar-lovers','shareware', 64]
+    // ); 
+
+    // $routes->connect('/produkter/tolk-kalender-elskere/shareware/66', 
+    //            ['language' => 'dk', 'controller' => 'Products', 'action' => 'detail','interpreter-calendar-lovers','shareware', 66]
+    // ); 
+
+//Shareware
+    // $routes->connect('/produkter/horoskop-fortolker/shareware/24', 
+    //            ['language' => 'dk', 'controller' => 'Products', 'action' => 'detail','horoscope-interpreter','shareware', 24]
+    // ); 
+
+    // $routes->connect('/produkter/astrologi-kalender/shareware/26', 
+    //            ['language' => 'dk', 'controller' => 'Products', 'action' => 'detail','astrology-calendar','shareware', 26]
+    // ); 
+
+    // $routes->connect('/produkter/astrologi-og-parforhold/shareware/28', 
+    //            ['language' => 'dk', 'controller' => 'Products', 'action' => 'detail','astrology-for-lovers','shareware', 28]
+    // );
+
+    $routes->connect('/ordrer/tak-free-trial/:oic', 
+               ['language' => 'dk', 'controller' => 'Orders', 'action' => 'thank-you-free-trial'], ['pass' => ['oic'] ] 
+    );
+
+    /*$routes->connect('/ordrer/tak', 
+               ['language' => 'dk', 'controller' => 'Orders', 'action' => 'thank-you']
+    );*/
+
+    $routes->connect('/ordrer/taks', 
+               ['language' => 'dk', 'controller' => 'Orders', 'action' => 'thanks']
+    );
+
+    $routes->connect('/ordrer/software-tak', 
+               ['language' => 'dk', 'controller' => 'Orders', 'action' => 'software-thank-you']
+    );  
+
+
+    $routes->connect('/ordrer/konsultation-kassen', 
+               ['language' => 'dk', 'controller' => 'Orders', 'action' => 'consultation-checkout']
+    );  
+
+    $routes->connect('/ordrer/konsultation-tak', 
+               ['language' => 'dk', 'controller' => 'Orders', 'action' => 'consultation-thank-you']
+    );  
+    $routes->connect('/brugere/tak', 
+               ['language' => 'dk', 'controller' => 'Users', 'action' => 'thank-you']
+    );  
+
+    $routes->connect('/elite-brugere/tak', 
+               ['language' => 'dk', 'controller' => 'elite-users', 'action' => 'thank-you']
+    );  
+
+    $routes->connect('/elite-brugere/tak-for-rapport-køb', 
+               ['language' => 'dk', 'controller' => 'elite-users', 'action' => 'thank-you-for-report-purchase']
+    );  
+
+
+    
+
+
+
+    $sunSigns = array();
+    $sunSigns['aries'] = 'vædder';
+    $sunSigns['taurus'] = 'tyr';
+    $sunSigns['gemini'] = 'tvilling';
+    $sunSigns['cancer'] = 'krebs';
+    $sunSigns['leo'] = 'løve';
+    $sunSigns['virgo'] = 'jomfru';
+    $sunSigns['libra'] = 'vægt';
+    $sunSigns['scorpio'] = 'skorpion';
+    $sunSigns['sagittarius'] = 'skytte';
+    $sunSigns['capricorn'] = 'stenbuk';
+    $sunSigns['aquarius'] = 'vandbærer';
+    $sunSigns['pisces'] = 'fisk';
+    // foreach( $sunSigns as $key => $sunsign) { 
+    //      $routes->connect('/sol-skilte/'.$sunsign, 
+    //             ['language' => 'dk', 'controller' => 'SunSigns', 'action' => 'index', $key  ]);   
+    // }
+    $scope['daily-horoscope'] = 'daglig-horoskop';
+    $scope['weekly-horoscope'] = 'ugentlig-horoskop'; 
+    $scope['monthly-horoscope'] = 'månedligt-horoskop'; 
+    $scope['yearly-horoscope'] = 'årlig-horoskop'; 
+    $scope['characteristics'] = 'egenskaber'; 
+    $scope['celebrity'] = 'berømthed'; 
+    $scope['archive'] = 'arkiv'; 
+
+
+   foreach( $scope as $k => $period)
+   {
+           foreach( $sunSigns as $key => $sunsign) { 
+              //$routes->connect('/sol-skilte/'.$sunsign."/". $period, 
+              $routes->connect('/soltegn/'.$sunsign."/". $period, 
+                ['language' => 'dk', 'controller' => 'sun-signs', 'action' => 'index', $key, $k  ]);   
+           }
+    }
+
+    // $routes->connect('/produkter/livsbogen-år-for-år/fuld-rapport/19', 
+    //            ['language' => 'dk', 'controller' => 'Products', 'action' => 'detail','essential-year-ahead-report','full-reports', 19]
+    // );
+
+    // $routes->connect('/produkter/astrogi-kalender-rapport/fuld-rapport/17', 
+    //            ['language' => 'dk', 'controller' => 'Products', 'action' => 'detail','astrology-calendar-report','full-reports', 17]
+    // );  
+
+
+     // this is used for softwares section
+    
+
+
+ // Added by Stan Field. Commented on 24 March
+    //  $routes->connect('/produkter/:slug/:product_type', 
+    //            ['language' => 'dk', 'controller' => 'Products', 'action' => 'detail'],
+    //            ['pass' => ['slug','product_type'] ]
+    // ); 
+
+     $routes->connect('/astrologi-rapport/:slug/:product_type', 
+               ['language' => 'dk', 'controller' => 'Products', 'action' => 'detail'],
+               ['pass' => ['slug','product_type'] ]
+    ); 
+
+
+     
+    $routes->connect('/astrologi-software/:slug/:product_type', ['language' => 'dk', 'controller' => 'Products', 'action' => 'detail'],
+      ['pass' => ['slug', 'product_type']]
+      );
+ 
+   // $routes->connect('/produkter/astrogi-kalender-rapport/fuld-rapport', 
+   //             ['language' => 'dk', 'controller' => 'Products', 'action' => 'detail','astrology-calendar-report','full-reports']
+   //  );  
+
+    // $routes->connect('/produkter/karakter-og-skæbne-rapport/fuld-rapport/13', 
+    //            ['language' => 'dk', 'controller' => 'Products', 'action' => 'detail','character-&-destiny-report','full-reports', 13]
+    // );  
+
+    // $routes->connect('/produkter/astrologi-og-parforhold/fuld-rapport/5', 
+    //            ['language' => 'dk', 'controller' => 'Products', 'action' => 'detail','comprehensive-lovers-report','full-reports', 5]
+    // );
+
+    // $routes->connect('/produkter/livsbogen-år-for-år/elite-fuld-rapport/19', 
+    //            ['language' => 'dk', 'controller' => 'Products', 'action' => 'detail','essential-year-ahead-report','elite-full-report', 19]
+    // );
+
+    // $routes->connect('/produkter/astrogi-kalender-rapport/elite-fuld-rapport/17', 
+    //            ['language' => 'dk', 'controller' => 'Products', 'action' => 'detail','astrology-calendar-report','elite-full-report', 17]
+    // );  
+
+    // $routes->connect('/produkter/karakter-og-skæbne-rapport/elite-fuld-rapport/13', 
+    //            ['language' => 'dk', 'controller' => 'Products', 'action' => 'detail','character-&-destiny-report','elite-full-report', 13]
+    // );  
+
+    // $routes->connect('/produkter/astrologi-og-parforhold/elite-fuld-rapport/5', 
+    //            ['language' => 'dk', 'controller' => 'Products', 'action' => 'detail','comprehensive-lovers-report','elite-full-report', 5]
+    // );
+
+    // $routes->connect('/produkter/horoskop-fortolker/software-cd/24', 
+    //            ['language' => 'dk', 'controller' => 'Products', 'action' => 'detail','horoscope-interpreter','software-cd', 24]
+    // ); 
+
+    // $routes->connect('/produkter/astrologi-kalender/software-cd/26', 
+    //            ['language' => 'dk', 'controller' => 'Products', 'action' => 'detail','astrology-calendar','software-cd', 26]
+    // ); 
+
+    // $routes->connect('/produkter/astrologi-og-parforhold/software-cd/28', 
+    //            ['language' => 'dk', 'controller' => 'Products', 'action' => 'detail','astrology-for-lovers','software-cd', 28]
+    // ); 
+
+    // $routes->connect('/produkter/astrologi-rapport', 
+    //            ['language' => 'dk', 'controller' => 'Products', 'action' => 'astrology-reports']
+    // );  
+
+    $routes->connect('/astrologi-rapport', 
+               ['language' => 'dk', 'controller' => 'Products', 'action' => 'astrology-reports']
+    );  
+
+    $routes->connect('/brugere/instrumentbræt', 
+               ['language' => 'dk', 'controller' => 'Users', 'action' => 'dashboard']
+    );  
+
+    $routes->connect('/elite-brugere/instrumentbræt', 
+               ['language' => 'dk', 'controller' => 'elite-users', 'action' => 'dashboard']
+    );  
+
+    /*$routes->connect('/elite-brugere/min-konto', 
+               ['language' => 'dk', 'controller' => 'EliteUsers', 'action' => 'my-account']
+    );*/  
+    
+    $routes->connect('/elite-brugere/tilpas-rapport', 
+               ['language' => 'dk', 'controller' => 'EliteUsers', 'action' => 'customize-reports']
+    ); 
+
+    /*$routes->connect('/elite-brugere/skift-kodeord', 
+               ['language' => 'dk', 'controller' => 'EliteUsers', 'action' => 'change-password']
+    ); */
+    /*$routes->connect('/elite-brugere/skift-adgangskode', 
+               ['language' => 'dk', 'controller' => 'EliteUsers', 'action' => 'change-password']
+    );*/
+
+    $routes->connect('/elite-brugere/liste-ordre', 
+               ['language' => 'dk', 'controller' => 'elite-users', 'action' => 'order-list']
+    );  
+
+    $routes->connect('/brugere/tilføj-en-person', 
+               ['language' => 'dk', 'controller' => 'Users', 'action' => 'add-another-person']
+    ); 
+ 
+    for($i=1; $i<4; $i++) {
+        $routes->connect('/ordrer/kassen-trin-'.$i, 
+                   ['language' => 'dk', 'controller' => 'Orders', 'action' => 'checkout-step-'.$i]
+        ); 
+    }    
+
+    $routes->connect('/elite-brugere/elite-rapport-kassen', 
+               ['language' => 'dk', 'controller' => 'elite-users', 'action' => 'elite-report-checkout']
+    );
+
+    $routes->connect('/elite-brugere/elite-rapport-kassen2', 
+               ['language' => 'dk', 'controller' => 'elite-users', 'action' => 'elite-report-checkout2']
+    ); 
+
+    $routes->connect('/brugere/tilmeld-dig-trin-to', 
+               ['language' => 'dk', 'controller' => 'Users', 'action' => 'sign-up-step-two']
+    ); 
+
+    $routes->connect('/elite-brugere/elite-kunde-kassen-step2', 
+               ['language' => 'dk', 'controller' => 'elite-users', 'action' => 'elite-customer-checkout-step2']
+    ); 
+
+    // $routes->connect('/ordrer/konsultation', 
+    //            ['language' => 'dk', 'controller' => 'Orders', 'action' => 'consultation']
+    // ); 
+
+    
+    for($i=1; $i<4; $i++) {
+        $routes->connect('/ordrer/software-kassen-trin-'.$i, 
+                   ['language' => 'dk', 'controller' => 'Orders', 'action' => 'software-checkout-step-'.$i]
+        ); 
+    }  
+
+   $routes->connect('/brugere/logaf', array('language' => 'dk', 'controller' => 'Users', 'action' => 'logout'));
+
+   $routes->connect('/mycalendar-ikoner/*', array('language' => 'dk', 'controller' => 'Users', 'action' => 'mycalendar-icons', 'pass' => ['apikey', 'date', 'user' ]));
+
+   $routes->connect('/elite-brugere', 
+                    ['language' => 'dk', 'controller' => 'elite-users', 'action' => 'index']
+            );
+   /*$routes->connect('/elite-brugere', 
+                    ['language' => 'dk', 'controller' => 'EliteUsers', 'action' => 'index']
+            );*/
+
+   $routes->connect('/:param', 
+               ['language' => 'dk', 'controller' => 'Pages', 'action' => 'menu-pages'],
+               ['pass' => ['param'] ]
+     );
+   
+   $routes->connect('/brugere/transitbeskrivelse', 
+               ['language' => 'dk', 'controller' => 'Users', 'action' => 'fulltransit']
+   ); 
+
+   $routes->connect('/elite-brugere/ordre-detalje/:id', 
+               ['language' => 'dk', 'controller' => 'elite-users', 'action' => 'order-detail'],
+               ['pass' => ['id']]
+   );
+
+   $routes->connect('/elite-brugere/download/:id', 
+               ['language' => 'dk', 'controller' => 'elite-users', 'action' => 'download'],
+               ['pass' => ['id']]
+   ); 
+
+   /*$routes->connect('/elite-brugere/ordre-detalje?q=*', 
+               ['language' => 'dk', 'controller' => 'EliteUsers', 'action' => 'order-detail']
+   );*/
+   
+   $routes->connect('/elite-brugere/elite-rapport-checkout2', 
+               ['language' => 'dk', 'controller' => 'EliteUsers', 'action' => 'elite-report-checkout2']
+   ); 
+
+   $routes->connect('/brugere/fjern-fra-abonnement', 
+               ['language' => 'dk', 'controller' => 'Users', 'action' => 'remove-from-subscription']
+   ); 
+
+   $routes->connect('/brugere/udvalgte-user-id/:userid', 
+               ['language' => 'dk', 'controller' => 'Users', 'action' => 'selected-user-id'], ['pass' => [ 'userid'] ]
+   ); 
+
+   $routes->connect('/brugere/hjul/:apikey/:uid/:task', 
+               ['language' => 'dk', 'controller' => 'Users', 'action' => 'wheel'], ['pass' => [ 'apikey', 'uid', 'task'] ]
+   );
+
+   $routes->connect('/brugere/hjul/:apikey/:uid/:task/:aper', 
+               ['language' => 'dk', 'controller' => 'Users', 'action' => 'wheel'], ['pass' => [ 'apikey', 'uid', 'task', 'aper'] ]
+   );
+
+   $routes->connect('/brugere/få-country-byer/:country_id', 
+               ['language' => 'dk', 'controller' => 'Users', 'action' => 'get-country-cities'], ['pass' => [ 'country_id'] ]
+   );
+
+   /*$routes->connect('/elite-brugere/ordre-detalje/*', 
+               ['language' => 'dk', 'controller' => 'elite-users', 'action' => 'order-detail']
+    );*/
+
+   $routes->connect('/elite-brugere/tilpas-rapporter', 
+               ['language' => 'dk', 'controller' => 'elite-users', 'action' => 'customize-reports']
+    );
+
+   $routes->connect('/om-astrowow', 
+               ['language' => 'dk', 'controller' => 'pages', 'action' => 'about-astrowow']
+    );
+
+   $routes->connect('/elite-brugere/elite-kunde-kassen', 
+               ['language' => 'dk', 'controller' => 'elite-users', 'action' => 'elite-customer-checkout']
+    );
+
+   $routes->connect('/brugere/udvalgte-bruger-på-dash/:selecetdUserId', 
+               ['language' => 'dk', 'controller' => 'users', 'action' => 'selected-user-on-dash'], ['pass' => ['selecetdUserId']]
+    );
+
+   $routes->connect('/mini-blogs', 
+               ['language' => 'dk', 'controller' => 'mini-blogs', 'action' => 'index']
+    );
+
+  $routes->connect('/mini-blogs/stolpe/:slug', 
+               ['language' => 'dk', 'controller' => 'mini-blogs', 'action' => 'post'], ['pass' => ['slug']]
+    );
+
+$routes->connect('/mini-blogs?side*', 
+               ['language' => 'dk', 'controller' => 'mini-blogs', 'action' => 'index']
+    );
+
+
+    $routes->connect('/astrologi-software/:slug/:product_type',
+                        ['language' => 'dk', 'controller' => 'products', 'action' => 'detail'],
+                        ['pass' => ['slug', 'product_type']]
+                    );
+
+   // April 28, 2017
+    $routes->connect('/brugere/nulstille-adgangskode-token', ['language' => 'dk', 'controller' => 'users', 'action' => 'reset-password-token']);
+
+    $routes->connect('/brugere/nulstille-adgangskode-token/:reset_password_token', ['language' => 'dk', 'controller' => 'users', 'action' => 'reset-password-token'], ['pass' => ['reset_password_token']]);
+
+    $routes->connect('/elite-brugere/regenerere/:id', 
+               ['language' => 'dk', 'controller' => 'elite-users', 'action' => 'regenerate'],
+               ['pass' => ['id']]
+    );
+    $routes->connect('/brugere/abonnement-kalender-næste-måned/:monthNo', 
+               ['language' => 'dk', 'controller' => 'users', 'action' => 'subscription-calendar-next-month'],
+               ['pass' => ['monthNo']]
+    );
+    //End Here
+
+    //May 12, 2017
+    $routes->connect('/bruger-bedømmelse/:product_name', 
+               ['language' => 'dk', 'controller' => 'products', 'action' => 'user-testimonial'], ['pass' => ['product_name']]
+    );
+
+    /*$routes->connect('/brugere/horoscope-calendar-in-range', 
+               ['language' => 'dk', 'controller' => 'users', 'action' => 'horoscope-calendar-in-range']
+    );*/
+
+    $routes->connect('/brugere/taks', 
+               ['language' => 'dk', 'controller' => 'users', 'action' => 'thanks']
+    );
+
+    $routes->connect('/brugere/horoskop-kalender-in-raekkevidde/:startDate/:endDate', ['language' => 'dk', 'controller' => 'users', 'action' => 'horoscope-calendar-in-range'], ['pass' => ['startDate', 'endDate']]);
+
+    $routes->connect('/brugere/horoskop-kalender-in-raekkevidde/:startDate/:endDate/:month', ['language' => 'dk', 'controller' => 'users', 'action' => 'horoscope-calendar-in-range'], ['pass' => ['startDate', 'endDate', 'month']]);
+
+    $routes->connect('/support-billetter', ['language' => 'dk', 'controller' => 'support-tickets', 'action' => 'index']);
+    $routes->connect('/support-billetter/:status/:id', 
+               ['language' => 'dk', 'controller' => 'support-tickets', 'action' => 'view'],
+               [  'pass' => ['status','id'] ]
+    );
+
+    $routes->connect('/support-billetter/:status', 
+               ['language' => 'dk', 'controller' => 'support-tickets', 'action' => 'index'],
+               [  'pass' => ['status'] ]
+    );
+
+    $routes->connect('/support-billetter/delete/:status/:id', 
+               ['language' => 'dk', 'controller' => 'support-tickets', 'action' => 'delete'],
+               [  'pass' => ['status','id'] ]
+    );
+
+    $routes->connect('/support-billetter/edit/:id', 
+               ['language' => 'dk', 'controller' => 'support-tickets', 'action' => 'edit'],
+               [  'pass' => ['id'] ]
+    );
+
+    $routes->connect('/support-billetter/edit/:id', 
+               ['language' => 'dk', 'controller' => 'support-tickets', 'action' => 'edit'],
+               [  'pass' => ['id'] ]
+    );
+
+    $routes->connect('/brugere/deletepermanent', 
+               ['language' => 'dk', 'controller' => 'users', 'action' => 'deletepermanent']
+    );
+
+});
+
+Router::scope('/', function (RouteBuilder $routes) {
+
+    /**
+     * Here, we are connecting '/' (base path) to a controller called 'Pages',
+     * its action called 'display', and we pass a param to select the view file
+     * to use (in this case, src/Template/Pages/home.ctp)...
+     */
+ 
+    $routes->connect('/',   ['language'=>'en', 'controller' => 'Pages', 'action' => 'index'] ); //pm!
+    $routes->connect('/en', ['language'=>'en', 'controller' => 'Pages', 'action' => 'index'] ); //pm!
+    $routes->connect('/dk', ['language'=>'dk', 'controller' => 'Pages', 'action' => 'index'] ); //pm!
+    //$routes->connect('/:language/:controller/:action/*',['language'=>'en|dk']); //pm!
+
+    /*$routes->connect('/astrologi-rapport/:slug/:product_type', 
+               ['language' => 'dk', 'controller' => 'Products', 'action' => 'detail'],
+               ['pass' => ['slug','product_type'] ]
+    );*/ 
+
+
+     
+    $routes->connect('/users/showxml/:param', ['language'=>'en', 'controller' => 'users', 'action' => 'showxml'],['pass' => ['param']] );
+
+
+	/**
+     * ...and connect the rest of 'Pages' controller's URLs.
+     */
+	
+    $routes->connect('/media', array('language' => 'en', 'controller' => 'pages', 'action' => 'media'));
+    
+
+   //SF //$routes->connect('/consultation', array('language' => 'en', 'controller' => 'Orders', 'action' => 'consultation'));
+
+    $routes->connect('/:param', 
+               ['language' => 'en', 'controller' => 'Pages', 'action' => 'menu-pages'],
+               ['pass' => ['param'] ]
+     );
+
+    // $routes->connect('/products/:slug/:product_type/:id', 
+    //            ['language' => 'en', 'controller' => 'Products', 'action' => 'detail'],
+    //            [ 'id' => '\d+', 'pass' => ['slug','product_type', 'id'] ]
+    // );   
+
+
+
+     //commented on 24-March-2017
+    // $routes->connect('/products/:slug/:product_type', 
+    //            ['language' => 'en', 'controller' => 'Products', 'action' => 'detail'],
+    //            [  'pass' => ['slug','product_type'] ]
+    // );   
+    
+
+    $routes->connect('/astrology-reports/:slug/:product_type', 
+               ['language' => 'en', 'controller' => 'Products', 'action' => 'detail'],
+               [  'pass' => ['slug','product_type'] ]
+    );
+
+    // this is used for softwares section
+    $routes->connect('/astrology-software/:slug/:product_type',
+                        ['language' => 'en', 'controller' => 'products', 'action' => 'detail'],
+                        ['pass' => ['slug', 'product_type']]
+                    );
+
+
+    $routes->connect('/products/:action', 
+               ['language' => 'en', 'controller' => 'Products', 'action' => ':action']);    
+
+
+                    
+    $routes->connect('language/:locale', 
+                        ['controller' => 'App', 'action' => 'change-locale'],
+                        ['pass' => ['locale'] ]
+                );
+
+    $routes->connect('/elite-users', 
+                    ['language' => 'en', 'controller' => 'EliteUsers', 'action' => 'index']
+            );
+
+    $routes->connect('/sun-signs/free-horoscope', array('language' => 'en', 'controller' => 'sun-signs', 'action' => 'free-horoscope'));
+    //$routes->connect('/software', array('language' => 'en', 'controller' => 'Products', 'action' => 'astrology', 'software'));
+
+    $routes->connect('/astrology-software', array('language' => 'en', 'controller' => 'Products', 'action' => 'astrology', 'astrology-software'));
+
+
+
+    $routes->connect('/users/:action', array('language' => 'en', 'controller' => 'Users', 'action' => ':action'));
+    $routes->connect('/elite-users/:action', array('language' => 'en', 'controller' => 'EliteUsers', 'action' => ':action'));
+
+     $routes->connect('/get-prediction', array('language' => 'en', 'controller' => 'sun-signs', 'action' => 'get-prediction'));
+
+    //For sunsigns
+    /*$routes->connect('/sun-signs/:name', 
+                    ['language' => 'en', 'controller' => 'SunSigns', 'action' => 'index'],
+                    ['pass' => ['name'] ]
+            );*/
+    
+   $routes->connect('/mycalendar-icons/*', array('language' => 'en', 'controller' => 'Users', 'action' => 'mycalendar-icons', 'pass' => ['apikey', 'date', 'user' ])    );
+    
+    $routes->connect('/sun-signs/free-mini-report-for-guest-user', ['language' => 'en', 'controller' => 'sun-signs', 'action' => 'free-mini-report-for-guest-user']);
+
+    //For sunsigns
+    // $routes->connect('/sun-signs/:name/:param', 
+    //                 ['language' => 'en', 'controller' => 'sun-signs', 'action' => 'index'],
+    //                 ['pass' => ['name', 'param']] );
+
+    $sunSigns = array();
+    $sunSigns['aries'] = 'aries';
+    $sunSigns['taurus'] = 'taurus';
+    $sunSigns['gemini'] = 'gemini';
+    $sunSigns['cancer'] = 'cancer';
+    $sunSigns['leo'] = 'leo';
+    $sunSigns['virgo'] = 'virgo';
+    $sunSigns['libra'] = 'libra';
+    $sunSigns['scorpio'] = 'scorpio';
+    $sunSigns['sagittarius'] = 'sagittarius';
+    $sunSigns['capricorn'] = 'capricorn';
+    $sunSigns['aquarius'] = 'aquarius';
+    $sunSigns['pisces'] = 'pisces';
+    // foreach( $sunSigns as $key => $sunsign) { 
+    //      $routes->connect('/sol-skilte/'.$sunsign, 
+    //             ['language' => 'dk', 'controller' => 'SunSigns', 'action' => 'index', $key  ]);   
+    // }
+    $scope['daily-horoscope'] = 'daily-horoscope';
+    $scope['weekly-horoscope'] = 'weekly-horoscope'; 
+    $scope['monthly-horoscope'] = 'monthly-horoscope'; 
+    $scope['yearly-horoscope'] = 'yearly-horoscope'; 
+    $scope['characteristics'] = 'characteristics'; 
+    $scope['celebrity'] = 'celebrity'; 
+    $scope['archive'] = 'archive'; 
+
+
+   foreach( $scope as $k => $period)
+   {
+           foreach( $sunSigns as $key => $sunsign) { 
+              $routes->connect('/sun-signs/'.$sunsign."/". $period, 
+                ['language' => 'en', 'controller' => 'sun-signs', 'action' => 'index', $key, $k  ]);   
+           }
+    }
+
+
+
+    $routes->connect('/orders/:action', 
+               ['language' => 'en', 'controller' => 'Orders', 'action' => ':action']
+    );
+
+   $routes->connect('/users/wheel*', 
+               ['language' => 'en', 'controller' => 'Users', 'action' => 'wheel'], ['pass' => [ 'apikey', 'uid', 'task', 'aper'] ]
+   ); 
+
+   $routes->connect('/elite-users/dashboard', 
+               ['language' => 'en', 'controller' => 'elite-users', 'action' => 'dashboard']
+    );
+
+   $routes->connect('/elite-users/order-list', 
+               ['language' => 'en', 'controller' => 'elite-users', 'action' => 'order-list']
+    );  
+
+   $routes->connect('/elite-users/order-detail/*', 
+               ['language' => 'en', 'controller' => 'elite-users', 'action' => 'order-detail']
+    );
+
+   $routes->connect('/elite-users/customize-reports', 
+               ['language' => 'en', 'controller' => 'elite-users', 'action' => 'customize-reports']
+    );
+
+   $routes->connect('/users/wheel*', 
+               ['language' => 'en', 'controller' => 'Users', 'action' => 'wheel'], ['pass' => [ 'apikey', 'uid', 'task', 'aper'] ]
+   ); 
+
+   $routes->connect('/elite-users/elite-report-checkout', 
+               ['language' => 'en', 'controller' => 'elite-users', 'action' => 'elite-report-checkout']
+    );
+
+   $routes->connect('/elite-users/elite-report-checkout2', 
+               ['language' => 'en', 'controller' => 'elite-users', 'action' => 'elite-report-checkout2']
+    );
+
+    $routes->connect('/users/edit-profile/*',
+              ['language' => 'en', 'controller' => 'users', 'action' => 'edit-profile']
+    );
+
+    $routes->connect('/elite-users', 
+                    ['language' => 'en', 'controller' => 'elite-users', 'action' => 'index']
+            );
+
+    $routes->connect('/elite-users/elite-customer-checkout', 
+               ['language' => 'en', 'controller' => 'elite-users', 'action' => 'elite-customer-checkout']
+    );
+
+    $routes->connect('/elite-users/elite-customer-checkout-step2', 
+               ['language' => 'en', 'controller' => 'elite-users', 'action' => 'elite-customer-checkout-step2']
+    );
+
+    $routes->connect('/users/selected-user-on-dash/:selecetdUserId', 
+               ['language' => 'en', 'controller' => 'users', 'action' => 'selected-user-on-dash'], ['pass' => ['selecetdUserId']]
+    );
+
+    $routes->connect('/mini-blogs', 
+               ['language' => 'en', 'controller' => 'mini-blogs', 'action' => 'index']
+    );
+
+    $routes->connect('/support-tickets', 
+               ['language' => 'en', 'controller' => 'support-tickets', 'action' => 'index']
+    );
+
+    $routes->connect('/support-tickets/:status/:id', 
+               ['language' => 'en', 'controller' => 'support-tickets', 'action' => 'view'],
+               [  'pass' => ['status','id'] ]
+    );
+
+    $routes->connect('/support-tickets/delete/:status/:id', 
+               ['language' => 'en', 'controller' => 'support-tickets', 'action' => 'delete'],
+               [  'pass' => ['status','id'] ]
+    );
+
+    $routes->connect('/support-tickets/:status', 
+               ['language' => 'en', 'controller' => 'support-tickets', 'action' => 'index'],
+               [  'pass' => ['status'] ]
+    );
+
+    $routes->connect('/support-tickets/edit/:id', 
+               ['language' => 'en', 'controller' => 'support-tickets', 'action' => 'edit'],
+               [  'pass' => ['id'] ]
+    );
+
+
+    // $routes->connect('/mini-blogs/:page', 
+    //            ['language' => 'en', 'controller' => 'mini-blogs', 'action' => 'index'], ['page' => "(?page:'[0-9]+]')"]
+    // );
+
+   //  $routes->connect('/mini-blogs/page/:page', array(
+   //   'controller' => 'mini-blogs',
+   //   'action' => 'index'
+   //  ), array(
+   //  'pass' => array(
+   //      'page'
+   //  ),
+   //   'page' => '[\d]+'
+   // ));
+
+
+
+    $routes->connect('/mini-blogs/post/:slug', 
+               ['language' => 'en', 'controller' => 'mini-blogs', 'action' => 'post'], ['pass' => ['slug']]
+    );
+
+    $routes->connect('/astrology-reports', 
+               ['language' => 'en', 'controller' => 'Products', 'action' => 'astrology-reports']
+    );  
+
+    $routes->connect('/users/reset-password-token/:reset_password_token', 
+               ['language' => 'en', 'controller' => 'users', 'action' => 'reset-password-token'], ['pass' => ['reset_password_token']]
+    );
+
+    $routes->connect('/user-testimonial/:product_name', 
+               ['language' => 'en', 'controller' => 'products', 'action' => 'user-testimonial'], ['pass' => ['product_name']]
+    );
+
+    /*$routes->connect('/users/horoscope-calendar-in-range', 
+               ['language' => 'en', 'controller' => 'users', 'action' => 'horoscope-calendar-in-range']
+    );*/
+
+    $routes->connect('/users/thanks',
+               ['language' => 'en', 'controller' => 'users', 'action' => 'thanks']
+    );
+
+    $routes->connect('/brugere/horoscope-calendar-in-range/:startDate/:endDate', ['language' => 'en', 'controller' => 'users', 'action' => 'horoscope-calendar-in-range'], ['pass' => ['startDate', 'endDate']]);
+
+    $routes->connect('/brugere/horoscope-calendar-in-range/:startDate/:endDate/:month', ['language' => 'en', 'controller' => 'users', 'action' => 'horoscope-calendar-in-range'], ['pass' => ['startDate', 'endDate', 'month']]);
+
+    $routes->connect('/sun-signs/free-mini-report-for-guest-user', ['language' => 'en', 'controller' => 'sun-signs', 'action' => 'free-mini-report-for-guest-user']);
+
+
+
+
+    //  $routes->connect('/orders/thank-you-free-trial/:oic', 
+    //            ['language' => 'en', 'controller' => 'Orders', 'action' => 'thank-you-free-trial', ['pass' => ['oic'] ] ]
+    // );  
+
+// 
+    // $routes->connect('/order/download-free-trial/24', array('language' => 'en', 'controller' => 'Orders', 'action' => 'download-free-trial', 24));
+
+    // $routes->connect('/order/download-free-trial/26', array('language' => 'en', 'controller' => 'Orders', 'action' => 'download-free-trial', 26));
+
+    // $routes->connect('/order/download-free-trial/28', array('language' => 'en', 'controller' => 'Orders', 'action' => 'download-free-trial', 28));
+
+
+    /**
+     * Connect catchall routes for all controllers.
+     *
+     * Using the argument `DashedRoute`, the `fallbacks` method is a shortcut for
+     *    `$routes->connect('/:controller', ['action' => 'index'], ['routeClass' => 'DashedRoute']);`
+     *    `$routes->connect('/:controller/:action/*', [], ['routeClass' => 'DashedRoute']);`
+     *
+     * Any route class can be used with this method, such as:
+     * - DashedRoute
+     * - InflectedRoute
+     * - Route
+     * - Or your own route class
+     *
+     * You can remove these routes once you've connected the
+     * routes you want in your application.
+     */
+    $routes->fallbacks('DashedRoute');
+});
+
+
+
+
+
+Router::prefix('admin_panel', function ($routes) {
+    // Because you are in the admin scope,
+    // you do not need to include the /admin prefix
+    // or the admin route element.
+    $routes->connect('/', ['controller' => 'Users', 'action' => 'login']);
+    $routes->connect('/orders/generate-mini-report', ['language' => 'en', 'controller' => 'orders', 'action' => 'generate-mini-report']);
+    $routes->fallbacks('DashedRoute');
+});
+
+Router::scope('/', function ($routes) {
+    $routes->extensions(['json', 'xml']);
+    });
+
+/**
+ * Load all plugin routes.  See the Plugin documentation on
+ * how to customize the loading of plugin routes.
+ */
+Plugin::routes();
+
+
+
+

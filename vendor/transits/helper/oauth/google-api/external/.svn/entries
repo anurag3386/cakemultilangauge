@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://xyz-pc/svn/astrowow.com"
+   revision="2"
+   last-author="aparmar"
+   url="https://xyz-pc/svn/astrowow.com/astrowow/helper/oauth/google-api/external"
+   committed-rev="2"
+   kind="dir"
+   committed-date="2013-05-02T09:18:15.217000Z"/>
+<entry
+   name="URITemplateParser.php"
+   checksum="dc829ddd424801e2bc4bf83bfb5e698c"
+   last-author="aparmar"
+   text-time="2013-04-10T05:55:22.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2013-05-02T09:18:15.217000Z"
+   prop-time="2013-05-02T08:01:30.000000Z"/>
+</wc-entries>

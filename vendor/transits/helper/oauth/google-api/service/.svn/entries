@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://xyz-pc/svn/astrowow.com"
+   name=""
+   revision="2"
+   last-author="aparmar"
+   url="https://xyz-pc/svn/astrowow.com/astrowow/helper/oauth/google-api/service"
+   committed-rev="2"
+   kind="dir"
+   committed-date="2013-05-02T09:18:15.217000Z"/>
+<entry
+   name="Google_BatchRequest.php"
+   checksum="3c5f95b98e16d1a4a3fe2cc5cf48e9b6"
+   last-author="aparmar"
+   text-time="2013-04-10T05:55:22.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2013-05-02T09:18:15.217000Z"
+   prop-time="2013-05-02T08:07:37.000000Z"/>
+<entry
+   name="Google_MediaFileUpload.php"
+   checksum="90cc23d99dd18df03372a02a67de1cce"
+   last-author="aparmar"
+   text-time="2013-04-10T05:55:22.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2013-05-02T09:18:15.217000Z"
+   prop-time="2013-05-02T08:06:26.000000Z"/>
+<entry
+   name="Google_Model.php"
+   checksum="2c2d018441c8e8971d6b0528f3f34d85"
+   last-author="aparmar"
+   text-time="2013-04-10T05:55:22.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2013-05-02T09:18:15.217000Z"
+   prop-time="2013-05-02T07:56:05.000000Z"/>
+<entry
+   name="Google_Service.php"
+   checksum="213627cf943f19478ecd263b1f253195"
+   last-author="aparmar"
+   text-time="2013-04-10T05:55:22.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2013-05-02T09:18:15.217000Z"
+   prop-time="2013-05-02T07:57:35.000000Z"/>
+<entry
+   name="Google_ServiceResource.php"
+   checksum="6aa5fb58563b8c00f5210a9b3db67def"
+   last-author="aparmar"
+   text-time="2013-04-10T05:55:22.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2013-05-02T09:18:15.217000Z"
+   prop-time="2013-05-02T08:07:25.000000Z"/>
+<entry
+   name="Google_Utils.php"
+   checksum="612e0e3add05f9cf52d64065b7ccca0a"
+   last-author="aparmar"
+   text-time="2013-04-10T05:55:22.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2013-05-02T09:18:15.217000Z"
+   prop-time="2013-05-02T08:01:13.000000Z"/>
+</wc-entries>

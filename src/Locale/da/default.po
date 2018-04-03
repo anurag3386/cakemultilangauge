@@ -1,0 +1,2894 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: astrowow\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-09 13:24+0530\n"
+"PO-Revision-Date: 2018-01-05 12:29+0000\n"
+"Last-Translator: \n"
+"Language-Team: Danish\n"
+"Language: da\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: en_IN\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ../../../../../../sehdev/pages\n"
+"X-Poedit-KeywordsList: __;__d\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Loco-Parser: loco_parse_mo"
+
+msgid " Edit"
+msgstr "Rediger"
+
+msgid " has been already bought by this user."
+msgstr "er allerede købt af brugeren"
+
+msgid "(Enter first few letters of birth town and CLICK on town in list)"
+msgstr ""
+"(Skriv de første bogstaver i din fødeby og KLIK på byen i dropdown-listen)"
+
+msgid "(Enter first few letters of birth town and click on town in list)"
+msgstr ""
+"(Skriv de første bogstaver i din fødeby og klik på byen i dropdown-listen)"
+
+msgid "...Read More"
+msgstr "...Læs Mere"
+
+msgid "30 DAYS FREE TRIAL"
+msgstr "30 DAGE GRATIS PRØVEVERSION"
+
+msgid "30 Days Free Trial"
+msgstr "30 dage gratis prøveversion"
+
+msgid ""
+"A horoscope is a two-dimensional map of the solar system, which shows "
+"exactly where the sun, moon and planets are in the 12 zodiac signs: Aries, "
+"Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, "
+"Aquarius and Pisces. Based on the exact time and place of birth, the 12 "
+"Houses of the horoscope can also be calculated, and the planets in signs are "
+"placed in this framework – the personal horoscope."
+msgstr ""
+"Et horoskop er et todimensionelt kort over solsystemet, som viser præcist "
+"hvor Solen, Månen og de andre planeter er i de tolv tegn: Vædderen, Tyren, "
+"Tvillingerne, Krebsen, Løven, Jomfruen, Vægten og Skorpionen, Skytten, "
+"Stenbukken, Vandbæreren, og Fiskene. Horoskopet er baseret på et præcist "
+"fødselstidspunkt og på baggrund af dette kan de 12 huse beregnes samt "
+"planeter i tegn, som tilsammen udgør det personlige horoskop."
+
+msgid "ASK THE ASTROLOGER"
+msgstr "SPØRG ASTROLOGEN"
+
+msgid "ASTROLOGY BOOKS"
+msgstr "ASTROLOGIBØGER SKREVET"
+
+msgid "ASTROLOGY CONSULTATION"
+msgstr "KONSULTATIONER"
+
+msgid "ASTROLOGY REPORTS"
+msgstr "ASTROLOGI RAPPORTER"
+
+msgid "ASTROWOW Newsletter"
+msgstr "AstroWOW Nyhedsbrev"
+
+msgid "About Astrology"
+msgstr "Om Astrologi"
+
+msgid "About Astrowow.com"
+msgstr "Om Astrowow.com"
+
+msgid "About Us"
+msgstr "Om os"
+
+msgid "Action"
+msgstr "Handling"
+
+msgid "Add Another Person"
+msgstr "Tilføj En Person"
+
+msgid "Add New Profile"
+msgstr "Tilføj Ny Profil"
+
+msgid "Add Person"
+msgstr "Tilføj Person"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Address 1"
+msgstr "Adresse 1"
+
+msgid "Address 2"
+msgstr "Adresse 2"
+
+msgid "Adrian Duncan, Astrologer"
+msgstr "Adrian Duncan, Astrolog"
+
+msgid ""
+"Adrian Ross Duncan is a full-time practicing astrologer. He speaks regularly "
+"at congresses all over the world. Countries  where he has spoken: France, "
+"Holland, Britain, Norway, Sweden, Denmark, Finland, Ireland, Canada, the USA,"
+" Australia and New Zealand."
+msgstr ""
+"Adrian Ross Duncan har arbejdet fuldtids med astrologi i mange år. Han "
+"holder foredrag på kongresser verden over og har talt i Frankrig, Holland, "
+"England, Skotland, Irland, Danmark, Finland, Norge, Holland, Sverige, Canada,"
+" USA, Australien og Ny Zealand"
+
+msgid "Adrian is holding talks at the following congresses"
+msgstr "Adrian is holding talks at the following congresses"
+
+msgid "Age"
+msgstr "Alder"
+
+msgid "An error occured"
+msgstr "En fejl opstod"
+
+msgid "Approved"
+msgstr "Godkendt"
+
+msgid "Approx"
+msgstr "Ca."
+
+msgid "April 20 - May 20"
+msgstr "April 20 - Maj 20"
+
+msgid "Aquarius"
+msgstr "Vandbærer"
+
+msgid "Archive"
+msgstr "Arkiv"
+
+msgid "Are you a returning user?"
+msgstr "Er du en tilbagevendende bruger?"
+
+msgid "Are you sure to delete"
+msgstr "Er du sikker på, at du ønsker at slette"
+
+msgid "Are you sure to delete your account?"
+msgstr "Er du sikker på, at du ønsker at slette din konto?"
+
+msgid "Are you sure you want to deactivate your account?"
+msgstr "Er du sikker på du vil slette din konto?"
+
+msgid "Are you sure you want to delete the user:"
+msgstr "Er du sikker på, at du ønsker at slette brugeren:"
+
+msgid "Are you sure you want to delete your account?"
+msgstr "Er du sikker på at du ønsker at slette din konto?"
+
+msgid "Are you sure you want to unsubscribe from calendar?"
+msgstr "Er du sikker på at du vil framelde dig fra kalenderen?"
+
+msgid "Aries"
+msgstr "Vædder"
+
+msgid "Articles"
+msgstr "Artikler"
+
+msgid "AstroWOW Media"
+msgstr "AstroWOW Medier"
+
+msgid ""
+"AstroWOW is a new development of World of Wisdom, which has been providing "
+"astrology content on the net since 1995. Designed and written by astrologer "
+"Adrian Ross Duncan, this site is designed to give you a fully immersive "
+"experience of astrology and of your own personal horoscope. We believe that "
+"astrology should be presented in an easily accessible way, so even those "
+"people who have little knowledge of astrology and horoscopes can have access "
+"to the amazing richness of this ancient art."
+msgstr ""
+"AstroWOW er en nyudviklet udgave af World of Wisdoms webside, som har "
+"tilbudt astrologi på nettet siden 1995. Designet og skrevet af astrolog "
+"Adrian Ross Duncan, dette site er lavet for at give dig en fascinerende "
+"oplevelse af astrologi og dit eget fødselshoroskop. Vi synes at astrologi "
+"skal præsenteres på en let og tilgængelig måde så selv de mennesker som bare "
+"har lidt kendskab til astrologi og horoskoper kan få adgang til denne "
+"forunderlige rigdom af gammel viden og tydningskunst."
+
+msgid "Astrology Blog"
+msgstr "Astrologi Blog"
+
+msgid "Astrology Calendar"
+msgstr "Astrokalenderen"
+
+msgid "Astrology Calendar Report"
+msgstr "AstroKalender Rapport"
+
+msgid ""
+"Astrology Calendar, you can now channel the planetary energies to your "
+"advantage"
+msgstr "AstroKalenderen, kan du kanalisere astrologiske indflydelser optimalt."
+
+msgid "Astrology Reports"
+msgstr "Vores Rapporter"
+
+msgid "Astrology Software"
+msgstr "Astrologi Software"
+
+msgid "Astrology for Lovers"
+msgstr "Astrologi Og Parforhold"
+
+msgid ""
+"Astrology has been around for many thousands of years, but never has it been "
+"as popular and respected as it is today. Why? Because astrology works, and "
+"when people read something as simple as their daily, weekly or monthly "
+"horoscope, they sense the resonance there is between their zodiac sign and "
+"their character."
+msgstr ""
+"Astrologi har været kendt i årtusinder men har aldrig været så populær og "
+"respekteret som det er i dag. Hvorfor? Fordi astrologi virker og når folk f."
+"eks. læser deres daglige, ugentlige eller månedlige horoskoper mærker de "
+"samklangen mellem deres stjernetegn og deres karakter."
+
+msgid ""
+"Astrology software from WOW distinguished itself from other horoscope "
+"software because no previous knowledge of astrological techniquest is "
+"required."
+msgstr ""
+"Astrologi software fra WOW kræver ingen forudgående viden om astrologi og "
+"astrologiske teknikker."
+
+msgid ""
+"Astrology software from WOW distinguishes itself from other horoscope "
+"software, because no previous knowledge of astrological techniques is "
+"required."
+msgstr ""
+"Astrologi software fra WOW kræver ingen forudgående viden om astrologi og "
+"astrologiske teknikker."
+
+msgid "Astrology software packages- Save up to"
+msgstr "Køb flere programmer og spar op til"
+
+msgid "Astrowow App"
+msgstr "Astrowow App"
+
+msgid "Audio"
+msgstr "Lyd"
+
+msgid "August 23 - September 22"
+msgstr "August 23 - September 22"
+
+msgid "Avatar Image"
+msgstr "Avatar Billede"
+
+msgid "BUY AS A COMBO"
+msgstr "KØB SOM COMBO"
+
+msgid "Back"
+msgstr "Tilbage"
+
+msgid "Back to My AstroPage"
+msgstr "Tilbage til Min AstroSide"
+
+msgid "Back to order history"
+msgstr "Tilbage til orderhistorie"
+
+msgid ""
+"Basically this is an incredibly advanced way of displaying a particular "
+"point in time at a particular point in space. You can even work backwards "
+"from a horoscope drawing to divine the exact time and place of birth. There "
+"are 1440 simple combinations of planets in signs and houses, but astrology "
+"gets much, much more complicated than that."
+msgstr ""
+"Dybest set er horoskopet en meget avanceret måde at vise hvad der sker på et "
+"bestemt punkt på et bestemt tidspunkt. Du kan endda regne baglæns fra selve "
+"horoskoptegningen for at finde ud af hvor og hvornår på jorden en person er "
+"født. Der er 1440 simple kombinationer af planeter i tegn og huse, men "
+"astrologien er endnu mere kompliceret end som så."
+
+msgid ""
+"Basically your date of birth will show you in which sign the Sun, Mercury, "
+"Venus, Mars, Jupiter, Saturn, Uranus, Neptune and Pluto are in your "
+"horoscope, because they are unlikely to change signs during the course of a "
+"day. For example – from the standpoint of someone on Earth – the sun takes "
+"one month to move from one star sign to another, whilst Uranus takes seven "
+"years. As the moon moves from one sign to another in a little over two days, "
+"you need the birth time and place to be sure of where it is."
+msgstr ""
+"Din fødselsdag vil vise i hvilket tegn Solen, Merkur, Venus, Mars, Jupiter, "
+"Saturn, Uranus, Neptun og Pluto er i dit horoskop, og de skifter ikke tegn i "
+"løbet af en dag. Det tager Solen en måned at bevæge sig fra et tegn til et "
+"andet, hvis man ser det fra Jorden, mens Uranus tager syv år. Da Månen "
+"bevæger sig fra et tegn til det næste på lidt over to dage, så har du brug "
+"for fødselssted og tid for at være sikker på hvor den er."
+
+msgid "Become an Elite Customer"
+msgstr "Bliv en Elite Kunde"
+
+msgid ""
+"Below you can see short term and long term influences day by day on your "
+"personal birth chart. You can use the questions and answers to clarify "
+"issues that arise."
+msgstr ""
+"Herunder kan du læse om de kort- og længerevarende indflydelser dag for dag "
+"i dit personlige horoskop. Brug de spørgsmål og svar for at belyse de mange "
+"situationer som evt. opstår."
+
+msgid "Biography"
+msgstr "Biografi"
+
+msgid "Birth City"
+msgstr "Birth City"
+
+msgid "Birth Country"
+msgstr "Født Land"
+
+msgid "Birth Country/State"
+msgstr "Født Land / Stat"
+
+msgid "Birth Date"
+msgstr "Fødselsdato"
+
+msgid "Birth Information"
+msgstr "Født Information"
+
+msgid "Birth Time"
+msgstr "Fødselstidspunkt"
+
+msgid "Birth details"
+msgstr "Fødsel detaljer"
+
+msgid "Birthdate"
+msgstr "Fødselsdato"
+
+msgid ""
+"But of course astrology is far more complex than just the 12 star signs. The "
+"idea behind astrology is that the smallest thing in the universe is subject "
+"to the same forces as the largest thing, and events in one field are "
+"reflected by events in another, as described by the old adage “As above, so "
+"below”. Nobody knows why this is the case, and there is no known force in "
+"the universe that has been proven to have this effect. Yet people relate to "
+"their horoscopes and sense their close affinity with the cosmos."
+msgstr ""
+"Selvfølgelig er astrologi meget mere komplekst end bare de 12 stjernetegn. "
+"Ideen bag astrologien er at den mindste ting i universet er underlagt de "
+"samme kræfter som de største ting og begivenheder på et område reflekterer "
+"begivenheder på et andet og som et gammelt ordsprog siger: ”Som foroven, så "
+"forneden”. Ingen ved hvorfor det er sådan og der er ingen bekendt kraft i "
+"universet, der kan bevise at det har den effekt. Men alligevel forbinder "
+"folk sig med deres horoskoper og fornemmer en tæt samklang med kosmos."
+
+msgid "Buy Now"
+msgstr "Køb Nu"
+
+msgid "Buy Now for "
+msgstr "Køb Nu til "
+
+msgid "Buy Software CD"
+msgstr "Køb Software CD"
+
+msgid "Buy Subscription for"
+msgstr "Køb Abonnement for"
+
+msgid "Buy/Register shareware"
+msgstr "Køb/Register shareware"
+
+msgid "By checking, I agree to the Astrowow"
+msgstr "Ved at sætte kryds, er jeg enig med handelsbetingelserne i Astrowow"
+
+msgid "By clicking on SUBMIT button, I agree with AstroWOW"
+msgstr ""
+"Ved at sætte kryds ved INDSEND er jeg enig i handelsbetingelserne i Astrowow"
+
+msgid ""
+"By subscribing for your personalized 1 year Astrology Calendar, you can now "
+"channel the planetary energies to your advantage"
+msgstr ""
+"Nu, hvor du er tilmeldt AstroKalenderen i et år, kan du kanalisere "
+"astrologiske indflydelser optimalt."
+
+msgid "Cancer"
+msgstr "Krebs"
+
+msgid "Capricorn"
+msgstr "Stenbuk"
+
+msgid "Category Name"
+msgstr "Kategori Navn"
+
+msgid "Celebrity"
+msgstr "Kendte"
+
+msgid "Change Password"
+msgstr "Skift Adgangskode"
+
+msgid "Change Your Password"
+msgstr "Skift Dit Kodeord"
+
+msgid "Character & Destiny Report"
+msgstr "Karakter og Skæbne Rapport"
+
+msgid "Characteristics"
+msgstr "Karakteristik"
+
+msgid "Choose Age for the report"
+msgstr "Vælg alder for rapporten"
+
+msgid "Choose Currency"
+msgstr "Vælg valuta"
+
+msgid "City"
+msgstr "By"
+
+msgid "City not found with entered letters"
+msgstr "Stednavn ikke fundet med disse bogstaver"
+
+msgid "Clear"
+msgstr "Klar"
+
+msgid "Click here to sign up"
+msgstr "Klik her for at registrere"
+
+msgid "Click on the button below to get a consultation with Adrian Duncan: "
+msgstr "Herunder kan du klikke for at få en konsultation med Adrian Duncan: "
+
+msgid "Click to Expand"
+msgstr "Klik for at udvide"
+
+msgid "Closed"
+msgstr "Lukket"
+
+msgid "Comprehensive Lovers Report"
+msgstr "Astrologi Og Parforhold"
+
+msgid "Confirm Password"
+msgstr "Bekræft Adgangskode"
+
+msgid "Consultation Type"
+msgstr "Konsultation Type"
+
+msgid "Consultation with Adrian Duncan"
+msgstr "Konsultation med Adrian Duncan"
+
+msgid "Copyright"
+msgstr "Ophavsret"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Courses & Events"
+msgstr "Kurser & Events"
+
+msgid "Cover Page PDF"
+msgstr "Omslag PDF"
+
+msgid "Create Ticket"
+msgstr "Opret billet"
+
+msgid "Created On"
+msgstr "Oprettet på"
+
+msgid "Currency"
+msgstr "Betalingsmiddel"
+
+msgid "Currently you do not have any purchased reports."
+msgstr "Lige nu har du ikke købt en rapport."
+
+msgid "Customer Birth Detail"
+msgstr "Customer Fødsel Detail"
+
+msgid "Customer Full Name"
+msgstr "Kunden Fulde  Navn"
+
+msgid "Customize Report"
+msgstr "Tilpas rapport"
+
+msgid "Customize Reports"
+msgstr "Tilpas rapporter"
+
+msgid "Customize your reports for your clients/customers"
+msgstr "Design rapporterne med egen forside og info"
+
+msgid "DOWNLOAD"
+msgstr "HENT"
+
+msgid "Daily"
+msgstr "Daglige"
+
+msgid "Daily personalized astrological calendar"
+msgstr "Daglig personlig astrologisk kalender"
+
+msgid "Data added succesfully"
+msgstr "Oplysninger tilføjet"
+
+msgid "Data has been saved successfully."
+msgstr "Data er blevet gemt."
+
+msgid "Date of Birth"
+msgstr "Fødselsdato"
+
+msgid "Deactivate My Account"
+msgstr "Deaktiver min konto"
+
+msgid "December 22 - January 19"
+msgstr "December 22 - Januar 19"
+
+msgid "Delete"
+msgstr "Slet"
+
+msgid "Delete My Account"
+msgstr "Slet Min Konto"
+
+msgid "Delete My Account Permanently"
+msgstr "Slet min konto permanent"
+
+msgid "Delete This User"
+msgstr "Slet Bruger"
+
+msgid "Deliver through Email"
+msgstr "Lever gennem Email"
+
+msgid "Description"
+msgstr "Beskrivelse"
+
+msgid ""
+"Designed and written by astrologer Adrian Ross Duncan, our reports was "
+"designed to give you a fully immersive experience of astrology and of your "
+"own personal horoscope. We believe that astrology should be presented in an "
+"easily accessible way."
+msgstr ""
+"Designet og skrevet af astrolog Adrian Ross Duncan, vores rapporter giver en "
+"stærk personlig oplevelse af astrologi og dit horoskop. Vi tror på, at "
+"astrologien skal præsenteres på en nemt og tilgængelig måde."
+
+msgid ""
+"Despite providing accurate horoscope calculation and complete, detailed "
+"astrology reports of 25+ pages in length, World of Wisdom astrology software "
+"is inexpensive and amazingly user-friendly. Whether you are a beginner or an "
+"expert, using these astrology programs is pleasurable and without "
+"unnecessary complication or technicalities."
+msgstr ""
+"WOW leverer præcis beregning og en komplet detaljeret astrologi rapport på "
+"25 sider eller mere. World of Wisdom software koster meget lidt og er "
+"utroligt brugervenlig. Uanset om du er begynder eller en ekspert, så kan du "
+"bruge disse astrologi programmer uden unødvendige komplikationer og "
+"teknikker."
+
+msgid ""
+"Do you have an active website or strong following locally or on the internet?"
+" Do you dream of making a business selling astrology reports? If so, "
+"AstroWOW wants to partner with you."
+msgstr ""
+"Har du en aktiv website eller mange kunder på nettet? Drømmer du om at "
+"starte forretning ved at sælge astrologi rapporter? Så vil AstroWOW gerne "
+"være partner med dig."
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Download Free Trial"
+msgstr "Download Gratis Prøveversion"
+
+msgid "Download on iOS Store"
+msgstr "Hent på iOS Store"
+
+msgid "Edit Ticket"
+msgstr "Rediger billet"
+
+msgid "Edit your details"
+msgstr "Rediger dine detaljer"
+
+msgid "Elite Customer"
+msgstr "Elite Kunde"
+
+msgid "Elite Membership"
+msgstr "Elite Medlemskab"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Email Address"
+msgstr "Email Adresse"
+
+msgid "Email ID already exists - please log in"
+msgstr "Email ID findes allerede - log venligst ind"
+
+msgid "Email id is already exists"
+msgstr "Email ID findes allerede - log venligst ind"
+
+msgid "Enter City"
+msgstr "Indtast By"
+
+msgid "Enter Username"
+msgstr "Indtast Brugernavn"
+
+msgid "Enter a few letters of town and CLICK on town in list"
+msgstr ""
+"Skriv de første bogstaver i din fødeby og KLIK på byen i dropdown-listen"
+
+msgid "Enter subject"
+msgstr "Indtast emne"
+
+msgid "Enter your comment"
+msgstr "Skriv din kommentar"
+
+msgid "Enter your email address to sign up for free astrology reports and more"
+msgstr ""
+"Udfyld din mailadresse for at få din gratis mini astrologi rapport og mere"
+
+msgid "Error"
+msgstr "Fejl"
+
+msgid "Error saving data"
+msgstr "Fejl ved lagring af data"
+
+msgid "Essential Year Ahead Report"
+msgstr "Livsbogen - år for år"
+
+msgid ""
+"Exchange it for another reading of your choice (of comparable value) Or "
+"gladly refund you"
+msgstr "Byt rapporten til en anden."
+
+msgid "FREE HOROSCOPES"
+msgstr "GRATIS HOROSCOPER"
+
+msgid "Famous people born in the sign of"
+msgstr "Berømte mennesker født i tegn"
+
+msgid "February 19 - March 20"
+msgstr "Februar 19 - Marts 20"
+
+msgid "Female"
+msgstr "Kvinde"
+
+msgid "File already exists"
+msgstr "Fil findes allerede"
+
+msgid "File extension must be PDF"
+msgstr "File extension must be PDF YES."
+
+msgid "Fill in your birth details to get the free mini report!"
+msgstr "Udfyld dine fødselsdag og få en gratis Mini-Rapport"
+
+msgid "First Name"
+msgstr "Fornavn"
+
+msgid "First select country"
+msgstr "Vælg først land"
+
+msgid "Follow Up Consultation Skype"
+msgstr "Opfølgende Skype konsultation"
+
+msgid "Footer"
+msgstr "Sidefod"
+
+msgid "Footer text on reports"
+msgstr "Sidefods tekst på rapporterne"
+
+msgid "For Advertising on astrowow"
+msgstr "For at annoncere på astrowow"
+
+msgid "For the Aquarius horoscope:Check out Saturn in sign and house"
+msgstr "I Vandbærer horoskopet: Tjek og tolk Saturn i tegn and hus"
+
+msgid "For the Aries horoscope: Check out Mars in sign and house"
+msgstr "I Vædder horoskopet: Tjek og tolk Mars i tegn and hus"
+
+msgid "For the Cancer horoscope:Check out the Moon in sign and house"
+msgstr "I Krebs horoskopet: Tjek og tolk Sol og Måne i tegn and hus"
+
+msgid "For the Capricorn horoscope:Check out Saturn in sign and house"
+msgstr "I Stenbuk horoskopet: Tjek og tolk Saturn i tegn and hus"
+
+msgid "For the Gemini horoscope:Check out Mercury in sign and house"
+msgstr "I Tvilling horoskopet: Tjek og tolk Merkur i tegn and hus"
+
+msgid "For the Leo horoscope:Check out the Sun in sign and house"
+msgstr "I Løve horoskopet: Tjek og tolk Sol i tegn and hus"
+
+msgid "For the Libra horoscope:Check out Venus in sign and house"
+msgstr "I Vægt horoskopet: Tjek og tolk Venus i tegn and hus"
+
+msgid "For the Pisces horoscope:Check out Jupiter in sign and house"
+msgstr "I Fisk horoskopet: Tjek og tolk Mars i Jupiter and hus"
+
+msgid "For the Sagittarius horoscope:Check out Jupiter in sign and house"
+msgstr "I Skytte horoskopet: Tjek og tolk Jupiter i tegn and hus"
+
+msgid "For the Scorpio horoscope:Check out Mars in sign and house"
+msgstr "I Skorpion horoskopet: Tjek og tolk Mars i tegn and hus"
+
+msgid "For the Taurus horoscope: Check out Venus in sign and house"
+msgstr "I Tyr horoskopet: Tjek og tolk Venus i tegn and hus"
+
+msgid "For the Virgo horoscope:Check out Mercury in sign and house"
+msgstr "I Jomfru horoskopet: Tjek og tolk Merkur i tegn and hus"
+
+msgid "Forgot Password"
+msgstr "Glemt Kodeord"
+
+msgid "Free AstroClock iOS App"
+msgstr "Gratis AstroClock iOS App"
+
+msgid "Free Astropage"
+msgstr "Gratis Astroside"
+
+msgid "Free Horoscope : Daily, Weekly & Monthly Free Horoscopes"
+msgstr ""
+"Gratis Horoskop af Adrian Duncan Daglig, Ugentlig, månedlig, årlig Sunsigns"
+
+msgid "Free Horoscope : Daily, Weekly & Monthly Horoscopes, Characteristics‏"
+msgstr ""
+"Gratis Horoskop af Adrian Duncan Daglig, Ugentlig, månedlig, årlig Sunsigns"
+
+msgid "Free Horoscopes"
+msgstr "Gratis Horoskoper"
+
+msgid "Free daily horoscope"
+msgstr "Gratis daglige horoskop"
+
+msgid "Free monthly horoscope"
+msgstr "Gratis månedlige horoskop"
+
+msgid "Free weekly horoscope"
+msgstr "Gratis ugentlige horoskop"
+
+msgid "Free yearly horoscope"
+msgstr "Gratis årlige horoskop"
+
+msgid "Full Transit Description"
+msgstr "Omfattende Transitbeskrivelse"
+
+msgid ""
+"Furthermore, these programs are advanced astrology prediction software, "
+"which enables you to understand exactly what is going on in your life here "
+"and now. This astrology software is available for download as a free trial, "
+"and you can use it for a month before having to buy a registration key. You "
+"can access our astrology software online on this site and download it now. "
+"World of Wisdom programs are professional astrology software which also "
+"provides detailed astrology reports, which you can give freely to friends "
+"and family. You can also buy a license to sell the astrology reports "
+"professionally."
+msgstr ""
+"Denne astrologi fortolkningssoftware leverer også fremtidsprognoser, som "
+"betyder at du får overblik over hvad der sker i dit liv lige nu og her og "
+"flere år frem. Det er tilgængelig som en gratis download, og du kan bruge "
+"den i en måned før du er nødt til at købe en registreringskode. World of "
+"Wisdom programmerne er professionelt astrologi software som også giver "
+"adgang til detaljerede astrologi rapporter, som du kan give gratis til "
+"familie og venner. Du kan også købe en licens for at sælge dine astrologi "
+"rapporter professionelt."
+
+msgid "Gemini"
+msgstr "Tvilling"
+
+msgid "Gender"
+msgstr "Køn"
+
+msgid "Gender "
+msgstr "Køn "
+
+msgid "General Info"
+msgstr "Generel Info"
+
+msgid "General Information"
+msgstr "Generel Information"
+
+msgid ""
+"Generally I work with face to face consultations, but after receiving many "
+"requests from people around the world who have heard my talks or seen my "
+"latest book (Astrology: Transformation & Empowerment), I have decided to "
+"start doing a limited number of telephone consultations every month."
+msgstr ""
+"Generelt så arbejder jeg med face to face konsultationer, men efter at have "
+"fået mange opfordringer fra folk over hele verden som har set mine foredrag "
+"eller min seneste bog (Astrology: Transformation & Empowerment), har jeg "
+"besluttet at tage nogle Skype konsultationer hver måned."
+
+msgid "Generate unlimited reports for only $10/report"
+msgstr "Generer et ubegrænset antal rapporter for kun 85 kr. per rapport."
+
+msgid "Get Astrowow Sun Signs"
+msgstr "Få Astrowow Sun Signs"
+
+msgid "Get Free Mini Report"
+msgstr "Få gratis Mini-Rapport"
+
+msgid "Get Prediction"
+msgstr "Få Forudsigelse"
+
+msgid ""
+"Get free horoscope daily, weekly and monthly. Astrowow.com provides free "
+"daily, weekly, monthly and yearly horoscopes for each sun sign"
+msgstr ""
+"Gratis horoskop af Astrowow. Få din gratis dagligt, morgen, i går, ugentligt,"
+" månedligt, årligt, om berømthed, egenskaber og personlighed til Vædderen "
+"sunsigns Horoskop."
+
+msgid ""
+"Go beyond sun signs and get your free personal horoscope astropage, "
+"Absolutely free! "
+msgstr ""
+"Få mere end dit soltegns horoskop – få din personlige AstroSide og astro-"
+"varer – helt gratis! "
+
+msgid "Go!"
+msgstr "Gå!"
+
+msgid "Home"
+msgstr "Hjem"
+
+msgid "Horoscope Calendar"
+msgstr "Din Astrologiske Kalender"
+
+msgid "Horoscope Interpreter"
+msgstr "Horoskop Fortolker"
+
+msgid "Horoscopes"
+msgstr "Horoskoper"
+
+msgid "Hour"
+msgstr "Time"
+
+msgid "If download is not started automatically"
+msgstr "Hvis din download ikke starter automatisk"
+
+msgid ""
+"If you are a student of astrology, you will find World of Wisdom software to "
+"be a tutor and companion on your way to become a skilled\tastrologer."
+msgstr ""
+"Studerer du astrologi, vil du opdage, at World of Wisdom software er en "
+"enestående lære og ledsager på din vej til at være en dygtig astrolog."
+
+msgid ""
+"If you are student of astrology, you'll find World of Wisdom software to be "
+"a tutor and companion on your way to become a skilled astrologer."
+msgstr ""
+"Studerer du astrologi, vil du opdage, at World of Wisdom software er en "
+"enestående lære og ledsager på din vej til at være en dygtig astrolog."
+
+msgid ""
+"If you ever purchase a paid reading from world-of-wisdom.com and you are not "
+"satisfied, We will :"
+msgstr ""
+"Hvis du er utilfredse med en email rapport sendt som PDF fra AstroWOW kan vi:"
+
+msgid ""
+"If you have any problems with this website, the software, reports or payment "
+"issues, please fill out a support ticket. We endeavor to reply to all "
+"support issues within 48 hours during the working week."
+msgstr ""
+"Har du problemer med vores website, apps, software eller betaling, udfyld "
+"venligst dit support spørgsmål her. Vi stræber efter at svare inden for 48 "
+"timer på hverdage."
+
+msgid ""
+"If your goal is understanding of yourself and your life path, than our CDs "
+"or shareware provide the perfect tool for you."
+msgstr ""
+"Er dit mål at forstå dig selv og din livsbane, så er vores CD’ere eller "
+"shareware det perfekte redskab for dig."
+
+msgid ""
+"If your goal is understanding yourself and your life path, than out CDs or "
+"shareware provide the perfect tool for you."
+msgstr ""
+"Er dit mål at forstå dig selv og din livsbane, så er vores CD’ere eller "
+"shareware det perfekte redskab for dig."
+
+msgid "Image"
+msgstr "Billede"
+
+msgid "In this report you will get"
+msgstr "I denne rapport vil du få"
+
+msgid "In this report you will get:"
+msgstr "I denne rapport vil du få:"
+
+msgid "Inclusive VAT"
+msgstr "Inklusiv moms"
+
+msgid "Incorrect old password!"
+msgstr "Forkert gamle adgangskode!"
+
+msgid "Interview"
+msgstr "Interview"
+
+msgid "Introduction"
+msgstr "Introduktion"
+
+msgid "Invalid order request"
+msgstr "Ugyldig ordre anmodning"
+
+msgid "Invalid username or password, please try again"
+msgstr "Ugyldigt brugernavn eller password, forsøg venligst igen"
+
+msgid "Invalid username or password, try again"
+msgstr "Ugyldigt brugernavn eller password, forsøg venligst igen"
+
+msgid "It works like this:"
+msgstr "Det virker på denne måde:"
+
+msgid "January 20 - February 18"
+msgstr "Januar 20 - Februar 18"
+
+msgid "July 23 - August 22"
+msgstr "Juli 23 - August 22"
+
+msgid "June 21 - July 22"
+msgstr "Juni 21 - Juli 22"
+
+msgid "Keep a track of your reports/history"
+msgstr "Hold styr på salgshistorik"
+
+msgid ""
+"Knowing the birth time and place makes it possible to calculate the 12 "
+"houses of the horoscope, and the main framework of the 12 houses are the "
+"four cardinal points:"
+msgstr ""
+"Når man kender fødselstidspunkt og sted så bliver det muligt at beregne de "
+"12 huse i horoskopet, og rammerne omkring de 12 huse er de fire kardinale "
+"punkter:"
+
+msgid "LANGUAGE"
+msgstr "SPROG"
+
+msgid "Language"
+msgstr "Sprog"
+
+msgid "Last Commented On"
+msgstr "Sidste bemærkning"
+
+msgid "Last Name"
+msgstr "Efternavn"
+
+msgid "Last Name "
+msgstr "Efternavn "
+
+msgid "Leo"
+msgstr "Løve"
+
+msgid "Libra"
+msgstr "Vægt"
+
+msgid "Loading subscription calendar"
+msgstr "Loading abonnement kalender"
+
+msgid "Log In"
+msgstr "Log På"
+
+msgid "Login"
+msgstr "Log på"
+
+msgid "Login Here"
+msgstr "Log på Her"
+
+msgid "Login here"
+msgstr "Log på Her"
+
+msgid "Logout"
+msgstr "Log Af"
+
+msgid "Major influences"
+msgstr "Større påvirkninger"
+
+msgid "Male"
+msgstr "Mand"
+
+msgid "March 21 - April 19"
+msgstr "Marts 21- April 19"
+
+msgid "May 21 - June 20"
+msgstr "Maj 21 - Juni 20"
+
+msgid "Media"
+msgstr "Medier"
+
+msgid "Membership Expire on:"
+msgstr "Medlemskab udløber den:"
+
+msgid "Membership Expires on"
+msgstr "Medlemskab udløber den"
+
+msgid "Minute"
+msgstr "Minut"
+
+msgid "Minutes"
+msgstr "Minutter"
+
+msgid "Monthly"
+msgstr "Månedlige"
+
+msgid "My Account"
+msgstr "Min Konto"
+
+msgid "My AstroPage"
+msgstr "Min Astroside"
+
+msgid "NOW, ENTER YOUR BIRTH DETAILS"
+msgstr "NU, INDTAST DIN FØDSEL DETALJER"
+
+msgid "Name on Report"
+msgstr "Navn på Rapport"
+
+msgid "Navigation"
+msgstr "Navigation"
+
+msgid "Need more information? Write to support: "
+msgstr "Behov for mere information? Skriv til support: "
+
+msgid "New"
+msgstr "Ny"
+
+msgid "New Password"
+msgstr "Ny Adgangskode"
+
+msgid "New Password "
+msgstr "Nyt Kodeord "
+
+msgid "New account"
+msgstr "Ny konto"
+
+msgid "Next Month"
+msgstr "Næste Måned"
+
+msgid "Next Week"
+msgstr "Næste Uge"
+
+msgid "Next Year"
+msgstr "Næste År"
+
+msgid "No Books Found"
+msgstr "Ingen Bøger Fundet"
+
+msgid "No Data Found"
+msgstr "Ingen Data Fundet"
+
+msgid "No Events Found"
+msgstr "Ingen Arrangementer Fundet"
+
+msgid "No Reports Available"
+msgstr "Ingen Rapporter Ledige"
+
+msgid "No Softwares Available"
+msgstr "Ingen software til rådighed"
+
+msgid "No Sunsign Found"
+msgstr "Ingen Sunsign Fundet"
+
+msgid "No questions asked."
+msgstr "Refundere dine penge."
+
+msgid "November 22 - December 21"
+msgstr "November 22 - December 21"
+
+msgid "OR"
+msgstr "ELLER"
+
+msgid "OTHER REPORTS"
+msgstr "ANDRE RAPPORTER"
+
+msgid "OUR REPORTS"
+msgstr "VORES RAPPORTER"
+
+msgid "OUR SOFTWARE"
+msgstr "VORES SOFTWARE"
+
+msgid "October 23 - November 21"
+msgstr "Oktober 23 - November 21"
+
+msgid ""
+"Of course, most people think of horoscopes as the daily, weekly, monthly or "
+"yearly horoscopes seen in newspapers and magazine, or online. (The 12 signs "
+"of the zodiac). Really these are sunsign horoscopes, because they are simply "
+"based on where your sun is on any particular birth date, and naturally these "
+"star signs are very general. They can be quite accurate though, because the "
+"sun is such a dominating factor in a horoscope. Nevertheless, the moon and "
+"planets each have very specific and very strong influences, and the only way "
+"you can find out what that is, is by having your personal horoscope "
+"calculated."
+msgstr ""
+"De fleste mennesker tænker selvfølgelig på horoskoper som de daglige, "
+"ugentlige, månedlige eller årlige stjernetegn, de ser i aviser, blade eller "
+"online. Dybest er de ”Soltegns horoskoper”, fordi de er baseret på hvor "
+"Solen er på en bestemt fødselsdag, og disse stjernetegn tegner de generelle "
+"linjer. De kan dog være rimelig sigende, fordi Solen er den dominerende "
+"faktor i horoskopet. Men ikke desto mindre så har Månen og de andre planeter "
+"en specifik og stærk indflydelse, og du kan lære mere om dette ved at få "
+"beregnet dit personlige horoskop."
+
+msgid "Old Password"
+msgstr "Gammel Adgangskode"
+
+msgid ""
+"On the AstroWiki section of this site you can find interpretations of all "
+"these astrological combinations. And of course you can also have your "
+"personal horoscope calculated – and we’ll interpret it for you!"
+msgstr ""
+"På AstroSide sektionen af denne side kan du få beregnet dit personlige "
+"horoskop, og læse nuværende indflydelser i dit liv."
+
+msgid ""
+"On the initial level we provide daily horoscopes, weekly horoscopes, monthly "
+"horoscopes and yearly horoscopes, which are written by us – fully "
+"professional astrologers – using the techniques of horary astrology to make "
+"our sunsigns or star signs as accurate as possible. We look at over 400 "
+"horoscopes and write 16,000 words each and every month to satisfy over a "
+"million users worldwide."
+msgstr ""
+"Vi tilbyder først og fremmest daglige horoskoper, ugentlige horoskoper, "
+"månedlige horoskoper og årshoroskoper som er skrevet af os – professionelle "
+"astrologer – som bruger øjebliks astrologi teknikken for at gøre vores sol- "
+"og stjerne tegn så præcise som muligt. Vi kigger på over 400 horoskoper og "
+"skriver 16,000 ord hver måned for at glæde over 1 million bruger i verden."
+
+msgid ""
+"Once you have the planet in sign and house, you can make the interpretation. "
+"So the Moon in Aries in the 7th house, for example, would show someone "
+"emotionally receptive (moon) in a rather impulsive way (Aries) to other "
+"people (7th house)."
+msgstr ""
+"Når du har positionen for en planet i tegn og hus, kan du også tolke dens "
+"betydning. Når Månen er i Vædderen i 7.hus, f. eks vil det vise at en person "
+"som er følelsesmæssigt modtagelig på en ret impulsiv måde."
+
+msgid "Only text files are allowed"
+msgstr "Kun tekstfiler tilladt"
+
+msgid "Open Tickets"
+msgstr "Åbn billetter"
+
+msgid "Operations"
+msgstr "Operationer"
+
+msgid "Or you can create a"
+msgstr "Eller du kan oprette en"
+
+msgid "Order Consultation"
+msgstr "Bestil konsultation"
+
+msgid "Order Date"
+msgstr "Bestillingsdato"
+
+msgid "Order Detail"
+msgstr "Bestil Detail"
+
+msgid "Order History"
+msgstr "Ordre Historik"
+
+msgid "Order Id"
+msgstr "Ordre ID"
+
+msgid "Order No"
+msgstr "Ordre Nummer"
+
+msgid "Order Now"
+msgstr "Bestil Nu"
+
+msgid "Order Status"
+msgstr "Ordre Status"
+
+msgid "Order Your Consultation"
+msgstr "Bestil Din Konsultation"
+
+msgid "Other Links"
+msgstr "Andre links"
+
+msgid ""
+"Our reports are amongst the very highest quality on the net. Written and "
+"designed by Adrian Ross Duncan, a full-time astrologer for over 20 years "
+"with a large international clientele, these reports are generated by "
+"intelligent software making each report completely unique."
+msgstr ""
+"Vores rapporter er blandt de bedste og af højeste kvalitet på nettet. "
+"Skrevet og designet af Adrian Ross Duncan, en fuldtids astrolog i over 20 år "
+"med et stort internationalt klientel. Disse rapporter er genereret af "
+"intelligent software, hvilket gør hver eneste rapport unik."
+
+msgid "PRODUCT NAME"
+msgstr "PRODUKTNAVN"
+
+msgid "Password"
+msgstr "Adgangskode"
+
+msgid "Password Reset Request - DO NOT REPLY"
+msgstr "Ændring af dit password - SVAR IKKE"
+
+msgid ""
+"Password reset instructions have been sent to your email address. You have "
+"24 hours to complete the request."
+msgstr ""
+"Instruktion om at nulstille dit password er sendt til din email adresse. Du "
+"har 24 timer til at nulstille."
+
+msgid "Pay a small yearly fee and sell reports for $10 per report."
+msgstr "Betal et mindre årligt beløb og sælg rapporter for $10 per rapport"
+
+msgid "Payment"
+msgstr "Betaling"
+
+msgid "Payment Method"
+msgstr "Betalingsmetode"
+
+msgid "Pending"
+msgstr "Verserende"
+
+msgid "Person has been added successfully."
+msgstr "Personen er tilføjet"
+
+msgid "Personal Info"
+msgstr "Personlig Information"
+
+msgid "Personal details"
+msgstr "Personlige detaljer"
+
+msgid "Personal horoscope"
+msgstr "Personlig horoskop"
+
+msgid ""
+"Physically it is related to the breasts and stomach. It is said to have a "
+"feminine nature, and is therefore"
+msgstr ""
+"Tegnet Tvillingerne styres af planeten Merkur. Fysisk forbindes det med "
+"hænder og"
+
+msgid ""
+"Physically it is related to the breasts and stomach. It is said to have a "
+"feminine nature, and is therefore more reactive in its energy.<br>It is a "
+"Water sign, and as such is connected to the world of emotion and the "
+"instincts. It is also a Cardinal sign, which means that planets placed here "
+"will express themselves in a very dynamic fashion - especially in matters "
+"connected with care and protection. This sign is associated with motherhood "
+"and the family. There is a great sensitivity on an inner level, but rather a "
+"secretive nature. Loyalty and attachment, sentimentality and hanging on to "
+"the past, are all characteristics associated with Cancer.<br>Planets in this "
+"sign will often reflect a vulnerable character and oversensitive nature. "
+"There is also a possessive streak, and a tendency to be emotionally "
+"smothering. Nevertheless Cancer confers a strong intuitive nature and deeply-"
+"held feelings. There is a strong attachment to the home and awareness of the "
+"environment. Planets in Cancer come to expression most clearly in connection "
+"with the home and family."
+msgstr ""
+"Tegnet Krebsen styres af Månen. Fysisk forbindes det med bryst og mave. Det "
+"siges at have en feminin natur og er derfor mere responderende i sin energi. "
+"Det er et vandtegn og som sådan forbindes det med følelser og instinkter.<br>"
+"Det er også et kardinalt tegn, og det betyder, at planeter i dette tegn "
+"udtrykker sig meget dynamisk - især når det drejer sig om sager med omsorg "
+"og beskyttelse. Tegnet forbindes med moderskab og familie. Der er stor "
+"sensitivitet på et indre plan, men en return hemmelighedsfuld natur. "
+"Loyalitet og stærke bånd, sentimentalitet og en holden fast på fortiden er "
+"alt sammen karakteristisk for Krebsen. Planeter i dette tegn vil ofte "
+"afspejle en sårbar karakter og et oversensitivt væsen. Der er også tale om "
+"besiddertrang og en tendens til at kvæle andre i følelser. Alligevel giver "
+"Krebsen en stærk intuitiv natur og dybe følelser. Der er stærke bånd til "
+"hjemmet og opmærksomhed på miljøet. Planeter i Krebsen kommer klarest til "
+"udtryk i forbindelse med hjem og familie."
+
+msgid ""
+"Physically it is related to the calves and ankles, as well as the "
+"circulation system. It is said to have"
+msgstr "Fysisk forbindes det med lægge og ankler samt kredsløbssystemet"
+
+msgid ""
+"Physically it is related to the calves and ankles, as well as the "
+"circulation system. It is said to have a masculine nature, and is therefore "
+"more outwardly oriented in its energy expression.<br>As a Air sign it is "
+"very social, and shows itself in groups and social organisations. As a Fixed "
+"sign it has determination and staying power, and it is related to "
+"ideological convictions.The Aquarius influence is expressed in rather a "
+"stubborn way as far as opinions are concerned, but the sign is also strongly "
+"related to social and humanitarian ideals.<br>Planets in this sign express "
+"themselves in a unique and unconventional manner. This can lead to an "
+"experience of alienation or social isolation. Nevertheless the energy of "
+"Aquarius is in essence friendly and expresses itself in social relationships "
+"where shared ideals play a greater role than emotions. Aquarian energy is "
+"cool and detached, and a greater balance could be achieved if more warmth "
+"and identity could be invested in personality expression."
+msgstr ""
+"Fysisk forbindes det med lægge og ankler samt kredsløbssystemet. Det siges "
+"at have en maskulin natur og er derfor mere udadvendt i sin måde at udtrykke "
+"sin energi på. I sin egenskab af lufttegn er det meget socialt og det ytrer "
+"sig i grupper og sociale organisationer.<br>Som et fast tegn er det "
+"beslutsomt og udholdende og forbindes med ideologiske overbevisninger. "
+"Indflydelse fra Vandbæreren kommer til udtryk på en return stivsindet måde, "
+"hvad meninger angår, men tegnet har også stærk forbindelse med sociale og "
+"humanitære idealer. Planeter i dette tegn udtrykker sig på en unik og "
+"ukonventionel måde. Det kan føre til fremmedgørelse eller social isolation. "
+"Alligevel er Vandbærerens energi i sit inderste væsen venlig og udtrykker "
+"sig i sociale forbindelser, hvor fælles idealer spiller en større rolle end "
+"følelser. Vandbærer-energi er kølig og distanceret, og der kan opnås større "
+"balance ved større varme, og ved at vise den personlige identitet mere, når "
+"man udtrykker sig."
+
+msgid ""
+"Physically it is related to the digestive system. It is said to have a "
+"feminine nature, and is therefore"
+msgstr "Fysisk forbindes det med fordøjelsessystemet. Det siges at have"
+
+msgid ""
+"Physically it is related to the digestive system. It is said to have a "
+"feminine nature, and is therefore more reactive in its energy.<br>As an "
+"Earth sign, it is connected with material things and practical manifestation,"
+" relating to work, the body and organisation principle. As a Mutable sign it "
+"is adaptable - and this manifests as a talent for discrimination and "
+"analysis. Planets in this sign express themselves in a perfectionistic way, "
+"and give rise to a tendency to both criticism and self-criticism. There is a "
+"drive to work hard and a strong motivation to be helpful and of service to "
+"others. The work principle is exalted, and there is a need to organise "
+"people socially in relation to work.<br>There is a tendency to analyse "
+"everything and compartmentalise information. The rational mind is dominant, "
+"and greater balance could be achieved if the ability to allow fantasy and "
+"irrational impulses could be cultivated."
+msgstr ""
+"Fysisk forbindes det med fordøjelsessystemet. Det siges at have en feminin "
+"natur og er mere modtagende i sin måde at være på. Som et jordtegn forbindes "
+"det med materielle goder og praktisk udfoldelse og har med arbejde, krop og "
+"organisationsprincipper at gøre.<br>\n"
+"Da det er et bevægeligt tegn, kan det tilpasse sig - og det manifesterer sig "
+"som en evne til at skelne og analysere. Planeter i dette tegn udtrykker sig "
+"perfektionistisk og medfører en tendens til både at kritisere og at være "
+"selvkritisk. Der er en trang til at arbejde hårdt og en stærk motivation til "
+"at være hjælpsom og stå til rådighed for andre. Arbejdsprincippet er "
+"overdrevent, og der er behov for at organisere mennesker socialt i relation "
+"til arbejdet. Rationel tankegang er dominerende. Der kan opnås større "
+"balance ved at lade fantasi og irrationelle impulser få større indflydelse."
+
+msgid ""
+"Physically it is related to the feet and the lymphatic system. It is said to "
+"have a feminine nature,"
+msgstr ""
+"Fysisk forbindes det med fødder og lymfesystem. Det siges at have en feminin "
+"natur"
+
+msgid ""
+"Physically it is related to the feet and the lymphatic system. It is said to "
+"have a feminine nature, and is therefore more responsive in the way its "
+"energy is expressed.<br>As a Water sign it is concerned with the emotions, "
+"particularly those universal feelings which are associated with human "
+"predicament and suffering on Earth. As a Mutable sign Pisces disseminates "
+"energy sporadically and without specific direction. Pisces goes where the "
+"wind blows.<br>Planets in Pisces express themselves sensitively and in a "
+"rather diffuse manner. The sign channels intangible impulses, and planets "
+"here are very receptive to signals on an ethereal level. There is a strong "
+"tendency to dream and fantasise, and an inclination to feel a sense of "
+"martyrdom. The enhanced emotional sensitivity in Pisces is often channeled "
+"into creative outlets, particularly in connection with music and film, but "
+"also in connection with Nature, and people who need social care. Pisces is "
+"the sign of dreams, disappointments and spiritual enrichment."
+msgstr ""
+"Fysisk forbindes det med fødder og lymfesystem. Det siges at have en feminin "
+"natur og er derfor mere modtageligt i sin måde at udtrykke sin energi på. I "
+"sin egenskab af vandtegn forbindes det med følelser, især de universelle "
+"følelser som menneskelige lidelser på Jorden.<br>Som et bevægeligt tegn "
+"udspreder Fiskene sin energi sporadisk og vilkårligt. Fiskene bevæger sig i "
+"den retning, vinden blæser. Planeter i Fiskene udtrykker sig sensitivt og på "
+"en return diffus måde. Tegnet kanaliserer uhåndgribelige impulser, og "
+"planeter i tegnet er meget modtagelige over for signaler på et æterisk plan. "
+"Der er en stærk tendens til at drømme og fantasere og en trang til at føle "
+"sig som martyr. Den forstærkede sensitivitet i Fiskene kanaliseres ofte i "
+"kreativt arbejde, navnlig i forbindelse med musik og film, men også i "
+"forbindelse med naturen og mennesker med behov for social omsorg. Fiskene er "
+"tegnet for drømme, skuffelser og spirituel berigelse."
+
+msgid ""
+"Physically it is related to the hands and lungs. It is said to have a "
+"masculine nature, and is therefore"
+msgstr ""
+"Tegnet Tvillingerne styres af planeten Merkur. Fysisk forbindes det med "
+"hænder og"
+
+msgid ""
+"Physically it is related to the hands and lungs. It is said to have a "
+"masculine nature, and is therefore more outwardly oriented in its energy "
+"expression.<br>It is an Air sign, and this means that it is connected with "
+"communication, mental contact and social principles. It is also a Mutable "
+"sign which enhances flexibility and adaptability. Planets placed in this "
+"sign will often reflect on personal intelligence, bringing a tremendous "
+"curiosity and a need to exchange ideas with other people in a social "
+"environment. Negative manifestations of Gemini influences are a flightiness "
+"and unreliability, and a tendency to get involved with too many things at "
+"any one time. There is a love of ideas, but no inner need to put them into "
+"practice.<br>Nevertheless this influence confers great mental insight, "
+"though there is often some kind of split in connection with planets placed "
+"in this sign. Planets here manifest considerable versatility and mental "
+"skills in regard to all forms of communication"
+msgstr ""
+"Tegnet Tvillingerne styres af planeten Merkur. Fysisk forbindes det med "
+"hænder og lunger. Det siges at have en maskulin natur og er derfor mere "
+"udadvendt i sin måde at udtrykke sin energi på. Det er et lufttegn, hvilket "
+"betyder, at det sættes i forbindelse med kommunikation, mental kontakt og "
+"sociale principper.<br>Det er også et bevægeligt tegn, noget der øger "
+"fleksibiliteten og tilpasningsevnen. Planeter i dette tegn vil ofte kaste "
+"lys på personlig intelligens og vise en umådelig stor nysgerrighed og et "
+"behov for at udveksle ideer med mennesker i sociale omgivelser. "
+"Tvillingernes negative indflydelser manifesterer sig som flygtighed og "
+"upålidelighed samt en tendens til at rode sig ind i for mange ting på én "
+"gang. Tvillingerne elsker ideer, men nærer ikke noget indre behov for at se "
+"dem ført ud i livet. Alligevel giver denne indflydelse stor mental indsigt, "
+"selv om der ofte er en eller anden form for splittelse i forbindelse med "
+"planeter i dette tegn. Planeter i dette tegn viser meget stor alsidighed og "
+"mentale færdigheder angående alle former for kommunikation."
+
+msgid ""
+"Physically it is related to the head. It is said to have a masculine nature, "
+"and is therefore more penetrative"
+msgstr ""
+"Fysisk har det med hovedet at gøre. Det siges at have en maskulin natur, og "
+"dets energi"
+
+msgid ""
+"Physically it is related to the head. It is said to have a masculine nature, "
+"and is therefore more penetrative in its energy.<br>Aries is a Fire sign, "
+"and this means a planet placed here will have a need to manifest itself in a "
+"very dynamic manner, and that the expression of personal identity through "
+"action is important. The desire to come first is paramount, and this comes "
+"to expression with a naive effervescence and inexperienced innocence. It is "
+"a world of knights and princesses.<br>As Aries is also a Cardinal sign, its "
+"energy is manifested in dynamic bursts. Short-term goals are important and "
+"tangible results are achieved rapidly. People with a strong emphasis in this "
+"sign will have leadership and pioneer traits, though there is a tendency to "
+"impulsiveness and a short temper. Impatience and egocentricity need to be "
+"tempered, and greater awareness of the needs of others should be developed, "
+"if conflict and tension are to be avoided."
+msgstr ""
+"Fysisk har det med hovedet at gøre. Det siges at have en maskulin natur, og "
+"dets energi har derfor større gennemslagskraft. Vædderen er et ildtegn, "
+"hvilket vil sige, at en planet i dette tegn har behov for at manifestere sig "
+"på en meget dynamisk måde, og at det er vigtigt at udtrykke den personlige "
+"identitet gennem handling. Ønsket om at komme først er uhyre vigtigt, og det "
+"kommer til udtryk gennem en naiv livlighed og uerfaren uskyldighed. Det er "
+"en verden med prinser og prinsesser.<br>Da Vædderen også er et kardinalt "
+"tegn, kommer energien til udtryk i dynamiske udbrud. Kortsigtede mål er "
+"vigtige, og håndgribelige resultater nås hurtigt. Personer med stærk "
+"indflydelse fra dette tegn vil have lederevner og pionerånd, men de er "
+"tilbøjelige til at være impulsive og hidsige. Utålmodigheden og "
+"selvoptagetheden skal dæmpes, og de skal være mere opmærksomme på andres "
+"behov, hvis de skal undgå konflikter og spændinger."
+
+msgid ""
+"Physically it is related to the heart and back. It is said to have a "
+"masculine nature, and is therefore"
+msgstr ""
+"Fysisk forbindes det med hjerte og ryg. Det siges at have en maskulin natur "
+"og er"
+
+msgid ""
+"Physically it is related to the heart and back. It is said to have a "
+"masculine nature, and is therefore more extrovert in its energy.<br>As a "
+"Fire sign, Leo is connected with the principle of identity, and as it is "
+"also classed as a Fixed sign, planets placed here have a stabilising effect, "
+"conserving and building individual character. There is a strong creative "
+"manifestation and self-expression connected with the sign - planets placed "
+"in Leo act in a dramatic way and need to experienced themselves reflected in "
+"their surroundings.<br>When planets are expressed negatively in this sign "
+"there will often be pride, narcissism and self-importance. When expressed "
+"positively there is a warmth and joy in being, and a playful, romantic "
+"nature. This sign is associated with children, charisma and entertainment. "
+"Planets in Leo act with authority and power, exerting a compelling influence "
+"on others. Greater balance can be attained if the capacity to see oneself "
+"objectively is cultivated."
+msgstr ""
+"Fysisk forbindes det med hjerte og ryg. Det siges at have en maskulin natur "
+"og er derfor mere udadvendt i sin energi. Som et ildtegn forbindes Løven med "
+"identitetsprincippet, og da det er også et fast tegn, vil planeter i tegnet "
+"have en stabiliserende effekt og bevare og skabe en individuel karakter.<br>"
+"Tegnet forbindes med stærk kreativ udfoldelse og selvudfoldelse - planeter i "
+"Løven reagerer på dramatisk vis og har behov for at se sig selv afspejlet i "
+"deres omgivelser. Når planeter i dette tegn viser negative indflydelser, vil "
+"der ofte være tale om stolthed, narcissisme og selvhøjtidelighed. Positive "
+"indflydelser kan være varme og livsglæde og en legesyg og romantisk natur. "
+"Tegnet forbindes med børn, karisma og underholdning. Planeter i Løven "
+"handler med autoritet og magt og har en dragende indflydelse på andre. Der "
+"kan opnås større balance, hvis man opøver sin evne til at se objektivt på "
+"sig selv."
+
+msgid ""
+"Physically it is related to the kidneys. It is said to have a masculine "
+"nature, and is therefore more"
+msgstr ""
+"Tegnet Vægten styres af Venus. Fysisk forbindes det med nyrerne. Det siges "
+"at have"
+
+msgid ""
+"Physically it is related to the kidneys. It is said to have a masculine "
+"nature, and is therefore more socially outgoing in its nature. As an Air "
+"sign it is connected with the mentality and social relationships, and as a "
+"Cardinal sign there is a dynamic expression to the energy. There is a "
+"motivation to achieve social or relationship goals. This sign is known for "
+"the ability to be diplomatic and create harmony. Planetary energies in Libra "
+"are keyed towards attaining balance. There is a strong concern with the "
+"principles of fairness and justice, and great interest in getting people to "
+"function smoothly together. Planets here are motivated for partnership, and "
+"there is a willingness to compromise for the sake of a harmonious "
+"relationship. It can be an advantage to balance this consciousness of others "
+"with greater self-awareness and self-assertion."
+msgstr ""
+"Tegnet Vægten styres af Venus. Fysisk forbindes det med nyrerne. Det siges "
+"at have en maskulin natur og er derfor mere socialt og udadvendt af natur. "
+"Som et lufttegn forbindes det med mentalitet og sociale forbindelser, og som "
+"et kardinalt tegn kommer energien til udtryk på dynamisk vis.<br>Der er "
+"motivation for at nå sine mål socialt eller i parforhold. Tegnet er kendt "
+"for sin evne til at være diplomatisk og skabe harmoni. Planetenergier i "
+"Vægten stræber efter at opnå balance. Tegnet er meget optaget af "
+"principperne om return og retfærdighed og meget interesseret i at få "
+"mennesker til at fungere gnidningsløst sammen. Planeter i dette tegn er "
+"motiveret for parforhold og indstillet på at gå på kompromis for et "
+"harmonisk forholds skyld. Det kan være en fordel at afbalancere denne "
+"bevidsthed om andre med større selv-erkendelse og selvhævdelse."
+
+msgid ""
+"Physically it is related to the knees, and to a certain extent the joints, "
+"skin and bones. It is said"
+msgstr ""
+"Fysisk forbindes den med knæ og i en vis udstrækning led, hud og knogler. "
+"Det siges at"
+
+msgid ""
+"Physically it is related to the knees, and to a certain extent the joints, "
+"skin and bones. It is said to have a feminine nature, and is therefore more "
+"reactive in its energy expression.<br>As a Cardinal sign Capricorn is goal-"
+"oriented, and channels energy into strategic planning to attain long-term "
+"results. As an Earth sign, goals tend to be practical and related to "
+"material interests.<br>Planets in Capricorn will express themselves in a "
+"determined and serious manner, striving for honour and some kind of "
+"recognition in society. There is a desire and ability to reach the top "
+"through hard work and perseverence. Status and executive power are important "
+"- as is social position.<br>There can be a certain formality and lack of "
+"spontaneity with planets in this sign, due to setbacks at early stages of "
+"the life. There is a tendency to control feelings and exert considerable "
+"self-discipline, but it would be advantageous if a greater emotional "
+"sensitivity and concern for others could be integrated into the nature."
+msgstr ""
+"Fysisk forbindes den med knæ og i en vis udstrækning led, hud og knogler. "
+"Det siges at have en feminin natur og er derfor mere reaktionært i sin måde "
+"at udtrykke sin energi på. Som et kardinalt tegn er Stenbukken målorienteret "
+"og kanaliserer sin energi i strategisk planlægning for at nå langsigtede "
+"resultater.<br>Da det er et jordtegn, er målene gerne praktiske og forbundet "
+"med materielle interesser. Planeter i Stenbukken udtrykker sig på en "
+"beslutsom og alvorlig måde og stræber efter at opnå ære og en vis "
+"anerkendelse i samfundet. Der er et ønske om og en evne til at nå til tops "
+"gennem hårdt arbejde og vedholdenhed. Status og udøvende magt er vigtigt - "
+"og det samme er social position. Der kan være en vis formalitet og mangel på "
+"spontaneitet med planeter i dette tegn, hvilket skyldes nederlag tidligt i "
+"livet. Der er en tendens til at kontrollere følelser og udøve meget stor "
+"selvdisciplin. Det ville være en fordel, hvis der kunne integreres større "
+"sensitivitet og omsorg for andre."
+
+msgid ""
+"Physically it is related to the pelvis, hips and thighs. It is said to have "
+"a masculine nature, and is"
+msgstr ""
+"Fysisk forbindes det med bækkenpartiet, hofter og lår. Det siges at have en "
+"maskulin"
+
+msgid ""
+"Physically it is related to the pelvis, hips and thighs. It is said to have "
+"a masculine nature, and is therefore more active in its energy expression."
+"<br>As a Fire sign it is connected with the identity - specifically with the "
+"search to find a deeper meaning in human existence. It is therefore "
+"connected with religious and philosophical urges. As a Mutable sign, planets "
+"placed here express their energy in a flexible and changeable manner, with a "
+"certain restlessness or inconstancy. Sagittarius in characterised by a love "
+"of truth and righteousness, and an unfortunate tendency to express it rather "
+"too directly, even when not asked.<br>There is a love of open horizons and "
+"travel and a need to expand on an inner intellectual level. There is a "
+"pronounced urge to rise above the animal nature towards the divine, and an "
+"impatience with the trivial issues in life. A dislike of superficiality may "
+"result in intolerance for the ordinary niceties between people."
+msgstr ""
+"Fysisk forbindes det med bækkenpartiet, hofter og lår. Det siges at have en "
+"maskulin natur og er derfor mere aktivt i sin måde at udtrykke sin energi på."
+" Som et ildtegn forbindes det med identitet - især med en søgen efter at "
+"finde dybere mening med den menneskelige tilværelse. Det forbindes derfor "
+"med en brændende interesse for religion og filosofi.<br>Da det er et "
+"bevægeligt tegn, udtrykker planeter i tegnet deres energi på en fleksibel og "
+"foranderlig måde og med en vis rastløshed eller ustadighed. Skytten kan "
+"karakteriseres ved kærlighed til sandhed og retfærdighed og en uheldig "
+"tendens til at udtrykke sig alt for direkte, selv uden at være spurgt. "
+"Skytten elsker åbne horisonter og rejser og har behov for at ekspandere på "
+"et indre intellektuelt niveau. Der er en dyb trang til hæve sig op over den "
+"dyriske natur og nærme sig det guddommelige samt en utålmodighed med livets "
+"trivielle problemer. Uvilje over for overfladiskhed kan evt. resultere i "
+"manglende tolerance over for de almindelige finesser mennesker imellem."
+
+msgid ""
+"Physically it is related to the sexual organs and excretion. It is said to "
+"have a feminine nature, and"
+msgstr ""
+"Fysisk forbindes det med kønsorganer og kroppens affaldsstoffer. Det siges "
+"at have"
+
+msgid ""
+"Physically it is related to the sexual organs and excretion. It is said to "
+"have a feminine nature, and is therefore more passive in its energy "
+"expression.<br>As a Water sign it is connected with the world of emotions, "
+"particular the deep primeval emotions concerned with sexuality and survival. "
+"As a Fixed sign, its energy manifests in a stable manner, giving great "
+"determination and endurance. Planets in Scorpio seek to establish emotional "
+"security in a threatening world. Hence the association with jealousy and "
+"passion.<br>Anxiety in the face of the unknown and consequently a desire to "
+"be able to control what is going on leads to a certain obsessive quality in "
+"planets placed in this sign. There is a secretiveness and compulsiveness "
+"which is hidden under a facade of strong self-control. Instinctual knowledge,"
+" occult talents and psychological ability manifest themselves in Scorpio, "
+"because the character dwells on the inner emotional demons most people "
+"choose to ignore."
+msgstr ""
+"Fysisk forbindes det med kønsorganer og kroppens affaldsstoffer. Det siges "
+"at have en feminin natur og er derfor mere passivt i sin måde at udtrykke "
+"sin energi på. Som et vandtegn forbindes det med følelser, navnlig de dybe "
+"urfølelser, der har med seksualitet og overlevelse at gøre.<br>Som et fast "
+"tegn manifesterer dets energi sig på en stabil måde og giver stor "
+"beslutsomhed og udholdenhed. Planeter i Skorpionen søger at etablere "
+"følelsesmæssig tryghed i en truende verden. Derfor forbindes tegnet med "
+"jalousi og lidenskab. Angst for det ukendte og et deraf følgende ønske om at "
+"have kontrol med, hvad der foregår, giver planeter i dette tegn en vis "
+"tvangstankepræget kvalitet. Der findes hemmelighedsfuldhed og tvang skjult "
+"bag en facade af stærk selvkontrol. Instinktiv viden, talent for det okkulte "
+"og psykologiske evner kommer til udtryk i Skorpionen, fordi den pågældende "
+"dvæler ved de indre følelsesmæssige dæmoner, som de fleste mennesker vælger "
+"at ignorere"
+
+msgid ""
+"Physically it is related to the throat. It is said to have a feminine nature,"
+" and is therefore more passive"
+msgstr ""
+"Fysisk forbindes det med halsen. Det siges at have en feminin natur og er "
+"derfor "
+
+msgid ""
+"Physically it is related to the throat. It is said to have a feminine nature,"
+" and is therefore more passive and receptive in its energy expression.<br>"
+"Taurus is an Earth sign and as such is connected with fruitfulness and "
+"stability. A planet placed in this sign will be a stabilising influence and "
+"manifest its energy in a steadfast and determined manner. Taurus is also a "
+"Fixed sign, and this means that once a course is embarked on, it is rarely "
+"deviated from. Maintenance and care of existing conditions over long periods "
+"of time, and a reluctance to initiate change, are qualities of this sign.<br>"
+"Taurus is also connected with the resources of Nature, and the whole issue "
+"of value and worth. Therefore it is associated with finance, worldly goods "
+"and security. People with a strong emphasis in this sign tend to be "
+"materialistic, and often get stuck in a rut. By periodically cutting their "
+"strong attachments they can gain greater perspective. There is a talent for "
+"relaxation and enjoyment of sensory pleasures."
+msgstr ""
+"Fysisk forbindes det med halsen. Det siges at have en feminin natur og er "
+"derfor mere passivt og modtageligt i sin måde at udtrykke energien på. Tyren "
+"er et jordtegn, og som sådan forbindes det med frugtbarhed og stabilitet. "
+"Planeter i dette tegn vil have en stabiliserende indflydelse og manifestere "
+"deres energi på en fast og beslutsom måde.<br><br>Tyren er også et fast tegn,"
+" hvilket betyder, at når kursen først er afstukket, viger man sjældent fra "
+"den. Lange perioder med opretholdelse af og hensyntagen til eksisterende "
+"livsvilkår samt tilbageholdenhed med hensyn til at igangsætte forandringer "
+"er dette tegns kvaliteter. Tyren forbindes også med naturens ressourcer og "
+"selve spørgsmålet om værdi og værd. Det sættes derfor i forbindelse med "
+"økonomi, verdslige goder og tryghed. Personer med stærk indflydelse fra "
+"dette tegn er som regel materialistiske og stivner ofte i gamle former. Ved "
+"med mellemrum at bryde de stærke bånd kan de få større udsyn. De har talent "
+"for at slappe af og nyde de sanselige glæder."
+
+msgid "Pisces"
+msgstr "Fisk"
+
+msgid "Plan Expire on"
+msgstr "Plan Udløber den"
+
+msgid "Plan Expire on:"
+msgstr "Plan Udløber den:"
+
+msgid "Please accept our terms and conditions."
+msgstr "Accepter venligst købsvilkår"
+
+msgid "Please choose your currency"
+msgstr "Vælg din valuta"
+
+msgid "Please choose your currency:"
+msgstr "Vælg din valuta:"
+
+msgid "Please fill all the fields"
+msgstr "Udfyld venligst alle felter."
+
+msgid "Please login to access support ticket section"
+msgstr "Log venligst ind for at få adgang til support."
+
+msgid "Please note your Order No"
+msgstr "Bemærk venligst din bekendtgørelse nr"
+
+msgid "Please note your Order No:"
+msgstr "Bemærk venligst din Løbenummer:"
+
+msgid "Please select city from the dropdown"
+msgstr "Vælg venligst en by fra dropdown menuen"
+
+msgid "Please upload a valid image format"
+msgstr "Upload venligst et gyldigt billede format."
+
+msgid "Please wait your download start in"
+msgstr "Vent venligst… din download er i gang"
+
+msgid "Please wait, your download starts in"
+msgstr "Vent venligst… din download er i gang"
+
+msgid "Portal/Company Name"
+msgstr "Portal / Firmanavn"
+
+msgid "Postcode"
+msgstr "Postnummer"
+
+msgid "Previous Month"
+msgstr "Forrige Måned"
+
+msgid "Previous Week"
+msgstr "Forrige Uge"
+
+msgid "Previous Year"
+msgstr "Foregående År"
+
+msgid "Previous order detail"
+msgstr "Forrige detalje ordre"
+
+msgid "Price"
+msgstr "Pris"
+
+msgid "Privacy Policy"
+msgstr "Fortrolighedspolitik"
+
+msgid ""
+"Privacy: We comply with strict privacy and antispam policy please refer to "
+"our"
+msgstr ""
+"Fortrolighed: Vi holder os til strenge fortroligheds- og antispam politik. "
+"Læs venligst vores"
+
+msgid "Problem to parse file"
+msgstr "Problem at parse fil"
+
+msgid "Problem to parse file. Incorrect file format."
+msgstr "Problem at parse filen. Forkert filformat."
+
+msgid "Processing"
+msgstr "Forarbejdning"
+
+msgid "Product Name"
+msgstr "Produktnavn"
+
+msgid "Profile details updated successfully."
+msgstr "Profil detaljerne er opdateret"
+
+msgid "Quick Dashboard"
+msgstr "Hurtig Dashboard"
+
+msgid "READ MORE"
+msgstr "LÆS MERE"
+
+msgid "REGENERATE"
+msgstr "REGENERERE"
+
+msgid "Read More"
+msgstr "Læs Mere"
+
+msgid "Read More... "
+msgstr "Læs Mere..."
+
+msgid "Read what users of"
+msgstr "Læs hvad brugere af"
+
+msgid "Record already inserted!"
+msgstr "Optag allerede er indsat!"
+
+msgid "Record has been deleted successfully"
+msgstr "Sagen er afsluttet og slettet"
+
+msgid ""
+"Redo the reading with correct birth details if they were not initially "
+"provided."
+msgstr "Lav en ny til dig med korrekt fødselsinformation."
+
+msgid "Rejected"
+msgstr "Afvist"
+
+msgid "Remember Me"
+msgstr "Husk mig"
+
+msgid "Reply on Support ticket"
+msgstr "Svar på dit support spørgsmål"
+
+msgid "Reports"
+msgstr "Rapporter"
+
+msgid ""
+"Reports can be customized with your name and URL. Each report is ordered and "
+"paid for individually and will normally arrive within 5 minutes to any email "
+"address you designate. You have your own dashboard where you can see the "
+"current status of all orders, access the reports that have been generated "
+"and see payment history."
+msgstr ""
+"Rapporterne kan tilpasses til dig med dit navn og din URL. Du kan også "
+"designe din egen forside. Hver rapport bliver bestilt og betalt individuelt "
+"og vil normalt ankomme indenfor 5 minutter til den e-mail adresse du vælger. "
+"Du har dit eget kontrolpanel og du kan se den nuværende status på alle dine "
+"ordrer, få adgang til rapporterne og se hvilke rapporter der er solgt og "
+"genererede."
+
+msgid "Reset"
+msgstr "Nulstil"
+
+msgid "SAMPLE REPORTS"
+msgstr "EKSEMPELRAPPORTER"
+
+msgid "SIGN UP"
+msgstr "TILMELD DIG"
+
+msgid "Sagittarius"
+msgstr "Skytte"
+
+msgid "Satisfaction<br>Guarantee"
+msgstr "Tilfredhedsgaranti"
+
+msgid "Scope"
+msgstr "Anvendelsesområde"
+
+msgid "Scorpio"
+msgstr "Skorpion"
+
+msgid ""
+"Security: All transactions are done through SSL (Secure Socket Layer) 256 "
+"bit encryption."
+msgstr ""
+"Sikkerhed: Alle transaktioner foregår via S.S.L. Secure Socket Layer 256 bit "
+"encryptionSikkerhed: Alle transaktioner foregår via S.S.L. Secure Socket "
+"Layer 256 bit encryption."
+
+msgid "Select City"
+msgstr "Vælg By"
+
+msgid "Select Country"
+msgstr "Vælg Land"
+
+msgid "Select Gender"
+msgstr "Vælg Køn"
+
+msgid "Select Hour(s)"
+msgstr "Vælg Time (r)"
+
+msgid "Select Language"
+msgstr "Vælg Sprog"
+
+msgid "Select Minute(s)"
+msgstr "Vælg Minut (r)"
+
+msgid "Select Page"
+msgstr "Vælg Side"
+
+msgid "Send me special offers"
+msgstr "Send mig tilbud"
+
+msgid "September 23 - October 22"
+msgstr "September 23 - Oktober 22"
+
+msgid "Shipping"
+msgstr "Forsendelse"
+
+msgid "Shipping Address"
+msgstr "Forsendelsesadresse"
+
+msgid "Sign In"
+msgstr "Log Ind"
+
+msgid "Sign Up"
+msgstr "Tilmeld Dig"
+
+msgid "Sign up and get your free personalized report as your welcome gift."
+msgstr ""
+"Tilmeld dig og du får din personlige rapport som en velkomst gave.\n"
+"\n"
+
+msgid "Sign up for free and get your free astropage"
+msgstr "Registrer dig og få din gratis astroside"
+
+msgid ""
+"Sign up for your AstroPage and get your free personalized report as your "
+"welcome gift."
+msgstr ""
+"Få din egen personlige AstroSide og modtag en gratis mini fødselshoroskop "
+"rapport som velkomstgave."
+
+msgid "Site Info"
+msgstr "Site Info"
+
+msgid ""
+"Skilled sun sign astrologers follow the movement of the planets through each "
+"of these signs, and predict what will happen according to the relationships "
+"of the planets in the signs and to themselves. What is crucial for sun sign "
+"judgments is how strong or weak planets are in the signs. Planets are for "
+"example strong in the star sign they rule, and weak in the opposite sign of "
+"the zodiac. For each zodiac sign we place the sign as the 1st house of the "
+"horoscope and then make an Equal House horoscope, so that each subsequent "
+"sign corresponds to a subsequent house. So if we make a horoscope for Leo, "
+"then Virgo will be in the solar 2nd house (finances). The key to it all is "
+"the planet which “rules” each star sign."
+msgstr ""
+"Dygtige Soltegnsastrologer følger planeternes bevægelser gennem disse tegn, "
+"og forudsiger hvad der vil ske på baggrund af hvilke tegn planeterne "
+"befinder sig i og hvilke kontakter (aspekter), de danner til hinanden "
+"undervejs. Det er vigtigt at se hvor stærke eller svage planeterne er i de "
+"forskellige tegn. Planeter er stærke i de tegn som de styrer og typisk svage "
+"i deres modsatte tegn. For hvert soltegn placerer vi tegnet i det første hus,"
+" og opstiller et Lige Hus horoskop, hvor hvert tegn har et tilsvarende hus. "
+"Så hvis vi laver et horoskop for Løven, så vil Jomfruen være i det solare 2. "
+"hus. Nøglen til det hele er hver planet som “styrer” hvert stjernetegn."
+
+msgid "Social Media"
+msgstr "Sociale Medier"
+
+msgid "Something went wrong"
+msgstr "Noget gik galt"
+
+msgid "Something went wrong."
+msgstr "Noget gik galt."
+
+msgid "Sorry, the username entered was not found."
+msgstr "Beklager brugernavnet blev ikke fundet."
+
+msgid "State"
+msgstr "Tilstand"
+
+msgid "Step 1"
+msgstr "Trin 1"
+
+msgid "Step 2"
+msgstr "Trin 2"
+
+msgid "Subject"
+msgstr "Emne"
+
+msgid "Submit"
+msgstr "Indsend"
+
+msgid "Subscribe Now"
+msgstr "Tilmeld Nu"
+
+msgid "Subscription"
+msgstr "Abonner"
+
+msgid "Subscription has been removed."
+msgstr "Dit abonnement er fjernet"
+
+msgid "Summer Time"
+msgstr "Sommertid"
+
+msgid "Summer Time Zone"
+msgstr "Sommertid Zone"
+
+msgid ""
+"Sun signs are sometimes called star signs, but they are based on the orbit "
+"of the Earth around the sun, which we register here on Earth as the "
+"equinoxes and solstices, which are when day and night are of equal length "
+"(March 20th and September 22nd) or when it is the longest day or longest "
+"night (21st June and December). These form the first degree of the Cardinal "
+"Signs – Aries, Cancer, Libra and Capricorn – and the remaining signs are "
+"placed between them. In this way with get the 12 zodiac signs, which should "
+"rightfully be called sun signs rather than star signs."
+msgstr ""
+"Soltegn bliver somme tider kaldet stjernetegn, men de er baseret på jordens "
+"kredsløb om Solen, som vi registrerer her på Jorden som jævndøgn eller "
+"solhverv, som er når dag og nat er lige lange (20. marts og 22. september), "
+"eller den længste dag eller korteste nat (21. juni og december). De danner "
+"den første grad i de kardinale tegn, Vædderen, Krebsen, Vægten og Stenbukken "
+"– og de tiloversblevne tegn ligelig fordelt imellem dem. På denne måde får "
+"man de 12 tegn, som med rette skulle hedde Soltegn i stedet for Stjernetegn."
+
+msgid "Support ticket has been updated successfully."
+msgstr "Denne support kommentar er nu opdateret"
+
+msgid "TOTAL"
+msgstr "TOTAL"
+
+msgid "Taurus"
+msgstr "Tyr"
+
+msgid "Telephone"
+msgstr "Telefon"
+
+msgid "Terms of Use"
+msgstr "Betingelser for Brug"
+
+msgid "Thank you for Ordering‏"
+msgstr "Tak for din Bestilling"
+
+msgid "Thank you for becoming an elite customer"
+msgstr "Tak fordi du valgt at blive en elitekunde"
+
+msgid "Thank you for ordering 30 days free trial version."
+msgstr "Tak for din bestilling af en gratis 30-dags prøveperiode."
+
+msgid ""
+"Thank you for submitting the form. Please check your email to receive your "
+"free mini report."
+msgstr ""
+"Tak for din afsendte information. Kig I din e-mail for at få rapporten."
+
+msgid "Thank you, we have received your payment"
+msgstr "Tak. Vi har modtaget din indbetaling"
+
+msgid "Thank you, we have received your payment."
+msgstr "Tak. Vi har modtaget din indbetaling."
+
+msgid "Thank you, your support ticket has been sent to Admin for approval"
+msgstr ""
+"Tak, din supportbillet er blevet sendt til Admin til godkendelse support-"
+"billetter"
+
+msgid "Thank you, your support ticket has been sent to administration"
+msgstr "Tak for din e-mail til support, som er sendt til behandling."
+
+msgid "The 12 Signs of the Zodiac"
+msgstr "De 12 Zodiaktegn"
+
+msgid "The Ascendant – or first house (the Eastern horizon)"
+msgstr "Ascendanten – eller det første hus (den østlige horisont)"
+
+msgid "The AstroCalendar report"
+msgstr "AstroKalender Rapport"
+
+msgid ""
+"The AstroClock has been a labor of love, and the first version is now "
+"available on the App Store"
+msgstr "AstroClock har været et hjertebarn og kan findes på App Store"
+
+msgid "The Astrologer"
+msgstr "Astrologen\t"
+
+msgid "The Astrowow has been a labor of love and the first version"
+msgstr "Astrowow er skabt på baggrund af kærlighed til astrologi"
+
+msgid "The Character and Destiny report"
+msgstr "Karakter og Skæbne rapport"
+
+msgid "The Descendant – or seventh house (the Western horizon)"
+msgstr "Descendanten – eller det syvende hus (den vestlige horisont)"
+
+msgid "The Essential Year report"
+msgstr "Livsbogen - år for år"
+
+msgid "The IC – or fourth house (The sun’s position at midnight)"
+msgstr "IC – eller det fjerde hus (Solens position ved midnat)"
+
+msgid "The MC – or tenth house (the sun’s position at noon)"
+msgstr "MC – eller det tiende hus (Solens position ved midnat)."
+
+msgid ""
+"The astrologers on our site have been practicing astrology for a minimum of "
+"ten years, some over 30 years. When we write daily horoscopes, weekly "
+"horoscopes and monthly horoscopes, we actually look at over 400 horoscopes "
+"for each star sign, each day and each week during the course of a month. And "
+"write around 16,000 words."
+msgstr ""
+"Når jeg skriver daglige, ugentlige og månedlige horoskoper så kigger jeg på "
+"over 400 horoskoper for hvert stjernetegn, hver dag og hver uge i løbet af "
+"en måned, og skriver omkring 16.000 ord."
+
+msgid "The new password does not match!"
+msgstr "Det nye password matcher ikke"
+
+msgid "The old password does not match!"
+msgstr "Det gamle password matcher ikke"
+
+msgid ""
+"The outer planets Uranus, Neptune and Pluto are not used as “rulers” in sun "
+"sign astrology, even though they are related to Aquarius, Pisces and Scorpio "
+"respectively. If you want to learn more about sunsign astrology check out my "
+"article at: Sun sign astrology"
+msgstr ""
+"De ydre planeter Uranus, Neptun og Pluto bliver ikke brugt som herskere i "
+"Soltegns astrologi, selvom de er relateret til Vandbæreren, Fiskene og "
+"Skorpionen henholdsvis. Hvis du gerne vil lære mere om Soltegnsastrologi så "
+"læs min artikel på: Soltegnsastrologi"
+
+msgid ""
+"The page you requested could not be found. Try refining your search, or use "
+"the navigation above to locate the post"
+msgstr ""
+"Denne side kan ikke findes. Prøv at præcisere din søgning, eller navigere "
+"for at finde mere information"
+
+msgid "The password reset request has either expired or is invalid."
+msgstr ""
+"Din anmodning om at nulstille dit password er enten udløbet eller ugyldigt"
+
+msgid "The yearly subscription fee is"
+msgstr "Det årlige tilmeldingsgebyr er"
+
+msgid ""
+"There is a myth associated with astrology that sun signs are superficial and "
+"that anyone can write them. It is true that sun signs are general, but they "
+"are by no means easy to write. In fact they demand tremendous experience. "
+"Only excellent astrologers can write accurate sunsigns. And most of the sun "
+"signs you see on major astrology sites are written by excellent astrologers. "
+"(Although this is not always the case with newspapers)."
+msgstr ""
+"Der er en myte forbundet med astrologi i forhold til, at alle kan skrive "
+"stjernetegn, da de alligevel er så overfladiske. De er rent faktisk på ingen "
+"måde nemme at skrive. De kræver erfaring og viden; derfor er det kun dygtige "
+"astrologer der kan skrive stjernetegn. De fleste af de Soltegn du ser er "
+"skrevet af dygtige astrologer, (selv om det selvfølgelig ikke er tilfældet "
+"alle steder.)"
+
+msgid "This Month"
+msgstr "Denne Måned"
+
+msgid "This Week"
+msgstr "Denne Uge"
+
+msgid "This Year"
+msgstr "Dette År"
+
+msgid "This email address is already registered with us. Please login."
+msgstr "Denne mailadresse er allerede registreret - log venligst ind."
+
+msgid "This ticket has been closed by Admin."
+msgstr "Denne billet er blevet lukket af Admin."
+
+msgid "Time Zone"
+msgstr "Tidszone"
+
+msgid "Time of Birth"
+msgstr "Fødselstidspunkt"
+
+msgid "To access astrology reports based on your birth planets..."
+msgstr "Få din personlige horoskop rapport..."
+
+msgid "Today"
+msgstr "I dag"
+
+msgid "Tomorrow"
+msgstr "I morgen"
+
+msgid "Total Price"
+msgstr "Total pris"
+
+msgid "Total Price:"
+msgstr "Total pris:"
+
+msgid "Total closed order(s)"
+msgstr "Total lukket ordre (er)"
+
+msgid "Total in process order(s)"
+msgstr "I alt i processen ordre (er)"
+
+msgid "Total new order(s)"
+msgstr "Total ny ordre (er)"
+
+msgid "Total order(s)"
+msgstr "Samlet ordre (er)"
+
+msgid "Total ready order(s)"
+msgstr "Total klar ordre (er)"
+
+msgid "Town / City"
+msgstr "By / By"
+
+msgid "Town / City of Birth"
+msgstr "By / City of Birth"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "US State / Country of Birth"
+msgstr "US State / Fødselssted"
+
+msgid "Unable to process your request"
+msgstr "Kunne ikke implementere din anmodning"
+
+msgid "Unable to save Data"
+msgstr "Kan ikke gemme data"
+
+msgid "Unable to save data"
+msgstr "Kan ikke gemme data"
+
+msgid "Unable to save data."
+msgstr "Kan ikke gemme data."
+
+msgid ""
+"Unable to save data. Please enter all the details (login/profile/birth) "
+"before submitting."
+msgstr ""
+"Det var ikke muligt at gemme data. Udfyld venligst alle detaljerne "
+"(login/profil/fødselsdato) før du sender"
+
+msgid "Unable to save data. Please fill all the required fields."
+msgstr ""
+"Vi var ikke i stand til at gemme dine data. Udfyld venligst alle felterne"
+
+msgid "Unknown Time"
+msgstr "Ukendt Time"
+
+msgid "Unrecognised language ("
+msgstr "Indregnet sprog ("
+
+msgid "Unsubscribe"
+msgstr "Opsige Abonnement"
+
+msgid "Update Birth Detail"
+msgstr "Opdater Fødsel Detail"
+
+msgid "Update Personal Detail"
+msgstr "Opdater Personlig Detail"
+
+msgid "Update User Detail"
+msgstr "Opdater Brugerdetaljer"
+
+msgid "User Name"
+msgstr "Brugernavn"
+
+msgid "Username"
+msgstr "Brugernavn"
+
+msgid "Username / Email"
+msgstr "Brugernavn / E-mail"
+
+msgid "VAT"
+msgstr "moms"
+
+msgid "VIEW ALL OF OUR APPLICATIONS"
+msgstr "SE ALLE VORES APPLIKATIONER"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "View"
+msgstr "Udsigt"
+
+msgid "View All"
+msgstr "Se Alt"
+
+msgid "View All Our Software"
+msgstr "Se Alle Vores Software"
+
+msgid "View Details"
+msgstr "Se Detaljer"
+
+msgid "View Full Sample"
+msgstr "Se eksempel"
+
+msgid "View Orders"
+msgstr "Vis Ordrer"
+
+msgid "View Sample"
+msgstr "Se eksempel"
+
+msgid "Virgo"
+msgstr "Jomfru"
+
+msgid "WOW SOFTWARE"
+msgstr "WOW SOFTWARE"
+
+msgid "Want to learn more? Click Here"
+msgstr "Vil du vide mere? Klik her"
+
+msgid "We are unable to save your settings."
+msgstr "Vi kunne ikke gemme din indstilling"
+
+msgid ""
+"We are working hard to bring you the very best in astrological content, "
+"please come back later."
+msgstr ""
+"Vi arbejder på at give dig det allerbedste astrologiske indhold, prøv igen "
+"senere."
+
+msgid "Website Url"
+msgstr "Hjemmeside Url"
+
+msgid "Weekly"
+msgstr "Ugentlig"
+
+msgid ""
+"Weekly free horoscope from Astrowow - We offer a daily, weekly, monthly and "
+"yearly horoscopes, Zodiac signs characteristics, celebrities and more "
+"absolutely free."
+msgstr ""
+"Gratis horoskop af Astrowow. Få din gratis dagligt, morgen, i går, ugentligt,"
+" månedligt, årligt, om berømthed, egenskaber og personlighed til Vædderen "
+"sunsigns Horoskop."
+
+msgid "Welcome to Astrowow.com‏"
+msgstr "Velkommen til at Astrowow.com"
+
+msgid ""
+"Western astrology is based on planetary movement in our solar system, and "
+"not so much on the stars outside the solar system. The 12 star signs are "
+"more accurately called sun signs, as they reflect the Earth’s orbit around "
+"the sun which is registered on Earth by the four seasons, and specifically "
+"by the spring and autumn equinox and the summer and winter solstices. These "
+"four points represent the start of the four signs: Aries and Libra, and "
+"Cancer and Capricorn respectively. The intermediate signs – Taurus/Gemini, "
+"Leo/Virgo, Scorpio/Sagittarius and Aquarius/Pisces are then inserted at 30 "
+"degree intervals. When making predictions or character analyses, astrologers "
+"look at the movement of the planets through these 12 zodiac signs, and the "
+"relation of the planets to each other."
+msgstr ""
+"Astrologien i vesten er baseret på vores solsystem og planeternes bevægelse "
+"og ikke ret meget på stjernerne udenfor vores solsystem. De 12 stjernetegn "
+"er mere præcist kaldet ”soltegn” fordi de afspejler jordens bane rundt om "
+"solen, som på jorden opleves som de fire årstider og specielt ved forår- og "
+"efterårsjævndøgn og sommer- og vintersolhverv. Disse fire punkter viser "
+"starten på de fire tegn: Vædder og Vægt, Krebs og Stenbuk. De mellemliggende "
+"tegn – Tyr/Tvilling, Løve/Jomfru, Skorpion/Skytte og Vandbærer/Fisk sættes "
+"derefter ind med 30 graders intervaller. Når astrologer laver forudsigelser "
+"eller personanalyser, så ser de på planetbevægelserne gennem de 12 tegn samt "
+"planeternes indbyrdes forhold."
+
+msgid ""
+"What makes World of Wisdom astrology software unique? All WOW software is "
+"interpretation software, which means that apart from the automatic "
+"calculation of accurate horoscopes from anywhere in the world, each and "
+"every astrological influence has a detailed interpretation connected with it."
+" You can in fact click anywhere on the horoscope wheel, and an astrological "
+"interpretation can immediately be seen in the interpretation window."
+msgstr ""
+"Alt WOW software er horoskopfortolknings software, som betyder, at bortset "
+"fra den automatiske beregning af præcise horoskoper fra ethvert sted i "
+"verden, så har hver eneste astrologi indflydelse en detaljeret tolkning. Du "
+"kan faktisk klikke på ethvert sted på horoskop hjulet og med det samme se en "
+"astrologisk fortolkning i vinduet."
+
+msgid "What makes astrology software from WOW unique?"
+msgstr "Hvad gør World of Wisdom astrologi software så unik?"
+
+msgid "World of Wisdom Astrology Software"
+msgstr "World of Wisdom Astrologi Software"
+
+msgid "Yearly"
+msgstr "Årlig"
+
+msgid "Yesterday"
+msgstr "I går"
+
+msgid "You are already a registered user. Please login to continue"
+msgstr ""
+"Du er allerede en registreret bruger. Log venligst ind for at fortsætte"
+
+msgid "You are already an elite member."
+msgstr "Du er allerede en elitemedlem."
+
+msgid "You are not an elite member."
+msgstr "Du er ikke et elitemedlem"
+
+msgid ""
+"You can now access your daily calendar for a whole year on the AstroPage"
+msgstr "Du kan nu se din AstroCalendar et år frem på din AstroSide"
+
+msgid "You can sell all these reports:"
+msgstr "Du kan sælge disse rapporter:"
+
+msgid "You can't access that location."
+msgstr "Du kan ikke få adgang til det sted"
+
+msgid "You cannot access this support ticket."
+msgstr "Du har ikke adgang til denne support kommentar"
+
+msgid "You have complete freedom to price your reports"
+msgstr "Definer en pris, som ikke afviger for meget fra WOW’s pris"
+
+msgid "Your 3 Month Astrology Calendar"
+msgstr "Din 3 Måned Astrologi Kalender"
+
+msgid "Your Astrological Report from Astrowow"
+msgstr "Din Astrologi Rapport fra AstroWOW"
+
+msgid "Your Email"
+msgstr "Din email"
+
+msgid "Your Purchased Reports"
+msgstr "Dine købte rapporter"
+
+msgid "Your account has been deleted successfully."
+msgstr "Din konto er nu slettet"
+
+msgid "Your account has been deleted to recover your account contact to Admin."
+msgstr "Din konto er slettet. For at gendanne din konto, kontakt admin."
+
+msgid ""
+"Your account has been deleted. In order to recover your account, contact the "
+"Admin."
+msgstr "Din konto er slettet. For at gendanne din konto, kontakt admin."
+
+msgid "Your birth details has been updated successfully."
+msgstr "Dine fødselsdata er nu opdateret."
+
+msgid "Your comment has been posted."
+msgstr "Din kommentar er afsendt."
+
+msgid "Your customization settings have been saved"
+msgstr "Dine personlige indstillinger er gemt"
+
+msgid "Your customization settings will be applied within 5 minutes."
+msgstr "Dine personlige indstillinger bliver anvendt inden for 5 minutter."
+
+msgid "Your password has been changed successfully"
+msgstr "Dit password er nu ændret"
+
+msgid "Your password has been changed successfully."
+msgstr "Dit password er nu ændret"
+
+msgid "Your password has been changed successfully. Please login to continue."
+msgstr "Dit password er nu ændret. Log venligst ind for at fortsætte."
+
+msgid "Your profile details has been updated successfully"
+msgstr "Dine profil detaljer er nu opdateret"
+
+msgid "Your requested report has been regenerated successfully"
+msgstr "Den bestilte rapport er genskabt"
+
+msgid "Your selected person has been deleted successfully."
+msgstr "Personen er nu slettet"
+
+msgid "about-astrology"
+msgstr "om-astrologi"
+
+msgid "about-astrowow"
+msgstr "om-astrowow"
+
+msgid "add-another-person"
+msgstr "tilføj-en-person"
+
+msgid "and Communications Terms."
+msgstr "og kommunikation Vilkår."
+
+msgid "and Transaction No"
+msgstr "og Transaktion Ingen"
+
+msgid "and Transaction No:"
+msgstr "og Transaktion  :"
+
+msgid "and get your free personalized report as your welcome gift."
+msgstr "og få din gratis personlige rapport som gratis velkomst."
+
+msgid ""
+"and get your unique personalized Astro Page, Free Mini Report based on your "
+"birth planets as your welcome gift."
+msgstr ""
+"og få din unikke og personlige AstroSide. Du får også en gratis mini "
+"fødselshoroskop rapport som velkomstgave."
+
+msgid "and reports are"
+msgstr "og rapporter er"
+
+msgid "april"
+msgstr "april"
+
+msgid "aquarius"
+msgstr "vandbærer"
+
+msgid "archive"
+msgstr "arkiv"
+
+msgid "aries"
+msgstr "vædder"
+
+msgid "astro-wiki"
+msgstr "astro-wiki"
+
+msgid "astrology-calendar"
+msgstr "astrokalenderen"
+
+msgid "astrology-calendar-report"
+msgstr "astrokalender-rapport"
+
+msgid "astrology-for-lovers"
+msgstr "astrologi-og-parforhold"
+
+msgid "astrology-reports"
+msgstr "astrologi-rapport"
+
+msgid "astrology-software"
+msgstr "astrologi-software"
+
+msgid "august"
+msgstr "august"
+
+msgid "biography"
+msgstr "biografi"
+
+msgid "blog"
+msgstr "blog"
+
+msgid "by"
+msgstr "af"
+
+msgid "by Adrian Duncan"
+msgstr "af Adrian Duncan"
+
+msgid "cake"
+msgstr "kage"
+
+msgid "calendar-lovers"
+msgstr "astrologisk-kalender-astrologi-og-parforhold"
+
+msgid "cancer"
+msgstr "krebs"
+
+msgid "capricorn"
+msgstr "stenbuk"
+
+msgid "celebrity"
+msgstr "berømthed"
+
+msgid "celebrity-tab"
+msgstr "kendis-fanen"
+
+msgid "change-password"
+msgstr "skift-adgangskode"
+
+msgid "character-and-destiny-report"
+msgstr "karakter-og-skaebne-rapport"
+
+msgid "characteristics"
+msgstr "egenskaber"
+
+msgid "characteristics-tab"
+msgstr "egenskaber-fanen"
+
+msgid "checkout-step-1"
+msgstr "kassen-trin-1"
+
+msgid "checkout-step-2"
+msgstr "kassen-trin-2"
+
+msgid "checkout-step-3"
+msgstr "kassen-trin-3"
+
+msgid "click here"
+msgstr "Klik her"
+
+msgid "click here..."
+msgstr "Klik her..."
+
+msgid "closed"
+msgstr "lukket"
+
+msgid "closed tickets"
+msgstr "Lukkede billetter"
+
+msgid "comprehensive-lovers-report"
+msgstr "astrologi-og-parforhold-rapport"
+
+msgid "consultation"
+msgstr "konsultation"
+
+msgid "consultation-checkout"
+msgstr "konsultation-kassen"
+
+msgid "consultation-thank-you"
+msgstr "konsultation-tak"
+
+msgid "contact-us"
+msgstr "kontakt-os"
+
+msgid "customize-reports"
+msgstr "tilpas-rapport"
+
+msgid "daily-horoscope"
+msgstr "daglig-horoskop"
+
+msgid "dashboard"
+msgstr "instrumentbræt"
+
+msgid "december"
+msgstr "december"
+
+msgid "default"
+msgstr "Standard"
+
+msgid "delete-another-person"
+msgstr "slette-anden-personers"
+
+msgid "details"
+msgstr "detaljer"
+
+msgid "download-free-trial"
+msgstr "download-gratis-prøveversion"
+
+msgid "edit-profile"
+msgstr "rediger-profil"
+
+msgid "elite-customer-checkout"
+msgstr "elite-kunde-kassen"
+
+msgid "elite-customer-checkout-step2"
+msgstr "elite-kunde-kassen-step2"
+
+msgid "elite-fuld-rapport"
+msgstr "elite-full-report"
+
+msgid "elite-full-report"
+msgstr "elite-fuld-rapport"
+
+msgid "elite-report-checkout"
+msgstr "elite-rapport-kassen"
+
+msgid "elite-report-checkout2"
+msgstr "elite-rapport-kassen2"
+
+msgid "elite-users"
+msgstr "elite-brugere"
+
+msgid "essential-year-ahead-report"
+msgstr "livsbogen-ar-for-ar"
+
+msgid "events"
+msgstr "begivenheder"
+
+msgid "faqs"
+msgstr "faqs"
+
+msgid "february"
+msgstr "februar"
+
+msgid "forgot-password"
+msgstr "glemt-kodeord"
+
+msgid "free-astropage"
+msgstr "gratis-astropage"
+
+msgid "free-horoscope"
+msgstr "gratis-horoskop"
+
+msgid "from"
+msgstr "fra"
+
+msgid "fuld-rapport"
+msgstr "full-reports"
+
+msgid "full-reports"
+msgstr "fuld-rapport"
+
+msgid "fulltransit"
+msgstr "transitbeskrivelse"
+
+msgid "gemini"
+msgstr "tvilling"
+
+msgid "go-mobile"
+msgstr "go-mobile"
+
+msgid "horoscope"
+msgstr "horoskop"
+
+msgid "horoscope for"
+msgstr "horoskop til"
+
+msgid "horoscope-calendar-in-range"
+msgstr "horoskop-kalender-in-rækkevidde"
+
+msgid "horoscope-interpreter"
+msgstr "horoskop-fortolker"
+
+msgid "index"
+msgstr "indeks"
+
+msgid "interpreter-calendar"
+msgstr "horoskop-fortolker-astrologisk-kalender"
+
+msgid "interpreter-calendar-lovers"
+msgstr "horoskop-fortolker-astrologisk-kalender-astrologi-og-parforhold"
+
+msgid "interpreter-lovers"
+msgstr "horoskop-fortolker-astrologi-og-parforhold"
+
+msgid "interview"
+msgstr "interview"
+
+msgid "introduction"
+msgstr "introduktion"
+
+msgid "is not a valid email address"
+msgstr "er ikke en gyldig adresse"
+
+msgid "january"
+msgstr "januar"
+
+msgid "july"
+msgstr "juli"
+
+msgid "june"
+msgstr "juni"
+
+msgid "leo"
+msgstr "løve"
+
+msgid "libra"
+msgstr "vægt"
+
+msgid "login"
+msgstr "logpå"
+
+msgid "logout"
+msgstr "logaf"
+
+msgid "march"
+msgstr "marts"
+
+msgid "may"
+msgstr "maj"
+
+msgid "media"
+msgstr "medier"
+
+msgid "mini-blogs"
+msgstr "mini-blogs"
+
+msgid "minute"
+msgstr "minut"
+
+msgid "monthly-horoscope"
+msgstr "månedligt-horoskop"
+
+msgid "monthly-tab"
+msgstr "manedligt-fanen"
+
+msgid "my-account"
+msgstr "min-konto"
+
+msgid "mycalendar-icons"
+msgstr "mycalendar-ikoner"
+
+msgid "new account"
+msgstr "ny konto"
+
+msgid "november"
+msgstr "november"
+
+msgid "october"
+msgstr "oktober"
+
+msgid "opened"
+msgstr "åbnet"
+
+msgid "order-detail"
+msgstr "ordre-detalje"
+
+msgid "order-list"
+msgstr "liste-ordre"
+
+msgid "orders"
+msgstr "ordrer"
+
+msgid "pages"
+msgstr "sider"
+
+msgid "pisces"
+msgstr "fisk"
+
+msgid "post"
+msgstr "stolpe"
+
+msgid "privacy-policy"
+msgstr "fortrolighedspolitik"
+
+msgid "problem to parse file"
+msgstr "problem at parse fil"
+
+msgid "products"
+msgstr "produkter"
+
+msgid "ready"
+msgstr "parat"
+
+msgid "regenerate"
+msgstr "regenerere"
+
+msgid "remove-from-subscription"
+msgstr "fjern-fra-abonnement"
+
+msgid "reset-password-token"
+msgstr "nulstille-adgangskode-token"
+
+msgid "sagittarius"
+msgstr "skytte"
+
+msgid "say"
+msgstr "siger"
+
+msgid "scorpio"
+msgstr "skorpion"
+
+msgid "seconds"
+msgstr "sekunder"
+
+msgid "seconds."
+msgstr "sekunder."
+
+msgid "section to know more"
+msgstr "sektion for mere informationsektion for mere information"
+
+msgid "selected-user-id"
+msgstr "udvalgte-user-id"
+
+msgid "selected-user-on-dash"
+msgstr "udvalgte-bruger-på-dash"
+
+msgid "september"
+msgstr "september"
+
+msgid "sign-up"
+msgstr "tilmeld-dig"
+
+msgid "sign-up-step-two"
+msgstr "tilmeld-dig-trin-to"
+
+msgid "software-cd"
+msgstr "software-cd"
+
+msgid "software-checkout-step-1"
+msgstr "software-kassen-trin-1"
+
+msgid "software-checkout-step-2"
+msgstr "software-kassen-trin-2"
+
+msgid "software-checkout-step-3"
+msgstr "software-kassen-trin-3"
+
+msgid "software-thank-you"
+msgstr "software-tak"
+
+msgid "subscribe"
+msgstr "tilmeld"
+
+msgid "sun-signs"
+msgstr "soltegn"
+
+msgid "support tickets"
+msgstr "Support Billetter"
+
+msgid "support-tickets"
+msgstr "support-billetter"
+
+msgid "taurus"
+msgstr "tyr"
+
+msgid "terms-of-use"
+msgstr "betingelser-for-brug"
+
+msgid "thank-you"
+msgstr "tak"
+
+msgid "thank-you-for-report-purchase"
+msgstr "tak-for-rapport-køb"
+
+msgid "thank-you-free-trial"
+msgstr "tak-free-trial"
+
+msgid "thanks"
+msgstr "taks"
+
+msgid "to"
+msgstr "til"
+
+msgid "to manually download it."
+msgstr "manuelt downloade den."
+
+msgid "today-tab"
+msgstr "dag-fanen"
+
+msgid "user-testimonial"
+msgstr "bruger-bedømmelse"
+
+msgid "users"
+msgstr "brugere"
+
+msgid "view"
+msgstr "udsigt"
+
+msgid "virgo"
+msgstr "jomfru"
+
+msgid "weekly-horoscope"
+msgstr "ugentlig-horoskop"
+
+msgid "weekly-tab"
+msgstr "ugentlig-fanen"
+
+msgid "welcome "
+msgstr "velkomst "
+
+msgid "yearly-horoscope"
+msgstr "årlig-horoskop"
+
+msgid "yearly-tab"
+msgstr "arlig-fanen"
+
+msgid "(Windows only)"
+msgstr "(Kun for Windows)"

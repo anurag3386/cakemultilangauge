@@ -1,0 +1,9 @@
+[31-Jan-2016 03:14:07 America/Chicago] PHP Fatal error:  Class 'fpdi' not found in /home/astrowow/public_html/bin/test-swisseph/report-pdf/finishing-pdf.php on line 12
+[31-Jan-2016 03:14:07 America/Chicago] PHP Fatal error:  Class 'FPDF' not found in /home/astrowow/public_html/bin/test-swisseph/report-pdf/bookmarkhelper.php on line 15
+[31-Jan-2016 03:14:08 America/Chicago] PHP Fatal error:  Class 'fpdi' not found in /home/astrowow/public_html/bin/test-swisseph/report-pdf/commonpdfhelper.php on line 62
+[31-Jan-2016 03:14:08 America/Chicago] PHP Fatal error:  Class 'fpdi' not found in /home/astrowow/public_html/bin/test-swisseph/report-pdf/bermanbraun.finishing.pdf.php on line 12
+[31-Jan-2016 03:14:08 America/Chicago] PHP Fatal error:  Class 'fpdi' not found in /home/astrowow/public_html/bin/test-swisseph/report-pdf/bermanbraun.commonpdfhelper.php on line 62
+[31-Jan-2016 03:14:08 America/Chicago] PHP Fatal error:  Class 'CommonPDFHelper' not found in /home/astrowow/public_html/bin/test-swisseph/report-pdf/generate-wheel-Pdf.php on line 25
+[31-Jan-2016 03:14:08 America/Chicago] PHP Fatal error:  Class 'fpdi' not found in /home/astrowow/public_html/bin/test-swisseph/report-pdf/elite.finishing.pdf.php on line 12
+[31-Jan-2016 03:14:09 America/Chicago] PHP Fatal error:  Class 'fpdi' not found in /home/astrowow/public_html/bin/test-swisseph/report-pdf/elite.commonpdfhelper.php on line 62
+[31-Jan-2016 03:14:09 America/Chicago] PHP Fatal error:  Class 'fpdi' not found in /home/astrowow/public_html/bin/test-swisseph/report-pdf/elite.finishing.pdf-NoCoverPageImport.php on line 12

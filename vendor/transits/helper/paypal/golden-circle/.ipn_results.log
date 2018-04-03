@@ -1,0 +1,1369 @@
+[08/18/2014 5:14 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=395.00, invoice=62168, protection_eligibility=Ineligible, payer_id=BRHLHLJFF3NWE, tax=0.00, payment_date=17:14:41 Aug 18, 2014 PDT, payment_status=Completed, charset=windows-1252, first_name=lars, mc_fee=16.03, notify_version=3.8, custom=337, payer_status=verified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AqPlFBrhIq3NBZqm0zMJ74HCubfZAYauD6wt64BJRjjQXoyKDlaavEib, payer_email=larsjensen@energimail.dk, txn_id=1T293463DV272441G, payment_type=instant, last_name=jensen, receiver_email=ard@world-of-wisdom.com, payment_fee=, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=DKK, item_number=GCQUE-62168, residence_country=DK, handling_amount=0.00, transaction_subject=337, payment_gross=, shipping=0.00, ipn_track_id=a02e2657f09cc, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=14400
+Strict-Transport-Security: max-age=14400
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+Date: Tue, 19 Aug 2014 00:14:54 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=AmGnaz1p0WfMtx9iU0bXCbLTzARxTHxoeLdhO2lAjL2t_YE_u_PiKpfBX6Zm-lAccutbmZ7zPNqKZAUEYiO8UFdFRkoIMWDj5VHxy6cVfKpiMQMomeYcyUyZeX_3O_Wy4pJxjC5LJdQqB-Dqw4lYP4RDD24g2CsIwiNejghu5yuQshz8qC3BkvjegmHQJ0QPugeGp1UBGCjeBJlkcND9sX_P1v6NanchOH-GyA85QlNK2-7YIblb8gNU27JjHclIqH46jXk3ydZeejvZge_d_4BF-vF5L4HKnCMboT4BhFQLsjcgM6zF7HtuycnmAjJtWKKoTJ-wpCzeA2jC--nNlOl9x7A4yEOLK1uV2Caxo10Ia1MmeJfdm__1zm7LC29DGy6gvo8IZx-SazkgAa17AF8r4NhxYd9GyKCeZeMAqSpPPRA612w4PkpKAmC; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 16-Aug-2024 00:14:54 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 18-Aug-2016 00:14:54 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.137.1408407294332057; path=/; expires=Thu, 11-Aug-44 00:14:54 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D4271305299; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.74.8.38.1408407294323440; path=/; expires=Thu, 11-Aug-44 00:14:54 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Tue, 19-Aug-2014 00:44:54 GMT; path=/; secure
+
+VERIFIED
+
+[08/21/2014 3:29 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+transaction_subject=337, payment_date=03:29:16 Aug 21, 2014 PDT, last_name=jensen, residence_country=DK, item_name=Golden Circle Question, payment_gross=, mc_currency=DKK, business=ard@world-of-wisdom.com, payment_type=instant, protection_eligibility=Ineligible, verify_sign=AMM-8FWU-CJEzA5CTydgZMk.Nt3.ACwvHYtxGqWtQu7.jLYziT13Sr6f, payer_email=larsjensen@energimail.dk, txn_id=9A08861837097960K, receiver_email=ard@world-of-wisdom.com, first_name=lars, parent_txn_id=1T293463DV272441G, invoice=62168, payer_id=BRHLHLJFF3NWE, receiver_id=VM4HV6HR8W4Z4, reason_code=refund, item_number=GCQUE-62168, handling_amount=0.00, payment_status=Refunded, payment_fee=, mc_fee=-13.43, shipping=0.00, mc_gross=-395.00, custom=337, charset=windows-1252, notify_version=3.8, ipn_track_id=7d9dd08e91b03, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=14400
+Strict-Transport-Security: max-age=14400
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+Date: Thu, 21 Aug 2014 10:29:22 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=E2ZJbrspYF1wCx1gE2JoQIGSCVEVu5lbXAuh4K9Q-hf3kA05Qu13GjAOVCV5fDukMYc6sPqTvCsrTKspwjka9cqFq75cGQkgw4x8dbMeLxPG99mJkufdI_Hu1fra6IuXxNBDX5Sx6fqudQ3hqtBrLp6Z_eZXX7MmtJS5jQA5Mf6sfnuTIsZx4p5WOZvhMF-arBeSrve85Oez8ALPzo-lP69XPNoLWfs8RTiVuFTE0Wv2emRZgikOkh9ecx5NSci4Dg5rWwAjDFfbvhzv8rM3m2jKHqBAW7ANvxoyKDpsWMyUjLHsqD4SgysP9tQIqmdQPhADmQIthcEldOwyRiu7wfluNhNYKBdapZE8PI0gW_yt7U8kdG7qXI_D_GQRV-U1E2AqwovW8P_gJkhqKtsVHEkcWGq4aIX0Y5j70a5TqIKeYsHea3Chgss-nJy; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 18-Aug-2024 10:29:21 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 20-Aug-2016 10:29:21 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.134.1408616961612987; path=/; expires=Sat, 13-Aug-44 10:29:21 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D30078291; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.74.8.40.1408616961603487; path=/; expires=Sat, 13-Aug-44 10:29:21 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Thu, 21-Aug-2014 10:59:22 GMT; path=/; secure
+
+VERIFIED
+
+[08/30/2014 10:48 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=59.95, invoice=62591, protection_eligibility=Ineligible, payer_id=AA47WKJPP3FBY, tax=0.00, payment_date=10:48:09 Aug 30, 2014 PDT, payment_status=Completed, charset=windows-1252, first_name=matt, mc_fee=2.64, notify_version=3.8, custom=467, payer_status=verified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=Azh9vjkc1TxjKCmISSYQg9ae2wPOAHN0aOQVtaFnTr8MwGoCxVsttQ1m, payer_email=chewedup402@hotmail.com, txn_id=7R808146FM7165333, payment_type=instant, last_name=beard, receiver_email=ard@world-of-wisdom.com, payment_fee=2.64, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=USD, item_number=GCQUE-62591, residence_country=US, handling_amount=0.00, transaction_subject=467, payment_gross=59.95, shipping=0.00, ipn_track_id=f42a69c4da93a, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=14400
+Strict-Transport-Security: max-age=14400
+Content-Type: text/html; charset=UTF-8
+DC: slc-a-origin-www-1.paypal.com
+Date: Sat, 30 Aug 2014 17:48:21 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=cXZBGKvUHcsohhG0ZF-lELcDf-fW3SFZc1Z9UQxO5VZpsrQCOyCs6xfOBLVYK5LJhhDRRTrqT1mAs73nxWbSNL8TN-iYf88ISYwWSW7lU-hXG-0A0_uhm_T5-uXUjix17cVaEQvqlBOf1wP-qup5WAlQQq-hMJwBdoBcgGbOoS6C57Xh4XB74MStQb7FfzBjsPwKTEIu8AhTS6p1KWzGOw3MmCAf_GyqKbmtrE1c2ziFfTMMSIN6oc2HwDsjbDyN6Yk2KfNHdnCTpLUUFHDZnQiEDj0Ih1QyGHNQ-CjbE3c-w9AiBw-Tv250iWRpXAS7SmOPhAKT4nBz_cnFPi8CbqAqNLqxfifMOU6XZgU3-tSkDCr8Qnboz_l_upPqLbnRwnwHPZ2sqIdncRUL8mptFl2_KnY9nJyUfpIRB2XPa_XI7MBu7DbPcV-2TGa; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 27-Aug-2024 17:48:21 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 29-Aug-2016 17:48:21 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.134.1409420901076588; path=/; expires=Mon, 22-Aug-44 17:48:21 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D1695416916; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.73.8.41.1409420901066737; path=/; expires=Mon, 22-Aug-44 17:48:21 GMT
+Set-Cookie: AKDC=slc-a-origin-www-1.paypal.com; expires=Sat, 30-Aug-2014 18:18:21 GMT; path=/; secure
+
+VERIFIED
+
+[10/13/2014 1:24 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=395.00, invoice=64718, protection_eligibility=Ineligible, payer_id=WJ6UUW88NP4Q4, tax=0.00, payment_date=13:24:35 Oct 13, 2014 PDT, payment_status=Completed, charset=windows-1252, first_name=Birgit, mc_fee=16.03, notify_version=3.8, custom=7994, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AG-8qpwg6YogBa2LDtjResl9vMbMArcUB5slH1TthIq.uDnXoTlFTvlH, payer_email=birgitelgaard@gmail.com, txn_id=78740085C33553344, payment_type=instant, last_name=Elgaard, receiver_email=ard@world-of-wisdom.com, payment_fee=, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=DKK, item_number=GCQUE-64718, residence_country=DK, receipt_id=0824-5493-1814-9689, handling_amount=0.00, transaction_subject=7994, payment_gross=, shipping=0.00, ipn_track_id=4bc0f77baf4d0, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+DC: slc-a-origin-www-2.paypal.com
+Date: Mon, 13 Oct 2014 20:24:49 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=LffMwr-BDASahqwnU5okv23eTpb7mWLGiWi9iWqpK-ybio9hwGhBKhpskYUCwUzjVOWrAEog6zYcW-9fRbV1vczzFubtNPXoYq4pcFHN_9RMK1iMRU9OErJFdqihkHMemLJ87NLaIkgPUMJKRLbbUn9VRw_-iTF9R716yVqRrk1xfOF7ikDPkLifo8HWaIZH_besfJkIvPfxDA2hmU_q8UUaF3flLtginCRbmKsvZQVxwwxrGKQA6IB5bcRiKeLftPdyuvUEQQS36Uj8y6WymGs6PIf8BWvaXU-b0vy0h4Pl5Oz9zbP4FVMy3yJSbQTGlNiMeHSeGQ8QRaxYPYRUOGrn6zLWrHjRpTRlmiPjoGZbq06SjTttUgd8nfQ31kMUSTSNWU913mXXFYnNLLwKdWVnmejdLtzJ5PlnuCWcMXEZxZ4G7Ggk08F3edW; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 10-Oct-2024 20:24:49 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 12-Oct-2016 20:24:49 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.134.1413231889411122; path=/; expires=Wed, 05-Oct-44 20:24:49 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D288701524; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.73.8.62.1413231889401410; path=/; expires=Wed, 05-Oct-44 20:24:49 GMT
+Set-Cookie: AKDC=slc-a-origin-www-2.paypal.com; expires=Mon, 13-Oct-2014 20:54:49 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[11/10/2014 4:49 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=395.00, invoice=65490, protection_eligibility=Ineligible, payer_id=MF8R9CJ24D2B4, tax=0.00, payment_date=04:48:18 Nov 10, 2014 PST, payment_status=Completed, charset=windows-1252, first_name=Dorte, mc_fee=16.03, notify_version=3.8, custom=198, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AyppvT1Xd0TDROSUD2UM77bmGY5dAOC2C427MTZ8AaV7S29KTGVWMYQZ, payer_email=dortesolvej@yahoo.dk, txn_id=3FJ98882SH365110E, payment_type=instant, last_name=Rehmeier, receiver_email=ard@world-of-wisdom.com, payment_fee=, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=DKK, item_number=GCQUE-65490, residence_country=DK, receipt_id=4274-3030-3124-0491, handling_amount=0.00, transaction_subject=198, payment_gross=, shipping=0.00, ipn_track_id=52099f1c9bee9, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+Date: Mon, 10 Nov 2014 12:49:00 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=9NWiS86NVX2elUxM6lTdeMzbv7su7gq6f7Q58P1sXc-PQVrtFfCn_R3GoUz06cJ-hASy_kaZ6NqD_TACtB1Lecq92l4TWF8BMpEa-3g6EidN3MWzUd6T7_9l7IH1TNxWwFXEJXsTpkiQG1MEyxDu0tLmiFQd2TTV8HlLbqj3wkGMCrfjzBbvOJDWX69oHgtyBAm-kcY9y8PAwlPYKtwvF_LW8OxqAOPPZFhj-5YAuUqvTNtmpVJFh2m7E9LOwLqSJWVnik_Yl5ssotJR5GKwdCaQuzNa9yl7j6zhB6ELnhIMrfIog2yJsq1xCSOUEYKUxQrIjxKfW1s_eYVOZYO8Ix4aU7h1fBOBzaeF7XmkhxqVkaigkPZn9Cj08ILOb1wFDqtEYe8b11XU_d8AWpmD9M4FjoMqEsVuLA0P-T6CMRDUWCOw_TMz4HJ-EAq; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 07-Nov-2024 12:49:00 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 09-Nov-2016 12:49:00 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.134.1415623739696366; path=/; expires=Wed, 02-Nov-44 12:48:59 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D1001676884; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.74.8.58.1415623739686068; path=/; expires=Wed, 02-Nov-44 12:48:59 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Mon, 10-Nov-2014 13:19:00 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[12/24/2014 12:14 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=59.95, invoice=68304, protection_eligibility=Ineligible, payer_id=7SWGDCE27DKNQ, tax=0.00, payment_date=12:14:02 Dec 24, 2014 PST, payment_status=Completed, charset=windows-1252, first_name=Catherine, mc_fee=2.64, notify_version=3.8, custom=186, payer_status=verified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AgyX30mgDRefn5lBkf0ngHNeHbWBAwCxFg-aq8wn9.C5udkdEwsfWUy5, payer_email=cmimparato@yahoo.com, txn_id=1UN298685F218822D, payment_type=instant, last_name=Imparato, receiver_email=ard@world-of-wisdom.com, payment_fee=2.64, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=USD, item_number=GCQUE-68304, residence_country=US, handling_amount=0.00, transaction_subject=186, payment_gross=59.95, shipping=0.00, ipn_track_id=89cb71ad81090, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+DC: slc-a-origin-www-1.paypal.com
+Date: Wed, 24 Dec 2014 20:14:14 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=-vXGgsmxNHYUA0w9bqgk33693eetfLParsfLeKO8IgANt0kakPm3rSIPdDiGN2MR1lLuntTYTgIzPAaJ6HmizmhCXZstjk6GzAWQk5KIez_XvV4KbDPfmvK5vgQuCScAdYL0dGEoqIU-hjQ8DFY8zVkt8rYnConAtPR3uQTl1euAkBq8Qixs_x0sUmnvr8Gm8tzIRS2jQkwvoISRAYKksLZX1W1EoF26kzx1uBMA3RTQv5fo26n2pFigTOQ0D4ixN-TZ23akz_XjDteHA0PaWsCrOPXRBPrK50Xg8DkaTf0DU0cXatIexHHQSWY2njjTInkKu2FaCO8SDS8uRbZPFHQwzmC5fMi9HXv4iHY66Rsm368yiLrCSgPjW3z4h8STCW36uM6tUgpgMZY7LneXHWzSeQaFx5xldWHbGOWCT2OE6qXqcUTO6kP_u5O; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 21-Dec-2024 20:14:14 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 23-Dec-2016 20:14:14 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.134.1419452054179586; path=/; expires=Fri, 16-Dec-44 20:14:14 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D2518588244; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.73.8.32.1419452054168650; path=/; expires=Fri, 16-Dec-44 20:14:14 GMT
+Set-Cookie: AKDC=slc-a-origin-www-1.paypal.com; expires=Wed, 24-Dec-2014 20:44:14 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[12/27/2014 4:41 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=59.95, invoice=70544, protection_eligibility=Ineligible, payer_id=96VTPCF6EYCMC, tax=0.00, payment_date=16:41:03 Dec 27, 2014 PST, payment_status=Completed, charset=windows-1252, first_name=christopher, mc_fee=2.64, notify_version=3.8, custom=10029, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AfNiioru8QGt9oOTQsIe25nQPGLHAlzKQOuMA63wnDVTFrUYkJ1Yg9ui, payer_email=medmind@aol.com, txn_id=57984812TM367950U, payment_type=instant, last_name=georgiou, receiver_email=ard@world-of-wisdom.com, payment_fee=2.64, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=USD, item_number=GCQUE-70544, residence_country=US, handling_amount=0.00, transaction_subject=10029, payment_gross=59.95, shipping=0.00, ipn_track_id=411b403b4b95c, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+DC: slc-origin-www.paypal.com
+Date: Sun, 28 Dec 2014 00:41:13 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=jOYV0lLXkiCeZFhq2vzuGiG2C31b5f6X8BLqYfiiAOKYr_Nu20tSAYbRtPs2aqtyozhX-S3WnK0Pw4IgskIZ5gDQxTu85wYQVC_onPG-YwANVuz40Cc8wbwPdVdrqnw6MBLdG6KZBf5ZErAdEHZSpuFAOzI8AoOVuVPCsnS324LQgRYLltq2ivBPukEv28SQ8nNYQoGCF4VRXhMxdZvRS0aRW929BlXwe3B6eYXEHV1L3BxfvWPCGoZJWwQdm-5yMqn6ppzNvuFBqHPyGHGysUf6ih2JQ8PjjKSSOksOEk_wzk_WsnPMsgOSbtn9sORsAN5RxJP4AIOTh9fMAmaJ38l_E9e2D_N99_0l4aoN46TIyo3AusHFkT1uJ45GcEtFz0v1k-pRj63NEZBZwrtKRjokCd9cS891Mt7pl28BVQniKcPB8u916YcOmry; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 25-Dec-2024 00:41:13 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 27-Dec-2016 00:41:13 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.14.1419727272907164; path=/; expires=Tue, 20-Dec-44 00:41:12 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D2823921492; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.0.11.1419727272900952; path=/; expires=Tue, 20-Dec-44 00:41:12 GMT
+Set-Cookie: AKDC=slc-origin-www.paypal.com; expires=Sun, 28-Dec-2014 01:11:13 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[01/05/2015 1:12 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+transaction_subject=186, payment_date=01:12:08 Jan 05, 2015 PST, last_name=Imparato, residence_country=US, item_name=Golden Circle Question, payment_gross=-59.95, mc_currency=USD, business=ard@world-of-wisdom.com, payment_type=instant, protection_eligibility=Ineligible, verify_sign=AucXkCX5I6BQ05VRt59-nFMO0tyVA6gl7rPiQ7nyQi7vi.JAbhPzfX7S, payer_email=cmimparato@yahoo.com, txn_id=9RS775064H821780B, receiver_email=ard@world-of-wisdom.com, first_name=Catherine, parent_txn_id=1UN298685F218822D, invoice=68304, payer_id=7SWGDCE27DKNQ, receiver_id=VM4HV6HR8W4Z4, reason_code=refund, item_number=GCQUE-68304, handling_amount=0.00, payment_status=Refunded, payment_fee=-2.34, mc_fee=-2.34, shipping=0.00, mc_gross=-59.95, custom=186, charset=windows-1252, notify_version=3.8, ipn_track_id=c92ee32c3dcdf, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+Date: Mon, 05 Jan 2015 09:12:17 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=InSaYRTdJ4plOh_KH_LSlYiI5Dd5-yw7wq0CXpUI3wDC5gr5_l3lwvsQ9Fgv2lKxTcvfGk_LGdlncPyk0m3U4AnSATj1qTprFEm0UFeRqiLIQWc_zppAESxs0E-gXTHcVve4WVm5avc_5ajm2YkS0IoPJRl1UAGUScXhq90XU7LYMpYwuxOnTY0vlozPjgtv-0RBAgXj785aWHvi1JdORYERstyPqtO1C_16rrCkUwIxchoJYYeO3kLPHvvYPXabSV-BDlXpmItnzdjlLYcK7un8c9ZFNO7x1jIkBezYrj3vUktMjOhMRQN7JB1PEgSGa6P4QX21HsqiDj1B1SpsOWuC8H2oGKijT4OVWMarODQ_4u8Zirb036WPREOGnmd_e-IzqN_zoBMdyMsc8Vsi3kwHhu7fP6lqzYPVao6J3Mm45eTu900WAMG6Ux0; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 02-Jan-2025 09:12:17 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 04-Jan-2017 09:12:17 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.137.1420449136743754; path=/; expires=Wed, 28-Dec-44 09:12:16 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D1884662356; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.74.8.33.1420449136737016; path=/; expires=Wed, 28-Dec-44 09:12:16 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Mon, 05-Jan-2015 09:42:17 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[01/08/2015 10:23 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=52.95, invoice=74675, protection_eligibility=Ineligible, payer_id=MJQUPYPTLNBEE, tax=0.00, payment_date=10:23:11 Jan 08, 2015 PST, payment_status=Completed, charset=windows-1252, first_name=Lise Lykke, mc_fee=2.15, notify_version=3.8, custom=2572, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AsP0xcdzpX5t64Pwsy3gW-wElFWUA6FBA1sV8h0.pXXKBXodsWD6q-Q0, payer_email=lise@liselykke.com, txn_id=2UA20913528841229, payment_type=instant, last_name=Guldbæk, receiver_email=ard@world-of-wisdom.com, payment_fee=, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=EUR, item_number=GCQUE-74675, residence_country=DK, receipt_id=1504-8247-5800-1806, handling_amount=0.00, transaction_subject=2572, payment_gross=, shipping=0.00, ipn_track_id=110ea283ceb75, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+DC: slc-a-origin-www-2.paypal.com
+Date: Thu, 08 Jan 2015 18:23:28 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=Ub5uHeQchOtW-F9zEcoECquIeLi0PAt7l7BX0W2UPEcO2_GmQkxtqlXNyGskBEAXQTL3Rz-wEpPHRHeoDwrZxZwipYjYgabbACTCysTuLVeQsjgGLJhfC22R4Pj2rEKOFSrMtwQRzlpnd1wbxcPs9sKXhjJND7WtCHK1Y-eR7b15kYMpHnrvdgSpNb6VnwA0GsUyyUL8b8kqxLx2-OowhAR8A0mHpqaQzknLii6d5xJ49Q07WWEVvcaeVmx7ByU-vipGe7OdjK1sc8IsIJ5tLr9U6fdwSSt2zKLHjHSRtEpPp6ZmYK2ww2tNDkWa7Pc4au1hUsNhyH8VcFAn9PgRMsffaAMlQBxM4Sy6P3bp2ogaWDWR3Z5lHhViRr9RnTYQQ7o6aKTer9JCR_p6MlXzmtr9vQeqn9WnQppiCrjdPr-s1mfKDZkYQSYRgFK; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 05-Jan-2025 18:23:27 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 07-Jan-2017 18:23:27 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.137.1420741407628286; path=/; expires=Sat, 31-Dec-44 18:23:27 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D533442132; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.73.8.67.1420741407613906; path=/; expires=Sat, 31-Dec-44 18:23:27 GMT
+Set-Cookie: AKDC=slc-a-origin-www-2.paypal.com; expires=Thu, 08-Jan-2015 18:53:28 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[02/25/2015 8:52 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=20.00, invoice=78434, protection_eligibility=Ineligible, payer_id=P997JAY7PM33C, tax=0.00, payment_date=08:52:30 Feb 25, 2015 PST, payment_status=Completed, charset=windows-1252, first_name=Marie, mc_fee=1.08, notify_version=3.8, custom=10734, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=A9KHSj.4Cdg2BK2MdZM7gN0-8N-6AOsnpNufE5-tjb-V4lCMrscweK7P, payer_email=Mlanghorn@live.com, txn_id=95688612T7798020N, payment_type=instant, last_name=Langhorn, receiver_email=ard@world-of-wisdom.com, payment_fee=1.08, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=USD, item_number=GCQUE-78434, residence_country=US, receipt_id=2196-2138-9529-1077, handling_amount=0.00, transaction_subject=10734, payment_gross=20.00, shipping=0.00, ipn_track_id=89217d09def00, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-a-origin-www-1.paypal.com
+Date: Wed, 25 Feb 2015 16:52:54 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=qHfXGkGe0RThED9dNjrT1e7KV9oQsxFJpjfjv2lC4C1p0I0zzfCHcAkyAW17Bes2z6MZdDMox5iq_OVygHlKoqxL0CPyWgYVCv8NZcwp98XrYi_oiYHXYKLF-vaRr56abbbBxB8njB4LVtDel35fpzoomJaC3ibinuE2zgAIH-1NvP_f7jKqlObRnQlJ3e8D2IYGosA5MrZzgH3LUQHCwxNGw53PoqxkzQ1kd1LYsKD0fAXwXmrjJGQ2fU8HrYUB-L8LtyXNRPkHH7sP9BPnnya9MaZzudGWHTBQewqV1kmbdk7_NgevmzIGKIPo9y2svN-u9YGlCVAQ9TMan04xpVbVzjdwtX87Yi92GL7Xglz7KHXB3WrLp0Jd3M1aOhzxsGpir_0CqYhNpizQ1CAL6NcqPSoMOGQP7Y3_G8WoMDv2_ZZ9EwzxBPoW2Z4; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 22-Feb-2025 16:52:54 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 24-Feb-2017 16:52:54 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.134.1424883174482675; path=/; expires=Fri, 17-Feb-45 16:52:54 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3875401044; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.73.8.46.1424883174471250; path=/; expires=Fri, 17-Feb-45 16:52:54 GMT
+Set-Cookie: AKDC=slc-a-origin-www-1.paypal.com; expires=Wed, 25-Feb-2015 17:22:54 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[02/27/2015 7:29 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=59.95, invoice=78550, protection_eligibility=Ineligible, payer_id=AGC7M8ESQLBAW, tax=0.00, payment_date=19:29:28 Feb 27, 2015 PST, payment_status=Completed, charset=windows-1252, first_name=James, mc_fee=2.64, notify_version=3.8, custom=10852, payer_status=verified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AbnmC91NghYvs9689Kd4YnMzxYcjA1GoYwf5SaEs6Z.5uHZx2T.321sc, payer_email=jmola777@gmail.com, txn_id=91X60791E4151973D, payment_type=instant, last_name=Mola, receiver_email=ard@world-of-wisdom.com, payment_fee=2.64, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=USD, item_number=GCQUE-78550, residence_country=US, handling_amount=0.00, transaction_subject=10852, payment_gross=59.95, shipping=0.00, ipn_track_id=2fc752f2b9ab, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-a-origin-www-1.paypal.com
+Date: Sat, 28 Feb 2015 03:29:41 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=mIhnyJEuJBQuOSkQJcSFyRuUMOFFn5Mu43JRitTEhz1fod-fIuAZOVJlOF0Li1pPWizu-uYzl6S67T1qLGXpLSoj7mcgq3jBmrYTcyX9UNLZejsCoBrsJ3Sh9B3IotCCpCDqAllSjpDvR1DB0vUMn22qJ0erKnPRenOdfPOnoUncJEbpYxdGjCsRolhfDhoV5zc5KAOfwGl5t4sJoLGODpBiJFDJNbf9HphW3S77bNlGt5HFYKZdkShtK6kY8S7mI8u6IquxXAXrnwYSMPt5vCULhHWTBJ1HCU1o-mDnmIXy1oGk0HfxSj-kQZVlahA6y50q5QdpDP7EjRyiOkIl593SdukcaTN7jnbC2W8rfCx4QsDDofY47trHhl-NVEwWg1HWSnzfL9834NruiX7E97J2i5_bzY12M8w0Q6wbi2N1EQ87slnAniDUJe8; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 25-Feb-2025 03:29:41 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 27-Feb-2017 03:29:41 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.134.1425094180919068; path=/; expires=Mon, 20-Feb-45 03:29:40 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D607580500; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.73.8.37.1425094180903400; path=/; expires=Mon, 20-Feb-45 03:29:40 GMT
+Set-Cookie: AKDC=slc-a-origin-www-1.paypal.com; expires=Sat, 28-Feb-2015 03:59:41 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[03/05/2015 6:41 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=59.95, invoice=82851, protection_eligibility=Ineligible, payer_id=DM82YUA6GSVJU, tax=0.00, payment_date=18:40:59 Mar 05, 2015 PST, payment_status=Completed, charset=windows-1252, first_name=Julie, mc_fee=2.64, notify_version=3.8, custom=11165, payer_status=verified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=A2w4uwjaXIFlAqR0blfhZsM-ADiTAcHYSPr7b1f6cHoI0.JTL8jUQjqh, payer_email=echoteers@yahoo.com, txn_id=4U122030CE772762B, payment_type=instant, last_name=Everett, receiver_email=ard@world-of-wisdom.com, payment_fee=2.64, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=USD, item_number=GCQUE-82851, residence_country=US, handling_amount=0.00, transaction_subject=11165, payment_gross=59.95, shipping=0.00, ipn_track_id=baea495a9a2c, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-a-origin-www-1.paypal.com
+Date: Fri, 06 Mar 2015 02:41:11 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=MRwDPu6Nk4tjBCTmWjyen7w3tNJo8dyaq4EmNWzjAcL1sZg5D1HZ8WX8I7JR7lqhY16GLb1JTpX4ZswaMtuxhuh9dcEKvO5RdfKa8NjcYbsVB25Q4cotEEwy5To_dGhNftXaieTsD6KwSm4xVWT6lyAd8Et9yCEvVF3MsA-p4Qjd3Yufgi3Q1m99IoDJuLHp7lVK7TgvXX2KnD7feecaGdl8Aa2EMItMRmq-SAo1IM8Ftskt0mQJucDbRGNPyZ1-_YYW34xip11QxxRcNUz03PxITQjuYAeFTJzg1uUVS7Mlsy136YlRLvLJzRdKsnVBV9bOsxhY1mr00HsiZhPWu0XgWwE_K5TZanH8VSoYWkvYRwla3cmxbtqv-IXJmOc5DBuTs20PjWZ8uiw_uvFh9nlPU6NkSBjCZyuhlweV6fi7HQRbahEIF7f4Wri; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 03-Mar-2025 02:41:11 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 05-Mar-2017 02:41:11 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.137.1425609670806972; path=/; expires=Sun, 26-Feb-45 02:41:10 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3323197780; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.73.8.47.1425609670793225; path=/; expires=Sun, 26-Feb-45 02:41:10 GMT
+Set-Cookie: AKDC=slc-a-origin-www-1.paypal.com; expires=Fri, 06-Mar-2015 03:11:11 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[03/09/2015 10:39 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=59.95, invoice=83317, protection_eligibility=Ineligible, payer_id=DUYQ56MHCSW38, tax=0.00, payment_date=10:38:27 Mar 09, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Mustafa, mc_fee=2.94, notify_version=3.8, custom=5701, payer_status=verified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=As6Mj1SIIE-ltmvfLs7Orom.LsDkAOIUHK6AkLjUdA070bQHZQwbX4PQ, payer_email=mustafaer62@hotmail.com, txn_id=8AC43885LC509801X, payment_type=instant, last_name=Er, receiver_email=ard@world-of-wisdom.com, payment_fee=2.94, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=USD, item_number=GCQUE-83317, residence_country=TR, handling_amount=0.00, transaction_subject=5701, payment_gross=59.95, shipping=0.00, ipn_track_id=cec26b7529b, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-origin-www.paypal.com
+Date: Mon, 09 Mar 2015 17:39:59 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=iMZl74y053Hk9lBkoTcMklryvV_wrJ2dPJ1Gg7d0dhVEjkYCOWONtt5703BDdvQkJEC2QN3lovN79hwmZGuk2OBIhqq9i0bB42fpj2SezcPgRqML-OJmPhM8fwAv48pj0BF7bkASZ_NUquwvjpDjLf8sHIRqcOVcVoo_pYow9F6yVGFHEBWCVJqTz-0w_8Yy8caBkHlskrjw4pMJCPpyOAi717QVvIbn798YMF-pV7gKtyWMOfUqDr19ziqiM_A_nkPuNaoF8WY8uYflLoTleFKHQq_mrYqa73yp4jZsVbRII2Uj7Jed9YWBVdf1bEOgiHD2Ev_s8CVi7MmceARpzbLuLk8jbRz9W8JJ5YtXzBm7_NCNqzRf9ptxms_rmdEAE61C1mhX7t1bfOE1wON7_4ZlI3Bk65eufvh39MnC_SrcE8ZNgBUxc20VE5u; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 06-Mar-2025 17:39:59 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 08-Mar-2017 17:39:59 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.147.1425922799236504; path=/; expires=Wed, 01-Mar-45 17:39:59 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D4024106324; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.0.11.1425922799231426; path=/; expires=Wed, 01-Mar-45 17:39:59 GMT
+Set-Cookie: AKDC=slc-origin-www.paypal.com; expires=Mon, 09-Mar-2015 18:09:59 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[03/13/2015 1:44 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=395.00, invoice=83577, protection_eligibility=Ineligible, payer_id=X85ZW994ESP8W, tax=0.00, payment_date=01:44:25 Mar 13, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Helene, mc_fee=16.03, notify_version=3.8, custom=2531, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AMOTg4wGbCfT7P36ZE8pptbLwvDqAQLfnYSk1AYzlYK81FhodtmKGWZV, payer_email=helene@makani.com, txn_id=9JS229807R195601K, payment_type=instant, last_name=Makani, receiver_email=ard@world-of-wisdom.com, payment_fee=, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=DKK, item_number=GCQUE-83577, residence_country=DK, handling_amount=0.00, transaction_subject=2531, payment_gross=, shipping=0.00, ipn_track_id=c34d1fb8f7b5, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-origin-www.paypal.com
+Date: Fri, 13 Mar 2015 08:44:36 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=mY3VX7uZDiMCHekeE05CcFcQWyk7kO5bJTaVcThx75Gw_tBsZNqxmgJ7rzM8uwMlBbtZF7ZgBX1q06ztpCaEHXpGICbIse-w19P7aW-XoeCRPCbWiLYBEZMr1CUG5mRbVZ2vvwuNliZMJwwk5ZqjObZAZ-e0ofAXjTgmOhPhmrHbMvMVYKXr20FI0kyx_lwYg9YLqa1Kxe5bDoyntFhNfHLqhv4H_oe-9_zab_uMYjGcdYJq003JlacdWYA7Hts30xIOOMDwKopIZUdbRidjk-ITh9ZGE1HgTFIzPyJnL-V0KRURUXidyiVuxD1WDJV0VmxWik1cY8Z_2P8as5riC433fo8AN6kUuWdUNVW1zXh6iEhT62rTb9CUqnWlpYSHPIzXevwIUqOj_3R1OOTBID9oPUtrNTcieOqW2mtmQ1T9Pf3BZrYaUfLqtXu; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 10-Mar-2025 08:44:36 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 12-Mar-2017 08:44:36 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.147.1426236276196290; path=/; expires=Sun, 05-Mar-45 08:44:36 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1956840021; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.0.11.1426236276188197; path=/; expires=Sun, 05-Mar-45 08:44:36 GMT
+Set-Cookie: AKDC=slc-origin-www.paypal.com; expires=Fri, 13-Mar-2015 09:14:36 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[04/07/2015 2:14 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=395.00, invoice=90391, protection_eligibility=Ineligible, payer_id=98BNZG3YQRJ88, tax=0.00, payment_date=02:14:21 Apr 07, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Lone, mc_fee=16.03, notify_version=3.8, custom=2555, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=A1crg41l4S7iAxC4m7GINdftlCn4ACyJGottD4htjV23Srts5sR872TD, payer_email=lla@vordingborg.dk, txn_id=69T854160J056372G, payment_type=instant, last_name=Larsen, receiver_email=ard@world-of-wisdom.com, payment_fee=, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=DKK, item_number=GCQUE-90391, residence_country=DK, handling_amount=0.00, transaction_subject=2555, payment_gross=, shipping=0.00, ipn_track_id=e76175a44418d, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+Date: Tue, 07 Apr 2015 09:14:43 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=7fZyruNh8sSpn_fNYyTQ0IztSvoUqathFrKp287GcFyjhEq-HB7qaJncTgV26Tef-cWSkJxlkmgIF3Vb6y3EHX1TJiV0HhQpF8gEWtsVcZiDo7eAGjkufUQYT_-L-J6om0uAx3yPRt58yuMo1D9e6rYRJowIMZK1ZFheG8oJFluYdnZ_nXf9um0Pj3I73tkBW7BqLNW3gjB2D4pZPgLNfxC6-oLcESnHO6gBLioxsfj3yqILwBA-5n1_cvfFsZ5ZWwfgKhHHJrB0_58xNSwuGEHAP_cFZsy7ZyyHRD4xsaK8SWZsN-ab5Adig2fL-M-elDs1znLLvNRL04WOZWJqs1dAzLy-hMIknK5I8hH4cDswYPC0MGSV1nPyl-rx66cJQN72oiGsHqBwcVavUV3vHC3Fqcn7p3jtUUakT0Y69t3n-j1TNc6iExgkNCa; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 04-Apr-2025 09:14:43 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 06-Apr-2017 09:14:43 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.137.1428398082907730; path=/; expires=Thu, 30-Mar-45 09:14:42 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D44049237; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.74.8.61.1428398082895976; path=/; expires=Thu, 30-Mar-45 09:14:42 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Tue, 07-Apr-2015 09:44:43 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[04/19/2015 2:32 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=42.95, invoice=91000, protection_eligibility=Ineligible, payer_id=YQ62XNYNX3UMS, tax=0.00, payment_date=14:32:10 Apr 19, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Jean, mc_fee=1.88, notify_version=3.8, custom=348, payer_status=verified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AUangf6il4q9Z41PregDpr.UNn6cABToZcpSD9jK2WKSvfRNLTvcmFms, payer_email=drivergunn@hotmail.com, txn_id=90M788645U112472U, payment_type=instant, last_name=Gunn, receiver_email=ard@world-of-wisdom.com, payment_fee=, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=GBP, item_number=GCQUE-91000, residence_country=GB, handling_amount=0.00, transaction_subject=348, payment_gross=, shipping=0.00, ipn_track_id=7270a8b22df50, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+Date: Sun, 19 Apr 2015 21:32:22 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=onh5dR4HXjfk8fvLqWH22Cfd5DbF4wnHTenMIJqX9hQDyWRhVxUb-8SWRDUZkOaGF_oLgDYrgcB0a3rmssTXgx3y6SMSO62WotIjTj8WLlPvwV2NGszq00o36oNk91l0qzUXPrr4E-LFuCH4nDwjmcW0DmThZVkOUQ0MQ6xArxBAk2546VGMf175qzv4EXlnMJt2_nMNnmnb_hBCUD-tkeaUbHrxB6JLNaRpsbO_DVs7_Edz4FG-WjbG-iKYTyp0e8J-ujFi46hEPsWx1XxOG95ethvVP-QKDceYMQHmZLP5UNoHW1gEvZ2SBLH6_AlTCAT6E_1WVf4uFKf4i7xHfw2U10KLKwKoz2z_u_0cjrtyca38UA-PJTdlfYe1L8ZZ7rX2ZNGU9iV_nxlGno5f4NoXp1qJSHFDdQi0MZwx5LqJrrMgE9kPPirzjTq; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 16-Apr-2025 21:32:22 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 18-Apr-2017 21:32:22 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.134.1429479141706439; path=/; expires=Tue, 11-Apr-45 21:32:21 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3843961941; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.74.8.63.1429479141693444; path=/; expires=Tue, 11-Apr-45 21:32:21 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Sun, 19-Apr-2015 22:02:22 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[04/23/2015 4:52 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=395.00, invoice=91237, protection_eligibility=Ineligible, payer_id=SGDPQUKSXE4FL, tax=0.00, payment_date=16:52:35 Apr 23, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Susanne, mc_fee=16.03, notify_version=3.8, custom=10396, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=A3FeuJ.9KWrTpAUzvFoPqExa.3PLAtIjWhB2MpEBHDwrWjfREahs.2co, payer_email=shj@outlook.dk, txn_id=1SB75013LP925722N, payment_type=instant, last_name=Hjortkær, receiver_email=ard@world-of-wisdom.com, payment_fee=, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=DKK, item_number=GCQUE-91237, residence_country=DK, handling_amount=0.00, transaction_subject=10396, payment_gross=, shipping=0.00, ipn_track_id=374cc6baa1ae5, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+Date: Thu, 23 Apr 2015 23:52:50 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=BHiyby2frVczQC2BAy-8_W6i9SJ1pBGTho5ulLPYsRRv_Bm-gLiu4WG4j0x1WQbOOKqUCWvUFu4FCdWHYCggpSpKtEJ4gT-1GMLz6JbCqZ1CA0uPHFYE0hHEryq1-3giQM_ofaa_MbfzOzCPcmeS_tfYvca1vkPt_gWjcv0mk79ozilWzpmRb6FWRkf9I_LIEUedECReYDPCJ9y_9hbs1aKgRbDukZFAiLW-xqOuWuPChtUxYjAT9_9gNbi6qXiRTANRMbXbIDMC5MIBZnM06wwy5lLjdA2LdHgqeA9xb2FmQcnY61ykNhP3ARQ4Z2JBSNoXkeYd_0rYEiwbkU13IVdUr2h8ijLgFXddp8NpUh7zhyPSK71TG10f_8Fnzz_OYg8w88XdJbJ8EYWeoLmNOxkXP4Uy4x_S6LQJScjx1okgzGiRxzTDgRQ4hVa; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 20-Apr-2025 23:52:50 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 22-Apr-2017 23:52:50 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.134.1429833169970215; path=/; expires=Sat, 15-Apr-45 23:52:49 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3515169109; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.74.8.57.1429833169957977; path=/; expires=Sat, 15-Apr-45 23:52:49 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Fri, 24-Apr-2015 00:22:50 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[05/03/2015 6:00 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=59.95, invoice=91614, protection_eligibility=Ineligible, payer_id=DUYQ56MHCSW38, tax=0.00, payment_date=06:00:29 May 03, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Mustafa, mc_fee=2.94, notify_version=3.8, custom=5701, payer_status=verified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=A5uQFvjc.UJtfUjlRK-VIf9WWQ8HATSfQdzu5eGFulR3jjchwcgEQdRE, payer_email=mustafaer62@hotmail.com, txn_id=5U349947EH9430131, payment_type=instant, last_name=Er, receiver_email=ard@world-of-wisdom.com, payment_fee=2.94, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=USD, item_number=GCQUE-91614, residence_country=TR, handling_amount=0.00, transaction_subject=5701, payment_gross=59.95, shipping=0.00, ipn_track_id=857385f5ce1c3, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+Date: Sun, 03 May 2015 13:00:47 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=ok82DySAo0RYEyrgkJVcJMKVT1VKXbOVTnHsVCV82BznyDKgtEPokLJOlkglDzA-4HUwhD9nMv6yx-Pm8IqHaijpT8FalD9WBUkZuysALAlf6nkoqbTTFtnft0z_R5DVUl0Eh7r2WG4fOOCGjKdCX26JRFe8D3HsGbhLi50fgDCMAain0dCeyMbyc77JwyEad9yxdGk99UGjkZ2681UiOzYAQcQuq0aRu4rQC7dwS73YfyHzQng2XhDPSQkMmz3ft1paTNE-wNiYzGTCvYecH3pDNJ2fHz-HgUlAsLiQlG27OUao9D9H-CXSg-i4PxA-og9QaFaU5I8uc7I1TX-v0Ix8OzLmupQmqniFUQ-czt8yV6UU2kUDZykxRYuZmFvPGKsTxBEzl7q7nXMBApEV0liA4W9IW2mpd1NzwzDyXYR7clOGQrOm2aU3i7i; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 30-Apr-2025 13:00:47 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 02-May-2017 13:00:47 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.137.1430658047018518; path=/; expires=Tue, 25-Apr-45 13:00:47 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D4279977557; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.74.8.46.1430658047005483; path=/; expires=Tue, 25-Apr-45 13:00:47 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Sun, 03-May-2015 13:30:47 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[05/16/2015 2:51 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=89.95, invoice=92877, protection_eligibility=Ineligible, payer_id=T2XF3T5E3QEAS, tax=0.00, payment_date=14:51:08 May 16, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Margaret, mc_fee=3.81, notify_version=3.8, custom=11781, payer_status=verified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AQC0BiuwyHNAdp.1TNF44UEdO7z5ANACkOIrZvITqGwGHx63D4DVxeOn, payer_email=mlong628@hotmail.com, txn_id=07G08689CR842632Y, payment_type=instant, last_name=Long, receiver_email=ard@world-of-wisdom.com, payment_fee=3.81, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=USD, item_number=GCQUE-92877, residence_country=US, handling_amount=0.00, transaction_subject=11781, payment_gross=89.95, shipping=0.00, ipn_track_id=3cb2fe31a680f, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-origin-www.paypal.com
+Date: Sat, 16 May 2015 21:51:22 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=smbQHu-UNkDArwkAh9NqUu83dFIGQlswdMygV3gNYhdk1eeyCPDpQIG_pvMvsEH4jRU7hS2gUR9edRmmLjqnIbTpegBNLeaeeEi9Agk6wUYc-4oT-YvxXPAS9h7RmAJyViP0vtfInYOXQKe9NQaObltlWGJwVQC3ddteKhdyMPsePCkwkVy7yKrZ9P7R9gc_gHaaMxGnX1l-lG_CxBrFp10C1qI2bu4qBk3HWlTcldqWueddIEpmI-JWVaA0yyRY3MsiPehIgwxfG7VQB6sUnFNsOM7DC_8EH6x4UWLMkPVRfDEPwMBHqh_2rC3g3xmUY_0a9OohSIwu42W_ASJPZRq0JUiCIcI4r6vOlmPNod6Ic4fJMjtnawgOphc8rrZjVJw-jwHaveE6ohbzsfTeASaomex2a0ovnFgS31VQf16Gmd5EuZ9n2bV4pFa; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 13-May-2025 21:51:22 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 15-May-2017 21:51:22 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.147.1431813082257602; path=/; expires=Mon, 08-May-45 21:51:22 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3669710677; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.0.11.1431813082248159; path=/; expires=Mon, 08-May-45 21:51:22 GMT
+Set-Cookie: AKDC=slc-origin-www.paypal.com; expires=Sat, 16-May-2015 22:21:22 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[05/18/2015 1:39 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=59.95, invoice=92964, protection_eligibility=Ineligible, payer_id=8JKQ6VM9XP7U8, tax=0.00, payment_date=01:39:37 May 18, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Ahlice, mc_fee=2.34, notify_version=3.8, custom=395, payer_status=verified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AEL7l2augWsPDVmQkD6CYcw-f3viAGY3MG1yvCRYJGBuPnmKgTcQLLLE, payer_email=afaergsted@gmail.com, txn_id=9J845317CU4155529, payment_type=instant, last_name=Faergsted, receiver_email=ard@world-of-wisdom.com, payment_fee=2.34, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=USD, item_number=GCQUE-92964, residence_country=DK, handling_amount=0.00, transaction_subject=395, payment_gross=59.95, shipping=0.00, ipn_track_id=5e43064695d69, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+Date: Mon, 18 May 2015 08:39:53 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=G_nzBxxNRngPu7qJlVCujyZOJLA11FR2QnZo3g0YPRaHC_TI7E-AUPGLkiq4KFp9p0UV6u5pOPrEHn1HbAvUMiNhKIRHEpB4Fy04RTxsOlB7XxrgjkdXFq6uEerBZ7HtzYnomFYwHQp9D6K8LG2dyu6v2-D8s7hV7ZtCw4JXEmjoTCEzZtizhgY2y3NkETpeKZPWDzaSr8sARITpvpWiPGrXI-RDxR73jE8hiRaGVSl29fLp3QNm_kzKU3E2V16-4WBn3NiELRD4sIEO4oDTkiTkYtn4tfjM5j62mwNAAp9jooL0QhnI0Be8q8p2kU1VryeWUuLgsam1w9IdckQpL6lEOCpYLWoYTNwkTZHwoDDj1w6aQS509tRaba3tjf-Ncs9yN01cXfVI7ZKhsmlDo4ZOTcK1MHvvxL_ObgmqYfT9RqcOP6fh86IKGLW; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 15-May-2025 08:39:53 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 17-May-2017 08:39:53 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.137.1431938393282461; path=/; expires=Wed, 10-May-45 08:39:53 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1504008533; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.74.8.35.1431938393271124; path=/; expires=Wed, 10-May-45 08:39:53 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Mon, 18-May-2015 09:09:53 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[05/18/2015 1:26 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=395.00, invoice=93006, protection_eligibility=Ineligible, payer_id=BSJQCMPBRN7UL, tax=0.00, payment_date=13:26:12 May 18, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Birgit, mc_fee=16.03, notify_version=3.8, custom=7994, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AL82qxR3z7mhtwJZBjtNJQ1iFKKYAs1psi32pjhjz1ph2wyUAehLvkdx, payer_email=mail@birgitelgaard.dk, txn_id=6VG04845N4416461N, payment_type=instant, last_name=Elgaard, receiver_email=ard@world-of-wisdom.com, payment_fee=, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=DKK, item_number=GCQUE-93006, residence_country=DK, receipt_id=0332-4811-3053-6486, handling_amount=0.00, transaction_subject=7994, payment_gross=, shipping=0.00, ipn_track_id=69ecc1a7593ac, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-a-origin-www-1.paypal.com
+Date: Mon, 18 May 2015 20:26:29 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=QoEcpbo2ypbLH1rmlJyEXOZ6fiFgEOGYtdHyhwKw_NPUrYTIviB3_sJPFCkHKwyjyPCUp8iypyBTezOR--8M9kSGB62hzTYYj8SIjIXP4MYVDw9SqESlacarMv2xytr-5H82zWefiwFyFiArvHElWEeYXszelqRA7xIaxx3qRBBfbtFWBxscphF5sUH30Of8Q2APrfYEOJohfgtDCJPqF8gc_Pp_M1_InuW2nCQ-mjRqD9FG7L1etaa83Kxh7dK7csddzGisM0VzAQK8vCFssBiLB5DWT5j6dr-gQ6l6nCRCebxzukRgv_xAQnMhJ_j2BBctR5-162hA35IYsS4rzjczDx1ixgy6fHM68hWc9qrtxFpV9q-TCMJBlZqqfwqugrmLTasxZ89vWXmizDa2nYlQUSxd4pOjT7y3LNQG9UU0oqLaII9rsdLlkzu; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 15-May-2025 20:26:29 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 17-May-2017 20:26:29 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.134.1431980789037495; path=/; expires=Wed, 10-May-45 20:26:29 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D4115290709; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.73.8.37.1431980789023446; path=/; expires=Wed, 10-May-45 20:26:29 GMT
+Set-Cookie: AKDC=slc-a-origin-www-1.paypal.com; expires=Mon, 18-May-2015 20:56:29 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[05/19/2015 6:29 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+transaction_subject=11781, payment_date=06:29:07 May 19, 2015 PDT, last_name=Long, residence_country=US, item_name=Golden Circle Question, payment_gross=-89.95, mc_currency=USD, business=ard@world-of-wisdom.com, payment_type=instant, protection_eligibility=Ineligible, verify_sign=AhKjPyUAFwaeM5vZHwjU.0caZhHtAHuTZupm1vjCMnVya-m4Osn3pTUj, payer_email=mlong628@hotmail.com, txn_id=1TY26609713696302, receiver_email=ard@world-of-wisdom.com, first_name=Margaret, parent_txn_id=07G08689CR842632Y, invoice=92877, payer_id=T2XF3T5E3QEAS, receiver_id=VM4HV6HR8W4Z4, reason_code=refund, item_number=GCQUE-92877, handling_amount=0.00, payment_status=Refunded, payment_fee=-3.51, mc_fee=-3.51, shipping=0.00, mc_gross=-89.95, custom=11781, charset=windows-1252, notify_version=3.8, ipn_track_id=a0f86721c0f80, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-a-origin-www-2.paypal.com
+Date: Tue, 19 May 2015 13:29:16 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=NHnM2OdjW4rT0zBZTzJxfSBFNXVbogVBIz4ptQ2BuyoET3WBVJgXr77EsQuAQE_euJuT5Ng17tBAZMbpzybAd7LM7w0GsdWNSQEW2llDgAJn_QNnv9Dym_uKp6TKWNA0a82KyyhKtFJ0I0EabQd7P8GgMnsFmBnijRC_COqmiu7HMzSXxXqsNt8xvxXvJlt9eCo1c5adx5Y7kV54GNLwdu4u6ggM_P0PU042eKOb9Pcbf8Vnb7wTRJ7EJXpp09P2jXh6R34aixTEsl0Lcd_hSOsclil2Jq12jZCKnHjCU4qilGjFCWdvENXqhht8vpQwi_In1ZO9UzAUv3SmVdI5z5_cNOePIM8GidhEwuqzqb9ZRp5J8JgxCsj1UeM9gRMQUX2ZwJosoMV28jtqkHgYsfVt-nBaM2xUVevKOrY6r2FaErLwsCVKqL4f5f4; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 16-May-2025 13:29:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 18-May-2017 13:29:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.137.1432042156334279; path=/; expires=Thu, 11-May-45 13:29:16 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2889505621; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.73.8.67.1432042156322164; path=/; expires=Thu, 11-May-45 13:29:16 GMT
+Set-Cookie: AKDC=slc-a-origin-www-2.paypal.com; expires=Tue, 19-May-2015 13:59:16 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[05/25/2015 10:37 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=42.95, invoice=93331, protection_eligibility=Ineligible, payer_id=LHMEWRZXKGNGG, tax=0.00, payment_date=10:36:59 May 25, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Kirsten, mc_fee=1.66, notify_version=3.8, custom=547, payer_status=verified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AxlQqpeNMFFPz98Sl3BmTgOQCPFBABus-ZtVqoSksZyCYMyHsjJa0Qb., payer_email=k.n.second@gmail.com, txn_id=6R0178031X2328040, payment_type=instant, last_name=Nybye, receiver_email=ard@world-of-wisdom.com, payment_fee=, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=GBP, item_number=GCQUE-93331, residence_country=DK, handling_amount=0.00, transaction_subject=547, payment_gross=, shipping=0.00, ipn_track_id=5dd1ecf5a1292, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+Date: Mon, 25 May 2015 17:37:13 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=lPyZwZ4H88JYUNAQ3VEPShnkR8_Tguz_p2ADawga9YgcFwvuWMPv78M8RCV8oNkWCEK-l23j8xH4beRhE1rGoNb0RSRgXXv2cZlchYlQKLRUfo19gb3Rl5MqBKSKQY5vz4LWJdw3OM7cL9BET7PpYursal3w4mQ9Jw8UFNVe3jPWGLAvX-Mt6QxZmkRqgQZvoc-Q7-ypTrdQuWNm0j-iQZ6jLFlKVOiYo5UMg6hmP7AdMl5YLiK5Ub4xgNm06uurm4YZ6ya-RfCZzy1CuA4KyOTAhLqdtKk5KrLihrfGOfyc7o2oJIm2T-VAHRtKfK9Zj7L-ujh2bAoJJs2cWznwxTxIxTX70Y_p5-8OIcEh2Lb_Dld3DxamLUiAwH4_fphGX1SlZZg4936ksqPJbTS6dXvlpy4eqyJilMG3Db0pdnwXH74TJUCKjV0EgtO; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 22-May-2025 17:37:13 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 24-May-2017 17:37:13 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.134.1432575433395090; path=/; expires=Wed, 17-May-45 17:37:13 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3378340693; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.74.8.39.1432575433382126; path=/; expires=Wed, 17-May-45 17:37:13 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Mon, 25-May-2015 18:07:13 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[07/23/2015 9:30 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=59.95, invoice=97635, protection_eligibility=Ineligible, payer_id=CNJR7K7GHQHUG, tax=0.00, payment_date=09:29:46 Jul 23, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Linda, mc_fee=2.64, notify_version=3.8, custom=6555, payer_status=verified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AqOqBO5hnc5W7a-kyJdazabMx990AEHNynN94jxz7k1bIyFScYEFvCpx, payer_email=lmayer22@gmail.com, txn_id=11737447X36777054, payment_type=instant, last_name=Mayer, receiver_email=ard@world-of-wisdom.com, payment_fee=2.64, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=USD, item_number=GCQUE-97635, residence_country=US, handling_amount=0.00, transaction_subject=6555, payment_gross=59.95, shipping=0.00, ipn_track_id=fda11d24dc010, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: d0d6df865fdeb
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-origin-www.paypal.com
+Date: Thu, 23 Jul 2015 16:30:02 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=cRmRkU8L3AR4nY7nM3QeP7ZReQaZTgIV-Ww8dNCIlDnhm4hWb6_e-zJuerc2OzWl6iXvjs_6EEUzLlyEv6OUqHIjr2T78IsdJVAXLRGNYf26jpq51P-wzGDg4lqwRmzGViFFOL9fny62Ga95xsafmY7W11R_WVN5lQEfOyKDpk4vd0od6z2SNgCSF85eBoE3EG76QLL_8-XDLbfqKXVYjy2pwG55dlIQ929fOHVlLlzqLcuORBZJzoGqotvAJ6XB5qqhx1R0Ccx1qcT2dqvtsuK32GxnoQjkIa4rivtyy7qyZUXjeBVcB8j2K76mofSmwV5vzlU0sQd39IqWYftEgGfBAs2RipFlMyRzqAZYyt5l1LKBFHEVZ9GTfdZKdLyqdDvk_XVft9Jnes-qvU6HCtlZSZNIaP62MqQ6utAAgI3V_bNQr10m_f6ho1O; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 20-Jul-2025 16:30:02 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 22-Jul-2017 16:30:02 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.14.1437669002402611; path=/; expires=Sat, 15-Jul-45 16:30:02 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2316742997; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.1.3.1437669002392516; path=/; expires=Sat, 15-Jul-45 16:30:02 GMT
+Set-Cookie: AKDC=slc-origin-www.paypal.com; expires=Thu, 23-Jul-2015 17:00:02 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[07/26/2015 5:18 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=395.00, invoice=98842, protection_eligibility=Ineligible, payer_id=XVA7HN2KKTJLN, tax=0.00, payment_date=05:18:33 Jul 26, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Siegfried, mc_fee=18.01, notify_version=3.8, custom=12480, payer_status=verified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AA9Cf0LYbwe0oSBcLR57HdPJd1u1AgqEH8UZFmD1xrfQ0RjqeOI0Tiu2, payer_email=swa@swandersen.com, txn_id=2NX77856E0124100W, payment_type=instant, last_name=Andersen, receiver_email=ard@world-of-wisdom.com, payment_fee=, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=DKK, item_number=GCQUE-98842, residence_country=IT, handling_amount=0.00, transaction_subject=12480, payment_gross=, shipping=0.00, ipn_track_id=e55072f24057b, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: 77df151379208
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg12-origin-www-1.paypal.com
+Date: Sun, 26 Jul 2015 12:18:46 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=QcLJiN11uHMwyKweJQdNQ5GcYruUu_em5Qb9tjqTccnGBh9yzWsqY5nB-ED1EFvh1tzOPhTuwR_jFkF9pHpKweUBH2bGpqPYI-Kja6GyeryoNBoGJBb3hTIQKoxCVmUJUX1yDkVRXOD1PJCLXiEX2efIOThfw4s1sQ0LXqBpvtjuaYLhFRZRhYhsTpbRIYrh6SGVr-nKGLTh07BzlS2YL4W4G0cbg-PgCZI4TeEDt3grojMPYqCpl8MeM4bFvjp1DcWcELAB0gPgn_nIPXt8wHPApSEyb2SN04SPJxZKHrjuPhfWaC8mmx_Mdf3s7RDkzyFd7gTjLTWbdw4ax9FvUSpXJ5Dq97CAFAVGz_vGWyqBY4LEHkfQ0fOKNLzqch9nn1GFfeZ3Ia5yAa6_6jSwzhXVtg7HbcTr9svgAsYNQfB3gL_osAsI6Zlk-Ti; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 23-Jul-2025 12:18:45 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 25-Jul-2017 12:18:45 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.17.1.18.1437913125504497; path=/; expires=Tue, 18-Jul-45 12:18:45 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE11.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D634434645; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.17.1.7.1437913125495927; path=/; expires=Tue, 18-Jul-45 12:18:45 GMT
+Set-Cookie: AKDC=dcg12-origin-www-1.paypal.com; expires=Sun, 26-Jul-2015 12:48:46 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[07/29/2015 4:21 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=395.00, invoice=99281, protection_eligibility=Ineligible, payer_id=CEXNQKC6SBA5A, tax=0.00, payment_date=04:21:08 Jul 29, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Margrit Lynn, mc_fee=16.03, notify_version=3.8, custom=12530, payer_status=verified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=A0Gp9o7cQCCx65UK.e242MocSQWrAPYWavHlTyL1GZ4Arj7TnUFLTLxI, payer_email=malyta@mail.dk, txn_id=5EF87447RB871040S, payment_type=instant, last_name=Tarby, receiver_email=ard@world-of-wisdom.com, payment_fee=, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=DKK, item_number=GCQUE-99281, residence_country=DK, handling_amount=0.00, transaction_subject=12530, payment_gross=, shipping=0.00, ipn_track_id=22514477e2cd3, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: 1e293fa6913b0
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-origin-www.paypal.com
+Date: Wed, 29 Jul 2015 11:21:20 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=WhwnTzOhJ2uY7gdrGT3z6vtggaDAwETugrsrMOAK-KyHIu8MWd_ZZcuBdP9l4gFfGyTJJ7XQtcIcAmducWrTxlJpj5TWy92-9DHKmWNMPCgvfXfyPYXRKdJNnZIyITYo6uiBQk2asCWWLElbeTChsL3TUfsZ0_q-cUHkx23iyYYpkFdY1iA5r_1If1zPanJODapYZY3_CGeaIbDneFPHwpCAwA2Ggt7YC6YzlIkKyHvit7r1FtwnpTEenRbq7lAPmtXBk10vsKoPtNddjZHCPFhWNULrVRHFSfFfVLCvGZSRtgVZfZVKd8dIVsEnLZzaQ4BfvS7MzGiLh5pHhxwezS2z-I1PdcCI028u-_zKchPXMHNiaCmgFncMS4F_N5fjmJ29_M7LiUr-7hOKii_qQ8slDxsUz0DrrzM8NEwkdI1cFEXQxeQrIvpZbHm; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 26-Jul-2025 11:21:19 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 28-Jul-2017 11:21:19 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.148.1438168879602748; path=/; expires=Fri, 21-Jul-45 11:21:19 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D800569429; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.0.220.1438168879592996; path=/; expires=Fri, 21-Jul-45 11:21:19 GMT
+Set-Cookie: AKDC=slc-origin-www.paypal.com; expires=Wed, 29-Jul-2015 11:51:20 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[08/20/2015 10:20 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=52.95, invoice=101101, protection_eligibility=Ineligible, payer_id=5DLKDQ55PD2GQ, tax=0.00, payment_date=10:20:10 Aug 20, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Euridice, mc_fee=2.94, notify_version=3.8, custom=562, payer_status=verified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=Au0f-5XOf0BtUszDzO9enmz-nrhfAAuyZHGxC4xH-ILDuCIm-0qNEaQm, payer_email=euridice.mauricio@cvtelecom.cv, txn_id=6RC958280A455062J, payment_type=instant, last_name=Mauricio, receiver_email=ard@world-of-wisdom.com, payment_fee=, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=EUR, item_number=GCQUE-101101, residence_country=CV, handling_amount=0.00, transaction_subject=562, payment_gross=, shipping=0.00, ipn_track_id=f6174164a3437, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: a6f74de433f00
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-origin-www.paypal.com
+Date: Thu, 20 Aug 2015 17:20:25 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=sprzDeMIFeYqSzyUcyTKLGv8-lX8fPhUwjnUnKFNNyXd9RYw5SUQ80KliGbUccQ_ckfGxag8X-3EfyzCtIgcMACdDEXegH9fjckVyTzCb0MXj5iEbkHOaUNrRB1DI03QazJiBdslsgQXjaKBgf994J7Vhz6sfeRnMka-TaJreXDHe_eoUbqAHVL7M7e_xZ25RZxu0EZZ77Z4j-zscaeUcKZ4dGgYa59wDP1bkZrXbbxYo0xI7oDu04CZHZAI_a-cXvTgZZjCETLjksW3SKpRoayyNhdAlA4GffE80Hnig_Vlw_YQ3BWX-LwRxriC7bTIFVUSruM0kcWiU7mheBybCCpZBTE8QrzaE9sYBGwrtAtdS2oaBQqen4jEvSO2WYsKcUWuFjj1jdVYWbikLnLu1iFJyAjd2_70mmUSfH-ZhwHyDhFE81zeqsW2JL0; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 17-Aug-2025 17:20:25 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 19-Aug-2017 17:20:25 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.148.1440091225218583; path=/; expires=Sat, 12-Aug-45 17:20:25 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1494013525; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.0.221.1440091225212528; path=/; expires=Sat, 12-Aug-45 17:20:25 GMT
+Set-Cookie: AKDC=slc-origin-www.paypal.com; expires=Thu, 20-Aug-2015 17:50:25 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[09/05/2015 2:29 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=52.95, invoice=102120, protection_eligibility=Ineligible, payer_id=3PYMWLZG2JARA, tax=0.00, payment_date=14:29:16 Sep 05, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Sanja, mc_fee=2.68, notify_version=3.8, custom=5122, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=APWjy7vCFMvczgVatud4PWyjw4WrASUGCoxzsJ.45dS6.MpupPDYcU7o, payer_email=sanja.rebic@gmail.com, txn_id=8ES6540987217510S, payment_type=instant, last_name=Rebic, receiver_email=ard@world-of-wisdom.com, payment_fee=, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=EUR, item_number=GCQUE-102120, residence_country=RS, handling_amount=0.00, transaction_subject=5122, payment_gross=, shipping=0.00, ipn_track_id=5e3c8963aca0, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Paypal-Debug-Id: b73d6f13d48e4
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+Date: Sat, 05 Sep 2015 21:29:29 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=M68M_V_dhgp8zP7VZHtMVez6_syOsl6x1M9GjByx_Kpyj1ooY7eKDY6pg21CKp-SOTdbtM5g_ADxS7MJmRlDknu155N0kJnO2Wrcr5IBxJ39hHfe94AdOminntLhmEQp2kvxdy9qnK_NplaqiUl24-kBmksMAEHqHVAaqCot0MB3LO72HYFO7l1nmQWTQ41Rx49IJzNcMZYEobhEUA4vivar0sMAPfuPX3AY6yyPj_ykleN4z1NJEeQlFRogjI2rSw4w9yrU_K45NIsgcYSi8mLVln8am8lsGt6KH2M6FCSPtHql2_HdXpsm1T-7W6ITMzmyKD0AMIYb7VFlzGIiRMPEvBa2_flAX1g0REyFQsaxE6skkDy6DNYEdDrsU0k6tRhzwF_eBjAZzlaf5pd-F3gYuXsb-PO2uFWHtVQzePKx7izMPszfEI3QMvq; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 02-Sep-2025 21:29:29 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 04-Sep-2017 21:29:29 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.137.1441488568895803; path=/; expires=Mon, 28-Aug-45 21:29:28 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3093228373; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.74.8.65.1441488568870393; path=/; expires=Mon, 28-Aug-45 21:29:28 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Sat, 05-Sep-2015 21:59:29 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[09/16/2015 1:41 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=395.00, invoice=102760, protection_eligibility=Ineligible, payer_id=UX9YVVSU4H6HA, tax=0.00, payment_date=13:40:40 Sep 16, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Kirsten, mc_fee=16.03, notify_version=3.8, custom=12858, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=ATbMU602flG3KAfxoD5cPh9QHE1jAlAabidOatqEqpk05dM-..jtn0hW, payer_email=kirstennybye@gmail.com, txn_id=65N28833WP606715W, payment_type=instant, last_name=Nybye, receiver_email=ard@world-of-wisdom.com, payment_fee=, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=DKK, item_number=GCQUE-102760, residence_country=DK, handling_amount=0.00, transaction_subject=12858, payment_gross=, shipping=0.00, ipn_track_id=148810fc9e4a, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Paypal-Debug-Id: 3b6e32d14c05c
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+Date: Wed, 16 Sep 2015 20:41:02 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=UTy3TGUP7hVcsgXGK1Cms-_qoFhnEHt_TY5ScexOdo870HfB7MrKa2APK7rlpadT-wzl57nqDYQ3jgjSQvF-wN2GLMc89HEZ4utmJ49qkOEVjgr3DMiEeR9WCipH4YDj9T2uTwYT1phCj5mztZrjMzYFbyWskZPTqgGBJfAe_9EoFn5KwgPpDO8eZ2I5HR6JZBfwqbq71iabomscmPcLdeRRgUHbBomPsG0m2i1ZJa5S7aivW2WK8zsHAe62ZPQsOj_e3WHAgc7wTIWhRgj-n8h0NK4GttMlRiHUUfW6HNc5kburUCKFNYqwz8dT3HB1VyiX_zD-BbVy-o1VVcmDUQsQoq0n4TW7Zz-4u7qilau1lyBKNoPp3FIm5NMJsH_1ezwkKMH5ygA5pgYax8rUfhefhnOkXTNCK0w2ZHgn9O4St6PuxUKrcvnL5xW; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 13-Sep-2025 20:41:02 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 15-Sep-2017 20:41:02 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.134.1442436062322311; path=/; expires=Fri, 08-Sep-45 20:41:02 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3738433877; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.74.8.35.1442436062310832; path=/; expires=Fri, 08-Sep-45 20:41:02 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Wed, 16-Sep-2015 21:11:02 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[09/19/2015 5:02 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=59.95, invoice=102947, protection_eligibility=Ineligible, payer_id=G8S2ABM5AY3RA, tax=0.00, payment_date=17:02:39 Sep 19, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Linda, mc_fee=3.24, notify_version=3.8, custom=12875, payer_status=verified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=ANAwYoUKXITn-8UOG1FyI0mHUygCApf2B9MPmNHCBu46yU4KlHV31IjC, payer_email=lgregory@iinet.net.au, txn_id=1YT86940TG7676155, payment_type=instant, last_name=Gregory, PhD-TSTA-Imago, receiver_email=ard@world-of-wisdom.com, payment_fee=3.24, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=USD, item_number=GCQUE-102947, residence_country=AU, handling_amount=0.00, transaction_subject=12875, payment_gross=59.95, shipping=0.00, ipn_track_id=9355879862204, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: b3c595d94fe82
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg12-origin-www-1.paypal.com
+Date: Sun, 20 Sep 2015 00:02:50 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=06HBlz5aLO-i8JPBfFjqkyPaBmLlYCtv4gtTd1eqcAghGM-JShaQ2xnuMBRN6nvjlhXdss44L_IKkJIGV_TUG3GGd7HJSeO6696mtweTr_Jj3xDrLKxZnS4vvJD4SbfstCZ54uG_V0NRu50cFNt_0ipMFjJa2VrWfUd6As894yDncft8Xl_2M5aib2WtHCSWDeVL5EISFHLT0K_mKui4o-djLiQv7vMIenPEq1eGyAh-sQ5IxOPVchBzoEBmM4lr2p_j6a-ZxGkdWXneyJOA10_HeH5pnJ7XsPYjOYqFUtaU65h9KdEJmpZlwAnY2EsiDxw98ldi9Cy0plWOauxBMS5--0Fwk9FtUydlIfGGjfTxrm8K02QTySKRnofBaZszDMM-sgkXUb4mUcMSWH1fLRC6MgVqqyzR2h8bBs5B7TTAdOKFO_vlwnomEiK; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 17-Sep-2025 00:02:50 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 19-Sep-2017 00:02:50 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.17.1.19.1442707370335530; path=/; expires=Tue, 12-Sep-45 00:02:50 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE11.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2868378965; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.17.0.11.1442707370326930; path=/; expires=Tue, 12-Sep-45 00:02:50 GMT
+Set-Cookie: AKDC=dcg12-origin-www-1.paypal.com; expires=Sun, 20-Sep-2015 00:32:50 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[11/06/2015 12:54 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=89.95, invoice=106161, protection_eligibility=Ineligible, payer_id=W82WW7ECCCSDW, tax=0.00, payment_date=12:53:57 Nov 06, 2015 PST, payment_status=Completed, charset=windows-1252, first_name=claire, mc_fee=3.81, notify_version=3.8, custom=8292, payer_status=verified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=ADGh2AjFrFaZAoDHUyU2UvcBfQqHALrGgYskIlYLXeqylxQeP0C2uUd0, payer_email=avealtd@hotmail.com, txn_id=9CR47151HS7371150, payment_type=instant, last_name=read, receiver_email=ard@world-of-wisdom.com, payment_fee=3.81, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=USD, item_number=GCQUE-106161, residence_country=GB, handling_amount=0.00, transaction_subject=8292, payment_gross=89.95, shipping=0.00, ipn_track_id=a15fe9faaf2a9, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: 155d7d7bc557a
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg12-origin-www-1.paypal.com
+Date: Fri, 06 Nov 2015 20:54:12 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=5JWotiDk_n_UfwO6PcFm622SR2FPDuWGUX_LuGtgSidV3I0LwrO3Cw8pBK2WjPpqg0rsJYqRGYAaNPFcEG2_0gmXemGTuIeW0uBjEZ23tJhhPc289z8L3h-at1fTVHGDILYK-ZLqepKVYZ13q42x27qptxzdU3qd3_sBgYd1zw__Ihv8DdIyqIAvtYrcj5WZWDe4EbCe8jTgEmL-sa1a0xmSHpej1wN_N1dDupWkUiwYeiHax52ielL95HAQ-s_FCeop5_GK3cRguDkQ9sgCHsBDWVBYqh4XeJiH5kKpjjFYEs0emuGwnlMxkYiXR461hbV5CN-Nf4JJYXSyjg0PFjmhMKjGPo6wDqVvhJjjMPmgK551ytYZrXBzaGIs6v7ejPBSYLZJvU1qiwJSzrJo_aB02KQnd934FkksD0xS1HMrBMuT-QZGwLDcS4y; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 03-Nov-2025 20:54:12 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 05-Nov-2017 20:54:12 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.17.1.11.1446843251815610; path=/; expires=Sun, 29-Oct-45 20:54:11 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE11.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1930640726; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.17.1.8.1446843251808100; path=/; expires=Sun, 29-Oct-45 20:54:11 GMT
+Set-Cookie: AKDC=dcg12-origin-www-1.paypal.com; expires=Fri, 06-Nov-2015 21:24:12 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[11/15/2015 11:38 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=59.95, invoice=106757, protection_eligibility=Ineligible, payer_id=AD5GJ4YSC5DVL, tax=0.00, payment_date=11:38:43 Nov 15, 2015 PST, payment_status=Completed, charset=windows-1252, first_name=Kelly, mc_fee=2.64, notify_version=3.8, custom=12151, payer_status=verified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AO2g.JFvQU7rPF80ZYdHu04ATrshAjClpbgJGsj6rbN40lmwZpdkRAxH, payer_email=kellyaudette@hotmail.com, txn_id=6ES37271UL591252K, payment_type=instant, last_name=Audette, receiver_email=ard@world-of-wisdom.com, payment_fee=2.64, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=USD, item_number=GCQUE-106757, residence_country=US, handling_amount=0.00, transaction_subject=12151, payment_gross=59.95, shipping=0.00, ipn_track_id=2492cfde250f8, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: f385f18ed2125
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg12-origin-www-1.paypal.com
+Date: Sun, 15 Nov 2015 19:38:58 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=QhPDk5wdUEnKIDHnPl4XJJiSNLYJK9wABHRycuG5lkJauP9QNf97cmn2VlsVPXLqA6FPMfnCQGg3Ya5-3q0wUEnJYsx5naCxGYUiMUhI8QhCW5HFc-n3K2ldMIs8t80AAHRLAdn_T4U8vXI9372CfuibcVa-Eby5RYbp-dPlnuhD0z2uuo5tSwH2PkPfKbzCvUmLguzKxUa3NL4unCFsiEal4Tz3wvNcrQ0k2Yu0b6ZZo-WIOoDU-Yyj7by2Oyz58-8Xid9F-TSxjCLAuSGR-w46MgWBH5nLEPdQoFD-KydAvJXztGYJYSydGnMg0AfmJ8-at70KOPC9zF-IIRa82zwc18aEXO2EalgY19UGhxRDIHUg0LMZH2se-6IxDyW6OlHS9K08wPZAKJRLbW07DOLfFuB9yWXF7WCs8w6wlR6lXZxJ8O6IBO-jOy8; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 12-Nov-2025 19:38:58 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 14-Nov-2017 19:38:58 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.17.1.11.1447616337868475; path=/; expires=Tue, 07-Nov-45 19:38:57 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE11.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1373587542; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.17.1.9.1447616337860247; path=/; expires=Tue, 07-Nov-45 19:38:57 GMT
+Set-Cookie: AKDC=dcg12-origin-www-1.paypal.com; expires=Sun, 15-Nov-2015 20:08:58 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[12/06/2015 1:00 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=395.00, invoice=107955, protection_eligibility=Ineligible, payer_id=WQK8BM27D4DL4, tax=0.00, payment_date=01:00:28 Dec 06, 2015 PST, payment_status=Completed, charset=windows-1252, first_name=Kirsten, mc_fee=19.98, notify_version=3.8, custom=10076, payer_status=verified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AO9l5Ol0POrQ.kDt5L6UBLw973AKAozu88Lev-.WlkQKq37q0BgnNaSD, payer_email=mortensenkis@gmail.com, txn_id=8S362037EK752362B, payment_type=instant, last_name=Mortensen, receiver_email=ard@world-of-wisdom.com, payment_fee=, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=DKK, item_number=GCQUE-107955, residence_country=RO, handling_amount=0.00, transaction_subject=10076, payment_gross=, shipping=0.00, ipn_track_id=d221145ba80e6, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: e534727996db8
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg12-origin-www-1.paypal.com
+Date: Sun, 06 Dec 2015 09:00:41 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=HUj--wB2Vx679bF5v7Q89E7jRkss-o0lFxtl6Z20uAOKXToq26YH4tyuO9hxWEHZVLVV6nKgsySHXJT4z9ezkjD5gYeN29_CXlNUq4xSDwEREqHMERBg_LxUq69nRSk2811hScH3MeLV-0Gj_uuwJJJ4hYHCe8wCTe1vKZgYTs29IGTm56vmqOySAOxKDw1AOjg7Mj_SDN3yGmxwwZbNWXFbVJktkZ5U_p8OOPqn1BC_dPkWaPV49D8FFjW4zqgHGCIcw0P_UI-s8L8qnHUQ0vGrqY8xd3gotRt53MvARc4vueWniD0Nx09pup0ZIo3YzlhPsIJbH5VKNSlt6YXAl7xHTP2l75hcGhaYVWS5zLcUjPl38ZYRzHpmxOBxIe7btpfDbdGRjMGuGHENXdY2lRFWsAPKHQjtpuUMuEDk-_DTn0TuGtHfGkpr0UC; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 03-Dec-2025 09:00:40 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 05-Dec-2017 09:00:40 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE11.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D955867990; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.17.0.201.1449392440617738; path=/; expires=Tue, 28-Nov-45 09:00:40 GMT
+Set-Cookie: AKDC=dcg12-origin-www-1.paypal.com; expires=Sun, 06-Dec-2015 09:30:41 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[12/17/2015 11:57 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+transaction_subject=10076, payment_date=23:57:41 Dec 17, 2015 PST, last_name=Mortensen, residence_country=RO, item_name=Golden Circle Question, payment_gross=, mc_currency=DKK, business=ard@world-of-wisdom.com, payment_type=instant, protection_eligibility=Ineligible, verify_sign=At6yO3Un4Srw0OOVdgs2zQGdoxY4AdbaBeLAZ42mrdjTJKAMwQy3drqm, payer_email=mortensenkis@gmail.com, txn_id=8DC500106A2218114, receiver_email=ard@world-of-wisdom.com, first_name=Kirsten, parent_txn_id=8S362037EK752362B, invoice=107955, payer_id=WQK8BM27D4DL4, receiver_id=VM4HV6HR8W4Z4, reason_code=refund, item_number=GCQUE-107955, handling_amount=0.00, payment_status=Refunded, payment_fee=, mc_fee=-17.38, shipping=0.00, mc_gross=-395.00, custom=10076, charset=windows-1252, notify_version=3.8, ipn_track_id=887f4688cbe85, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: 6f2b65e7563e1
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg12-origin-www-2.paypal.com
+Date: Fri, 18 Dec 2015 07:57:56 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=3K9sRumNCUcGDkSm9SKQT6fHpjEjGl3cMvilmc93MyRWhNkN2RoVvI0oBOAJ2x1dpTrEQ9vq30LvjhUppbhbzGnvvLp2KgY0aqRot4_YgNGA5Iem4RURSdC5b_arb7qoXs8L_2AHs6IK5BhXmj4T30MZDRle6T9KSVABRDTvLGzkI7FEOwhk4QvSoYdRxfHAEIUXnVR9QFo4mgYfDbCXfmZCVe2mN4x1nJ83UXllUEI56wMF8B5-DwUcJSgEgBrfJwaiVISmf4GSHkXwRqSLsNWBcx1EXHMdzy4q6pM6rR5JplPRQNMonYGmWe5OVsXSFgnI4zODuosPSQ_z2AdcWSxYnKSAeofeIkx74Ublp0QdgzoEuC4bNRO-xgcMRwl6KUA4-BxN8gmmXS-iRF2yG8A0iRKOk45DGcAehpCPcVUwaLU-_Odia5b7RNy; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 15-Dec-2025 07:57:56 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 17-Dec-2017 07:57:56 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE11.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2226942806; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.17.0.204.1450425476353067; path=/; expires=Sun, 10-Dec-45 07:57:56 GMT
+Set-Cookie: AKDC=dcg12-origin-www-2.paypal.com; expires=Fri, 18-Dec-2015 08:27:56 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[03/24/2016 10:59 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=59.95, invoice=378580, protection_eligibility=Ineligible, payer_id=QZAXJZK9NGALJ, tax=0.00, payment_date=22:59:49 Mar 24, 2016 PDT, payment_status=Completed, charset=windows-1252, first_name=Diana, mc_fee=2.64, notify_version=3.8, custom=36538, payer_status=verified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=A25S80wehbt8obUsQlBFp-jPqU1fAWduVDs0wemOuYsUiMyf8t3HM02w, payer_email=76048D@gmail.com, txn_id=0FJ74620RD8687926, payment_type=instant, last_name=West, receiver_email=ard@world-of-wisdom.com, payment_fee=2.64, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=USD, item_number=GCQUE-378580, residence_country=US, handling_amount=0.00, transaction_subject=36538, payment_gross=59.95, shipping=0.00, ipn_track_id=9ca521cc399e7, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: 8abcbc532f513
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg12-origin-www-2.paypal.com
+Date: Fri, 25 Mar 2016 05:59:59 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=tAIS1gDi5wqFsBYN_AIETxCgzggKNJ3Tt18RyJ6qDwFeyQDoa_J16GUNuGsGGesDFtiAIUs33T0pPfOcVHx9IKnbogIgNWbpk_Kp0ugxJhO8zuM5WD64Su9a6ezAqZEv2c_RsxPhzNiEjcfGOUBeBIzIXqLjzuntRpHJE7xxarweuc8aYzwSfIROfv2UgoeRv9Jvr-RVO-MB5b99-MDMJjpuqycngX9A9gbRHUqpq7kUlmYSPDg1VQQolqbtJABXdMoxdIzspeUI_vh8qbNOkF1jLx-2apNn-B_IVNIZNiQWH4raOGhnnJXIXVFqUs4RvDFyK1o_hutW6WmB1vCl-jBjInP0pEeJDSPx0B4LAD1H0XNij-0-eSoyBWWF7gsko0qVy3vV0vhnQ3FkCgyqb8XYqNZw8-LQvq7docQatf_XQWgk0xiyxdIgJhy; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 23-Mar-2026 05:59:59 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 25-Mar-2018 05:59:59 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE11.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3755209814; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=dcg12-origin-www-2.paypal.com; expires=Fri, 25-Mar-2016 06:29:59 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[03/25/2016 3:44 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+transaction_subject=36538, payment_date=03:44:03 Mar 25, 2016 PDT, last_name=West, residence_country=US, item_name=Golden Circle Question, payment_gross=-59.95, mc_currency=USD, business=ard@world-of-wisdom.com, payment_type=instant, protection_eligibility=Ineligible, verify_sign=A8-NxT4I1FSeVU-8p-dtqmcDYd81ACmg4sDxJX6PoSsSUTFMdRninOwn, payer_email=76048D@gmail.com, txn_id=54R58449EL898754V, receiver_email=ard@world-of-wisdom.com, first_name=Diana, parent_txn_id=0FJ74620RD8687926, invoice=378580, payer_id=QZAXJZK9NGALJ, receiver_id=VM4HV6HR8W4Z4, reason_code=refund, item_number=GCQUE-378580, handling_amount=0.00, payment_status=Refunded, payment_fee=-2.34, mc_fee=-2.34, shipping=0.00, mc_gross=-59.95, custom=36538, charset=windows-1252, notify_version=3.8, ipn_track_id=31dd64a65257f, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: 5fc6277c76918
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg11-origin-www.paypal.com
+Date: Fri, 25 Mar 2016 10:44:08 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=iemleVgY4oWB732DmOcccd37PL5uu1_FHaU1BMn-dACBaTBsaVjNc7469UGO822PWDVw9na_UrlVKS7Nb1jL6fabxmFqzdpWTKclRb8qQ-LnAitJMboJw2HFoC60mOqO8f0TF4U9Ue0fFjw_NWJIvY380wPE2JwAHsYr7e8JNz3Vv4_45-jW4INpnZq5eUwFfk-ThD0uXtFpGAsS553CjVpbDqEcUeQL7exYwzIx6OaZXib6gmGfZVV0vDmfl73IuXZWhwTkZW4fMuTou3hFRkdJE5RHQxdx9qCYW5SfwBBj-Smlo66DuNGSY6NZpl-LYzrMhD29s-u2fWgAXW8j-DcFTJcMuEJH-6RtZFvs6jpWEtvMFnZv05E9FoOmq6gutMW-f5xS9_WXIXloUZpGgV2CKXtFZwIskNp7zm7pHg5RpTYadbBSIYL6MRO; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 23-Mar-2026 10:44:07 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 25-Mar-2018 10:44:07 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1997993302; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=dcg11-origin-www.paypal.com; expires=Fri, 25-Mar-2016 11:14:08 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[03/25/2016 9:34 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=59.95, invoice=378804, protection_eligibility=Ineligible, payer_id=J42CZQD82ZFUN, tax=0.00, payment_date=09:34:25 Mar 25, 2016 PDT, payment_status=Completed, charset=windows-1252, first_name=Susan, mc_fee=2.64, notify_version=3.8, custom=12176, payer_status=verified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AXl15mWr.PGF-aZheGpZoLwRHc3cAfN62jS4G596zHpXqL.SURPnXgkP, payer_email=sufields@mac.com, txn_id=0HU40019CW204790C, payment_type=instant, last_name=Fields, receiver_email=ard@world-of-wisdom.com, payment_fee=2.64, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=USD, item_number=GCQUE-378804, residence_country=US, handling_amount=0.00, transaction_subject=12176, payment_gross=59.95, shipping=0.00, ipn_track_id=c93940a97403e, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: a1640d2a19eb8
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg11-origin-www.paypal.com
+Date: Fri, 25 Mar 2016 16:34:38 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=PKYgSe2VLOksJNFVm9QiJuQjP0vgGzuYvSuWHVkI_CC03skpjy685VtzYcSrCXOUr_Z0RJ73kgJt6Qk2PQ7P7Hv2c9e56VrmLcitMQ2YGLeMzBGxwljVAMuMI4z4M8Sud-4yK3uK7Ve8o8_waaWNJINxlV7eqGfDHwe4u-lXVevjImyzwc83amiW9fx6lszVuxx_tZhjH1_v1RDI3A6JW4w7tg2VndL6Z-E59uBou83XcayaKalQxsUQiYy86rL2Kq26sJ_DC1wXAebM-iihjEl4a84R0L4lwGpPAd4taspCMHvuJxsreQjKpnjSvlTIrsq2ZnYajokRRiRYAAeIXf3VrchnQ3XRnAV_xJe34i7ht1ejyYTnUQP7sfPTqIjfKC1XjAG64DKU35jXWxHNb_wsqHI_pr9euP1nu_LYQ3pRglk2F4gaWbKfXVK; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 23-Mar-2026 16:34:38 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 25-Mar-2018 16:34:38 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2657678678; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=dcg11-origin-www.paypal.com; expires=Fri, 25-Mar-2016 17:04:38 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[03/25/2016 12:49 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=59.95, invoice=378896, protection_eligibility=Ineligible, payer_id=RB2XTJSRJE4Q6, tax=0.00, payment_date=12:49:32 Mar 25, 2016 PDT, payment_status=Completed, charset=windows-1252, first_name=anne, mc_fee=2.34, notify_version=3.8, custom=36712, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AcQf.vWAb7OkEuFvnOmSUbGO.pxVAX.cN4iyFpuHpWoFiTFT4ckpuPiR, payer_email=ame@post7.tele.dk, txn_id=4C2517668U511052K, payment_type=instant, last_name=morgenthaler echwald, receiver_email=ard@world-of-wisdom.com, payment_fee=2.34, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=USD, item_number=GCQUE-378896, residence_country=DK, receipt_id=2168-6249-4665-6726, handling_amount=0.00, transaction_subject=, payment_gross=59.95, shipping=0.00, ipn_track_id=d2300f45e4fa5, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: 41e088f3df3a5
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: dcg11-origin-www-2.paypal.com
+Date: Fri, 25 Mar 2016 19:49:43 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=g3VVAzMheWIB6QlZXjQp0byPV2eKMWeeMvwH9bFd5IrOE82yUXuVuCs_Qplzb3azp3gDD_1uTlgNV_6UUR20PbR3EO8XKoT8qfOH3GKXUDfDW4usBq9UiEra8CofFSKkUp30nRRWGL8O0tSD3qhIQ4Pp6yebh2ATVwsJW_WNA7StRvEV-nXSB1JpooBuiaKRRM0PMTPl5GJ0amc4m5DFUh7mRgqQrBda4wzPksUyZzBXRlsXbx4elJBEP84gPW0scqmhcZjkb2UPCjh87AtlWsPND3XZiNtfUu4MTNGMjCM91f_k0Lk8XcGq7cf4X9VbngLrIy6Ld6Wbjr7zIse2SW8asNZHpkIb-EnIFDDgqOPkYKEapSt3X1Rq4nMxjrDuB4Glj0IH1GU1FbBz0q74gePpR84ccXSHesB5pFHUIzaHT2gevJ_AAWR75gS; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 23-Mar-2026 19:49:43 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 25-Mar-2018 19:49:43 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1452733782; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=dcg11-origin-www-2.paypal.com; expires=Fri, 25-Mar-2016 20:19:43 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[03/26/2016 8:35 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+transaction_subject=, payment_date=08:34:53 Mar 26, 2016 PDT, last_name=morgenthaler echwald, receipt_id=2168-6249-4665-6726, residence_country=DK, item_name=Golden Circle Question, payment_gross=-59.95, mc_currency=USD, business=ard@world-of-wisdom.com, payment_type=instant, protection_eligibility=Ineligible, verify_sign=AYmoKoL1EaJzuQx8NBSxUQG9ufWBAsdos3bd5CWhjgSB8bz2kB-8w2zt, payer_email=ame@post7.tele.dk, txn_id=36T15853GP3267038, receiver_email=ard@world-of-wisdom.com, first_name=anne, parent_txn_id=4C2517668U511052K, invoice=378896, payer_id=RB2XTJSRJE4Q6, receiver_id=VM4HV6HR8W4Z4, reason_code=refund, item_number=GCQUE-378896, handling_amount=0.00, payment_status=Refunded, payment_fee=-2.04, mc_fee=-2.04, shipping=0.00, mc_gross=-59.95, custom=36712, charset=windows-1252, notify_version=3.8, ipn_track_id=88b700052e455, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: a2d2de114142e
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+Date: Sat, 26 Mar 2016 15:35:05 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=0rNmcOJ33FHhUCskZ8zUXdT6xO1r0Oq02obvxe8Q3SO7aS8pR05fW7Dv73A3RCDLO_dVq65JxIjKD-ABaYgyugiBlXfo35pbEQ-1_gTxLgc41jzLFEBTdRW5yLrCsLZ_0tGDm1BBGm5KkcCIdoR5xN4QposxAopDI4oIocWZLvjbJXAkCND7uBmsyzhVBUxiN4-40wwjGRQh-kW8T20gy-EI4TprrUQVMYjrx3SxoRzWt6X2SE5o64vBm7_FrdPhsq95SjIyLK1Mn3vjuQpFQRsOojX9GHaI5CxDQX21swLnRLt18rc4zYaJjjVLvOSpHRaRKdp_bBTlLPA9LZ0UKPx_JVtLXsCWoma7f0wtyM41AcGrW8hYrKHQMf5Mx1DjLyHTX8aZkdLGxQoIxDoA4CkhaMOIjWTjDye9bfjcRuXcW3_ySNbz09f2O7a; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 24-Mar-2026 15:35:05 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 26-Mar-2018 15:35:05 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D699201110%26HTTP_X_PP_AZ_LOCATOR%3D; Expires=Sat, 26 Mar 2016 16:05:05 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Sat, 26-Mar-2016 16:05:05 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[04/01/2016 3:36 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+transaction_subject=12176, payment_date=03:36:25 Apr 01, 2016 PDT, last_name=Fields, residence_country=US, item_name=Golden Circle Question, payment_gross=-59.95, mc_currency=USD, business=ard@world-of-wisdom.com, payment_type=instant, protection_eligibility=Ineligible, verify_sign=AF0NdYdXiMT.NXT9PxiwlnF022guAagcUpJvH.qVMZcUKa95SgxqJB3L, payer_email=sufields@mac.com, txn_id=56W17926PA417294U, receiver_email=ard@world-of-wisdom.com, first_name=Susan, parent_txn_id=0HU40019CW204790C, invoice=378804, payer_id=J42CZQD82ZFUN, receiver_id=VM4HV6HR8W4Z4, reason_code=refund, item_number=GCQUE-378804, handling_amount=0.00, payment_status=Refunded, payment_fee=-2.34, mc_fee=-2.34, shipping=0.00, mc_gross=-59.95, custom=12176, charset=windows-1252, notify_version=3.8, ipn_track_id=52fc6bb729c16, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Paypal-Debug-Id: 7668dc7554131
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-a-origin-www-2.paypal.com
+Date: Fri, 01 Apr 2016 10:36:29 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=A3v29QXM429NNcMTDAKHMnRBi7Db6Vn7_3rI0kIk6PjbFNaOas6lHyHA2yGUU9axsMtCDNGJCZETMLJNZ_xui7OxeZkKDOdDmq50EShFCUR0GjebjwcKTuHbP0ZiXUOHUGn8QT_5u3bRqsJYaFbZvQKEiuMgH_aSNyAzazH1ygC-rhn2-NAzFPub9rbK0BpYDIoFPaLrfk8TBAFWjdnQoY85x1faixJQFEcA-pJn_toF27wFtwaWcRK9mb-viMGAN3cepODL57vDkDgkf5rcl4hkvUN47YjJvv-Tlq5s9Pu7XyuxdMlwrjiTuKWEzP9AoF9r8FYulJpU5qvExviL6HsBJwjuol3foU_OEc8elxaxQIX3NAiqcs4TU8dXdDnG0ae7fWkeU4x90rU3yvKBKZI0Gnl4TFaKDaRPEzvFYp-nXkH8lM7q07vMA7O; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 30-Mar-2026 10:36:29 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 01-Apr-2018 10:36:29 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D760217174%26HTTP_X_PP_AZ_LOCATOR%3D; Expires=Fri, 01 Apr 2016 11:06:29 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-a-origin-www-2.paypal.com; expires=Fri, 01-Apr-2016 11:06:29 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[04/17/2016 8:18 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=395.00, invoice=382868, protection_eligibility=Ineligible, payer_id=TQ4BSNEJ9L6DW, tax=0.00, payment_date=08:18:04 Apr 17, 2016 PDT, payment_status=Completed, charset=windows-1252, first_name=Helle, mc_fee=16.03, notify_version=3.8, custom=7503, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=Asx24A0zXczdH1znFfphAmdDEWYUAhm98npDssigOms2ckCPwYAeJHUP, payer_email=smutten@c.dk, txn_id=68B20609D4229635Y, payment_type=instant, last_name=bergstedt, receiver_email=ard@world-of-wisdom.com, payment_fee=, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=DKK, item_number=GCQUE-382868, residence_country=DK, handling_amount=0.00, transaction_subject=, payment_gross=, shipping=0.00, ipn_track_id=639f1c0cea30e, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: e4e4250a74176
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+Date: Sun, 17 Apr 2016 15:18:16 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=mwdiNPxeTXy8YLRPvJuROHefHxyZvbO9lQ4sKqQBs5CR5isvr87Gq1p3yTnyiA003QguirRnZyFuAFWlCmXLqCDTbc9j0hv41LAIuhweSYWVeYmKijWMPugQlO-DVqPJMeCdMQgSYvai5IDgsctBhRB276xontIBEGoAlPQlnauvv9U0AG_Xs6iqvOse81kRAjftuRH0wibGv6XyJqKK968GU8ZUzZkupOcSkKi_-0OAVkktieQi07xfeEo0z_Kbpw4bofc5z3h1yZpK1nlvTdqFB3JQWBkHmqdPE6hIRzFqGkQWl2uswdl8EO2GQPxKZnKtdg7k5n46uq2Y9tgBvOo6dx9GFecsu6YnVbZIwUzsj8dvdNjEAsw0Uve_jtHGk--UuT53t74olpDQ8oe9IffiUlb-osQVSrWIHKI0VyYYL47IMuTrv0oO648; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 15-Apr-2026 15:18:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 17-Apr-2018 15:18:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D950604631%26HTTP_X_PP_AZ_LOCATOR%3D; Expires=Sun, 17 Apr 2016 15:48:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Sun, 17-Apr-2016 15:48:16 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[04/18/2016 2:27 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+transaction_subject=, payment_date=02:27:39 Apr 18, 2016 PDT, last_name=bergstedt, residence_country=DK, item_name=Golden Circle Question, payment_gross=, mc_currency=DKK, business=ard@world-of-wisdom.com, payment_type=instant, protection_eligibility=Ineligible, verify_sign=AiexTggMCzAqTKVdDM.c.zLOMnY0APLevRxVaysUBG9Tf8fw9wkNa5hG, payer_email=smutten@c.dk, txn_id=84F887037Y347190T, receiver_email=ard@world-of-wisdom.com, first_name=Helle, parent_txn_id=68B20609D4229635Y, invoice=382868, payer_id=TQ4BSNEJ9L6DW, receiver_id=VM4HV6HR8W4Z4, reason_code=refund, item_number=GCQUE-382868, handling_amount=0.00, payment_status=Refunded, payment_fee=, mc_fee=-13.43, shipping=0.00, mc_gross=-395.00, custom=7503, charset=windows-1252, notify_version=3.8, ipn_track_id=45b599d21da84, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: ee438f1f63685
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-1.paypal.com
+Date: Mon, 18 Apr 2016 09:27:52 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=MZUJWDDsJAmXYDrFosQN4FalBjvmhtsG0QfSHbKXQKnd6WTllHjnIuJHr_epg84NApBsOFy8QjA0MTwcTUhz950hLhPTPNW6fwWQO4dUtg5ryb3Sg6AlUOEJuimlO7eRrkrX7TRbT7jaEDUDYuswYQO3tlGb2l1VuYHPmMFC-gwVnxgi-JJ4qAGaf49L9uPCbMLRw5q5IAXUGvFojKnxRXrKrkmkbExgrfolSYoo-TtMQuqd-Cd8q20KcEoOP4XeOfJt0V-Scx3meW4XLV6LCbEi0CFVFDlNsr1gnf04dAfDxkSqf-2BrJzsLw-BbzMGfg5M52Axz9r6HJhmE5fPsXFMfUPde1OymZctc0yM6n7fmfS51QjbYt-A_hQkLHM7TO5PktmN9wrUnPfePort9UyP2w-LLEZTFK606GcSyvKFses6AAoEyuW8_pS; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 16-Apr-2026 09:27:52 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 18-Apr-2018 09:27:52 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2561152087%26HTTP_X_PP_AZ_LOCATOR%3D; Expires=Mon, 18 Apr 2016 09:57:52 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.190.8.170.1460971672407025; path=/; expires=Wed, 11-Apr-46 09:27:52 GMT
+Set-Cookie: AKDC=phx-origin-www-1.paypal.com; expires=Mon, 18-Apr-2016 09:57:52 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[06/02/2016 11:18 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=89.95, invoice=449546, protection_eligibility=Ineligible, payer_id=995DF5YDN8MHN, tax=0.00, payment_date=11:17:33 Jun 02, 2016 PDT, payment_status=Completed, charset=windows-1252, first_name=Saima, mc_fee=3.81, notify_version=3.8, custom=38232, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=AjSPW-fuHMttJvguflnLxH2SMx0sAG14tmZdUtVFIQjykUJvi6hgzgLY, payer_email=saimakhanmba@hotmail.com, txn_id=25U74904U25087019, payment_type=instant, last_name=Khan, receiver_email=ard@world-of-wisdom.com, payment_fee=3.81, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=USD, item_number=GCQUE-449546, residence_country=US, receipt_id=0972-9276-3501-2949, handling_amount=0.00, transaction_subject=38232, payment_gross=89.95, shipping=0.00, ipn_track_id=df4e2e8aacb77, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: cc7c9c3fdce90
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-2.paypal.com
+Date: Thu, 02 Jun 2016 18:18:07 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=NZPJ-TmCo1-VF5DuAltmSZUdQBbnfkyXy3lNjmb6T9rxrvhGp7-pDQIA-QN-rcNxFyirYvDJy9sSITpCLvT4OmFEVvvJqBqolbn_8BXfv9S3PVLw-oBJWAv4C5d4IldiyMBvJxK81oWbRCu8m-OjdIABgs9NxuYs2V7K5Ka9FpKgoLsxKECJl_iqrtyPlUXrt4SfPDbhC6CkZn6dGm_WEz4Ce1vd5w7LwMXrorsIb4z8X1-ayQkk_FnaiSzfh6Xn4aqXe_se85YZT8WsuxI5X2-rOn-71GqJ9SOg_6k8q2H11nuQTA39FHkfn6JaEEOIEjWUvUmfGDgipRNuCZyP-74G5Cf9PdZ3-mxlpzXuJCWgwaQnUkIuHFMnj7zDL02xZLd93P8p1Uxvlly4nsweI5-9lKltFbVau8VDnGtEuy-xDyhOl_Nf6PgzqXm; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 31-May-2026 18:18:07 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 02-Jun-2018 18:18:07 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1584943191%26HTTP_X_PP_AZ_LOCATOR%3D; Expires=Thu, 02 Jun 2016 18:48:07 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.190.9.193.1464891486904630; path=/; expires=Sat, 26-May-46 18:18:06 GMT
+Set-Cookie: AKDC=phx-origin-www-2.paypal.com; expires=Thu, 02-Jun-2016 18:48:07 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[06/03/2016 5:09 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+transaction_subject=38232, payment_date=05:09:08 Jun 03, 2016 PDT, last_name=Khan, receipt_id=0972-9276-3501-2949, residence_country=US, item_name=Golden Circle Question, payment_gross=-89.95, mc_currency=USD, business=ard@world-of-wisdom.com, payment_type=instant, protection_eligibility=Ineligible, verify_sign=Aj-KgkP9gPuP8-fV0MIkJdp5JSojAg4kTeRZ7m0CqByDObK6Lu1GG1kW, payer_email=saimakhanmba@hotmail.com, txn_id=19G18136AX171474N, receiver_email=ard@world-of-wisdom.com, first_name=Saima, parent_txn_id=25U74904U25087019, invoice=449546, payer_id=995DF5YDN8MHN, receiver_id=VM4HV6HR8W4Z4, reason_code=refund, item_number=GCQUE-449546, handling_amount=0.00, payment_status=Refunded, payment_fee=-3.51, mc_fee=-3.51, shipping=0.00, mc_gross=-89.95, custom=38232, charset=windows-1252, notify_version=3.8, ipn_track_id=549d8620ebfc4, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Paypal-Debug-Id: 6a6e3b9a5712a
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-a-origin-www-2.paypal.com
+Date: Fri, 03 Jun 2016 12:09:21 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=GjLq6s4JfM2szUaj3Al05wo83m5xMIGJCNpbxW8R7sfM9nqvKGV00uKtQxjDwnbOO3Sm6dnUkZb5F1X6SFjvew2DpRwGCDRMCmoePXGcrPRAsuEwYXghLuUb4dPpVGfPYregCgDMSGpEzi22ljcxBJUHWJNxcMqNU_lfSWpcCmvoQubcoVrqyz3whD2hbA_WC0Q3Hmnzbb6I108wySE7CLzLbRf0zc1IWdBxTSYxRfGR1ZxDLMKIbjWKc5yhbdnJhN6Wj0P-4PfgygtK9EbMx4zLf1QxeSkeXLutrGso86T-TcZc_8PtWw1jnEY947VGvpVG5lM1e8bAj-r3pzcwbYmdHDRTjmG3w6vk0xEJGYACD4YSq6QO0qEndlaO4ezbdCa_gu0yy2TLzFMEQzA91WsPZPsOVl1Mr_JQSMswxAsPIwTdUi5pyBwnVsa; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 01-Jun-2026 12:09:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 03-Jun-2018 12:09:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1886605655%26HTTP_X_PP_AZ_LOCATOR%3D; Expires=Fri, 03 Jun 2016 12:39:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-a-origin-www-2.paypal.com; expires=Fri, 03-Jun-2016 12:39:21 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[07/04/2016 6:48 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+transaction_subject=, payment_date=06:48:42 Jul 04, 2016 PDT, txn_type=web_accept, last_name=Cohen, residence_country=FR, item_name=Golden Circle Question, payment_gross=, mc_currency=EUR, business=ard@world-of-wisdom.com, payment_type=instant, protection_eligibility=Ineligible, verify_sign=ACMvNy.ibNVKseLO-.YPcE0q1JM4AewvPUuxSZWMhLVAbOFQEqcehqCg, payer_status=verified, payer_email=vesnacohen@gmail.com, txn_id=82916251KX950311X, quantity=1, receiver_email=ard@world-of-wisdom.com, first_name=Vesna, invoice=453398, payer_id=WF9QPAS8AM7T2, receiver_id=VM4HV6HR8W4Z4, item_number=GCQUE-453398, handling_amount=0.00, payment_status=Completed, payment_fee=, mc_fee=2.15, shipping=0.00, mc_gross=52.95, custom=38514, charset=windows-1252, notify_version=3.8, ipn_track_id=f1aa1b7bcc02e, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: aef65b0d6b947
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-1.paypal.com
+Date: Mon, 04 Jul 2016 13:48:56 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=TU0_da9wGwQ3QkK513QagJP5ShoWG-TcL2LtV2Ib20pfyFFEv-wTINqguVi4rLcKzfrQMEgL4XXYz5xXQ5hbB4FeZrJ6s9JRYss38jOZ7nfluDuJ3jcU4-jP2Xmd1A0yh7q7NM1MwZKiZh72_eTyDrAyYSZz_lPzBaxTAWQJqn9mrd3EQ0SqIKuQhkY2Gcn5pKDQNnE5iSFxW7HDROUF9nwFURxFwNwwZ96PYwO6o87u7uRvgFw5BzU_J0opE8ZPWwcHkqem9e-npOAgHRTEtT1PYlbq6sdxLZ1lmav3xRO2J-k8EpVjnay0RN8rKdXJIx4KvyDL04Ownft59ySJ-twlctFKhxuZrA9gZfPzERXks3wqhrdHOzaGDhQ8J2_R8qgux499u_NNoDg1YZQOXVeVfgiGpI39iUi-ne1DC01RF9KXkUrMMmivCoC; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 02-Jul-2026 13:48:55 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 04-Jul-2018 13:48:55 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1198094935%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Mon, 04 Jul 2016 14:18:55 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.190.8.152.1467640135440465; path=/; expires=Wed, 27-Jun-46 13:48:55 GMT
+Set-Cookie: AKDC=phx-origin-www-1.paypal.com; expires=Mon, 04-Jul-2016 14:18:56 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[07/04/2016 10:29 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+transaction_subject=, payment_date=10:29:42 Jul 04, 2016 PDT, txn_type=web_accept, last_name=Lie, residence_country=NO, item_name=Golden Circle Question, payment_gross=59.95, mc_currency=USD, business=ard@world-of-wisdom.com, payment_type=instant, protection_eligibility=Ineligible, verify_sign=A3cLtcemXwLhhT6koZsb5Htv-mbxAyHY2fQhWPnUkv7J9aZCEXkgYq2N, payer_status=unverified, payer_email=ritalie2004@hotmail.com, txn_id=0ME91526SA157522V, quantity=1, receiver_email=ard@world-of-wisdom.com, first_name=Rita, invoice=453456, payer_id=TCN78Q9X3Y97A, receiver_id=VM4HV6HR8W4Z4, item_number=GCQUE-453456, handling_amount=0.00, payment_status=Completed, payment_fee=2.58, mc_fee=2.58, shipping=0.00, mc_gross=59.95, custom=38162, charset=windows-1252, notify_version=3.8, ipn_track_id=2fcb3bedd21e3, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: 3222a988b5e59
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-a-origin-www-1.paypal.com
+Date: Mon, 04 Jul 2016 17:29:55 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=PHY3MxrNxaLalVUUexpAk86AxL2LkZLoV_PVsMN-qkx3H9q-WVYZj1vsJWvw4U66Dn_NDEKeto0-gEUWCq8BMfZus_6URSeWqSxtrRUiQaX9AbHw8wX8JSkstABG5AvR8hnBbELyHZxQxrGaKS5luSKEc39ryJpBbLiaT1qey8KYdgvnsx0PiMb9E0WxZl-IDw2Aa1wrCtcRWWx-DG5rSTYLGdj0FQEfz9g96Wvxw3e4G-KzKstGbMOPTjThOSK2Z8UQ1CvTh8OGT-6Ea_hODnrlzbI3BvA9yPG5r8zxpgXQtdeqbmzy9LtAw5dR_O99Wj3XUgfLZd32jVqa2YYZBww1XLgQvL9Dz00Eeluqu0h7i-KXRFq9WEyXK9I6DfzxhdNvkhTYRG1Azhj5saR-FRw4vlz--ZxCcMGwUPM8tQtrT9soNrNgNqAOZXK; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 02-Jul-2026 17:29:55 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 04-Jul-2018 17:29:55 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D312310359%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Mon, 04 Jul 2016 17:59:55 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-a-origin-www-1.paypal.com; expires=Mon, 04-Jul-2016 17:59:55 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[07/05/2016 3:02 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=-59.95, invoice=453456, protection_eligibility=Ineligible, payer_id=TCN78Q9X3Y97A, payment_date=03:02:32 Jul 05, 2016 PDT, payment_status=Refunded, charset=windows-1252, first_name=Rita, mc_fee=-2.28, notify_version=3.8, reason_code=refund, custom=38162, business=ard@world-of-wisdom.com, verify_sign=AdN3sWBijt-05f2cZxWD3ItyAGQHAgkrIpMqxXPyiwxPKB-.sClaWPjK, payer_email=ritalie2004@hotmail.com, parent_txn_id=0ME91526SA157522V, txn_id=0VV12135G0370124R, payment_type=instant, last_name=Lie, receiver_email=ard@world-of-wisdom.com, payment_fee=-2.28, shipping_discount=0.00, receiver_id=VM4HV6HR8W4Z4, insurance_amount=0.00, item_name=Golden Circle Question, discount=0.00, mc_currency=USD, item_number=GCQUE-453456, residence_country=NO, handling_amount=0.00, shipping_method=Default, transaction_subject=, payment_gross=-59.95, shipping=0.00, ipn_track_id=feddc12c503df, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: f5261a76f34e4
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-2.paypal.com
+Date: Tue, 05 Jul 2016 10:02:44 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=x7NRqnOzaM2NzvLnkFNf5z_XhbVqnAGD_sNalObQ8o7GbRrjGTDCuGqWupPIJ47PV2e3vTY9BcZ8WksO4ybmWdk-pTc1pGCgcRhyqqYdIC_gNa43lQbiow16af8PpA9poiglXPKfVH5LSSV1xz_Qk4nbuMAXCgTEzJNOZLxNcNLh05MQGiJnBjBQog5VrOGkpiae981yPf797YROhTUhaipr6Tb8Jteca4E4FcWesO0mvVQDOKM-Ug3bObbN2giQFYc16V9kU5OCWD2AuJNfcSbz4YxSLjXh5MOmr-_5GjqsNtn1vW5nlCbVbs3uWUF6fN_g6q3dOYrMX16gamv4Slo03pvTORsbXJaTD5aIu64ZUki3evFGXwbz45-WDBEaQEFI51fXOKq9U87jj-OLR-JSkfxQUU-gCEsyezhF458MCccm_Jc3FgKCDbi; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 03-Jul-2026 10:02:44 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 05-Jul-2018 10:02:44 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3280304983%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Tue, 05 Jul 2016 10:32:44 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.190.9.190.1467712963996352; path=/; expires=Thu, 28-Jun-46 10:02:43 GMT
+Set-Cookie: AKDC=phx-origin-www-2.paypal.com; expires=Tue, 05-Jul-2016 10:32:44 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[07/05/2016 3:11 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=-52.95, invoice=453398, protection_eligibility=Ineligible, payer_id=WF9QPAS8AM7T2, payment_date=03:11:30 Jul 05, 2016 PDT, payment_status=Refunded, charset=windows-1252, first_name=Vesna, mc_fee=-1.80, notify_version=3.8, reason_code=refund, custom=38514, business=ard@world-of-wisdom.com, verify_sign=A2X.vtnsjfTZd.PC7PrwBhtuirHiAMdQMUmQTvXVhCSURI9QrcPXSjek, payer_email=vesnacohen@gmail.com, parent_txn_id=82916251KX950311X, txn_id=7D861047LS247704L, payment_type=instant, last_name=Cohen, receiver_email=ard@world-of-wisdom.com, payment_fee=, shipping_discount=0.00, receiver_id=VM4HV6HR8W4Z4, insurance_amount=0.00, item_name=Golden Circle Question, discount=0.00, mc_currency=EUR, item_number=GCQUE-453398, residence_country=FR, handling_amount=0.00, shipping_method=Default, transaction_subject=, payment_gross=, shipping=0.00, ipn_track_id=c3bd350632c00, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: f05dcd47c6123
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+Date: Tue, 05 Jul 2016 10:11:43 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=K2FLUFWHG6kb203HD-7cHscCC5G-3aPb1GmNLjAeeiipGq_qruTSFvCnXzcc7mmrp2l8iw95-Bnr03urNHftG59moXbVsqlaF3iZ_U-LvHbag4b1myH5b24I0kR0gxPGIbjtQXl7O-ljEM-HKGGtiyCXO_rhpPEZqJJFZ0gqUFZ8YN719pEky2a6VRH-uFqij1FDjOsvoZ4wZ2COMyd_rhZ3rMYTtXc96o0-D918p0_nx3u6SKvqqMk_Yk6EwOm6Cv4At-0D3_nOX1b2MoZYGhOoQSN1sid_QaD6YHhFD8vOItOV0axMshEvByUuGtBzEtnGwEUxaptN5rqbw5mwM-5mSyH6-A0SWbiUAiTO8RQJYpWhifoAAsPoXcvgwc-CM99IgsmQrd7wsfxCw2iiCTXLfqcX1lk8HHtX-DItOxtTa1VuG7gEfISdB_0; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 03-Jul-2026 10:11:43 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 05-Jul-2018 10:11:43 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3733420887%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Tue, 05 Jul 2016 10:41:43 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Tue, 05-Jul-2016 10:41:43 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[07/29/2016 1:41 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=395.00, invoice=457402, protection_eligibility=Ineligible, payer_id=BQGKATNA48QY4, tax=0.00, payment_date=01:40:45 Jul 29, 2016 PDT, payment_status=Completed, charset=windows-1252, first_name=June, mc_fee=16.03, notify_version=3.8, custom=8019, payer_status=unverified, business=ard@world-of-wisdom.com, quantity=1, verify_sign=ALW3QNX9fNRZAME7ud9tfL7y6Yv5AKC4F-GQx26cVJtQXhEUfNXqndt., payer_email=junepedersen77@gmail.com, txn_id=0TL54568BW517793L, payment_type=instant, last_name=Pedersen, receiver_email=ard@world-of-wisdom.com, payment_fee=, receiver_id=VM4HV6HR8W4Z4, txn_type=web_accept, item_name=Golden Circle Question, mc_currency=DKK, item_number=GCQUE-457402, residence_country=DK, receipt_id=0692-5235-4122-3552, handling_amount=0.00, transaction_subject=, payment_gross=, shipping=0.00, ipn_track_id=abfb5e2fed116, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+HTTP_X_PP_AZ_LOCATOR: slcb.slc
+Paypal-Debug-Id: 410a20af7b81f
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-1.paypal.com
+Date: Fri, 29 Jul 2016 08:41:03 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=mov-Ai3mjpLAFnfEjvRYGGEUVs2rvKSO5rjvn73HtT_UKTqcn3HkgYSf0xDCXQMR1ythrk2Mm4PO_Xcpi2MipJopQg1z-oSWl40CUKrRbH_LGin6fqma_u9P_91di5sSj8SZCaN-uqh3Q4LlLp1hEkPAx3RpaWSeG4ZdkIjmWNMo3N8JVl_3XpSleBH8Q8Iig28s21o2iPruVL8DXdQVPK7XmIpFBjMCIW1QoQ8jDuN9JMjJvzGLxAtQ6y0HKnPU-G0Ogd6bkiIisaOfRpiilyz93LSwt7UuAzhqDDeGY3DeOURkNieagui727-X7YSpQJxVPzcWnb5DhTtZL8W_rFTOpFMWj8HEZRFY0p7ot513-EPhqJbk7_9ll7h_yGWQf36lvXCpYEoteCVRQE-LyfCvT8z_-V7uI32zvqFKd4fm0AaHs_c-DXbA1fe; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 27-Jul-2026 08:41:02 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 29-Jul-2018 08:41:02 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2652281687%26HTTP_X_PP_AZ_LOCATOR%3Dslcb.slc; Expires=Fri, 29 Jul 2016 09:11:02 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.190.8.164.1469781662505692; path=/; expires=Sun, 22-Jul-46 08:41:02 GMT
+Set-Cookie: AKDC=phx-origin-www-1.paypal.com; expires=Fri, 29-Jul-2016 09:11:03 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[07/29/2016 1:46 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+transaction_subject=, payment_date=01:46:37 Jul 29, 2016 PDT, last_name=Pedersen, receipt_id=0692-5235-4122-3552, residence_country=DK, item_name=Golden Circle Question, payment_gross=, mc_currency=DKK, business=ard@world-of-wisdom.com, payment_type=instant, protection_eligibility=Ineligible, verify_sign=AkgG1ZhlEOeg1sccekGDl18QhH8GAuN4rzwMEbonMirGhFvhuKucBkVG, payer_email=junepedersen77@gmail.com, txn_id=2GU252963P6461536, receiver_email=ard@world-of-wisdom.com, first_name=June, parent_txn_id=0TL54568BW517793L, invoice=457402, payer_id=BQGKATNA48QY4, receiver_id=VM4HV6HR8W4Z4, reason_code=refund, item_number=GCQUE-457402, handling_amount=0.00, payment_status=Refunded, payment_fee=, mc_fee=-13.43, shipping=0.00, mc_gross=-395.00, custom=8019, charset=windows-1252, notify_version=3.8, ipn_track_id=4d1da122682de, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: 20990a4c5ab7c
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-2.paypal.com
+Date: Fri, 29 Jul 2016 08:46:48 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=_Rn0mXGxloBwMs9cPFnPdRPOgBzwCyKagQIn2_VN0LyNI_LekTlGU7YOG1CwhNveL2mnJmYOCUFh5F4A3r5y-PxZca3QmfvNkH6pZjy3Dv7PiDKVkZeNWLabU2zKkwVhSqfU-L3sxt8EG928GQeeIBW44g05yP-JldyLM_zOn7GWuzqJVAUgDQTwBlWP7igAq2lXflpmuwtUBX0DCtBey17g9m4bYhgaVPw1P9QVDAHZGAHBqiRFh6ZGph19-J7J_nB5dqMHCg-kDFmPveMMK0ijrxGTsac9Eu2kEd2uA2vWn6K1Alqrow9vcu5bBR_S0dRTqSv0l4Ly_9LuAYHUuS6yUgzhTecbvINoUioqObGJK2zf6ZA4YKG4nKjrJbT-ytXADZF1PYEctEEr4J0Cf3gur-N1Gy3dGLjSb7bZN8gaY-O6msOgEyvaSqq; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 27-Jul-2026 08:46:47 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 29-Jul-2018 08:46:47 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D4145519447%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Fri, 29 Jul 2016 09:16:47 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-2.paypal.com; expires=Fri, 29-Jul-2016 09:16:48 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+

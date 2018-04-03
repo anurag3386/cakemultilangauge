@@ -1,0 +1,4 @@
+[31-Jan-2016 01:10:57 America/Los_Angeles] PHP Notice:  Undefined variable: order in /home/astrowow/public_html/bin/amanuensis/yr-framework.php on line 163
+[31-Jan-2016 01:10:57 America/Los_Angeles] PHP Fatal error:  Call to a member function GetList() on a non-object in /home/astrowow/public_html/bin/amanuensis/yr-framework.php on line 163
+[31-Jan-2016 03:10:58 America/Chicago] PHP Fatal error:  Class 'BirthTransitCalculation' not found in /home/astrowow/public_html/bin/test-swisseph/calculate-transits.php on line 13
+[31-Jan-2016 03:10:58 America/Chicago] PHP Fatal error:  Class 'AstrologServices' not found in /home/astrowow/public_html/bin/test-swisseph/birthtransit-calculation.php on line 19

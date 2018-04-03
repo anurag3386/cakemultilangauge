@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://xyz-pc/svn/astrowow.com"
+   name=""
+   revision="2"
+   last-author="aparmar"
+   url="https://xyz-pc/svn/astrowow.com/astrowow/helper/oauth/google-api/io"
+   committed-rev="2"
+   kind="dir"
+   committed-date="2013-05-02T09:18:15.217000Z"/>
+<entry
+   name="Google_CacheParser.php"
+   checksum="a8524de4f95bc1d237a7bf22dd3dfb8a"
+   last-author="aparmar"
+   text-time="2013-04-10T05:55:22.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2013-05-02T09:18:15.217000Z"
+   prop-time="2013-05-02T08:07:00.000000Z"/>
+<entry
+   name="Google_CurlIO.php"
+   checksum="9f5d2871c87ba61cced0efab8c57d4dc"
+   last-author="aparmar"
+   text-time="2013-04-10T05:55:22.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2013-05-02T09:18:15.217000Z"
+   prop-time="2013-05-02T08:06:19.000000Z"/>
+<entry
+   name="Google_HttpRequest.php"
+   checksum="01f22c8d762d21fd7c93d4d60737b041"
+   last-author="aparmar"
+   text-time="2013-04-10T05:55:22.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2013-05-02T09:18:15.217000Z"
+   prop-time="2013-05-02T08:01:29.000000Z"/>
+<entry
+   name="Google_IO.php"
+   checksum="872ddfd60a5ef638517ef81c7c0b6b95"
+   last-author="aparmar"
+   text-time="2013-04-10T05:55:22.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2013-05-02T09:18:15.217000Z"
+   prop-time="2013-05-02T07:59:29.000000Z"/>
+<entry
+   name="Google_REST.php"
+   checksum="61d31688aa7d280b1e7a7ba4d2fcacb3"
+   last-author="aparmar"
+   text-time="2013-04-10T05:55:22.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2013-05-02T09:18:15.217000Z"
+   prop-time="2013-05-02T08:04:02.000000Z"/>
+<entry
+   name="cacerts.pem"
+   checksum="2dc185f345f7ca634aec690243f346d8"
+   last-author="aparmar"
+   text-time="2013-04-10T05:55:22.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2013-05-02T09:18:15.217000Z"
+   prop-time="2013-05-02T07:57:28.000000Z"/>
+</wc-entries>

@@ -1,0 +1,76 @@
+<%
+dim orderid
+orderid = request.querystring("orderid")
+%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Horoskop analyser</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <link href="../styles/masterstyle.css" rel="stylesheet" type="text/css" />
+    <link href="../styles/orders.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body onLoad="javascript: prepareReceipt(<% response.write(orderid) %>);">
+    <div id="wrap">
+      <!--HEADER-->
+      <!--LEFTCOLUMN-->
+      <div id="right">
+	<table border="0" cellspacing="0" class="rightheader">
+	  <tr>
+	    <td class="green"><img src="img/reports_icon.gif" alt="" width="25" height="25" /></td>
+	    <td class="rightbar"><img src="img/reports_txt.gif" alt="" width="116" height="25" /></td>
+	  </tr>
+	</table>
+	<table border="0" cellspacing="0">
+	  <tr>
+	    <th>Bestilling f&aelig;rdig</th>
+	  </tr>
+	  <tr>
+	    <td class="bodytext">
+	      <p>
+		<!--Thanks for ordering your personal horoscope report.
+		    Your order is now in our fulfilment queue and should be processed within the next 5 minutes.-->
+		Tak for din bestilling af et horoskop rapport fra World of Wisdom.
+	      </p>
+	      <p>
+		Din bestilling er nu i vores k&oslash; og bliver behandlet inden for de n&aelig;ste 5 minutter.
+		Din rapport vil blive leveret til dig elektronisk som en PDF-fil vedh&aelig;ftet en email, som bliver sendt til mail adressen p&aring; din bestilling.
+	      </p>
+	      <p>
+		Selvom vi bestr&aelig;ber os p&aring; at levere bestillingen inden for 5 til 10 minutter fra modtagelse af din betaling, er der undertiden forsinkelser i globale email systemer.
+		Men hvis du ikke har modtaget din bestilling inden for en time, s&aring; 
+		<a href="mailto:support@world-of-wisdom.com">kontakt</a> os og vi vil unders&oslash;ge situationen.
+	    </td>
+	  </tr>
+	  <tr>
+	    <th class="bodytext">Ordrebekr&aelig;ftelse</th>
+	  </tr>
+	  <tr>
+	    <td>
+	      <p id="receipt"></p>
+	    </td>
+	  </tr>
+	  <tr> 
+	    <th class="bodytext">Adobe Reader</th> 
+	  </tr>
+	  <tr>
+	    <td class="bodytext">
+	      <p>
+		<a href="http://www.adobe.com/products/acrobat/readstep2.html" target="_blank">
+		  <img src="img/acrobat.gif" alt="" width="88" height="31" border="0" class="inline" />
+		</a>
+		Du skal bruge en PDF-fil l&aelig;ser for at &aring;bne dokumentet.<br />
+		<a href="http://www.adobe.com/products/acrobat/readstep2.html" target="_blank">
+		  Download Adobe Reader
+		</a>
+	      </p>
+	    </td>
+	  </tr>
+	</table>
+	<!--LINKS-->
+      </div>
+    </div>
+    <!--TRACKING-->
+    <!--SCRIPTS-->
+  </body>
+</html>

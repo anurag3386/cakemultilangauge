@@ -1,0 +1,194 @@
+<?php
+  /**
+   * Script: complete.php
+   * Author: Andy Gray
+   *
+   * Description
+   * Confirm successful transaction and present a receipt
+   */
+?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Horoskop analyser</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <link href="../styles/masterstyle.css" rel="stylesheet" type="text/css" />
+    <link href="../styles/orders.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body onLoad="javascript: prepareReceipt(<?php echo $_REQUEST['orderid']; ?>);">
+    <div id="wrap">
+            <div id="sky">
+	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="760" height="70">
+	  <param name="movie" value="../sky.swf" />
+	  <param name="quality" value="high" />
+	  <param name="BGCOLOR" value="#FFFFFF" />
+	  <param name="LOOP" value="false" />
+	  <param name="PLAY" value="false" />
+	  <embed src="../sky.swf" width="760" height="70" loop="False" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" bgcolor="#FFFFFF" play="false"></embed>
+	</object>
+      </div>
+      <div id="menu">
+	<table border="0" cellspacing="0">
+	  <tr>
+	    <td>
+	      <a href="../01_horoscopes/horoscopes.htm" target="_self">
+		<img src="../global_assets/01_horoscopes.gif" alt="" width="152" height="25" border="0" />
+	      </a>
+	    </td>
+	    <td>
+	      <a href="../02_software/software.htm" target="_self">
+		<img src="../global_assets/02_software.gif" alt="" width="152" height="25" border="0" />
+	      </a>
+	    </td>
+	    <td>
+	      <a href="reports.htm" target="_self">
+		<img src="../global_assets/03_reports.gif" alt="" width="152" height="25" border="0" />
+	      </a>
+	    </td>
+	    <td>
+	      <a href="../04_articles/articles.htm" target="_self">
+		<img src="../global_assets/04_articles.gif" alt="" width="152" height="25" border="0" />
+	      </a>
+	    </td>
+	    <td>
+	      <a href="../05_astrologers/astrologers.htm" target="_self">
+		<img src="../global_assets/05_astrologers.gif" alt="" width="152" height="25" border="0" />
+	      </a>
+	    </td>
+	  </tr>
+	</table>
+      </div>
+      <div id="shadow"></div>
+      <div id="title">
+	<img src="img/hor_analys_tx.gif" alt="" width="144" height="19" />
+      </div>
+      <div id="crumbs">
+	<table width="505" border="0" cellpadding="0" cellspacing="0" >
+	  <tr>
+	    <td>
+	      <a href="../index2.htm" target="_self">home</a> | 
+	      <strong>
+		<a href="reports.htm" target="_self">horoskop analyser </a> | Aarstidshoroskop fra WOW 
+	      </strong>
+	    </td>
+	  </tr>
+	</table>
+      </div>
+
+      
+      <div id="leftborder">
+	<img src="../global_assets/dotted_left.gif" alt="" width="235" height="10" />
+      </div>
+      <div id="left">
+	<table border="0" cellspacing="0" class="leftheader">
+	  <tr>
+	    <td class="green"><img src="img/reports_icon.gif" alt="" width="25" height="25" /></td>
+	    <td class="leftbar"><img src="img/reports_txt.gif" alt="" width="116" height="25" /></td>
+	  </tr>
+	</table>
+	<table border="0" cellspacing="0" class="leftcontent2">
+	  <tr><td><a href="personlig_analyse.htm" target="_self">Personligt horoskop - WOW</a></td></tr>
+	  <tr><td><a href="parforholds_analyse.htm" target="_self">Parforholdsanalyse - WOW </a></td></tr>
+	  <tr><td><a href="aarstid_analyse.htm" target="_self">Aarstidshoroskop - WOW</a></td></tr>
+	  <tr><td><a href="lz_personal.htm" target="_self">Psykologisk horoskop - Liz Greene</a></td></tr>
+	  <tr><td><a href="lz_karriere.htm" target="_self">Karriere og erhverv - Liz Greene</a></td></tr>
+	  <tr><td><a href="lz_barn.htm" target="_self">B&oslash;rnehoroskop - Liz Greene</a></td></tr>
+	  <tr><td><a href="lz_par.htm" target="_self">Samlivshoroskop - Liz Greene</a></td></tr>
+	  <tr><td><a href="lz_kalendar.htm" target="_self"> Horoskopkalender - Robert Hand </a></td></tr>
+	</table>
+	<table border="0" cellspacing="0" class="leftheader">
+	  <tr>
+	    <td class="green"><img src="img/konsult_icon.gif" alt="" width="25" height="25" /></td>
+	    <td class="leftbar"><img src="img/konsult_txt.gif" alt="" width="94" height="25" /></td>
+	  </tr>
+	</table>
+	<table border="0" cellspacing="0" class="leftcontent2">
+	  <tr><td><strong><a href="konsult_adrian.htm" target="_self">Konsultation med Adrian </a></strong></td></tr>
+	  <tr><td><a href="konsultation.htm" target="_self">Konsultation med Charlotte</a></td></tr>
+	  <tr><td><a href="online_konsult.htm" target="_self">E-mail konsultationer</a></td></tr>
+	</table>
+      </div>
+
+      <div id="right">
+	<table border="0" cellspacing="0" class="rightheader">
+	  <tr>
+	    <td class="green"><img src="img/reports_icon.gif" alt="" width="25" height="25" /></td>
+	    <td class="rightbar"><img src="img/reports_txt.gif" alt="" width="116" height="25" /></td>
+	  </tr>
+	</table>
+	<table border="0" cellspacing="0">
+	  <tr>
+	    <th>Bestilling f&aelig;rdig</th>
+	  </tr>
+	  <tr>
+	    <td class="bodytext">
+	      <p>
+		<!--Thanks for ordering your personal horoscope report.
+		    Your order is now in our fulfilment queue and should be processed within the next 5 minutes.-->
+		Tak for din bestilling af et horoskop rapport fra World of Wisdom.
+	      </p>
+	      <p>
+		Din bestilling er nu i vores k&oslash; og bliver behandlet inden for de n&aelig;ste 5 minutter.
+		Din rapport vil blive leveret til dig elektronisk som en PDF-fil vedh&aelig;ftet en email, som bliver sendt til mail adressen p&aring; din bestilling.
+	      </p>
+	      <p>
+		Selvom vi bestr&aelig;ber os p&aring; at levere bestillingen inden for 5 til 10 minutter fra modtagelse af din betaling, er der undertiden forsinkelser i globale email systemer.
+		Men hvis du ikke har modtaget din bestilling inden for en time, s&aring; 
+		<a href="mailto:support@world-of-wisdom.com">kontakt</a> os og vi vil unders&oslash;ge situationen.
+	    </td>
+	  </tr>
+	  <tr>
+	    <th class="bodytext">Ordrebekr&aelig;ftelse</th>
+	  </tr>
+	  <tr>
+	    <td>
+	      <p id="receipt"></p>
+	    </td>
+	  </tr>
+	  <tr> 
+	    <th class="bodytext">Adobe Reader</th> 
+	  </tr>
+	  <tr>
+	    <td class="bodytext">
+	      <p>
+		<a href="http://www.adobe.com/products/acrobat/readstep2.html" target="_blank">
+		  <img src="img/acrobat.gif" alt="" width="88" height="31" border="0" class="inline" />
+		</a>
+		Du skal bruge en PDF-fil l&aelig;ser for at &aring;bne dokumentet.<br />
+		<a href="http://www.adobe.com/products/acrobat/readstep2.html" target="_blank">
+		  Download Adobe Reader
+		</a>
+	      </p>
+	    </td>
+	  </tr>
+	</table>
+	
+        <table cellspacing="0">
+	  <tr>
+	    <td class="bodytext">
+	      <a href="../index2.htm">Home</a> |
+	      <a href="../01_horoscopes/horoscopes.htm">Stjernetegn</a> |
+	      <a href="../02_software/software.htm">Astrologi Software</a> |
+	      <a href="../03_replorts/reports.htm">Horoskop Analyser</a> |
+	      <a href="../04_articles/articles.htm">Artikler</a> |
+	      <a href="../05_astrologers/astrologers.htm">Astrologerne</a></td>
+	  </tr>
+	</table>
+
+      </div>
+    </div>
+    
+    <!-- Traceworks.com start -->
+    <script language='javascript' src='http://stl.p.a1.traceworks.com/prod/reg_scripts/reg_75118-1.js'></script>
+    <!-- Traceworks.com end -->
+
+    
+    <!-- jQuery -->
+    <script type="text/javascript" language="javascript" src="/Scripts/jquery-1.3.2.min.js"></script>
+    <!--script type="text/javascript" language="javascript" src="/Scripts/jquery-autocomplete.plugin.js"></script-->
+    <script type="text/javascript" language="javascript" src="http://www.world-of-wisdom.com/Scripts/jquery-autocomplete.remote.js"></script>
+    <!-- local development -->
+    <script type="text/javascript" language="javascript" src="http://www.world-of-wisdom.com/Scripts/jquery-wowdk.js"></script>
+
+  </body>
+</html>

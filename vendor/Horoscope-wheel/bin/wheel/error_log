@@ -1,0 +1,3 @@
+[31-Jan-2016 03:10:56 America/Chicago] PHP Fatal error:  Class 'PDF_Wheel_WOW' not found in /home/astrowow/public_html/bin/wheel/class.report.pdf.whee.bb.php on line 16
+[31-Jan-2016 03:10:56 America/Chicago] PHP Fatal error:  Class 'PDF_Wheel' not found in /home/astrowow/public_html/bin/wheel/class.report.pdf.wheel.wow.php on line 16
+[31-Jan-2016 03:10:56 America/Chicago] PHP Fatal error:  Class 'PDF_Bookmark' not found in /home/astrowow/public_html/bin/wheel/class.report.pdf.wheel.rc1.php on line 42

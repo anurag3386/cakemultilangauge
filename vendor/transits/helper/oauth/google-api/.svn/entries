@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://xyz-pc/svn/astrowow.com"
+   revision="2"
+   last-author="aparmar"
+   url="https://xyz-pc/svn/astrowow.com/astrowow/helper/oauth/google-api"
+   committed-rev="2"
+   kind="dir"
+   committed-date="2013-05-02T09:18:15.217000Z"/>
+<entry
+   name="GmailOath.php"
+   checksum="3426e58bccd66eb846c58c20def0de86"
+   last-author="aparmar"
+   text-time="2013-05-01T14:56:06.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2013-05-02T09:18:15.217000Z"/>
+<entry
+   name="Google_Client.php"
+   checksum="acf6be31b7d32b82a90a5efcc97c74f1"
+   last-author="aparmar"
+   text-time="2013-04-10T05:55:22.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2013-05-02T09:18:15.217000Z"
+   prop-time="2013-05-02T08:06:18.000000Z"/>
+<entry
+   name="auth"
+   kind="dir"/>
+<entry
+   name="cache"
+   kind="dir"/>
+<entry
+   name="config.php"
+   checksum="a26b007bba5cd5ca2a48bb13f8e7b663"
+   last-author="aparmar"
+   text-time="2013-04-10T05:55:22.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2013-05-02T09:18:15.217000Z"
+   prop-time="2013-05-02T08:05:20.000000Z"/>
+<entry
+   name="contrib"
+   kind="dir"/>
+<entry
+   name="external"
+   kind="dir"/>
+<entry
+   name="io"
+   kind="dir"/>
+<entry
+   name="service"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,330 @@
+Redirect 301 /my-astropage.php	/free-astropage
+Redirect 301 /index.php	/
+Redirect 301 /faqs/astropage/en/	/faqs
+Redirect 301 /astropage.php	/free-astropage
+Redirect 301 /about-astrowow.php	/about-astrowow
+Redirect 301 /about-astrology.php	/about-astrology
+Redirect 301 /subscribe.php	/users/login
+Redirect 301 /astro-wiki.php	/astro-wiki
+Redirect 301 /signup.php	/users/sign-up
+Redirect 301 /login	/users/login
+Redirect 301 /astrology-software.php	/astrology-software
+Redirect 301 /astrology-reading.php	/astrology-reports
+Redirect 301 /horoscopes/	/sun-signs/free-horoscope
+Redirect 301 /horoscopes/daily-horoscope	/sun-signs/free-horoscope
+Redirect 301 /horoscopes/daily-horoscope/Scorpio.php	/sun-signs/scorpio/daily-horoscope
+Redirect 301 /horoscopes/daily-horoscope/Libra.php	/sun-signs/libra/daily-horoscope
+Redirect 301 /horoscopes/daily-horoscope/Pisces.php	/sun-signs/pisces/daily-horoscope
+Redirect 301 /horoscopes/daily-horoscope/Virgo.php	/sun-signs/virgo/daily-horoscope
+Redirect 301 /horoscopes/daily-horoscope/Sagittarius.php	/sun-signs/sagittarius/daily-horoscope
+Redirect 301 /horoscopes/daily-horoscope/Gemini.php	/sun-signs/gemini/daily-horoscope
+Redirect 301 /horoscopes/daily-horoscope/aries.php	/sun-signs/aries/daily-horoscope
+Redirect 301 /horoscopes/daily-horoscope/Cancer.php	/sun-signs/cancer/daily-horoscope
+Redirect 301 /horoscopes/daily-horoscope/Taurus.php	/sun-signs/taurus/daily-horoscope
+Redirect 301 /horoscopes/daily-horoscope/Leo.php	/sun-signs/leo/daily-horoscope
+Redirect 301 /horoscopes/daily-horoscope/Aquarius.php	/sun-signs/aquarius/daily-horoscope
+Redirect 301 /horoscopes/daily-horoscope/Aries.php	/sun-signs/aries/monthly-horoscope
+Redirect 301 /horoscopes/daily-horoscope/capricorn.php	/sun-signs/capricorn/daily-horoscope
+Redirect 301 /horoscopes/daily-horoscope/aquarius.php	/sun-signs/aquarius/daily-horoscope
+Redirect 301 /horoscopes/daily-horoscope/Capricorn.php	/sun-signs/capricorn/daily-horoscope
+Redirect 301 /horoscopes/daily-horoscope/scorpio.php	/sun-signs/scorpio/daily-horoscope
+Redirect 301 /horoscopes/daily-horoscope/virgo.php	/sun-signs/virgo/daily-horoscope
+Redirect 301 /horoscopes/monthly-horoscope/aries.php	/sun-signs/aries/monthly-horoscope
+Redirect 301 /buy-astrology-reading/yearly-report	/astrology-reports/essential-year-ahead-report/full-reports
+Redirect 301 /horoscopes/daily-horoscope/sagittarius.php	/sun-signs/sagittarius/daily-horoscope
+Redirect 301 /horoscopes/daily-horoscope/cancer.php	/sun-signs/cancer/daily-horoscope
+Redirect 301 /horoscopes/daily-horoscope/libra.php	/sun-signs/libra/daily-horoscope
+Redirect 301 /buy-astrology-reading/character-and-destiny-report	/astrology-reports/character-and-destiny-report/full-reports
+Redirect 301 /horoscopes/weekly-horoscope/libra.php	/sun-signs/libra/weekly-horoscope
+Redirect 301 /horoscopes/daily-horoscope/pisces.php	/sun-signs/pisces/daily-horoscope
+Redirect 301 /horoscopes/daily-horoscope/gemini.php	/sun-signs/gemini/daily-horoscope
+Redirect 301 /horoscopes/weekly-horoscope/cancer.php	/sun-signs/cancer/weekly-horoscope
+Redirect 301 /horoscopes/daily-horoscope/leo.php	/sun-signs/leo/daily-horoscope
+Redirect 301 /horoscopes/weekly-horoscope/sagittarius.php	/sun-signs/sagittarius/weekly-horoscope
+Redirect 301 /signup.php	/users/sign-up
+Redirect 301 /horoscopes/weekly-horoscope/aquarius.php	/sun-signs/aquarius/weekly-horoscope
+Redirect 301 /horoscopes/daily-horoscope/taurus.php	/sun-signs/taurus/daily-horoscope
+Redirect 301 /horoscopes/weekly-horoscope/capricorn.php	/sun-signs/capricorn/weekly-horoscope
+Redirect 301 /horoscopes/weekly-horoscope/scorpio.php	/sun-signs/scorpio/weekly-horoscope
+Redirect 301 /horoscopes/weekly-horoscope/leo.php	/sun-signs/leo/weekly-horoscope
+Redirect 301 /horoscopes/weekly-horoscope/pisces.php	/sun-signs/pisces/weekly-horoscope
+Redirect 301 /horoscopes/weekly-horoscope/aries.php	/sun-signs/aries/weekly-horoscope
+Redirect 301 /horoscopes/weekly-horoscope/virgo.php	/sun-signs/virgo/weekly-horoscope
+Redirect 301 /horoscopes/monthly-horoscope/cancer.php	/sun-signs/cancer/monthly-horoscope
+Redirect 301 /horoscopes/monthly-horoscope/libra.php	/sun-signs/libra/monthly-horoscope
+Redirect 301 /horoscopes/weekly-horoscope/taurus.php	/sun-signs/taurus/weekly-horoscope
+Redirect 301 /horoscopes/weekly-horoscope/gemini.php	/sun-signs/gemini/weekly-horoscope
+Redirect 301 /horoscopes/monthly-horoscope/gemini.php	/sun-signs/gemini/monthly-horoscope
+Redirect 301 /buy-astrology-reading/comprehensive-lovers-report	/astrology-reports/comprehensive-lovers-report/full-reports
+Redirect 301 /horoscopes/monthly-horoscope/leo.php	/sun-signs/leo/monthly-horoscope
+Redirect 301 /horoscopes/monthly-horoscope/pisces.php	/sun-signs/pisces/monthly-horoscope
+Redirect 301 /horoscopes/monthly-horoscope/virgo.php	/sun-signs/virgo/monthly-horoscope
+Redirect 301 /horoscopes/monthly-horoscope/scorpio.php	/sun-signs/scorpio/monthly-horoscope
+Redirect 301 /horoscopes/weekly-horoscope/Taurus.php	/sun-signs/taurus/weekly-horoscope
+Redirect 301 /horoscopes/monthly-horoscope/aquarius.php	/sun-signs/aquarius/monthly-horoscope
+Redirect 301 /horoscopes/monthly-horoscope/capricorn.php	/sun-signs/capricorn/monthly-horoscope
+Redirect 301 /horoscopes/Leo.php	/sun-signs/leo/daily-horoscope
+Redirect 301 /horoscopes/yearly-horoscope/aries.php	/sun-signs/aries/yearly-horoscope
+Redirect 301 /horoscopes/monthly-horoscope/taurus.php	/sun-signs/taurus/monthly-horoscope
+Redirect 301 /horoscopes/monthly-horoscope/sagittarius.php	/sun-signs/sagittarius/monthly-horoscope
+Redirect 301 /buy-astrology-reading/astrology-calendar-report	/astrology-reports/astrology-calendar-report/full-reports
+Redirect 301 /horoscopes/Scorpio.php	/sun-signs/scorpio/daily-horoscope
+Redirect 301 /horoscopes/yearly-horoscope/pisces.php	/sun-signs/pisces/yearly-horoscope
+Redirect 301 /horoscopes/yearly-horoscope/capricorn.php	/sun-signs/capricorn/yearly-horoscope
+Redirect 301 /horoscopes/weekly-horoscope/Virgo.php	/sun-signs/virgo/weekly-horoscope
+Redirect 301 /horoscopes/weekly-horoscope/Capricorn.php	/sun-signs/capricorn/weekly-horoscope
+Redirect 301 /horoscopes/weekly-horoscope/Aquarius.php	/sun-signs/aquarius/weekly-horoscope
+Redirect 301 /horoscopes/weekly-horoscope/Pisces.php	/sun-signs/pisces/weekly-horoscope
+Redirect 301 /horoscopes/yearly-horoscope/taurus.php	/sun-signs/taurus/yearly-horoscope
+Redirect 301 /free-astrology-software/horoscope-interpreter	/astrology-software/horoscope-interpreter/software-cd
+Redirect 301 /horoscopes/monthly-horoscope/Sagittarius.php	/sun-signs/sagittarius/monthly-horoscope
+Redirect 301 /horoscopes/yearly-horoscope/cancer.php	/sun-signs/cancer/yearly-horoscope
+Redirect 301 /horoscopes/yearly-horoscope/scorpio.php	/sun-signs/scorpio/yearly-horoscope
+Redirect 301 /horoscopes/monthly-horoscope/Scorpio.php	/sun-signs/scorpio/monthly-horoscope
+Redirect 301 /horoscopes/yearly-horoscope/sagittarius.php	/sun-signs/sagittarius/yearly-horoscope
+Redirect 301 /horoscopes/weekly-horoscope/Libra.php	/sun-signs/libra/weekly-horoscope
+Redirect 301 /horoscopes/characteristics/scorpio.php	/sun-signs/scorpio/characteristics
+Redirect 301 /horoscopes/monthly-horoscope/Cancer.php	/sun-signs/cancer/monthly-horoscope
+Redirect 301 /horoscopes/weekly-horoscope/Gemini.php	/sun-signs/gemini/weekly-horoscope
+Redirect 301 /horoscopes/yearly-horoscope/leo.php	/sun-signs/leo/yearly-horoscope
+Redirect 301 /horoscopes/weekly-horoscope/Cancer.php	/sun-signs/cancer/weekly-horoscope
+Redirect 301 /horoscopes/monthly-horoscope/Libra.php	/sun-signs/libra/monthly-horoscope
+Redirect 301 /horoscopes/yearly-horoscope/aquarius.php	/sun-signs/aquarius/yearly-horoscope
+Redirect 301 /horoscopes/yearly-horoscope/gemini.php	/sun-signs/gemini/yearly-horoscope
+Redirect 301 /horoscopes/monthly-horoscope/Pisces.php	/sun-signs/pisces/monthly-horoscope
+Redirect 301 /free-astrology-reading/character-and-destiny-report	/astrology-reports/character-and-destiny-report/full-reports
+Redirect 301 /horoscopes/weekly-horoscope/Scorpio.php	/sun-signs/scorpio/weekly-horoscope
+Redirect 301 /horoscopes/Pisces.php	/sun-signs/pisces/daily-horoscope
+Redirect 301 /horoscopes/characteristics/libra.php	/sun-signs/libra/characteristics
+Redirect 301 /horoscopes/monthly-horoscope/Leo.php	/sun-signs/leo/monthly-horoscope
+Redirect 301 /horoscopes/yearly-horoscope/virgo.php	/sun-signs/virgo/yearly-horoscope
+Redirect 301 /horoscopes/yearly-horoscope/libra.php	/sun-signs/libra/yearly-horoscope
+Redirect 301 /horoscopes/Aries.php	/sun-signs/aries/daily-horoscope
+Redirect 301 /horoscopes/monthly-horoscope/Virgo.php	/sun-signs/virgo/monthly-horoscope
+Redirect 301 /horoscopes/weekly-horoscope/Sagittarius.php	/sun-signs/sagittarius/weekly-horoscope
+Redirect 301 /horoscopes/monthly-horoscope/Capricorn.php	/sun-signs/capricorn/monthly-horoscope
+Redirect 301 /horoscopes/aries_archive.php	/sun-signs/aries/daily-horoscope
+Redirect 301 /horoscopes/weekly-horoscope/Leo.php	/sun-signs/leo/weekly-horoscope
+Redirect 301 /horoscopes/weekly-horoscope/Aries.php	/sun-signs/aries/weekly-horoscope
+Redirect 301 /horoscopes/monthly-horoscope/Aquarius.php	/sun-signs/aquarius/monthly-horoscope
+Redirect 301 /horoscopes/yearly-horoscope/Libra.php	/sun-signs/libra/yearly-horoscope
+Redirect 301 /horoscopes/monthly-horoscope/Taurus.php	/sun-signs/capricorn/monthly-horoscope
+Redirect 301 /horoscopes/monthly-horoscope/Aries.php	/sun-signs/aries/monthly-horoscope
+Redirect 301 /consultation.php	/consultation
+Redirect 301 /horoscopes/yearly-horoscope/Taurus.php	/sun-signs/taurus/yearly-horoscope
+Redirect 301 /horoscopes/monthly-horoscope/Gemini.php	/sun-signs/gemini/monthly-horoscope
+Redirect 301 /horoscopes/characteristics/aries.php	/sun-signs/aries/characteristics
+Redirect 301 /horoscopes/Capricorn.php	/sun-signs/capricorn/daily-horoscope
+Redirect 301 /horoscopes/yearly-horoscope/Gemini.php	/sun-signs/gemini/yearly-horoscope
+Redirect 301 /buy-astrology-software/horoscope-interpreter	/astrology-software/horoscope-interpreter/software-cd
+Redirect 301 /horoscopes/next-week-horoscope/capricorn.php	/sun-signs/capricorn/weekly-horoscope
+Redirect 301 /horoscopes/yearly-horoscope/Leo.php	/sun-signs/leo/yearly-horoscope
+Redirect 301 /horoscopes/yearly-horoscope/Virgo.php	/sun-signs/virgo/yearly-horoscope
+Redirect 301 /horoscopes/Sagittarius.php	/sun-signs/sagittarius/daily-horoscope
+Redirect 301 /horoscopes/yearly-horoscope/Pisces.php	/sun-signs/pisces/yearly-horoscope
+Redirect 301 /horoscopes/yearly-horoscope/Capricorn.php	/sun-signs/capricorn/yearly-horoscope
+Redirect 301 /horoscopes/yearly-horoscope/Scorpio.php	/sun-signs/scorpio/yearly-horoscope
+Redirect 301 /reset-password.php	/users/forgot-password
+Redirect 301 /horoscopes/Cancer.php	/sun-signs/cancer/daily-horoscope
+
+
+
+
+Redirect 301 /horoscopes/next-week-horoscope/virgo.php	/sun-signs/virgo/weekly-horoscope
+Redirect 301 /horoscopes/aquarius_archive.php	/sun-signs/aquarius/daily-horoscope
+Redirect 301 /contactus.php	/contact-us
+Redirect 301 /free-astrology-reading/yearly-report	/astrology-reports/essential-year-ahead-report/full-reports
+
+
+Redirect 301 /add-another-person.php	/users/add-another-person
+Redirect 301 /horoscopes/Gemini.php	/sun-signs/gemini/daily-horoscope
+Redirect 301 /horoscopes/next-week-horoscope/Aquarius.php	/sun-signs/aquarius/weekly-horoscope
+
+
+
+Redirect 301 /horoscopes/next-week-horoscope/taurus.php	/sun-signs/taurus/weekly-horoscope
+
+#Redirect 301 /free-astrology-software/astrological-calendar	
+
+Redirect 301 /horoscopes/cancer_archive.php	/sun-signs/cancer/daily-horoscope
+Redirect 301 /horoscopes/yearly-horoscope/Aries.php	/sun-signs/aries/yearly-horoscope
+Redirect 301 /horoscopes/yearly-horoscope/Sagittarius.php	/sun-signs/sagittarius/yearly-horoscope
+
+#Redirect 301 /elite-customer/my-dashboard.php	
+
+Redirect 301 /horoscopes/characteristics/capricorn.php	/sun-signs/capricorn/characteristics
+Redirect 301 /horoscopes/next-month-horoscope/cancer.php	/sun-signs/cancer/monthly-horoscope
+Redirect 301 /horoscopes/yearly-horoscope/Aquarius.php	/sun-signs/aquarius/yearly-horoscope
+Redirect 301 /horoscopes/yearly-horoscope/Cancer.php	/sun-signs/cancer/yearly-horoscope
+Redirect 301 /free-astrology-software/astrology-for-lovers	/astrology-software/astrology-for-lovers/software-cd
+Redirect 301 /buy-astrology-reading/career-and-vocation	/astrology-reports/astrology-calendar-report/full-reports
+Redirect 301 /horoscopes/next-week-horoscope/cancer.php	/sun-signs/cancer/weekly-horoscope
+Redirect 301 /horoscopes/next-week-horoscope/Leo.php	/sun-signs/leo/weekly-horoscope
+Redirect 301 /terms-of-use.php	/terms-of-use
+
+#Redirect 301 /thank-you-user-registration.php	
+
+Redirect 301 /buy-astrology-software/astrological-calendar	/astrology-software/astrology-calendar/software-cd
+Redirect 301 /buy-astrology-software/astrology-for-lovers	/astrology-software/astrology-for-lovers/software-cd
+Redirect 301 /horoscopes/next-week-horoscope/gemini.php	/sun-signs/gemini/weekly-horoscope
+
+#Redirect 301 /thank-you-free-trial.php	
+
+Redirect 301 /horoscopes/Aquarius.php	/sun-signs/aquarius/daily-horoscope
+Redirect 301 /horoscopes/next-week-horoscope/libra.php	/sun-signs/libra/weekly-horoscope
+
+#Redirect 301 /buy-astrology-reading/psychological-analysis	
+
+Redirect 301 /privacy-policy.php	/privacy-policy
+Redirect 301 /horoscopes/next-month-horoscope/virgo.php	/sun-signs/virgo/monthly-horoscope
+Redirect 301 /blog.php	/blog/
+Redirect 301 /faqs/software/horoscope-interpreter/en/	/faqs
+Redirect 301 /horoscopes/characteristics/pisces.php	/sun-signs/pisces/characteristics
+Redirect 301 /horoscopes/next-month-horoscope/Leo.php	/sun-signs/leo/monthly-horoscope
+Redirect 301 /horoscopes/next-week-horoscope/Capricorn.php	/sun-signs/capricorn/weekly-horoscope
+Redirect 301 /go-mobile.php	/go-mobile
+Redirect 301 /horoscopes/next-week-horoscope/scorpio.php	/sun-signs/scorpio/weekly-horoscope
+Redirect 301 /horoscopes/next-month-horoscope/capricorn.php	/sun-signs/capricorn/monthly-horoscope
+Redirect 301 /horoscopes/next-week-horoscope/leo.php	/sun-signs/leo/weekly-horoscope
+Redirect 301 /horoscopes/characteristics/virgo.php	/sun-signs/virgo/characteristics
+Redirect 301 /horoscopes/characteristics/sagittarius.php	/sun-signs/sagittarius/characteristics
+Redirect 301 /horoscopes/next-week-horoscope/aries.php	/sun-signs/aries/weekly-horoscope
+Redirect 301 /combo-product.php	/astrology-software/
+Redirect 301 /horoscopes/next-week-horoscope/pisces.php	/sun-signs/pisces/weekly-horoscope
+Redirect 301 /horoscopes/next-week-horoscope/sagittarius.php	/sun-signs/sagittarius/weekly-horoscope
+Redirect 301 /horoscopes/characteristics/aquarius.php	/sun-signs/aquarius/characteristics
+Redirect 301 /horoscopes/characteristics/leo.php	/sun-signs/leo/characteristics
+
+#Redirect 301 /buy-astrology-reading/child-horoscope-report	
+
+Redirect 301 /faqs/astropage/en/	/faqs
+
+#Redirect 301 /feedback-astrowow.php	
+
+Redirect 301 /horoscopes/next-month-horoscope/scorpio.php	/sun-signs/scorpio/monthly-horoscope
+Redirect 301 /horoscopes/next-week-horoscope/Scorpio.php	/sun-signs/scorpio/weekly-horoscope
+Redirect 301 /horoscopes/next-month-horoscope/sagittarius.php	/sun-signs/sagittarius/monthly-horoscope
+Redirect 301 /horoscopes/next-month-horoscope/aries.php	/sun-signs/aries/monthly-horoscope
+Redirect 301 /horoscopes/next-week-horoscope/aquarius.php	/sun-signs/aquarius/weekly-horoscope
+Redirect 301 /horoscopes/next-week-horoscope/Aries.php	/sun-signs/aries/weekly-horoscope
+
+#Redirect 301 /important-transitions.php	
+
+Redirect 301 /astrology-software-screenshot/astrological-calendar	/astrology-software/astrology-calendar/software-cd
+
+#Redirect 301 /elite-customer/view-orders.php	
+
+Redirect 301 /horoscopes/characteristics/cancer.php	/sun-signs/cancer/characteristics
+Redirect 301 /horoscopes/celebrity-horoscope/aquarius.php	/sun-signs/aquarius/celebrity
+Redirect 301 /biography-of-adrian-duncan.php	/biography
+Redirect 301 /horoscopes/characteristics/Scorpio.php	/sun-signs/scorpio/characteristics
+Redirect 301 /horoscopes/characteristics/taurus.php	/sun-signs/taurus/characteristics
+Redirect 301 /horoscopes/next-month-horoscope/aquarius.php	/sun-signs/aquarius/monthly-horoscope
+Redirect 301 /horoscopes/next-month-horoscope/gemini.php	/sun-signs/gemini/monthly-horoscope
+Redirect 301 /horoscopes/next-week-horoscope/Cancer.php	/sun-signs/cancer/weekly-horoscope
+Redirect 301 /horoscopes/celebrity-horoscope/pisces.php	/sun-signs/pisces/celebrity
+Redirect 301 /horoscopes/characteristics/gemini.php	/sun-signs/gemini/characteristics
+Redirect 301 /horoscopes/next-month-horoscope/pisces.php	/sun-signs/pisces/monthly-horoscope
+Redirect 301 /horoscopes/celebrity-horoscope/aries.php	/sun-signs/aries/celebrity
+Redirect 301 /horoscopes/leo_archive.php	/sun-signs/leo/daily-horoscope
+Redirect 301 /horoscopes/next-month-horoscope/taurus.php	/sun-signs/taurus/monthly-horoscope
+Redirect 301 /horoscopes/celebrity-horoscope/cancer.php	/sun-signs/cancer/celebrity
+Redirect 301 /horoscopes/next-month-horoscope/leo.php	/sun-signs/leo/monthly-horoscope
+Redirect 301 /horoscopes/scorpio_archive.php	/sun-signs/scorpio/daily-horoscope
+Redirect 301 /horoscopes/Taurus.php	/sun-signs/taurus/daily-horoscope
+Redirect 301 /horoscopes/characteristics/Gemini.php	/sun-signs/gemini/characteristics
+Redirect 301 /horoscopes/Libra.php	/sun-signs/libra/daily-horoscope
+Redirect 301 /horoscopes/next-week-horoscope/Gemini.php	/sun-signs/gemini/weekly-horoscope
+Redirect 301 /horoscopes/next-week-horoscope/Virgo.php	/sun-signs/virgo/weekly-horoscope
+Redirect 301 /horoscopes/Virgo.php	/sun-signs/virgo/daily-horoscope
+Redirect 301 /horoscopes/capricorn_archive.php	/sun-signs/capricorn/daily-horoscope
+Redirect 301 /horoscopes/libra_archive.php	/sun-signs/libra/daily-horoscope
+Redirect 301 /horoscopes/next-week-horoscope/Sagittarius.php	/sun-signs/sagittarius/weekly-horoscope
+Redirect 301 /horoscopes/pisces_archive.php	/sun-signs/pisces/daily-horoscope
+Redirect 301 /translate_c?depth=1&hl=sv&prev=search&rurl=translate.google.se&sl=en&u=http://www.astrowow.com/&usg=ALkJrhihmcD53d0b5YSWvEgIrt8ZyD3dVg	
+Redirect 301 /horoscopes/characteristics/Pisces.php	/sun-signs/pisces/characteristics
+Redirect 301 /horoscopes/index.php	/sun-signs/free-horoscope
+Redirect 301 /horoscopes/next-month-horoscope/Capricorn.php	/sun-signs/capricorn/monthly-horoscope
+Redirect 301 /horoscopes/next-month-horoscope/libra.php	/sun-signs/libra/monthly-horoscope
+Redirect 301 /horoscopes/characteristics/Aquarius.php	/sun-signs/aquarius/characteristics
+Redirect 301 /horoscopes/characteristics/Capricorn.php	/sun-signs/capricorn/characteristics
+Redirect 301 /horoscopes/gemini_archive.php	/sun-signs/gemini/daily-horoscope
+Redirect 301 /horoscopes/virgo_archive.php	/sun-signs/virgo/daily-horoscope
+
+#Redirect 301 /thank-you-essential-year-ahead-prediction.php	
+
+#Redirect 301 /thank-you-register-sharware-combo-products1.php?transact=44144842&OrderID=480399&Attempts=1&Cardnumber=XXXXXXXXXXXX7402	
+
+#Redirect 301 /confirm-report-order.php?order_id=9951	
+
+Redirect 301 /faqs/software/technical-support/en/	/faqs
+Redirect 301 /horoscopes/celebrity-horoscope/capricorn.php	/sun-signs/capricorn/celebrity
+Redirect 301 /horoscopes/celebrity-horoscope/gemini.php	/sun-signs/gemini/celebrity
+Redirect 301 /horoscopes/celebrity-horoscope/virgo.php	/sun-signs/virgo/celebrity
+Redirect 301 /horoscopes/characteristics/Virgo.php	/sun-signs/virgo/characteristics
+Redirect 301 /horoscopes/sagittarius_archive.php	/sun-signs/sagittarius/daily-horoscope
+
+#Redirect 301 /testimonials/reports/comprehensive-lover/en/	
+#Redirect 301 /thank-you-feedback.php	
+
+Redirect 301 /horoscopes/celebrity-horoscope/sagittarius.php	/sun-signs/sagittarius/celebrity
+Redirect 301 /horoscopes/celebrity-horoscope/scorpio.php	/sun-signs/scorpio/celebrity
+Redirect 301 /horoscopes/characteristics/Aries.php	/sun-signs/aries/characteristics
+Redirect 301 /horoscopes/characteristics/Cancer.php	/sun-signs/cancer/characteristics
+Redirect 301 /horoscopes/characteristics/Leo.php	/sun-signs/leo/characteristics
+Redirect 301 /horoscopes/characteristics/Libra.php	/sun-signs/libra/characteristics
+Redirect 301 /horoscopes/characteristics/Taurus.php	/sun-signs/taurus/characteristics
+Redirect 301 /horoscopes/next-week-horoscope/Libra.php	/sun-signs/libra/weekly-horoscope
+
+#Redirect 301 /register-shareware-astrology-software/astrological-calendar	
+#Redirect 301 /register-shareware-astrology-software/astrology-for-lovers	
+#Redirect 301 /testimonials/software/horoscope-interpreter/en/	
+#Redirect 301 /thank-you-character-and-destiny-report.php	
+
+Redirect 301 /astrology-software-screenshot/astrology-for-lovers	
+
+#Redirect 301 /astrology-software-screenshot/horoscope-interpreter	
+
+Redirect 301 /horoscopes/celebrity-horoscope/Aquarius.php	/sun-signs/aquarius/celebrity
+Redirect 301 /horoscopes/celebrity-horoscope/leo.php	/sun-signs/leo/celebrity
+Redirect 301 /horoscopes/celebrity-horoscope/Leo.php	/sun-signs/leo/celebrity
+Redirect 301 /horoscopes/celebrity-horoscope/libra.php	/sun-signs/libra/celebrity
+Redirect 301 /horoscopes/celebrity-horoscope/Pisces.php	/sun-signs/pisces/celebrity
+Redirect 301 /horoscopes/celebrity-horoscope/Virgo.php	/sun-signs/virgo/celebrity
+Redirect 301 /horoscopes/characteristics/Sagittarius.php	/sun-signs/sagittarius/characteristics
+Redirect 301 /horoscopes/next-month-horoscope/Aries.php	/sun-signs/aries/monthly-horoscope
+Redirect 301 /horoscopes/next-month-horoscope/Cancer.php	/sun-signs/cancer/monthly-horoscope
+Redirect 301 /horoscopes/next-month-horoscope/Sagittarius.php	/sun-signs/sagittarius/monthly-horoscope
+Redirect 301 /horoscopes/next-month-horoscope/Scorpio.php	/sun-signs/scorpio/monthly-horoscope
+Redirect 301 /horoscopes/next-month-horoscope/Taurus.php	/sun-signs/taurus/monthly-horoscope
+Redirect 301 /horoscopes/taurus_archive.php	/sun-signs/taurus/daily-horoscope
+Redirect 301 /horoscopes/weekly-horoscope/capricorn.php//	/sun-signs/capricorn/weekly-horoscope
+
+#Redirect 301 /thank-you-character-and-destiny-report.php?transact=42606178&OrderID=478105&Attempts=1&Cardnumber=XXXXXXXXXXXX0991	
+
+#Redirect 301 /thank-you-comprehensive-lover-report.php	
+
+Redirect 301 /faqs/software/astrology-for-lovers/en/	/faqs
+Redirect 301 /faqs/software/wow-shareware/en/	/faqs
+Redirect 301 /home	/
+Redirect 301 /horoscopes//weekly-horoscope//Cancer.php	/sun-signs/cancer/weekly-horoscope
+Redirect 301 /horoscopes//weekly-horoscope//virgo.php	/sun-signs/virgo/weekly-horoscope
+Redirect 301 /horoscopes/Capricorn.php?country-options=dk	/sun-signs/capricorn/daily-horoscope
+Redirect 301 /horoscopes/celebrity-horoscope/Libra.php	/sun-signs/libra/celebrity
+Redirect 301 /horoscopes/celebrity-horoscope/Sagittarius.php	/sun-signs/sagittarius/celebrity
+Redirect 301 /horoscopes/celebrity-horoscope/Taurus.php	/sun-signs/taurus/celebrity
+Redirect 301 /horoscopes/characteristics/aries.php?country-options=dk	/sun-signs/aries/characteristics
+Redirect 301 /horoscopes/next-month-horoscope/Gemini.php	/sun-signs/gemini/monthly-horoscope
+Redirect 301 /horoscopes/next-month-horoscope/Libra.php	/sun-signs/libra/monthly-horoscope
+Redirect 301 /horoscopes/next-week-horoscope/Pisces.php	/sun-signs/pisces/weekly-horoscope
+Redirect 301 /horoscopes/sagittarius_archive.php?country-options=en	/sun-signs/sagittarius/daily-horoscope
+Redirect 301 /horoscopes/weekly-horoscope/capricorn.php/	/sun-signs/capricorn/weekly-horoscope
+
+#Redirect 301 /testimonials/reports/career-and-vocation/en/	
+#Redirect 301 /testimonials/reports/psychological-analysis/en/	
+#Redirect 301 /testimonials/software/astrology-for-lovers/en/	
+#Redirect 301 /thank-you-astrology-calendar-report.php	
+
+#Redirect 301 /thank-you-character-and-destiny-report.php?transact=39253076&OrderID=441850&Attempts=1&Cardnumber=XXXXXXXXXXXX3340	
+#Redirect 301 /thank-you-essential-year-ahead-prediction.php?transact=43785877&OrderID=479932&Attempts=1&Cardnumber=XXXXXXXXXXXX9457	
+#Redirect 301 /thank-you-golden-circle.php	

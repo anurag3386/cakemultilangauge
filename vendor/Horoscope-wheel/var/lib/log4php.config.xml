@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Script: /var/lib/log4php/amanuensis.config.xml-->
+<!-- Author: Andy Gray--> 
+<log4php:configuration xmlns:log4php="http://www.vxr.it/log4php/" threshold="all" debug="false">
+
+  <!-- debug logs for the amanuensis -->
+  <appender name="amanuensis" class="LoggerAppenderDailyFile">
+    <param name="datePattern" value="Ymd" />
+    <!--<param name="file" value="/home/29078/users/.home/domains/world-of-wisdom.com/var/log/amanuensis/%s.log" />-->
+	<param name="file" value="/var/www/ns-wow.com/var/log/amanuensis/%s.log" />
+    <layout class="LoggerLayoutTTCC">
+      <param name="threadPrinting" value="true" />
+      <param name="categoryPrefixing" value="true" />
+      <param name="contextPrinting" value="true" />
+      <param name="microSecondsPrinting" value="true" />
+    </layout>
+  </appender>
+
+  <!--
+   - Email logs will be sent via email for fatal errors only
+   - -->
+  <appender name="email_log" class="LoggerAppenderMailEvent">
+    <param name="from" value="parmaramit1111@gmail.com" />
+    <param name="to" value="parmaramit1111@gmail.com" />
+    <param name="subject" value="Amanuensis - Fatal Error" />
+    <layout class="LoggerLayoutTTCC" />
+  </appender>
+
+  <root>
+    <level value="debug" />
+    <appender_ref ref="amanuensis" />
+  </root>
+
+  <!--
+   - Email logs will be sent via email for fatal errors only
+   - -->
+  <!--root>
+    <level value="fatal" />
+    <appender_ref ref="email_log" />
+  </root-->
+
+</log4php:configuration>
